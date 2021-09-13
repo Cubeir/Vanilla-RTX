@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Normal map based Vanilla RTX resource pack, Includes a subpack for Heightmaps (accessible via Gear Icon by clicking on pack), All blocks are covered!\nDiscord.gg/dx92mDNMTX\nAttention: Restart Minecraft to switch between subpacks!\nBy: CubeIR",
+    "name": "Vanilla RTX Normals",
+    "uuid": "6b780d4c-3a41-11eb-8461-f3b6dc3a378e",
+    "version": [1,6,0],
+    "min_engine_version": [1,16,0]
+  },
+  "modules": [
+    {
+      "description": "§0SELECTOR",
+      "type": "resources",
+      "uuid": "6b780f2c-3a41-11eb-8465-b3e6f11108fe",
+      "version": [1,6,0]
+    }
+  ],
+  "metadata": {
+    "authors": ["CubeIR"]
+  },
+  "subpacks": [
+    {
+      "folder_name": "heightmaps",
+      "name": "§3Truly Vanilla RTX - §5Heightmaps - Bumpy Pixelated textures",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "normals",
+      "name": "§3Vanilla RTX Normals - §9Normal Maps - Default look of Vanilla RTX normals using 16x normals maps",
+      "memory_tier": 1
+    }
+  ],
+  "capabilities" : [
+    "raytraced"
+]	
+}

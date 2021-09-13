@@ -1,0 +1,30 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "resource_embedded:fog_hell"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0,
+        "fog_end": 1.0,
+        "fog_color": "#800000",
+        "render_distance_type": "render"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.055,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 0.17, 0.021, 0 ],
+          "absorption": [ 0.0032, 0.004, 0.0040 ]
+        }
+      }
+    }
+  }
+}
