@@ -1,0 +1,6 @@
+{
+   "num_mip_levels" : 0,
+   "padding" : 0,
+   "resource_pack_name" : "VanillaRTXnormals",
+   "texture_data" : {"glowitemframe_background": {"textures": "textures/blocks/glow_item_frame"}}
+}

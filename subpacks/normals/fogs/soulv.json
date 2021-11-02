@@ -1,0 +1,30 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "resource_embedded:soulv"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0,
+        "fog_end": 1.0,
+        "fog_color": "#000f33",
+        "render_distance_type": "render"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.04,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 0.07, 0.01, 0.27 ],
+          "absorption": [ 0.35, 0.17, 0.16 ]
+        }
+      }
+    }
+  }
+}

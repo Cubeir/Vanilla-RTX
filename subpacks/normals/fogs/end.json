@@ -1,0 +1,24 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "resource_embedded:fog_end"
+    },
+     "distance": {
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.05,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 0.347, 0.278, 0.378 ],
+          "absorption": [ 0.23, 0.26, 0.115 ]
+        }
+      }
+    }
+}
+}
