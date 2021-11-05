@@ -8,5 +8,5 @@ Initial goal of creating this resource pack was having something similar to Vani
 
 Also Consider joining my [Discord](https://discord.gg/A4wv4wwYud)
 
-#images
+# Images
 
