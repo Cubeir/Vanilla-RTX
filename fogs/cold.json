@@ -2,11 +2,11 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "resource_embedded:cold_spike"
+      "identifier": "resource_embedded:cold"
     },
     "distance": {
       "air": {
-        "fog_start": 0.85,
+        "fog_start": 0.98,
         "fog_end": 1.0,
         "fog_color": "#54786a",
         "render_distance_type": "render"
@@ -27,9 +27,9 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.45,
+          "max_density": 0.193,
           "max_density_height": 30,
-          "zero_density_height": 250
+          "zero_density_height": 240
         }
       },
       "media_coefficients": {

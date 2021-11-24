@@ -61,11 +61,11 @@
       },
       "frozen_river": {
         "water_surface_color": "#185390",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "ice_plains": {
         "water_surface_color": "#14559b",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "ice_plains_spikes": {
         "water_surface_color": "#14559b",
@@ -73,7 +73,7 @@
       },
       "ice_mountains": {
         "water_surface_color": "#1156a7",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "mushroom_island": {
         "water_surface_color": "#8a8997",
@@ -282,19 +282,19 @@
       },
         "snow_capped_peaks":{
         "water_surface_color": "#14559b",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "snowy_slopes":{
         "water_surface_color": "#14559b",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "lofty_peaks":{
         "water_surface_color": "#14559b",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       },
       "mountain_grove":{
         "water_surface_color": "#14559b",
-        "fog_identifier": "resource_embedded:coldx"
+        "fog_identifier": "resource_embedded:cold"
       }
       
     }
