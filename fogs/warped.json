@@ -8,14 +8,14 @@
       "air": {
         "fog_start": 0,
         "fog_end": 1.0,
-        "fog_color": "#004d39",
+        "fog_color": "#004633",
         "render_distance_type": "render"
       }
     },
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.052,
+          "max_density": 0.045,
           "uniform": true
         }
       },
