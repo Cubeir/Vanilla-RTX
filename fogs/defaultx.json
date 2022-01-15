@@ -8,7 +8,7 @@
       "air": {
         "fog_start": 0.98,
         "fog_end": 1.0,
-        "fog_color": "#ABD2FF",
+        "fog_color": "#b6c2cf",
         "render_distance_type": "render"
       },
       "water": {
@@ -28,9 +28,9 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.055,
+          "max_density": 0.052,
           "max_density_height": 60,
-          "zero_density_height": 300
+          "zero_density_height": 310
         }
       },
       "media_coefficients": {
