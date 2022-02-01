@@ -1,6 +1,6 @@
 # Vanilla-RTX-Normals
 
-Vanilla RTX Normals is a Vanilla Based resource pack for Minecraft RTX on Bedrock Edition.
+Vanilla RTX Normals is a Vanilla Based PBR resource pack for Minecraft RTX on Bedrock Edition.
 
 ⚠️ Windows 10 Devices - +1.16.200 only ⚠️
 
