@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Normal map based Vanilla RTX resource pack, All blocks are covered, Includes a subpack for heightmaps (accessible via Gear Icon by clicking on pack) Restart Minecraft after switch switching subpacks!\nDiscord.gg/dx92mDNMTX\nCreated with love by: CubeIR",
+    "description": "Vanilla RTX resource pack, All blocks are covered, Includes a subpack for heightmaps (accessible via gear Icon by clicking on pack) restart Minecraft after switching subpacks\nDiscord.gg/A4wv4wwYud\nCreated by: CubeIR",
     "name": "Vanilla RTX Normals v1.7.0 Preview",
-    "uuid": "6b780d4c-3a41-11eb-8461-f3b6dc3a378e",
+    "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
     "version": [1,7,0],
     "min_engine_version": [1,16,0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "vrtxn",
       "type": "resources",
-      "uuid": "6b780f2c-3a41-11eb-8465-b3e6f11108fe",
+      "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
       "version": [1,7,0]
     }
   ],
@@ -21,16 +21,14 @@
   "subpacks": [
     {
       "folder_name": "heightmaps",
-      "name": "§3Truly Vanilla RTX - §5Heightmaps - Bumpy Pixelated textures",
-      "memory_tier": 1
+      "name": "§3Truly Vanilla RTX - §5Heightmaps - Bumpy Pixelated textures using heightmaps",
+      "memory_tier": 2
     },
     {
       "folder_name": "normals",
-      "name": "§3Vanilla RTX Normals - §9Normal Maps - Default look of Vanilla RTX normals using 16x normal maps",
+      "name": "§3Vanilla RTX Normals - §9Normal Maps - Default look of Vanilla RTX Normals using 16x normal maps",
       "memory_tier": 1
     }
   ],
-  "capabilities" : [
-    "raytraced"
-]	
+  "capabilities" : ["raytraced"]
 }
