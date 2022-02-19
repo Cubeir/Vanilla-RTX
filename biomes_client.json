@@ -1,4 +1,4 @@
-  {
+{
     "biomes": {
       "default": {
         "water_surface_color": "#44AFF5",
@@ -298,5 +298,5 @@
       }
       
     }
-  }
+}
   
