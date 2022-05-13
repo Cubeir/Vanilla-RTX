@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Vanilla RTX resource pack, All blocks are covered, Includes a subpack for heightmaps (accessible via gear Icon by clicking on pack) restart Minecraft after switching subpacks\nDiscord.gg/A4wv4wwYud\nCreated by: CubeIR",
+    "description": "Vanilla RTX Resource Pack, All Blocks Are Covered, Includes a Subpack for Heightmaps (Accessible via Gear Icon by Clicking On Pack) Restart Minecraft After Switching Subpacks\nCreated with ♥ by CubeIR\nDiscord.gg/A4wv4wwYud",
     "name": "Vanilla RTX Normals v1.7.0 Preview",
     "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
     "version": [1,7,0],
@@ -9,7 +9,7 @@
   },
   "modules": [
     {
-      "description": "vrtxn",
+      "description": "VRTXN",
       "type": "resources",
       "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
       "version": [1,7,0]
