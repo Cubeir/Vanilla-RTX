@@ -2,27 +2,37 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "resource_embedded:fog_hell"
+      "identifier": "minecraftrtx:hell"
     },
     "distance": {
       "air": {
-        "fog_start": 0,
-        "fog_end": 1.0,
-        "fog_color": "#800000",
-        "render_distance_type": "render"
+        "fog_start": 10.0,
+        "fog_end": 96.0,
+        "fog_color": "#330808",
+        "render_distance_type": "fixed"
+      },
+      "water": {
+        "fog_start": 0.0,
+        "fog_end": 15.0,
+        "fog_color": "#905957",
+        "render_distance_type": "fixed"
       }
     },
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.054,
+          "max_density": 0.023,
           "uniform": true
         }
       },
       "media_coefficients": {
         "air": {
-          "scattering": [ 0.17, 0.021, 0 ],
-          "absorption": [ 0.0032, 0.004, 0.0040 ]
+          "scattering": "#CCF7F7",
+          "absorption": [ 0, 0, 0]
+        },
+        "water": {
+          "scattering": "#6FA6A8",
+          "absorption": [ 0.0, 0.0, 0.0 ]
         }
       }
     }

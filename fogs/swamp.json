@@ -2,24 +2,24 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "resource_embedded:fog_swamp"
+      "identifier": "minecraftrtx:fog_swamp"
     },
     "distance": {
       "air": {
         "fog_start": 0.99,
         "fog_end": 1.0,
-        "fog_color": "#54786a",
+        "fog_color": "#ABD2FF",
         "render_distance_type": "render"
       },
       "water": {
         "fog_start": 0.6,
         "fog_end": 1.0,
-        "fog_color": "#4c6156",
+        "fog_color": "#4c6559",
         "render_distance_type": "render"
       },
       "weather": {
-        "fog_start": 0.45,
-        "fog_end": 1.0,
+        "fog_start": 0.23,
+        "fog_end": 0.7,
         "fog_color": "#666666",
         "render_distance_type": "render"
       }
@@ -27,7 +27,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.43,
+          "max_density": 0.41,
           "max_density_height": 50,
           "zero_density_height": 150
         }

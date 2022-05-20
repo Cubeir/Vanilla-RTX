@@ -2,32 +2,34 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "minecraftrtx:fog_aqua"
+      "identifier": "minecraftrtx:cold_ocean"
     },
     "distance": {
       "air": {
-        "fog_start": 0.999,
+        "fog_start": 0.99,
         "fog_end": 1.0,
         "fog_color": "#ABD2FF",
         "render_distance_type": "render"
       },
       "water": {
-        "fog_start": 0.999,
+        "fog_start": 0.99,
         "fog_end": 1.0,
-        "fog_color": "#097DC2",
+        "fog_color": "#44AFF5",
+        "render_distance_type": "render"
+      },
+      "weather": {
+        "fog_start": 0.23,
+        "fog_end": 0.7,
+        "fog_color": "#666666",
         "render_distance_type": "render"
       }
     },
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.019,
-          "max_density_height": 30,
-          "zero_density_height": 120
-        },
-        "water": {
-          "max_density": 1.0,
-          "uniform": true
+          "max_density": 0.022,
+          "max_density_height": 60,
+          "zero_density_height": 300
         }
       },
       "media_coefficients": {

@@ -2,7 +2,7 @@
   "format_version": "1.16.100",
   "minecraft:fog_settings": {
     "description": {
-      "identifier": "resource_embedded:fog_ldd"
+      "identifier": "minecraftrtx:fog_ldd"
     },
     "distance": {
       "air": {
@@ -14,20 +14,14 @@
       "water": {
         "fog_start": 0.99,
         "fog_end": 1.0,
-        "fog_color": "#44AFF5",
-        "render_distance_type": "render"
-      },
-      "weather": {
-        "fog_start": 0.26,
-        "fog_end": 0.7,
-        "fog_color": "#666666",
+        "fog_color": "#32A598",
         "render_distance_type": "render"
       }
     },
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.017,
+          "max_density": 0.018,
           "max_density_height": 60,
           "zero_density_height": 300
         }
