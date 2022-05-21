@@ -28,13 +28,13 @@
       "density": {
         "air": {
           "max_density": 0.47,
-          "max_density_height": 50,
-          "zero_density_height": 140
+          "max_density_height": 53,
+          "zero_density_height": 135
         }
       },
       "media_coefficients": {
         "air": {
-          "scattering": [ 0.0019, 0.0033, 0.0061 ],
+          "scattering": [ 0.0022, 0.0035, 0.0061 ],
           "absorption": [ 0.0005, 0.001, 0.003 ]
         },
         "water": {
