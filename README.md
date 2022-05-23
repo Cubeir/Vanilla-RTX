@@ -13,7 +13,6 @@ Vanilla RTX Normals takes Full advantage of per-pixel MERs, with two different s
 You Can Also Join my Discord [Here](https://discord.gg/A4wv4wwYud)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
-
 ## Images
 ![Vanilla RTX Normals (7)](https://user-images.githubusercontent.com/75272685/140547980-74baa900-9ca7-4273-800c-e103b65306cc.png)
 ![Vanilla RTX Normals (6)](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
