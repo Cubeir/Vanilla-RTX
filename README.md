@@ -4,6 +4,8 @@ Vanilla RTX Normals is a Vanilla Based PBR Resource Pack for Minecraft RTX on Be
 
 ⚠️ Windows 10 Devices - +1.16.200 only ⚠️
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
+
 ## Description
 
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.
@@ -46,6 +48,3 @@ To switch to Heightmaps subpack (normals are used by default):
 
 It's highly recommened to activate pack in global settings to prevent some possible issues such as resources not loading.
 If you can trouble switching between subpacks, deactivate pack from global settings, reactivate it & try switching subpacks again & make sure you restart game after switching subpacks.
-
-## ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
-
