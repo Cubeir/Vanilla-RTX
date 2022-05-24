@@ -34,7 +34,7 @@
       },
       "media_coefficients": {
         "air": {
-          "scattering": [ 0.0022, 0.0035, 0.0061 ],
+          "scattering": [ 0.0023, 0.0036, 0.0061 ],
           "absorption": [ 0.0005, 0.001, 0.003 ]
         },
         "water": {
