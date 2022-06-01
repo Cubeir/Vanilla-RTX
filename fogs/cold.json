@@ -19,7 +19,7 @@
       },
       "weather": {
         "fog_start": 0.23,
-        "fog_end": 0.67,
+        "fog_end": 0.7,
         "fog_color": "#666666",
         "render_distance_type": "render"
       }
@@ -27,9 +27,9 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.26,
-          "max_density_height": 50,
-          "zero_density_height": 230
+          "max_density": 0.38,
+          "max_density_height": 100,
+          "zero_density_height": 256
         }
       },
       "media_coefficients": {

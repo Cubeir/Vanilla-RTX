@@ -38,7 +38,7 @@
     },
     "taiga": {
       "water_surface_color": "#287082",
-      "fog_identifier": "minecraftrtx:fog_default_alt"
+      "fog_identifier": "minecraftrtx:fog_default"
       
     },
     "taiga_mutated": {
@@ -79,7 +79,7 @@
     },
     "frozen_river": {
       "water_surface_color": "#185390",
-      "fog_identifier": "minecraftrtx:cold_ocean"
+      "fog_identifier": "minecraftrtx:cold"
       
     },
     "ice_plains": {
@@ -229,17 +229,17 @@
     },
     "extreme_hills_plus_trees": {
       "water_surface_color": "#0E63AB",
-      "fog_identifier": "minecraftrtx:cold"
+      "fog_identifier": "minecraftrtx:fog_default"
       
     },
     "extreme_hills_plus_trees_mutated": {
       "water_surface_color": "#0E63AB",
-      "fog_identifier": "minecraftrtx:cold"
+      "fog_identifier": "minecraftrtx:fog_default"
       
     },
     "extreme_hills_mutated": {
       "water_surface_color": "#0E63AB",
-      "fog_identifier": "minecraftrtx:cold"
+      "fog_identifier": "minecraftrtx:fog_default"
       
     },
     "savanna": {
@@ -343,7 +343,7 @@
       "water_surface_color": "#3f76e4",
       "fog_identifier": "minecraftrtx:basalt"
     },
-    "snow_capped_peaks":{
+    "frozen_peaks":{
       "water_surface_color": "#14559b",
       "fog_identifier": "minecraftrtx:cold"
     },
@@ -351,13 +351,29 @@
       "water_surface_color": "#14559b",
       "fog_identifier": "minecraftrtx:cold"
     },
-    "lofty_peaks":{
+    "jagged_peaks":{
       "water_surface_color": "#14559b",
       "fog_identifier": "minecraftrtx:cold"
     },
-    "mountain_grove":{
+    "grove":{
       "water_surface_color": "#14559b",
       "fog_identifier": "minecraftrtx:cold"
+    },
+    "stony_peaks":{
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftrtx:fog_default_alt"
+    },
+    "deep_dark":{
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftrtx:default_caves"
+    },
+    "lush_caves":{
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftrtx:default_caves"
+    },
+    "dripstone_caves":{
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftrtx:default_caves"
     }
   }
 }
