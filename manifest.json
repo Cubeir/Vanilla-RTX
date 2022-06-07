@@ -22,12 +22,12 @@
     {
       "folder_name": "heightmaps",
       "name": "§3Truly Vanilla RTX - §5Heightmaps - Bumpy Pixelated textures using heightmaps",
-      "memory_tier": 2
+      "memory_tier": 0
     },
     {
       "folder_name": "normals",
       "name": "§3Vanilla RTX Normals - §9Normal Maps - Default look of Vanilla RTX Normals using 16x normal maps",
-      "memory_tier": 1
+      "memory_tier": 0
     }
   ],
   "capabilities" : ["raytraced"]
