@@ -9,26 +9,27 @@
   },
   "modules": [
     {
-      "description": "VRTXN",
+      "description": "vrtxn",
       "type": "resources",
       "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
       "version": [1,7,0]
     }
   ],
-  "metadata": {
-    "authors": ["CubeIR"]
-              },
+
+  "metadata": { "authors": ["CubeIR"] },
+
   "subpacks": [
+
     {
-      "folder_name": "heightmaps",
+      "folder_name": "h",
       "name": "§3Truly Vanilla RTX - §5Heightmaps - Bumpy Pixelated textures using heightmaps",
       "memory_tier": 0
     },
     {
-      "folder_name": "normals",
+      "folder_name": "n",
       "name": "§3Vanilla RTX Normals - §9Normal Maps - Default look of Vanilla RTX Normals using 16x normal maps",
       "memory_tier": 0
     }
-  ],
-  "capabilities" : ["raytraced"]
+              ],
+  "capabilities" : [ "raytraced" ]
 }
