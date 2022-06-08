@@ -6,7 +6,7 @@
     },
     "distance": {
       "air": {
-        "fog_start": 0.999,
+        "fog_start": 0.92,
         "fog_end": 1.0,
         "fog_color": "#ABD2FF",
         "render_distance_type": "render"
