@@ -24,17 +24,19 @@ You Can Also Join my Discord [Here](https://discord.gg/A4wv4wwYud)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
-You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects) as long as you provide a link to a source which is here or Vanilla RTX Normals mcpedl page, You are not allowed to sell or claim yourself to be the creator of Vanilla RTX Normals.
+You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects) as long as you provide a link to an original source which is this GitHub repository and Vanilla RTX Normals MCPEDL page, You are not allowed to sell or claim yourself to be the creator of Vanilla RTX Normals.
 
 Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me)
 Entire point of this resource pack is adding other required PBR maps on top of Vanilla game without altering any of Vanilla aspects.
+It's not necessary to link a resource for things that don't include redistribution of my files (e.g video or screenshot) 
 
-## Installation Guide & Usage tips
-1. Download the latest .zip file
+## Installation Guide & Information
+1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
 2. Change the file extention to .mcpack from .zip
-3. Double click to import
-4. Activate in your World or Global resources
-5. Join World, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or via in-game video Settings
+3. Double click to import automatically
+4. Activate in your world or global resource packs
+5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or via in-game video settings
+if ray tracing button is grayed out, that probably means you device isn't supported.
 
 
 ![Vanilla RTX Normals (10)](https://user-images.githubusercontent.com/75272685/140549185-183a649e-e9fc-4a3f-80f6-79d8c42e7cf8.png)
