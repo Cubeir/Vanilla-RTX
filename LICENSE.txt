@@ -1,16 +1,20 @@
 All Rights Reserved unless otherwise explicitly stated.
+Vanilla RTX Normals is free & always remains free for everyone to do anything they wish
+(e.g Videos, Screenshot, Modification for personal use, Redistribute, Use in your own projects in any way, etc...)
+As long as they are providing a link to one of or any of official sources below.
+this is only needed when you are somehow *redistributing files created or edited by me*
+DISCLAIMER: I DO NOT OWN MOST OF THE BASE TEXTURES AND FULL CREDIT GOES TO MOJANG
+THIS LICENSE FILE HAS NOTHING TO DO WITH THEM! ONLY APPLIES TO FILES CREATED AND/OR EDITED BY ME
+WHICH INCLUDES EVERYTHING EXCEPT BASE TEXTURES!
 
-You're free to do anything you like with Vanilla RTX Normals (Videos, Screenshot, Modification for personal use, Redistribute, Use in your own projects in any way you like etc...)
-As long as you provide a link to one of/any of official sources: (Note: This is only needed when redistributing files created or edited by me)
-DISCLAIMER: I DO NOT OWN MOST OF THE BASE TEXTURES (Colormaps) AND FULL CREDIT GOES TO MOJANG AND
-THIS DOES NOT APPLY TO ANYTHING NOT CREATED OR EDITED BY ME SINCE THOSE ARE TAKEN DIRECTLY FROM GAME FILES
-
+Sources:
 https://github.com/CubeIR/Vanilla-RTX-Normals  			   (GitHub)
 https://mcpedl.com/truly-vanilla-rtx                               (MCPEDL)
 https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals   (PMC)
 
-You're NOT Allowed To sell/make profit or claim yourself to be the creator of Vanilla RTX Normals.
+Contact
+https://discord.gg/A4wv4wwYud
 
-Link To My Discord Server If you have further questions: https://discord.gg/A4wv4wwYud
-
-Also feel free to DM me on Discord or Twitter (@xube_ir) (XubeIR#3036) just be reasonable please! (Discord is preferred)
+If you wish to contact me directly:
+Twitter: @xube_ir
+Discord: Xubeir#3036
