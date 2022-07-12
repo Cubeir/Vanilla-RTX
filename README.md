@@ -42,9 +42,9 @@ if ray tracing button is grayed out, that probably means you device isn't suppor
 ![Vanilla RTX Normals (11)](https://user-images.githubusercontent.com/75272685/140549192-a5836e74-2113-4a50-bceb-783d955480f2.png)
 
 To switch to a different subpack (heightmaps are used by default):
-1- After activating pack, click on it while in resource pack management window.
-2- A gear icon appears, click on it.
-3- You see an slider which allows you to switch between subpacks.
+1. After activating pack, click on it while in resource pack management window.
+2. A gear icon appears, click on it.
+3. You see an slider which allows you to switch between subpacks.
 
 It's highly recommened to activate pack in global settings to prevent some possible issues such as resources not loading.
 If you can trouble switching between subpacks, deactivate pack from global settings, reactivate it & try switching subpacks again & make sure you restart game after switching subpacks, sometimes it might take multiple attempts, deactivate pack and reactivate each time.
