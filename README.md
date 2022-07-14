@@ -27,7 +27,7 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects) as long as you provide a link to an original source which is this GitHub repository and Vanilla RTX Normals MCPEDL page, You are not allowed to sell or claim yourself to be the creator of Vanilla RTX Normals.
 
 Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me)
-Entire point of this resource pack is adding other required PBR maps on top of Vanilla game without altering any of Vanilla aspects.
+entire point of this resource pack is adding other required PBR maps on top of vanilla game without altering vanilla aspects.
 It's not necessary to link a resource for things that don't include redistribution of my files (e.g video or screenshot) 
 
 ## Installation Guide & Information
@@ -35,17 +35,16 @@ It's not necessary to link a resource for things that don't include redistributi
 2. Change the file extention to .mcpack from .zip
 3. Double click to import automatically
 4. Activate in your world or global resource packs
-5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or via in-game video settings
-if ray tracing button is grayed out, that probably means you device isn't supported.
-
+5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or through in-game video settings
+if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers.
 
 ![Vanilla RTX Normals (10)](https://user-images.githubusercontent.com/75272685/140549185-183a649e-e9fc-4a3f-80f6-79d8c42e7cf8.png)
 ![Vanilla RTX Normals (11)](https://user-images.githubusercontent.com/75272685/140549192-a5836e74-2113-4a50-bceb-783d955480f2.png)
 
-To switch to Heightmaps subpack (normals are used by default):
-1. After activating pack, click on it while in resource pack management window
-2. A gear icon appears, click on it
+To switch to a different subpack (heightmaps are used by default):
+1. After activating pack, click on it while in resource pack management window.
+2. A gear icon appears, click on it.
 3. You see an slider which allows you to switch between subpacks.
 
 It's highly recommened to activate pack in global settings to prevent some possible issues such as resources not loading.
-If you can trouble switching between subpacks, deactivate pack from global settings, reactivate it & try switching subpacks again & make sure you restart game after switching subpacks.
+If you can trouble switching between subpacks, deactivate pack from global settings, reactivate it & try switching subpacks again & make sure you restart game after switching subpacks, sometimes it might take multiple attempts, deactivate pack and reactivate each time.
