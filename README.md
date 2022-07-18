@@ -2,7 +2,7 @@
 
 Vanilla RTX Normals is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Edition.
 
-⚠️ Windows 10 - Bedrock Edition +1.16.200 only ⚠️
+⚠️ Windows 10 - Bedrock Edition +1.16.200 Only ⚠️
 
 ## Description
 
@@ -10,7 +10,7 @@ Initial goal of creating this resource pack was having something similar to [Van
 
 Vanilla RTX Normals takes Full advantage of per-pixel MERs, with two different subpacks, one focused on bringing 16x normal maps & the other uses 16x heightmaps (which are later converted to 128x normal maps by game to simulate depth), most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or vice versa. Vanilla RTX Normals covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
 
-You Can Also Join my Discord [Here](https://discord.gg/A4wv4wwYud)
+You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
 ## Images
