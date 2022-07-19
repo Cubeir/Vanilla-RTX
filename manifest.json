@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion: 1.7.1",
+  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion: 1.7.2",
   "name": "Vanilla RTX Normals",
   "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-  "version": [1,7,1],
+  "version": [1,7,2],
   "min_engine_version": [1,15,0]
 },
 "modules": [
@@ -12,7 +12,7 @@
     "description": "VanillaRTX",
     "type": "resources",
     "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-    "version": [1,7,1]
+    "version": [1,7,2]
   }
 ],
 "metadata": { "authors": ["Cubeir"] },
