@@ -24,11 +24,10 @@ You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
-You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects) as long as you provide a link to an original source which is this GitHub repository and Vanilla RTX Normals MCPEDL page, You are not allowed to sell or claim yourself to be the creator of Vanilla RTX Normals.
-
-Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me)
+You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects in any way) as long as you are providing a link to an original source which includes this GitHub repository or Vanilla RTX Normals MCPEDL page, you are not allowed to sell or claim yourself as the creator of Vanilla RTX Normals.
+Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to work properly with ray tracing e.g glass)
 entire point of this resource pack is adding other required PBR maps on top of vanilla game without altering vanilla aspects.
-It's not necessary to link a resource for things that don't include redistribution of my files (e.g video or screenshot) 
+It's not necessary to link a resource for things that don't include redistribution of my files! (e.g video or screenshot)
 
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
