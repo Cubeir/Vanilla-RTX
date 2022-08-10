@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion: 1.7.4",
+  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion 1.7.4",
   "name": "Vanilla RTX Normals",
   "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
   "version": [1,7,4],
