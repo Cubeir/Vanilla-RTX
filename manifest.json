@@ -1,29 +1,29 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion: 1.7.3",
+  "description": "Vanilla RTX resource pack, all blocks are covered\nAccess normal maps subpack through pack settings\nVersion: 1.7.4",
   "name": "Vanilla RTX Normals",
   "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-  "version": [1,7,3],
-  "min_engine_version": [1,15,0]
+  "version": [1,7,4],
+  "min_engine_version": [1,16,0]
 },
 "modules": [
   {
     "description": "vanilla",
     "type": "resources",
     "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-    "version": [1,7,3]
+    "version": [1,7,4]
   }
 ],
-"metadata": { "authors": ["Cubeir"] },
+"metadata": { "authors": ["CubeIR"] },
 "subpacks": [
   {
       "folder_name": "0",
-      "name": "Vanilla RTX Normals -§7 Original look of Vanilla RTX Normals using 16x normal maps", "memory_tier": 0
+      "name": "Vanilla RTX Normals -§7 Original look of Vanilla RTX Normals using 16x normal maps", "memory_tier": 1
   },
   {
       "folder_name": "1",
-      "name": "Vanilla RTX -§7 Bumpy pixelated textures using 16x heightmaps", "memory_tier": 0
+      "name": "Vanilla RTX -§7 Bumpy pixelated textures using 16x heightmaps", "memory_tier": 1
   }
             ],
   "capabilities" : [ "raytraced" ]
