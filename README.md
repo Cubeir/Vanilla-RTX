@@ -1,6 +1,6 @@
-# Vanilla-RTX-Normals
+# Vanilla-RTX
 
-Vanilla RTX Normals is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Edition.
+Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Edition.
 
 ⚠️ Windows 10 - Bedrock Edition +1.16.200 Only ⚠️
 
@@ -8,7 +8,8 @@ Vanilla RTX Normals is a Vanilla Based PBR Resource Pack for Minecraft RTX on Be
 
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.
 
-Vanilla RTX Normals takes Full advantage of per-pixel MERs, with two different subpacks, one focused on bringing 16x normal maps & the other uses 16x heightmaps (which are later converted to 128x normal maps by game to simulate depth), most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or vice versa. Vanilla RTX Normals covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
+Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum possible detail with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or vice versa, Vanilla-RTX uses 16x heightmaps which are later converted to 128x normal maps by game and Vanilla-RTX-Normals uses 16x normal maps.
+Vanilla RTX also covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
 
 You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 
@@ -22,10 +23,10 @@ You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
-You're free to do anything with Vanilla RTX Normals (video, screenshot, modification for personal use, redistribute or use in your own projects in any way) as long as you are providing a link to an original source which includes this GitHub repository or Vanilla RTX Normals MCPEDL page, you are not allowed to sell or claim yourself as the creator of Vanilla RTX Normals.
-Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to work properly with ray tracing e.g glass)
+You're free to do anything with Vanilla RTX (video, screenshot, modification for personal use, redistribute or use in your own projects in any way) as long as you are providing a link to an original source which includes this GitHub repository or Vanilla RTX MCPEDL page, you are not allowed to sell or claim yourself as the creator of Vanilla RTX (Normals) or It's related packs (e.g patches found on mcpedl)
+Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to work properly with ray tracing, e.g glass)
 entire point of this resource pack is adding other required PBR maps on top of vanilla game without altering vanilla aspects.
-It's not necessary to link a resource for things that don't include redistribution of my files! (e.g video or screenshot)
+It's not necessary to link a source for things that don't include redistribution of my files! (e.g video or screenshot)
 
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
