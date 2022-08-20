@@ -31,19 +31,11 @@ It's not necessary to link a resource for things that don't include redistributi
 
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
-2. Change the file extention to .mcpack from .zip
-3. Double click to import automatically
-4. Activate in your world or global resource packs
+2. Extract the folder
+3. You will see Vanilla-RTX or Vanilla-RTX-Normals folders, open one or both of them (depending on the one that you intend to install)
+4. Select contents all of pack and archive them into one .zip file
+5. Select .zip file and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
+6. Double click the .mcpack file to import (or right click and click Open, both will automatically launch Minecraft Bedrock Edition and import pack)
+7. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at one time the upper one in resource pack menu will overwrite the bottom one)
 5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or through in-game video settings
-if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers.
-
-![Vanilla RTX Normals (10)](https://user-images.githubusercontent.com/75272685/140549185-183a649e-e9fc-4a3f-80f6-79d8c42e7cf8.png)
-![Vanilla RTX Normals (11)](https://user-images.githubusercontent.com/75272685/140549192-a5836e74-2113-4a50-bceb-783d955480f2.png)
-
-To switch to a different subpack (heightmaps are used by default):
-1. After activating pack, click on it while in resource pack management window.
-2. A gear icon appears, click on it.
-3. You see an slider which allows you to switch between subpacks.
-
-It's highly recommened to activate pack in global settings to prevent some possible issues such as resources not loading.
-If you can trouble switching between subpacks, deactivate pack from global settings, reactivate it & try switching subpacks again & make sure you restart game after switching subpacks, sometimes it might take multiple attempts, deactivate pack and reactivate each time.
+if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean driver install after using DDU.
