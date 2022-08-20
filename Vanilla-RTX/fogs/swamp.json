@@ -1,0 +1,47 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "minecraftrtx:fog_swamp"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0.92,
+        "fog_end": 1.0,
+        "fog_color": "#ABD2FF",
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.6,
+        "fog_end": 1.0,
+        "fog_color": "#4c6559",
+        "render_distance_type": "render"
+      },
+      "weather": {
+        "fog_start": 0.23,
+        "fog_end": 0.7,
+        "fog_color": "#666666",
+        "render_distance_type": "render"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.41,
+          "max_density_height": 48,
+          "zero_density_height": 142
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 0.0023, 0.0041, 0.006 ],
+          "absorption": [ 0.0005, 0.001, 0.003 ]
+        },
+        "water": {
+          "scattering": [ 0.004392, 0.004531, 0.002117 ],
+          "absorption": [ 0.25, 0.22, 0.3 ]
+        }
+        }
+      }
+    }
+  }
