@@ -16,10 +16,8 @@ You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 ## Images
 ![Vanilla RTX Normals (7)](https://user-images.githubusercontent.com/75272685/140547980-74baa900-9ca7-4273-800c-e103b65306cc.png)
 ![Vanilla RTX Normals (6)](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
-![Vanilla RTX Normals (5)](https://user-images.githubusercontent.com/75272685/140548115-c955115a-6e7a-4a17-a137-cf6a2332a1d1.png)
 ![Vanilla RTX Normals (4)](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
 ![Vanilla RTX Normals (1)](https://user-images.githubusercontent.com/75272685/140548249-4d5c664d-1832-46df-b72c-a0e8c66d7c17.png)
-![Vanilla RTX Normals (3)](https://user-images.githubusercontent.com/75272685/140548310-1e80cbef-2704-45df-9b6a-734e51a02463.png)
 ![Vanilla RTX Normals (2)](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
@@ -31,7 +29,7 @@ It's not necessary to link a resource for things that don't include redistributi
 
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
-2. Extract the folder
+2. Extract the folder you have downloaded
 3. You will see Vanilla-RTX or Vanilla-RTX-Normals folders, open one or both of them (depending on the one that you intend to install)
 4. Select contents all of pack and archive them into one .zip file
 5. Select .zip file and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
