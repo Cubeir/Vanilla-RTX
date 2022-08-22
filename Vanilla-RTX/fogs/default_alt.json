@@ -23,7 +23,6 @@
         "fog_color": "#666666",
         "render_distance_type": "render"
       }
-     
     },
     "volumetric": {
       "density": {
