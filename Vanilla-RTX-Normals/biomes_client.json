@@ -99,12 +99,12 @@
     },
     "mushroom_island": {
       "water_surface_color": "#8a8997",
-      "fog_identifier": "minecraftrtx:fog_default_alt"
+      "fog_identifier": "minecraftrtx:fog_mushroom"
       
     },
     "mushroom_island_shore": {
       "water_surface_color": "#818193",
-      "fog_identifier": "minecraftrtx:fog_default"
+      "fog_identifier": "minecraftrtx:fog_mushroom"
       
     },
     "beach": {
