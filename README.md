@@ -8,8 +8,8 @@ Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Ed
 
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.
 
-Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum possible detail with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or vice versa, Vanilla-RTX uses 16x heightmaps which are later converted to 128x normal maps by game and Vanilla-RTX-Normals uses 16x normal maps.
-Vanilla RTX also covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
+Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail possible with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around, Vanilla-RTX uses 16x heightmaps which are later converted to 128x normal maps by game and Vanilla-RTX-Normals uses 16x normal maps.
+Vanilla RTX (Normals) covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
 
 You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 
@@ -31,10 +31,10 @@ It's not necessary to link a source for things that don't include redistribution
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
 2. Extract the folder you have downloaded
-3. You will see Vanilla-RTX or Vanilla-RTX-Normals folders, open one or both of them (depending on the one that you intend to install)
-4. Select contents all of pack and archive them into one .zip file
-5. Select .zip file and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
-6. Double click the .mcpack file to import (or right click and click Open, both will automatically launch Minecraft Bedrock Edition and import pack)
-7. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at one time the upper one in resource pack menu will overwrite the bottom one)
+3. You will see Vanilla-RTX and Vanilla-RTX-Normals folders, open one or both of them (depending on the one that you intend to install, Vanilla-RTX uses heightmaps & Vanilla-RTX-Normals uses normal maps)
+4. Select all contents of pack in the Vanilla-RTX or Vanilla-RTX-Normals folders and archive them into a zip file
+5. Select .zip file you just created and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
+6. Double click the .mcpack file to import (or right click and click open, both will automatically launch Minecraft Bedrock Edition and import pack)
+7. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at the same time the upper one in resource pack menu will overwrite the bottom one)
 5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or through in-game video settings
-if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean driver install after using DDU.
+if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean driver install after using DDU (Nvidia RTX 2000 and AMD Radeon RX 6000 Series and above are supported)
