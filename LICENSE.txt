@@ -2,11 +2,10 @@ All Rights Reserved unless otherwise explicitly stated.
 Vanilla RTX Normals is free & always remains free for everyone to do anything they wish
 (e.g Videos, Screenshot, Modification for personal use, Redistribute, use in your own projects in any way, etc...)
 As long as they are providing a link to one of or any of official sources below.
-this is only needed when you are somehow *redistributing files created or edited by me*
+this is only required when you are in any way redistributing files created or edited by me
 
-DISCLAIMER: I DO NOT OWN MOST OF THE BASE TEXTURES AND FULL CREDIT GOES TO MOJANG
-**THIS LICENSE FILE HAS NOTHING TO DO WITH THEM! ONLY APPLIES TO FILES CREATED AND/OR EDITED BY ME**
-WHICH INCLUDES EVERYTHING EXCEPT MOST OF BASE TEXTURES!
+Disclaimer: THIS LICENSE FILE HAS NOTHING TO DO WITH MINECRAFT'S BASE RESOURCES OR TEXTURES AND ONLY APPLIES TO FILES CREATED AND EDITED BY ME
+WHICH INCLUDES *EVERYTHING* EXCEPT MOST OF BASE TEXTURES (FOUND AT AKA.MS/RESOURCEPACKTEMPLATE)
 
 Sources:
 https://mcpedl.com/truly-vanilla-rtx                               (MCPEDL)
