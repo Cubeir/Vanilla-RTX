@@ -1,0 +1,52 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "minecraftrtx:default_caves"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 0.96,
+        "fog_end": 1.0,
+        "fog_color": "#ABD2FF",
+        "render_distance_type": "render"
+      },
+      "water": {
+        "fog_start": 0.99,
+        "fog_end": 1.0,
+        "fog_color": "#166DA9",
+        "render_distance_type": "render"
+      },
+      "weather": {
+        "fog_start": 0.96,
+        "fog_end": 1.0,
+        "fog_color": "#666666",
+        "render_distance_type": "render"
+      }
+     
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.22,
+          "max_density_height": 0,
+          "zero_density_height": 64
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 0.07, 0.068, 0.068 ],
+          "absorption": [ 0.0, 0.0, 0.0 ]
+        },
+        "water": {
+          "scattering": [ 0.0012, 0.002, 0.003 ],
+          "absorption": [ 0.14, 0.100, 0.080 ]
+        },
+          "cloud": {
+            "scattering": [ 0.0450, 0.0450, 0.0450],
+            "absorption": [ 0.0450, 0.0450, 0.0450]
+          }
+        }
+      }
+    }
+  }
