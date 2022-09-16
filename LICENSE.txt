@@ -1,8 +1,8 @@
 All Rights Reserved unless otherwise explicitly stated.
  You are not allowed to sell/make profit or claim yourself as the creator of Vanilla RTX (Normals)
- Vanilla RTX (Normals) is free & remains free for everyone to do any of the following: play, capture/share videos & screenshot, modify, redistribute, use in your own projects, etc...)
-statement above is valid only when they (any other individual(s) other than me) are providing a link to one of or any of original sources. (Full URLs are written below)
-this is only required when you are in any way redistributing files created or edited by me.
+ Vanilla RTX (Normals) is free & remains free for everyone to do any of the following: play, capture & share videos & screenshot, modify, redistribute or redistribute a modified version, use in your own projects, etc...) as long as they are providing a link to one of or any of original sources. (Full URLs are written below)
+This is only required when you are in any way redistributing files created or edited by me or modified versions of Vanilla RTX (Normals), meaning that it is not necessary to provide a link to source for videos/screenshots.
+Re-uploads are allowed, but I highly discourage it.
 
 Vanilla RTX Patreon page:
 https://www.patreon.com/cubeir
@@ -23,3 +23,5 @@ https://discord.gg/A4wv4wwYud
 
 DISCLAIMER: THIS LICENSE FILE HAS NOTHING TO DO WITH MINECRAFT'S BASE RESOURCES/TEXTURES & ONLY APPLIES TO FILES CREATED OR EDITED BY ME
 WHICH INCLUDES *EVERYTHING* EXCEPT MAJORITY OF BASE TEXTURES (FOUND AT AKA.MS/RESOURCEPACKTEMPLATE)
+
+By they I am referring to any other individual(s) other than me.
