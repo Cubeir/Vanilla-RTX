@@ -24,8 +24,7 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 
 ## Copyright
 You're free to do anything with Vanilla RTX (video, screenshot, modification for personal use, redistribute or use in your own projects in any way) as long as you are providing a link to an original source which includes this GitHub repository or Vanilla RTX MCPEDL page, you are not allowed to sell or claim yourself as the creator of Vanilla RTX (Normals) or It's related packs (e.g patches found on mcpedl)
-Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to work properly with ray tracing, e.g glass)
-entire point of this resource pack is adding other required PBR maps on top of vanilla game without altering vanilla aspects.
+Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to work properly with ray tracing, e.g glass & most other transparent blocks)
 It's not necessary to link a source for things that don't include redistribution of my files! (e.g video or screenshot)
 
 ## Installation Guide & Information
