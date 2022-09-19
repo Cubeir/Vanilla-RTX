@@ -15,11 +15,11 @@ You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
 ## Images
-![Vanilla RTX Normals (7)](https://user-images.githubusercontent.com/75272685/140547980-74baa900-9ca7-4273-800c-e103b65306cc.png)
-![Vanilla RTX Normals (6)](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
-![Vanilla RTX Normals (4)](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
-![Vanilla RTX Normals (1)](https://user-images.githubusercontent.com/75272685/140548249-4d5c664d-1832-46df-b72c-a0e8c66d7c17.png)
-![Vanilla RTX Normals (2)](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
+![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/190976477-b8c8f269-1b93-429f-82b6-71aa072e63a6.png)
+![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
+![Vanilla RTX](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
+![Vanilla RTX Normals 1](https://user-images.githubusercontent.com/75272685/140548249-4d5c664d-1832-46df-b72c-a0e8c66d7c17.png)
+![Vanilla RTX 1](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
@@ -29,11 +29,10 @@ It's not necessary to link a source for things that don't include redistribution
 
 ## Installation Guide & Information
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
-2. Extract the folder you have downloaded
-3. You will see Vanilla-RTX and Vanilla-RTX-Normals folders, open one or both of them (depending on the one that you intend to install, Vanilla-RTX uses heightmaps & Vanilla-RTX-Normals uses normal maps)
-4. Select all contents of pack in the Vanilla-RTX or Vanilla-RTX-Normals folders and archive them into a zip file
-5. Select .zip file you just created and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
-6. Double click the .mcpack file to import (or right click and click open, both will automatically launch Minecraft Bedrock Edition and import pack)
-7. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at the same time the upper one in resource pack menu will overwrite the bottom one)
-5. Join any world, Ray Tracing should be enabled by default, otherwise you can enable it by pressing ";" or through in-game video settings
-if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean driver install after using DDU (Nvidia RTX 2000 and AMD Radeon RX 6000 Series and above are supported)
+2. Extract the folder you have downloaded.
+3. You will see Vanilla-RTX and Vanilla-RTX-Normals folders zip one or both of them individually (depending on the one that you intend to install, Vanilla-RTX uses heightmaps & Vanilla-RTX-Normals uses normal maps)
+4. Select zip file(s) you just created and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
+5. Double click the .mcpack file to import (or right click and click open, both will automatically launch Minecraft Bedrock Edition & import pack)
+6. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at the same time the upper one in resource pack menu will overwrite the bottom one)
+7. Join any world, ray tracing should be enabled by default, otherwise you can enable it by pressing ";" or through video settings.
+if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean installation using DDU (Nvidia RTX 2000 and AMD Radeon RX 6000 Series & above are supported)
