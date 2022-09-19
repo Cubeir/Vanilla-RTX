@@ -18,8 +18,7 @@ You can also join my discord [here](https://discord.gg/A4wv4wwYud)
 ![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/190976477-b8c8f269-1b93-429f-82b6-71aa072e63a6.png)
 ![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
 ![Vanilla RTX](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
-![Vanilla RTX Normals 1](https://user-images.githubusercontent.com/75272685/140548249-4d5c664d-1832-46df-b72c-a0e8c66d7c17.png)
-![Vanilla RTX 1](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
+![Vanilla RTX Image](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
