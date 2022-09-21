@@ -30,7 +30,7 @@ It's not necessary to link a source for things that don't include redistribution
 1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
 2. Extract the folder you have downloaded.
 3. You will see Vanilla-RTX and Vanilla-RTX-Normals folders zip one or both of them individually (depending on the one that you intend to install, Vanilla-RTX uses heightmaps & Vanilla-RTX-Normals uses normal maps)
-4. Select zip file(s) you just created and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this tutorial](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
+4. Select zip file(s) you just created and rename the file extension from .zip to .mcpack (If you can not see the file extension, refer to [this guide](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
 5. Double click the .mcpack file to import (or right click and click open, both will automatically launch Minecraft Bedrock Edition & import pack)
 6. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at the same time the upper one in resource pack menu will overwrite the bottom one)
 7. Join any world, ray tracing should be enabled by default, otherwise you can enable it by pressing ";" or through video settings.
