@@ -11,9 +11,9 @@ Initial goal of creating this resource pack was having something similar to [Van
 Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail possible with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around, Vanilla-RTX uses 16x heightmaps which are later converted to 128x normal maps by game and Vanilla-RTX-Normals uses 16x normal maps.
 Vanilla RTX (Normals) covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
 
-You can also join my discord [here](https://discord.gg/A4wv4wwYud)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat-square)
+
 ## Images
 ![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/190976477-b8c8f269-1b93-429f-82b6-71aa072e63a6.png)
 ![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
