@@ -8,8 +8,8 @@ Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Ed
 
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.
 
-Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail possible with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around, Vanilla-RTX uses 16x heightmaps which are later converted to 128x normal maps by game and Vanilla-RTX-Normals uses 16x normal maps.
-Vanilla RTX (Normals) covers every possible block in Vanilla game, even ones that you might never use or heard of, such as structure block or Education Edition blocks (e.g tables, Hard glass, Element blocks, Camera block etc...)
+Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail possible with full consistency, most of MERs (Metalic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around, Vanilla RTX uses 16x heightmaps (later game generates 192x normal maps based on height differences), Vanilla RTX Normals uses 16x normal maps.
+Vanilla RTX (Normals) covers every possible Vanilla block (Creative, Education Edition, secret blocks etc...)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 
