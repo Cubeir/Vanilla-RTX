@@ -1,20 +1,29 @@
 All Rights Reserved unless otherwise explicitly stated.
-Vanilla RTX Normals is free & always remains free for everyone to do anything they wish
-(e.g Videos, Screenshot, Modification for personal use, Redistribute, use in your own projects in any way, etc...)
-As long as they are providing a link to one of or any of official sources below.
-this is only required when you are in any way redistributing files created or edited by me
+ You are not allowed to sell/make profit or claim yourself as the creator of Vanilla RTX (Normals)
+ Vanilla RTX (Normals) is free & remains free for everyone to do any of the following: play, capture
+ & share videos & screenshot, modify, redistribute or redistribute a modified version, use in your own projects, etc...)
+ as long as they are providing a link to one of or any of original sources. (Full URLs are written below)
+This is only required when you are in any way redistributing files created or edited by me or modified versions of Vanilla RTX (Normals), meaning that it is not necessary to provide a link to source for videos/screenshots.
+Re-uploads are allowed, but I discourage it.
 
-Disclaimer: THIS LICENSE FILE HAS NOTHING TO DO WITH MINECRAFT'S BASE RESOURCES OR TEXTURES AND ONLY APPLIES TO FILES CREATED AND EDITED BY ME
-WHICH INCLUDES *EVERYTHING* EXCEPT MOST OF BASE TEXTURES (FOUND AT AKA.MS/RESOURCEPACKTEMPLATE)
+Vanilla RTX Patreon page:
+https://www.patreon.com/cubeir
 
-Sources:
-https://mcpedl.com/truly-vanilla-rtx                               (MCPEDL)
-https://github.com/CubeIR/Vanilla-RTX-Normals  			   (GitHub)
-https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals   (PMC)
+Vanilla RTX MCPEDL page: 
+https://mcpedl.com/truly-vanilla-rtx
 
-Contact
+Vanilla RTX on GitHub repository: 
+https://github.com/CubeIR/Vanilla-RTX-Normals
+
+Vanilla RTX on PMC:
+https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals
+
+
+Contact:
+Twitter: @xube_ir
 https://discord.gg/A4wv4wwYud
 
-If you wish to contact me directly:
-Twitter: @xube_ir
-Discord: Xubeir#3036
+DISCLAIMER: THIS LICENSE FILE HAS NOTHING TO DO WITH MINECRAFT'S BASE RESOURCES/TEXTURES & ONLY APPLIES TO FILES CREATED OR EDITED BY ME
+WHICH INCLUDES *EVERYTHING* EXCEPT MAJORITY OF BASE TEXTURES (FOUND AT AKA.MS/RESOURCEPACKTEMPLATE)
+
+*By they I am referring to any other individual(s) other than me.
