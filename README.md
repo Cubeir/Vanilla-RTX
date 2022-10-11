@@ -22,18 +22,7 @@ Every possible Vanilla block is covered (Creative, Education Edition, secret blo
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
-You're free to do anything with Vanilla RTX (video, screenshot, modification for personal use, redistribute or use in your own projects in any way) as long as you are providing a link to an original source which includes this GitHub repository or Vanilla RTX MCPEDL/Patreon page, you are not allowed to sell or claim yourself as the creator of Vanilla RTX (Normals) or its adjacent packs (e.g. patches found on mcpedl)
-Disclaimer: I do not own vanilla textures and most of them are taken from Minecraft (some of them are slightly edited by me to make them work better with ray tracing, e.g. glass & most other transparent blocks)
-It's not necessary to link a source for things that don't include redistribution of my files! (e.g. video or screenshot)
+[License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)
 
 ## Installation Guide & Information
-1. Download the latest .zip file (by clicking on the green "code" button -> download zip)
-2. Extract the folder you have downloaded.
-3. You will see Vanilla-RTX and Vanilla-RTX-Normals folders zip one or both of them individually (depending on the one that you intend to install, Vanilla-RTX uses heightmaps & Vanilla-RTX-Normals uses normal maps)
-4. Select zip file(s) you just created and rename the file extension(s) from .zip to .mcpack (If you can not see the file extension, refer to [this guide](https://www.wikihow.tech/Show-File-Extensions-on-Windows))
-5. Double click the .mcpack file to import (or right click and click open, both will automatically launch Minecraft Bedrock Edition & start import)
-6. Activate resource pack in World or Global resources (Vanilla RTX or Vanilla RTX Normals depending on the one you've imported, if you activate both at the same time the upper one in resource pack menu will overwrite the bottom one)
-7. Join any world, ray tracing should be enabled by default, otherwise you can enable it by pressing ";" or through in-game video settings.
-if ray tracing button is grayed out, that probably means you device isn't supported, if you believe your GPU is supported, make sure you are using latest drivers or try to perform a clean installation using DDU (Nvidia RTX 2000 and AMD Radeon RX 6000 Series & above are supported)
-
 Tip: If you are experiencing low frame rates, disable Minecraft's VSync
