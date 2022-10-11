@@ -24,5 +24,5 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 ## Copyright
 [License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)
 
-## Installation Guide & Information
-Tip: If you are experiencing low frame rates, disable Minecraft's VSync
+## Tip
+If you are experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in Graphics control panel.
