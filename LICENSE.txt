@@ -34,11 +34,9 @@ Original Sources of Vanilla RTX & Vanilla RTX Normals:
 	- CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/
 
 	Vanilla RTX Normals:
-	- MCPEDL: https://mcpedl.com/vanilla-rtx-normals/
-	- CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx-normals/
+	- MCPEDL: https://mcpedl.com/truly-vanilla-rtx/
+	- CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/truly-vanilla-rtx/
 
-	(OUTDATED)
-	- Legacy Page: https://mcpedl.com/truly-vanilla-rtx/
 
 For Other Related Projects, You Can Attribute My Profile Instead:
 	MCPEDL: https://mcpedl.com/user/cubeir/
