@@ -5,7 +5,8 @@ All rights reserved unless otherwise explicitly stated.
 Vanilla RTX and its derivative works, including but not limited to: Vanilla RTX Normals, Vanilla RTX Opus, Vanilla RTX Pure, and Vanilla PBR (hereinafter referred to as "Vanilla RTX"), are provided “as is” without any liability or warranty of any kind.
 
 Vanilla RTX is free and will remain free for everyone, and you may:
-	- Play, capture, and share videos/screenshots, modify, redistribute, or redistribute a modified version, and use it in your own projects in any way (e.g., distributing a modified copy of the pack alongside your videos or streams, including Vanilla RTX in maps, servers, mods, etc.)
+	- Play, capture, and share videos/screenshots, modify, redistribute[1], or redistribute a modified version, and use it in your own projects in any way (e.g., distributing a modified copy of the pack alongside your videos or streams, including Vanilla RTX in maps, servers, mods, etc.)
+	[1] This means reuploads are allowed as long as you follow the license requirements, but I discourage it.
 
 By doing any of the above, you agree to follow these requirements:
 	- Give clear credit in an appropriate place (e.g., content descriptions, manifest.jsons, credits, etc.).
@@ -23,9 +24,6 @@ Exceptions:
 I reserve the right to:
 	- Refuse the ability to use, distribute, or modify Vanilla RTX’s files for any person or group. (This action would be final, reserved only in the case of highly unusual circumstances.)
 	- Edit this license at any time for any reason (only for the sake of conciseness and clarity, overall principles do not change).
-
-
-
 
 Original Sources of Vanilla RTX & Vanilla RTX Normals:
 	GitHub:
@@ -46,20 +44,12 @@ For Other Related Projects, You Can Attribute My Profile Instead:
 	MCPEDL: https://mcpedl.com/user/cubeir/
 	CurseForge: https://www.curseforge.com/members/cubeir/projects/
 
-
-
 Contact:
 	- Twitter: @cubeOhm
 	- Discord: https://discord.gg/A4wv4wwYud | ID: cubeir
 
-
-
 Disclaimer:
 	"Vanilla RTX" (as a package) refers only to the files created, modified, and designed to bring proper ray tracing functionality to Minecraft’s original resource pack (found at: https://aka.ms/resourcepacktemplate).  
 	Therefore this license file applies exclusively to the files created, edited and designed by me.
-
-
-
-[1] This means reuploads are allowed as long as you follow the license requirements, but I discourage it.
 
 Not associated or affiliated with Mojang or Nvidia — Vanilla RTX is a fan-made passion project, made & maintained with ❤️‍🔥 since late 2020 for the Minecraft community.
