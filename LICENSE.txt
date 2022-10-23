@@ -2,7 +2,7 @@ Vanilla RTX License
 Copyright © Vanilla RTX
 
 All rights reserved unless otherwise explicitly stated.
-Vanilla RTX, Vanilla RTX Normals and their derivative works, including but not limited to: Vanilla RTX Opus, Vibrant Visuals variants of the projects and their extensions are hereinafter referred to as "Vanilla RTX".
+Vanilla RTX, Vanilla RTX Normals and their derivative works, including but not limited to: Vanilla RTX Opus, Vibrant Visuals variants of the projects and their extensions/add-ons are hereinafter referred to as "Vanilla RTX".
 
 Vanilla RTX is free and will remain free for everyone, and you may:
 	- Play, capture, and share videos/screenshots, modify, redistribute[1], or redistribute a modified version, and use it in your own projects in any way (e.g., distributing a modified copy of the pack alongside your videos or streams, including Vanilla RTX in maps, servers, mods, etc.)
@@ -45,11 +45,11 @@ For Other Related Projects, You Can Attribute My Profile Instead:
 	CurseForge: https://www.curseforge.com/members/cubeir/projects/
 
 Contact:
-	- Twitter: @cubeOhm
-	- Discord: https://discord.gg/A4wv4wwYud | ID: cubeir
+	- X: @cubeOhm
+	- Discord: https://discord.gg/A4wv4wwYud — ID: cubeir
 
 Disclaimer:
 	"Vanilla RTX" (as a package) refers only to the files created, modified, and designed to bring proper ray tracing functionality to Minecraft’s original resource pack (found at: https://aka.ms/resourcepacktemplate).  
 	Therefore this license file applies exclusively to the files created, edited and designed by me.
 
-Not associated or affiliated with Mojang or Nvidia — Vanilla RTX is a fan-made passion project, made & maintained with ❤️‍🔥 since late 2020 for the Minecraft community.
+Not associated or affiliated with Mojang or Nvidia—Vanilla RTX is a fan-made passion project, made & maintained with ❤️‍🔥 since late 2020 for the Minecraft community.
