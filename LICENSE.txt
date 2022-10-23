@@ -2,7 +2,7 @@ Vanilla RTX License
 Copyright © Vanilla RTX
 
 All rights reserved unless otherwise explicitly stated.
-Vanilla RTX and its derivative works, including but not limited to: Vanilla RTX Normals, Vanilla RTX Opus, Vanilla RTX Pure, and Vanilla PBR (hereinafter referred to as "Vanilla RTX"), are provided “as is” without any liability or warranty of any kind.
+Vanilla RTX, Vanilla RTX Normals and their derivative works, including but not limited to: Vanilla RTX Opus, Vibrant Visuals variants of the projects and their extensions are hereinafter referred to as "Vanilla RTX".
 
 Vanilla RTX is free and will remain free for everyone, and you may:
 	- Play, capture, and share videos/screenshots, modify, redistribute[1], or redistribute a modified version, and use it in your own projects in any way (e.g., distributing a modified copy of the pack alongside your videos or streams, including Vanilla RTX in maps, servers, mods, etc.)
@@ -12,25 +12,22 @@ By doing any of the above, you agree to follow these requirements:
 	- Give clear credit in an appropriate place (e.g., content descriptions, manifest.jsons, credits, etc.).
 	- Backlink at least one of the original sources or other sources listed later in this document (This is not a strict requirement; a mention is often enough, but I always appreciate proper attribution).
 	- Do not make your derivative projects, content, or mirrors appear official or uploaded by me when they are not.
-	- If you use Vanilla RTX's files in any way (either partial inclusion or as a base for your own projects), you must include this license file as-is or provide a link to it.
+	- If you use Vanilla RTX's files in any way (either partial inclusion or as a base for your own projects), you must include this license file as-is or at least provide a valid link to it.
 
 Vanilla RTX is a non-commercial, attribution-bound project; ipso facto, selling or claiming authorship over Vanilla RTX, including locking it behind a paywall (like the Minecraft Marketplace), is prohibited — this project and its files must remain freely accessible.
 
 Exceptions:
 	- If you’re doing anything privately that does not redistribute files from Vanilla RTX, you can ignore all of the license requirements.
 	- Giving credit or linking an original source is only required when redistributing files created or edited by me (or modified versions of Vanilla RTX).
-	In other words, it’s not required to provide a link to a source for things that don’t involve redistributing files created or edited by me (e.g., sharing videos & screenshots, or anything else within the bounds of personal use).
+	In other words, it’s not required to provide a link to a source for things that don’t involve redistributing files created or edited by me (e.g., sharing videos & screenshots, or anything else within the bounds of 'personal use').
 
 I reserve the right to:
 	- Refuse the ability to use, distribute, or modify Vanilla RTX’s files for any person or group. (This action would be final, reserved only in the case of highly unusual circumstances.)
-	- Edit this license at any time for any reason (only for the sake of conciseness and clarity, overall principles do not change).
+	- Edit this license at any time for any reason (Most often for the sake of conciseness and clarity, overall principles do not change).
 
 Original Sources of Vanilla RTX & Vanilla RTX Normals:
 	GitHub:
 	- Vanilla RTX: https://github.com/Cubeir/Vanilla-RTX/
-
-	MCPEDL & CurseForge:
-	- Legacy Page: https://mcpedl.com/truly-vanilla-rtx/
 
 	Vanilla RTX:
 	- MCPEDL: https://mcpedl.com/vanilla-rtx/
@@ -39,6 +36,9 @@ Original Sources of Vanilla RTX & Vanilla RTX Normals:
 	Vanilla RTX Normals:
 	- MCPEDL: https://mcpedl.com/vanilla-rtx-normals/
 	- CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx-normals/
+
+	(OUTDATED)
+	- Legacy Page: https://mcpedl.com/truly-vanilla-rtx/
 
 For Other Related Projects, You Can Attribute My Profile Instead:
 	MCPEDL: https://mcpedl.com/user/cubeir/
