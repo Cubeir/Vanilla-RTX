@@ -38,16 +38,17 @@ Original Sources of Vanilla RTX & Vanilla RTX Normals:
 	- CurseForge: https://www.curseforge.com/minecraft-bedrock/texture-packs/truly-vanilla-rtx/
 
 
-For Other Related Projects, You Can Attribute My Profile Instead:
+For related/multiple projects, you can attribute my profile instead:
 	MCPEDL: https://mcpedl.com/user/cubeir/
 	CurseForge: https://www.curseforge.com/members/cubeir/projects/
 
 Contact:
 	- X: @cubeOhm
 	- Discord: https://discord.gg/A4wv4wwYud — ID: cubeir
+	- @cubeir.bsky.social‬
 
 Disclaimer:
 	"Vanilla RTX" (as a package) refers only to the files created, modified, and designed to bring proper ray tracing functionality to Minecraft’s original resource pack (found at: https://aka.ms/resourcepacktemplate).  
 	Therefore this license file applies exclusively to the files created, edited and designed by me.
 
-Not associated or affiliated with Mojang or Nvidia—Vanilla RTX is a fan-made passion project, made & maintained with ❤️‍🔥 since late 2020 for the Minecraft community.
+Not associated or affiliated with Mojang or Nvidia — Vanilla RTX is a fan-made passion project, made & maintained with ❤️‍🔥 since late 2020 for the Minecraft community.
