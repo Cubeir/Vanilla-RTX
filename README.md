@@ -13,7 +13,7 @@ Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on he
 Every possible Vanilla block is covered (Creative, Education Edition, secret blocks etc...)
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
+![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
 ![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/190976477-b8c8f269-1b93-429f-82b6-71aa072e63a6.png)
 ![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
