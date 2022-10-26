@@ -25,6 +25,7 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 
 ## Copyright
 [License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)  
+  
 Important reminder: Vanilla RTX is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX that are at best the same version that is found on this page, unfortunately it is often beyond my capacity to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
 
 ## Tip
