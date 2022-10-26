@@ -6,12 +6,12 @@ Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Ed
 
 ## Description
 
-Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.
-Vanilla RTX aims to bring ray tracing support for Minecraft's default resources in the purest possible form.
+Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.  
+Vanilla RTX aims to bring ray tracing support for Minecraft's default resources in the purest possible form.  
 
-Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail, most of MERs (Metallic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around.
-Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on height differences) Vanilla RTX Normals uses 16x normal maps instead.
-Every possible Vanilla block is covered (Creative, Education Edition, secret blocks, etc...)
+Vanilla RTX (Normals) takes full advantage of per-pixel MERs to get the maximum detail, most of MERs (Metallic, Emissive, Roughness) are the same between subpacks, but there are minor differences because some simply didn't fit normals or the other way around.  
+Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on height differences) Vanilla RTX Normals uses 16x normal maps instead.  
+Every possible Vanilla block is covered (Creative, Education Edition, secret blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.
 
 
@@ -24,7 +24,7 @@ Everything is consistent & fine-tuned for Minecraft RTX.
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
-[License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)
+[License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)  
 Important reminder: Vanilla RTX is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX that are at best the same version that is found on this page, unfortunately it is often beyond my capacity to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
 
 ## Tip
