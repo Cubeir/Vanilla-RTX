@@ -25,5 +25,5 @@ https://discord.gg/A4wv4wwYud
 
 Disclaimer note: This license file does not apply to Minecraft's original art resources and only applies to files created or edited by me, which includes everything except majority of base textures (found at https://aka.ms/resourcepacktemplate)
 
-[1]: This means reuploads are allowed, but I discourage it, If you reupload on other websites, please keep it updated to avoid spreading outdated versions.
+[1]: This means reuploads are allowed, but I discourage it, If you reupload on other websites, please keep it updated and avoid spreading outdated versions.
 *By they I am referring to any other individual(s) other than me.
