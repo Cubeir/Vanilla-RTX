@@ -26,7 +26,7 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)  
   
-Reminder: Vanilla RTX is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX that are at best the same version that is found on this page, unfortunately it is often beyond my capacity to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
+Reminder: Vanilla RTX (Normals) is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX/Vanilla RTX Normals that are at best the same version that is found on this page, it is often beyond my capability to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
 
 ## Tip
-If you are experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel, this will also help reduce input latency in Minecraft RTX.
+If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also helps reduce input latency.
