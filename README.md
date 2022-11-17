@@ -2,7 +2,7 @@
 
 Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Edition.
 
-⚠️ Windows 10 - Bedrock Edition +1.16.200 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.16.200 Only ⚠️
 
 ## Description
 
