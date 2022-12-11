@@ -25,6 +25,7 @@ For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpe
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)  
 Note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function, this is because texture maps can only be called within the pack and once removed, the game will not use Minecraft's resources (which should be the behavior as is in other cases). Vanilla RTX is updated to include latest texture changes every few weeks to retain parity and PBR textures are updated according to the changes.
+The license file linked above does not apply to Minecraft's original art resources.
 
 Reminder: Vanilla RTX (Normals) is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX/Vanilla RTX Normals that are being sold & are at best the same version that is found on this page, it is often beyond my capability to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
 
