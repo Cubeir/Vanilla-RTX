@@ -4,7 +4,7 @@ All Rights Reserved unless otherwise explicitly stated.
  as long as they are providing one link to any of original sources. (Full URLs written below)
  You are not allowed to sell, make direct profit or claim yourself as the creator of Vanilla RTX (Normals)
 Note: Linking a source is only required when you are in some way redistributing files created or edited by me or modified versions of Vanilla RTX (Normals),
-in other words, it is not required to provide a link to a source for things that don't include redistribution of my files. (e.g. videos and screenshots of the game)
+in other words, it is not required to provide a link to a source for things that don't include redistribution of my files. (e.g. videos and screenshots of in-game)
 
 Vanilla RTX on GitHub repository: 
 https://github.com/CubeIR/Vanilla-RTX-Normals
@@ -16,6 +16,7 @@ Vanilla RTX MCPEDL page:
 https://mcpedl.com/truly-vanilla-rtx
 
 Vanilla RTX on PMC:
+https://www.planetminecraft.com/texture-pack/vanilla-rtx-16x
 https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals
 
 
@@ -23,7 +24,8 @@ Contact:
 Twitter: @xube_ir
 https://discord.gg/A4wv4wwYud
 
-Disclaimer note: This license file does not apply to Minecraft's original art resources and only applies to files created or edited by me, which includes everything except majority of base textures (found at https://aka.ms/resourcepacktemplate)
+Disclaimer note: This license file does not apply to Minecraft's original art resources and only applies to files created or edited by me, which includes everything. Except majority of base resources found at:
+https://aka.ms/resourcepacktemplate
 
 [1]: This means reuploads are allowed, but I discourage it, if you reupload on other websites, please keep it updated and avoid spreading outdated versions.
 *By they I am referring to any other individual(s) other than me.
