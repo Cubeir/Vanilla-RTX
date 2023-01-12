@@ -16,7 +16,7 @@ Everything is consistent & fine-tuned for Minecraft RTX.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
-![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/190976477-b8c8f269-1b93-429f-82b6-71aa072e63a6.png)
+![Vanilla RTX Main Image](https://user-images.githubusercontent.com/75272685/212079482-8e76eadc-b4a9-43fe-b2a1-c94624379d41.png)
 ![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
 ![Vanilla RTX](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
 ![Vanilla RTX Image](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
