@@ -19,7 +19,7 @@ Everything is consistent & fine-tuned for Minecraft RTX.
 ![Vanilla RTX Primary image](https://user-images.githubusercontent.com/75272685/222482856-1b4e6812-84c0-4e70-aa48-8f7cfa930f1e.png)
 ![Vanilla RTX Normals](https://user-images.githubusercontent.com/75272685/140548027-33e4783f-cbb5-4ec0-9e66-a7abd547ee6f.png)
 ![Vanilla RTX](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
-![Vanilla RTX Image](https://user-images.githubusercontent.com/75272685/140548263-ce69c36d-e432-4f47-abd7-d8464b27d59f.png)
+![Vanilla RTX Image 55](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
 For more information/screenshots visit Vanilla RTX Normals [mcpedl](https://mcpedl.com/truly-vanilla-rtx/) or [planetminecraft](https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals/) page
 
 ## Copyright
