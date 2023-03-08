@@ -10,7 +10,7 @@ Vanilla RTX aims to bring complete ray tracing support for Minecraft's default r
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.  
 
 Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on height differences) Vanilla RTX Normals uses 16x normal maps instead.  
-Every possible vanilla block is covered (Creative, Education Edition, secret blocks, etc...)  
+Every possible vanilla block is covered (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.
 
 
