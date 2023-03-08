@@ -6,7 +6,7 @@ Vanilla RTX is a Vanilla Based PBR Resource Pack for Minecraft RTX on Bedrock Ed
 
 ## Description
 
-Vanilla RTX aims to bring complete ray tracing support for Minecraft's default resources while remaining faithful to all of the different aspects and details of vanilla Minecraft.  
+Vanilla RTX aims to bring complete ray tracing support for Minecraft's default resources while remaining faithful to all the different aspects and details of vanilla Minecraft.  
 Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition.  
 
 Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on height differences) Vanilla RTX Normals uses 16x normal maps instead.  
