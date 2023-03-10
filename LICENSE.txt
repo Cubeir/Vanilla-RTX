@@ -7,7 +7,7 @@ Note: Linking a source is only required when you are in some way redistributing 
 in other words, it is not required to provide a link to a source for things that don't include redistribution of my files. (e.g. videos and screenshots of in-game)
 
 Vanilla RTX on GitHub repository: 
-https://github.com/CubeIR/Vanilla-RTX-Normals
+https://github.com/CubeIR/Vanilla-RTX
 
 Vanilla RTX Patreon page:
 https://www.patreon.com/cubeir
