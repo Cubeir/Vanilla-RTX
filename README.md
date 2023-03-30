@@ -12,7 +12,7 @@ Vanilla RTX uses 16x heightmaps (later converted to 192x normal maps based on he
 Every possible vanilla block is covered (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.  
 
-Initial goal of creating this resource pack was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition (Vanilla RTX Normals).  
+Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition (Vanilla RTX Normals).  
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
