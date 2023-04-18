@@ -1,8 +1,9 @@
 All Rights Reserved unless otherwise explicitly stated.
  Vanilla RTX (Normals) is free and remains free for everyone to do any of the following: play, capture
  and share videos/screenshots, modify, redistribute[1] or redistribute a modified version, use in your own projects of any type in any way, etc...)
- as long as they are providing one link to any of original sources. (Full URLs written below)
+ as long as they are providing at least one link to any of original sources. (Full URLs written below)
  You are not allowed to sell, make direct profit or claim yourself as the creator of Vanilla RTX (Normals)
+ You are not allowed to copy Vanilla RTX (Normals) or it's aesthetics and redistribute it under a different name or claim it as original.
 Note: Linking a source is only required when you are in some way redistributing files created or edited by me or modified versions of Vanilla RTX (Normals),
 in other words, it is not required to provide a link to a source for things that don't include redistribution of my files. (e.g. videos and screenshots of in-game)
 
