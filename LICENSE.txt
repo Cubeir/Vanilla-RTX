@@ -7,13 +7,13 @@ All Rights Reserved unless otherwise explicitly stated.
 Note: Linking a source is only required when you are in some way redistributing files created or edited by me or modified versions of Vanilla RTX (Normals),
 in other words, it is not required to provide a link to a source for things that don't include redistribution of my files. (e.g. videos and screenshots of in-game)
 
-Vanilla RTX on GitHub repository: 
+Vanilla RTX on GitHub: 
 https://github.com/CubeIR/Vanilla-RTX
 
 Vanilla RTX Patreon page:
 https://www.patreon.com/cubeir
 
-Vanilla RTX MCPEDL page: 
+Vanilla RTX on MCPEDL: 
 https://mcpedl.com/truly-vanilla-rtx
 
 Vanilla RTX on PMC:
