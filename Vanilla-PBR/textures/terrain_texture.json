@@ -1,0 +1,10 @@
+{
+   "num_mip_levels" : 0,
+   "padding" : 0,
+   "texture_data" : {
+      "deepslate_redstone_ore_lit": 
+      {"textures": "textures/blocks/deepslate/deepslate_redstone_ore_lit"},
+      "redstone_ore_lit": 
+      {"textures": "textures/blocks/redstone_ore_lit"}
+                    }
+}
