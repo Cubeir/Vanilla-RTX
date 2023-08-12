@@ -17,7 +17,7 @@ https://www.planetminecraft.com/texture-pack/vanilla-rtx-normals
 - Vanilla RTX Patreon page: https://www.patreon.com/cubeir
 
 Contact:
-- Twitter: @xube_ir
+- Twitter: @cubeOhm
 - Discord: https://discord.gg/A4wv4wwYud
 
 Disclaimer: This license file does not apply to Minecraft's original art resources and only applies to files created or edited by me, which includes everything except the majority of base resources (found at: https://aka.ms/resourcepacktemplate).
