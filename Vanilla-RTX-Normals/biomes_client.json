@@ -374,6 +374,10 @@
     "dripstone_caves":{
       "water_surface_color": "#14559b",
       "fog_identifier": "minecraftrtx:default_caves"
+    },
+    "cherry_grove": {
+      "water_surface_color": "#5db7ef",
+      "fog_identifier": "minecraftrtx:fog_cherry_grove"
     }
   }
 }
