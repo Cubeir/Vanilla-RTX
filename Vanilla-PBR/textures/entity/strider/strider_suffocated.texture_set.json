@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "strider_suffocated",
+    "metalness_emissive_roughness": "strider_suffocated_mer",
+    "heightmap": "strider_suffocated_heightmap"
+  }
+}

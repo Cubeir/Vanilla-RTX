@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "guardian_elder",
+    "metalness_emissive_roughness": "guardian_elder_mer",
+    "heightmap": "guardian_elder_heightmap"
+  }
+}

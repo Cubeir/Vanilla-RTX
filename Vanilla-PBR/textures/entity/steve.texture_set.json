@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "steve",
+    "metalness_emissive_roughness": "steve_mer",
+    "heightmap": "steve_heightmap"
+  }
+}

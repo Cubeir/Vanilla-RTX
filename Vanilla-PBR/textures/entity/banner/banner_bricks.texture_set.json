@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "banner_bricks",
+    "metalness_emissive_roughness": "banner_bricks_mer",
+    "heightmap": "banner_bricks_heightmap"
+  }
+}

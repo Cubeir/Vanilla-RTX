@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "shield",
+    "metalness_emissive_roughness": "shield_mer",
+    "heightmap": "shield_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "decor_orange",
+    "metalness_emissive_roughness": "decor_orange_mer",
+    "heightmap": "decor_orange_heightmap"
+  }
+}

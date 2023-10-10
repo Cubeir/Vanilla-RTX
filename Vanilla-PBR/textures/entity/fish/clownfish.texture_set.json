@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "clownfish",
+    "metalness_emissive_roughness": "clownfish_mer",
+    "heightmap": "clownfish_heightmap"
+  }
+}

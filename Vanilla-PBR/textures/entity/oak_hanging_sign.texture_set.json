@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "oak_hanging_sign",
+    "metalness_emissive_roughness": "oak_hanging_sign_mer",
+    "heightmap": "oak_hanging_sign_heightmap"
+  }
+}

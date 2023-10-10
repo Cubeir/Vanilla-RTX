@@ -1,22 +1,26 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla PBR Resources for Technical Preview of Deferred Renderer Pipeline Shaders.\nThis pack makes use of the features available in the 1.20.30.20 Preview and above.\nVersion 1.0.0",
+  "description": "Vanilla PBR Resources for Technical Preview of Deferred Renderer Pipeline Shaders.\nThis pack makes use of the features available in the 1.20.30.20 Preview and above.\nVersion 1.2.0",
   "name": "Vanilla PBR: Deferred Lighting Shaders",
   "uuid": "1e22f7ce-b2c4-4b88-8005-2822554e07d6",
-  "version": [1,0,0],
-  "min_engine_version": [1,20,0]
+  "version": [1,2,0],
+  "min_engine_version": [1,20,30]
 },
 "modules": [
   {
     "description": "vanillapbr",
     "type": "resources",
     "uuid": "c07a3459-bf49-48d5-b831-f2c9826acbf9",
-    "version": [1,0,0]
+    "version": [1,2,0]
   }
 ],
 
-"metadata": { "authors": ["CubeIR"] },
+"metadata": {
+  "authors": [ "CubeIR" ],
+  "license": "https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt",
+  "url": "https://patreon.com/cubeir"
+},
 
 "capabilities" : [ "pbr" ]
 

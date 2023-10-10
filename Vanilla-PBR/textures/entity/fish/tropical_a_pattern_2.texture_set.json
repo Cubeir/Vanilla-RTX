@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "tropical_a_pattern_2",
+    "metalness_emissive_roughness": "tropical_a_pattern_2_mer",
+    "heightmap": "tropical_a_pattern_2_heightmap"
+  }
+}

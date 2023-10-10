@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "spyglass",
+    "metalness_emissive_roughness": "spyglass_mer",
+    "heightmap": "spyglass_heightmap"
+  }
+}

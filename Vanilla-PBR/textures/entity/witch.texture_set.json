@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "witch",
+    "metalness_emissive_roughness": "witch_mer",
+    "heightmap": "witch_heightmap"
+  }
+}

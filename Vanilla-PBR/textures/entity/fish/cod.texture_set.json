@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "cod",
+    "metalness_emissive_roughness": "cod_mer",
+    "heightmap": "cod_heightmap"
+  }
+}

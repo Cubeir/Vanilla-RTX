@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "llama_brown",
+    "metalness_emissive_roughness": "llama_brown_mer",
+    "heightmap": "llama_brown_heightmap"
+  }
+}

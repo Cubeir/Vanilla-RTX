@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "axolotl_lucy",
+    "metalness_emissive_roughness": "axolotl_lucy_mer",
+    "heightmap": "axolotl_lucy_heightmap"
+  }
+}

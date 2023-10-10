@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "alex",
+    "metalness_emissive_roughness": "alex_mer",
+    "heightmap": "alex_heightmap"
+  }
+}

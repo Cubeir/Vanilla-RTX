@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "persian_tame",
+    "metalness_emissive_roughness": "persian_tame_mer",
+    "heightmap": "persian_tame_heightmap"
+  }
+}

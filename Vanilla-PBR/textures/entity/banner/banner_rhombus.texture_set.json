@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "banner_rhombus",
+    "metalness_emissive_roughness": "banner_rhombus_mer",
+    "heightmap": "banner_rhombus_heightmap"
+  }
+}

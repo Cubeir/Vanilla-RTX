@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "trader_llama_decor",
+    "metalness_emissive_roughness": "trader_llama_decor_mer",
+    "heightmap": "trader_llama_decor_heightmap"
+  }
+}

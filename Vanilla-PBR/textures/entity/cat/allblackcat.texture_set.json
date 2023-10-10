@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "allblackcat",
+    "metalness_emissive_roughness": "allblackcat_mer",
+    "heightmap": "allblackcat_heightmap"
+  }
+}

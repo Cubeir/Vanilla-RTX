@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "panda",
+    "metalness_emissive_roughness": "panda_mer",
+    "heightmap": "panda_heightmap"
+  }
+}

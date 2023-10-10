@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "cracked_high",
+    "metalness_emissive_roughness": "cracked_high_mer",
+    "heightmap": "cracked_high_heightmap"
+  }
+}

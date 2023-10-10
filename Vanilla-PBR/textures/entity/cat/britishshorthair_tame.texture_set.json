@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "britishshorthair_tame",
+    "metalness_emissive_roughness": "britishshorthair_tame_mer",
+    "heightmap": "britishshorthair_tame_heightmap"
+  }
+}
