@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla RTX resource pack, all blocks are covered.\nVersion 1.10.0",
+  "description": "Vanilla RTX resource pack, all blocks are covered.\nVersion 1.20.0",
   "name": "Vanilla RTX",
   "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-  "version": [1,10,0],
+  "version": [1,20,0],
   "min_engine_version": [1,16,200]
 },
 "modules": [
@@ -12,7 +12,7 @@
     "description": "vanillartx",
     "type": "resources",
     "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-    "version": [1,10,0]
+    "version": [1,20,0]
   }
 ],
 "metadata": { "authors": ["CubeIR"] },
