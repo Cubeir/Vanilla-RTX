@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"torch_underwater","metalness_emissive_roughness":"torch_underwater_mer","normal":"torch_underwater_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "torch_underwater",
+    "metalness_emissive_roughness": "torch_underwater_mer",
+    "normal": "torch_underwater_normal"
+  }
+}

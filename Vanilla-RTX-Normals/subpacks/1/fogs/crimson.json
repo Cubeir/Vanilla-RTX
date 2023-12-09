@@ -17,24 +17,32 @@
         "fog_color": "#905957",
         "render_distance_type": "fixed"
       }
-  },
-  "volumetric": {
-    "density": {
-      "air": {
-        "max_density": 0.017,
-        "uniform": true
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.0,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": "#C4F2F2",
+          "absorption": [
+            0,
+            0,
+            0
+          ]
+        },
+        "water": {
+          "scattering": "#6FA6A8",
+          "absorption": [
+            0,
+            0,
+            0
+          ]
+        }
       }
-    },
-    "media_coefficients": {
-      "air": {
-        "scattering": "#C4F2F2",
-        "absorption": [ 0, 0, 0 ]
-    },
-    "water": {
-      "scattering": "#6FA6A8",
-      "absorption": [ 0, 0, 0 ]
     }
   }
-}
-}
 }

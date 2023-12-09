@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"camera_side","metalness_emissive_roughness":"camera_side_mer","normal":"camera_side_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "camera_side",
+    "metalness_emissive_roughness": "camera_side_mer",
+    "normal": "camera_side_normal"
+  }
+}

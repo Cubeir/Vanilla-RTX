@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"cherry_trapdoor","metalness_emissive_roughness":"cherry_trapdoor_mer","normal":"cherry_trapdoor_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "cherry_trapdoor",
+    "metalness_emissive_roughness": "cherry_trapdoor_mer",
+    "normal": "cherry_trapdoor_normal"
+  }
+}

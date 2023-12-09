@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"frogspawn","metalness_emissive_roughness":"frogspawn_mer","normal":"frogspawn_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "frogspawn",
+    "metalness_emissive_roughness": "frogspawn_mer",
+    "normal": "frogspawn_normal"
+  }
+}

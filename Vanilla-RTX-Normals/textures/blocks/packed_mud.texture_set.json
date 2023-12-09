@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"packed_mud","metalness_emissive_roughness":"packed_mud_mer","normal":"packed_mud_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "packed_mud",
+    "metalness_emissive_roughness": "packed_mud_mer",
+    "normal": "packed_mud_normal"
+  }
+}

@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"compound_creator_side_c","metalness_emissive_roughness":"compound_creator_side_c_mer","normal":"compound_creator_side_c_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "compound_creator_side_c",
+    "metalness_emissive_roughness": "compound_creator_side_c_mer",
+    "normal": "compound_creator_side_c_normal"
+  }
+}

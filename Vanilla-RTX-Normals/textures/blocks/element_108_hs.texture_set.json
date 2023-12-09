@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"element_108_hs","metalness_emissive_roughness":"element_108_hs_mer","normal":"element_108_hs_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "element_108_hs",
+    "metalness_emissive_roughness": "element_108_hs_mer",
+    "normal": "element_108_hs_normal"
+  }
+}

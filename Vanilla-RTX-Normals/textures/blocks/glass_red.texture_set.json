@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"glass_red","metalness_emissive_roughness":"glass_red_mer","normal":"glass_red_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "glass_red",
+    "metalness_emissive_roughness": "glass_red_mer",
+    "normal": "glass_red_normal"
+  }
+}

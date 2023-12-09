@@ -1,30 +1,78 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla RTX resource pack, all blocks are covered.\nVersion 1.20.0",
-  "name": "Vanilla RTX",
-  "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-  "version": [1,20,0],
-  "min_engine_version": [1,16,200]
-},
-"modules": [
-  {
-    "description": "vanillartx",
-    "type": "resources",
-    "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-    "version": [1,20,0]
-  }
-],
-"metadata": { "authors": ["CubeIR"] },
-"subpacks": [
-  {
-      "folder_name": "0",
-      "name": "Fogless", "memory_tier": 1
+    "description": "Vanilla RTX resource pack, all blocks are covered.\nVersion 1.20.5",
+    "name": "Vanilla RTX",
+    "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
+    "version": [
+      1,
+      20,
+      5
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      200
+    ]
   },
-  {
+  "modules": [
+    {
+      "description": "vanillartx",
+      "type": "resources",
+      "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
+      "version": [
+        1,
+        20,
+        5
+      ]
+    }
+  ],
+
+  "metadata": {
+    "authors": [ "CubeIR" ],
+    "license": "https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt",
+    "url": "https://github.com/CubeIR/Vanilla-RTX"
+  },
+
+  "subpacks": [
+    {
+      "folder_name": "2",
+      "name": "Experimental",
+      "memory_tier": 1
+    },
+    {
       "folder_name": "1",
-      "name": "Default", "memory_tier": 1
-  }
-            ],
-  "capabilities" : [ "raytraced" ]
+      "name": "Fogless",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "0",
+      "name": "Default",
+      "memory_tier": 1
+    }
+  ],
+  
+  "settings": [
+    {
+      "type": "label",
+      "text": "                                 Options Overview"
+    },
+    {
+      "type": "label",
+      "text": "Default:§i The standard Vanilla RTX experience."
+    },
+    {
+      "type": "label",
+      "text": "Fogless:§i Vanilla RTX with air fog removed."
+    },
+    {
+      "type": "label",
+      "text": "Experimental:§i Enables experimental features and updates."
+    }
+],
+
+  "capabilities": [
+    "raytraced",
+    "pbr"
+  ]
 }

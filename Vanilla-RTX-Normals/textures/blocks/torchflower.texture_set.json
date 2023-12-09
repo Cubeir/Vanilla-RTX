@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"torchflower","metalness_emissive_roughness":"torchflower_mer","normal":"torchflower_normal"}}
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "torchflower",
+    "metalness_emissive_roughness": "torchflower_mer",
+    "normal": "torchflower_normal"
+  }
+}

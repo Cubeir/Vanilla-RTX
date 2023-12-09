@@ -1,0 +1,25 @@
+{
+   "format_version": [1, 0, 0],
+
+   "directional_lights" :
+    {
+         "orbital_offset_degrees" :
+         {
+            "0.0": 45.0, 
+            "0.2": 40.0,
+            "0.4": 35.0,
+            "0.5": 30.0,
+            "0.6": 35.0,
+            "0.8": 40.0,
+            "1.0": 45.0
+         }
+    },
+    
+     "pbr" :
+    {
+       "blocks":
+      {
+         "global_metalness_emissive_roughness": [0, 0, 255]
+      }
+    }
+}
