@@ -17,7 +17,8 @@ Initial goal of this project was having something similar to [Vanilla Normals Re
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
-![vanilla rtx main image](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/2248571a-cce6-482d-bffc-55f5279879a2)
+![Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/4a9e330f-d961-4688-b475-bbc8a8049584)
+![Minecraft with RTX Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
 ![Vanilla RTX](https://user-images.githubusercontent.com/75272685/140548212-d68f6692-540a-47cc-87a4-1455dc8decc4.png)
 ![Vanilla RTX image](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
@@ -35,10 +36,10 @@ If you would like to become a patron and support my work, you can visit my Patre
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt)  
-Note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function, this is because texture maps can only be called within the pack and once removed, the game will not use Minecraft's resources (which should be the behavior as is in other cases). Vanilla RTX is updated to include latest texture changes every few weeks to retain parity and PBR textures are updated according to the changes.
+Note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function, this is because texture maps can only be called within the pack and once removed, the game will not use Minecraft's resources (which should be the behavior as is in other cases). Vanilla RTX updates will include latest texture changes to retain parity and PBR textures are updated according to the changes.
 The license file linked above does not apply to Minecraft's original art resources.
 
 Reminder: Vanilla RTX (Normals) is completely free to download and use, you might encounter reuploaded copies of Vanilla RTX or reuploaded variations of Vanilla RTX/Vanilla RTX Normals that are being sold & are at best the same version that is found on this page, it is often beyond my ability to combat this behavior, all I can is to sincerely ask you to avoid paying for a Minecraft resource pack that a quarter of it is Minecraft's original resources and majority of it an unauthorized copy of Vanilla RTX.
 
 ## Tip
-If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also helps reduce input latency when compared to Minecraft's VSync.
+If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
