@@ -1,3 +1,5 @@
+Not associated or affiliated with Mojang or Nvidia - Vanilla RTX is an unofficial passion project created and maintained by Cubeir.
+
 Vanilla RTX License
 Copyright © Vanilla RTX
 
@@ -10,15 +12,15 @@ By doing any of the above, you agree to follow all of the following requirements
 - Give clear credit in an appropriate place (e.g. video descriptions, manifest.jsons, content descriptions)
  - Provide a link to at least one of the original official sources or this github repository. (Other sources listed in the 'Original Sources' section below).
 
-- Understand that commercial use of Vanilla RTX is prohibited, you are not allowed to sell, make direct profit or claim authorship of Vanilla RTX. Do not monetize content that directly contains anything from Vanilla RTX, modified or not, under any circumstances. This includes locking Vanilla RTX behind a paywall (including the Minecraft Marketplace) or monetizing download links. Taking voluntary donations is still allowed, but if you're unfairly profiting off Vanilla RTX, don't do it and use common sense when in doubt.
+- Understand that commercial use of Vanilla RTX is prohibited, you are not allowed to sell, make direct profit or claim authorship of Vanilla RTX. Do not monetize content that directly contains anything from Vanilla RTX, modified or not, under any circumstances. This includes locking Vanilla RTX behind a paywall (including the Minecraft Marketplace) or unfairly monetizing download links. Taking voluntary donations is still allowed, but if you're unfairly profiting off Vanilla RTX, don't do it and use common sense when in doubt.
 
-- You are not allowed to copy Vanilla RTX or its visual elements/designs and redistribute it under a different name, or claim it as an original work,. For example, do not make your projects look official when they aren't. 
+- You are not allowed to copy Vanilla RTX or its visual elements/designs and redistribute it under a different name, or claim it as an original work. For example, do not make your projects look and sound official when they aren't. 
 
 Exceptions:
 - Linking a source is only required when you are redistributing files created or edited by me or modified versions of Vanilla RTX.
-In other words, it is not required to provide a link to a source for things that don't include redistribution of files created or edited by me (e.g. in-game videos & screenshots).
+In other words, it is not required to provide a link to a source for things that don't include redistribution of files created or edited by me (e.g. in-game videos & screenshots, or anything within the bounds of personal use).
 So If you're doing anything privately without distributing Vanilla RTX's files, you can ignore the requirements, since you're not unfairly taking advantage of Vanilla RTX.
-Capturing and sharing videos and screenshots for any purpose without including files from Vanilla RTX also falls under 'private use'.
+Capturing and sharing videos and screenshots for any purpose without directly including files from Vanilla RTX also falls under 'private use'.
 
 I reserve the right to:
 - Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group. This action would be final, generally only in the case of unusual circumstances.
@@ -37,7 +39,9 @@ Contact:
 - Discord: https://discord.gg/A4wv4wwYud
 
 Disclaimer:
-- This license file does not apply to Minecraft's original art resources and only applies to files created, edited and designed by me, which includes everything except the majority of base resources. 
-So "Vanilla RTX" (as a package) refers only to the files created or modified for the ray tracing functionality, and excludes Minecraft's original art resources. (found at: https://aka.ms/resourcepacktemplate)
+- This license file applies exclusively to files created, edited and designed by me, which includes everything except the majority of base resources. In other words, it does not apply to Minecraft's original art resources.
+- "Vanilla RTX" (as a package) refers only to the files created and desgined for the ray tracing functionality, and excludes Minecraft's original art resources. (found at: https://aka.ms/resourcepacktemplate)
+- A minor portion of Minecraft's resources had to be included in this pack to allow for functionality in Minecraft Bedrock Edition. This inclusion is inescapable due to a limitation within the game. In cases where a file called in a texture_set.json is absent, the game doesn't default to its own resources, contrary to the usual behavior of Minecraft texture packs.
 
-[1]: Reuploads are allowed, but discouraged.
+[1]: Reuploads are allowed as long as you follow the requirements, but discouraged.
+
