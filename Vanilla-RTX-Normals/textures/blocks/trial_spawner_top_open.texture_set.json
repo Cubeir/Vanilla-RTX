@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "trial_spawner_top_open",
+    "metalness_emissive_roughness": "trial_spawner_top_open_mer",
+    "normal": "trial_spawner_top_open_normal"
+  }
+}

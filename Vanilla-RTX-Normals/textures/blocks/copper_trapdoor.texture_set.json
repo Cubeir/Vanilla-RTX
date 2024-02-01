@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "copper_trapdoor",
+    "metalness_emissive_roughness": "copper_trapdoor_mer",
+    "normal": "copper_trapdoor_normal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "oxidized_copper_bulb_lit_powered",
+    "metalness_emissive_roughness": "oxidized_copper_bulb_lit_powered_mer",
+    "normal": "oxidized_copper_bulb_lit_powered_normal"
+  }
+}

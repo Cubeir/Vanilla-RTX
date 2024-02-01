@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "exposed_chiseled_copper",
+    "metalness_emissive_roughness": "exposed_chiseled_copper_mer",
+    "normal": "exposed_chiseled_copper_normal"
+  }
+}

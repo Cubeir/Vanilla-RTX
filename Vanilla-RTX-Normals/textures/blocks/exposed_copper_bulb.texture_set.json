@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "exposed_copper_bulb",
+    "metalness_emissive_roughness": "exposed_copper_bulb_mer",
+    "normal": "exposed_copper_bulb_normal"
+  }
+}

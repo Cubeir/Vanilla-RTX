@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "crafter_north_crafting",
+    "metalness_emissive_roughness": "crafter_north_crafting_mer",
+    "normal": "crafter_north_crafting_normal"
+  }
+}

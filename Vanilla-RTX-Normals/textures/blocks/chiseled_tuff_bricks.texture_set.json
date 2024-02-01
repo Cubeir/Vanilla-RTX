@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chiseled_tuff_bricks",
+    "metalness_emissive_roughness": "chiseled_tuff_bricks_mer",
+    "normal": "chiseled_tuff_bricks_normal"
+  }
+}

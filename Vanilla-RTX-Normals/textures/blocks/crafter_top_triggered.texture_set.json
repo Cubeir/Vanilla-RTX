@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "crafter_top_triggered",
+    "metalness_emissive_roughness": "crafter_top_triggered_mer",
+    "normal": "crafter_top_triggered_normal"
+  }
+}
