@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "npc_agriculture_6",
+    "metalness_emissive_roughness": "npc_agriculture_6_mer",
+    "heightmap": "npc_agriculture_6_heightmap"
+  }
+}

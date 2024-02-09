@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "nitwit",
+    "metalness_emissive_roughness": "nitwit_mer",
+    "heightmap": "nitwit_heightmap"
+  }
+}

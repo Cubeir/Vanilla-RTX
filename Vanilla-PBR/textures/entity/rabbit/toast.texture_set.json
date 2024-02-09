@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "toast",
+    "metalness_emissive_roughness": "toast_mer",
+    "heightmap": "toast_heightmap"
+  }
+}

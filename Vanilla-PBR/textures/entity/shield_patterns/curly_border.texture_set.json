@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "curly_border",
+    "metalness_emissive_roughness": "curly_border_mer",
+    "heightmap": "curly_border_heightmap"
+  }
+}

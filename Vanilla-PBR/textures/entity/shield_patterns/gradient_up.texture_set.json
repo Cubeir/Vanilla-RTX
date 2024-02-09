@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "gradient_up",
+    "metalness_emissive_roughness": "gradient_up_mer",
+    "heightmap": "gradient_up_heightmap"
+  }
+}

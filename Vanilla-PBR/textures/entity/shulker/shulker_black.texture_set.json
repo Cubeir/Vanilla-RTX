@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "shulker_black",
+    "metalness_emissive_roughness": "shulker_black_mer",
+    "heightmap": "shulker_black_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "level_stone",
+    "metalness_emissive_roughness": "level_stone_mer",
+    "heightmap": "level_stone_heightmap"
+  }
+}

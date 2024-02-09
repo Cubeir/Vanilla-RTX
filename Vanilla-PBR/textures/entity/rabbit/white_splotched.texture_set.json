@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "white_splotched",
+    "metalness_emissive_roughness": "white_splotched_mer",
+    "heightmap": "white_splotched_heightmap"
+  }
+}

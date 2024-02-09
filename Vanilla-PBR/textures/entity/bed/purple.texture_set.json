@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "purple",
+    "metalness_emissive_roughness": "purple_mer",
+    "heightmap": "purple_heightmap"
+  }
+}

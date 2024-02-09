@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "parrot_grey",
+    "metalness_emissive_roughness": "parrot_grey_mer",
+    "heightmap": "parrot_grey_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chest_boat_jungle",
+    "metalness_emissive_roughness": "chest_boat_jungle_mer",
+    "heightmap": "chest_boat_jungle_heightmap"
+  }
+}

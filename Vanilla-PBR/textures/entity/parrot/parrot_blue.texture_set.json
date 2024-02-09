@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "parrot_blue",
+    "metalness_emissive_roughness": "parrot_blue_mer",
+    "heightmap": "parrot_blue_heightmap"
+  }
+}

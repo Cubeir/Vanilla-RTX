@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "armorer",
+    "metalness_emissive_roughness": "armorer_mer",
+    "heightmap": "armorer_heightmap"
+  }
+}

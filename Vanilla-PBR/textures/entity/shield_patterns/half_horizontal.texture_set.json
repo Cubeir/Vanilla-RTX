@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "half_horizontal",
+    "metalness_emissive_roughness": "half_horizontal_mer",
+    "heightmap": "half_horizontal_heightmap"
+  }
+}

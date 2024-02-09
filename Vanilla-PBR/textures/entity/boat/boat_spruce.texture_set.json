@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "boat_spruce",
+    "metalness_emissive_roughness": "boat_spruce_mer",
+    "heightmap": "boat_spruce_heightmap"
+  }
+}

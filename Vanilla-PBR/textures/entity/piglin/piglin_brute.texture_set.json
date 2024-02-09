@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "piglin_brute",
+    "metalness_emissive_roughness": "piglin_brute_mer",
+    "heightmap": "piglin_brute_heightmap"
+  }
+}

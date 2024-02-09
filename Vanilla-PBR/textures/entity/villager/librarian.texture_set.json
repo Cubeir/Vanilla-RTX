@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "librarian",
+    "metalness_emissive_roughness": "librarian_mer",
+    "heightmap": "librarian_heightmap"
+  }
+}

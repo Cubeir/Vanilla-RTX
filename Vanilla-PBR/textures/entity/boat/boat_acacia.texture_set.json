@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "boat_acacia",
+    "metalness_emissive_roughness": "boat_acacia_mer",
+    "heightmap": "boat_acacia_heightmap"
+  }
+}

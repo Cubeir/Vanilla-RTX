@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "small_stripes",
+    "metalness_emissive_roughness": "small_stripes_mer",
+    "heightmap": "small_stripes_heightmap"
+  }
+}

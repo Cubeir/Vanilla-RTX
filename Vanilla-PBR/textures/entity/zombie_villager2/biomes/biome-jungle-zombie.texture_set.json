@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "biome-jungle-zombie",
+    "metalness_emissive_roughness": "biome-jungle-zombie_mer",
+    "heightmap": "biome-jungle-zombie_heightmap"
+  }
+}

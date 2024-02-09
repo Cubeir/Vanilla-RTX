@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "cartographer",
+    "metalness_emissive_roughness": "cartographer_mer",
+    "heightmap": "cartographer_heightmap"
+  }
+}

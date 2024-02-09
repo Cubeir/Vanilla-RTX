@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "biome-taiga-zombie",
+    "metalness_emissive_roughness": "biome-taiga-zombie_mer",
+    "heightmap": "biome-taiga-zombie_heightmap"
+  }
+}
