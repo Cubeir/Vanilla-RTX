@@ -12,7 +12,7 @@ By doing any of the above, you agree to follow all of the following requirements
 - Give clear credit in an appropriate place (e.g. video descriptions, manifest.jsons, content descriptions)
  - Provide a link to at least one of the original official sources or this github repository. (Other sources listed in the 'Original Sources' section below).
 
-- Understand that commercial use of Vanilla RTX is prohibited, you are not allowed to sell, make direct profit or claim authorship of Vanilla RTX. Do not monetize content that directly contains anything from Vanilla RTX, modified or not, under any circumstances. This includes locking Vanilla RTX behind a paywall (including the Minecraft Marketplace) or unfairly monetizing download links. Taking voluntary donations is still allowed, but if you're unfairly profiting off Vanilla RTX, don't do it and use common sense when in doubt.
+- Understand that commercial use of Vanilla RTX is prohibited, you are not allowed to sell, make direct profit or claim authorship of Vanilla RTX. Do not monetize content that directly contains anything from Vanilla RTX, modified or not. This includes locking Vanilla RTX behind a paywall (including the Minecraft Marketplace) or unfairly monetizing it in other ways. Taking voluntary donations is still allowed, but if you're unfairly profiting off Vanilla RTX, don't do it and use common sense when in doubt.
 
 - You are not allowed to copy Vanilla RTX or its visual elements/designs and redistribute it under a different name, or claim it as an original work. For example, do not make your projects look and sound official when they aren't. 
 
@@ -24,7 +24,7 @@ Capturing and sharing videos and screenshots for any purpose without directly in
 
 I reserve the right to:
 - Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group. This action would be final, generally only in the case of unusual circumstances.
-- Change this license at any time for any reason.
+- Edit and refine this license at any time for any reason.
 
 Original Sources:
 - Vanilla RTX on GitHub: https://github.com/CubeIR/Vanilla-RTX
