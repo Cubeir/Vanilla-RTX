@@ -6,7 +6,7 @@ A derivative work & offshoot of Vanilla RTX that uses Deferred Lighting Renderin
 
 ## Description
 
-For more information & installation guides visit Vanilla PBR's mcpedl [mcpedl](https://mcpedl.com/vanilla-pbr) page.
+For more information & installation guides visit Vanilla PBR's [mcpedl](https://mcpedl.com/vanilla-pbr) page.
 
 ![vanilla pbr deferred shaders render dragon bedrock](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/61593596-f4ac-4541-83e7-ab123cf72f98)
 ![Lighting Shaders Room Vanilla PBR image](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/f50a59ef-2211-4bd0-b539-25ca48e8d4de)
