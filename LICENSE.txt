@@ -9,26 +9,29 @@ Vanilla RTX is free and remains free for everyone so you may do the following:
 - Play, capture and share videos/screenshots, modify, redistribute[1] or redistribute a modified version, use in your own projects of any type in any way. (e.g. distributing a modified copy of a pack as a content creator with your videos or streams, including Vanilla RTX in maps, servers and mods, etc...)
 
 By doing any of the above, you agree to follow all of the following requirements:
-- Give clear credit in an appropriate place (e.g. video descriptions, manifest.jsons, content descriptions)
- - Provide a link to at least one of the original official sources or this github repository. (Other sources listed in the 'Original Sources' section below).
+- Give clear credit in an appropriate place (e.g. manifest.jsons and content descriptions)
+ - Provide a link to at least one of the original sources or other sources listed later in this document.
+ - Do not make your derivative projects, content or mirrors appear directly related to Vanilla RTX or official.
 
-- Understand that commercial use of Vanilla RTX is prohibited, you are not allowed to sell, make direct profit or claim authorship of Vanilla RTX. Do not monetize content that directly contains anything from Vanilla RTX, modified or not. This includes locking Vanilla RTX behind a paywall (including the Minecraft Marketplace) or unfairly monetizing it in other ways. Taking voluntary donations is still allowed, but if you're unfairly profiting off Vanilla RTX, don't do it and use common sense when in doubt.
-
-- You are not allowed to copy Vanilla RTX or its visual elements/designs and redistribute it under a different name, or claim it as an original work. For example, do not make your projects look and sound official when they aren't. 
+- Understand that commercial use of Vanilla RTX is prohibited. Ipso facto, selling or claiming authorship over Vanilla RTX is prohibited. This includes locking Vanilla RTX behind a paywall (like the Minecraft Marketplace).
+  Do not monetize content that includes files from Vanilla RTX in other ways (e.g. by forcing ads to access Vanilla RTX, modified or not).
+  Taking voluntary donations is still allowed, but if you’re unfairly profiting off of Vanilla RTX, don’t do it and use common sense when in doubt.
 
 Exceptions:
-- Linking a source is only required when you are redistributing files created or edited by me or modified versions of Vanilla RTX.
-In other words, it is not required to provide a link to a source for things that don't include redistribution of files created or edited by me (e.g. in-game videos & screenshots, or anything within the bounds of personal use).
-So If you're doing anything privately without distributing Vanilla RTX's files, you can ignore the requirements, since you're not unfairly taking advantage of Vanilla RTX.
-Capturing and sharing videos and screenshots for any purpose without directly including files from Vanilla RTX also falls under 'private use'.
+- If you're doing anything privately without directly redistributing Vanilla RTX's files, you can ignore all of the license requirements.
+  Capturing and sharing videos and screenshots for any purpose also falls under 'private use'.
+- Giving credit and linking an original source is only required when you are redistributing files created or edited by me or modified versions of Vanilla RTX.
+  In other words, it is not required to provide a link to a source for things that don't include redistribution of files created or edited by me (e.g. in-game videos & screenshots, or anything within the bounds of personal use).
 
 I reserve the right to:
 - Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group. This action would be final, generally only in the case of unusual circumstances.
-- Edit and refine this license at any time for any reason.
+- Edit this license at any time for any reason. (Most often for sake of conciseness and clarity)
 
-Original Sources:
+Original Source:
+- http://minecraftrtx.net
 - Vanilla RTX on GitHub: https://github.com/CubeIR/Vanilla-RTX
 - Vanilla RTX on Patreon: https://www.patreon.com/cubeir
+Mirrors:
 - Vanilla RTX on MCPEDL: https://mcpedl.com/truly-vanilla-rtx
 - Vanilla RTX Showcase pages on PMC:
 https://www.planetminecraft.com/texture-pack/vanilla-rtx-16x
@@ -39,9 +42,7 @@ Contact:
 - Discord: https://discord.gg/A4wv4wwYud
 
 Disclaimer:
-- This license file applies exclusively to files created, edited and designed by me, which includes everything except the majority of base resources. In other words, it does not apply to Minecraft's original art resources.
-- "Vanilla RTX" (as a package) refers only to the files created and desgined for the ray tracing functionality, and excludes Minecraft's original art resources. (found at: https://aka.ms/resourcepacktemplate)
-- A minor portion of Minecraft's resources had to be included in this pack to allow for functionality in Minecraft Bedrock Edition. This inclusion is inescapable due to a limitation within the game. In cases where a file called in a texture_set.json is absent, the game doesn't default to its own resources, contrary to the usual behavior of Minecraft texture packs.
+"Vanilla RTX" (as a package) refers only to the files created and desgined for the ray tracing functionality of Minecraft's original art resources (found at: https://aka.ms/resourcepacktemplate). This license file applies exclusively to the files edited, designed and created by me.
 
 [1]: Reuploads are allowed as long as you follow the requirements, but discouraged.
 
