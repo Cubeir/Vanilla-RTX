@@ -1,78 +1,59 @@
 {
-  "format_version": 2,
-  "header": {
-    "description": "The Vanilla RTX resource pack, all blocks are covered.\nVersion 1.21.0",
-    "name": "Vanilla RTX",
-    "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-    "version": [
-      1,
-      21,
-      0
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
+        "version": [1, 21, 10],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "vanillartx",
+            "type": "resources",
+            "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
+            "version": [1, 21, 10]
+        }
     ],
-    "min_engine_version": [
-      1,
-      16,
-      200
-    ]
-  },
-  "modules": [
-    {
-      "description": "vanillartx",
-      "type": "resources",
-      "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-      "version": [
-        1,
-        21,
-        0
-      ]
-    }
-  ],
-
-  "metadata": {
-    "authors": [ "CubeIR" ],
-    "license": "https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt",
-    "url": "https://github.com/CubeIR/Vanilla-RTX"
-  },
-
-  "subpacks": [
-    {
-      "folder_name": "2",
-      "name": "Experimental",
-      "memory_tier": 1
+    "metadata": {
+        "authors": [ "CubeIR" ],
+        "license": "https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt",
+        "url": "https://github.com/CubeIR/Vanilla-RTX"
     },
-    {
-      "folder_name": "1",
-      "name": "Fogless",
-      "memory_tier": 1
-    },
-    {
-      "folder_name": "0",
-      "name": "Default",
-      "memory_tier": 1
-    }
-  ],
-  
-  "settings": [
-    {
-      "type": "label",
-      "text": "                                 Options Overview"
-    },
-    {
-      "type": "label",
-      "text": "Default:§i The standard Vanilla RTX experience."
-    },
-    {
-      "type": "label",
-      "text": "Fogless:§i Vanilla RTX with air fog removed."
-    },
-    {
-      "type": "label",
-      "text": "Experimental:§i Enables experimental features and updates."
-    }
-],
-
-  "capabilities": [
-    "raytraced",
-    "pbr"
-  ]
+    "subpacks": [
+        {
+            "folder_name": "experimental",
+            "name": "Experimental",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "fogless",
+            "name": "Fogless",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "default",
+            "name": "Default",
+            "memory_tier": 1
+        }
+    ],
+    "settings": [
+        {
+            "type": "label",
+            "text": "                                 Options Overview"
+        },
+        {
+            "type": "label",
+            "text": "Default: §iStandard Vanilla RTX experience."
+        },
+        {
+            "type": "label",
+            "text": "Fogless: §iVanilla RTX without the air fog."
+        },
+        {
+            "type": "label",
+            "text": "Experimental: §iEnables experimental or work-in-progress features and updates.\nKeep an eye out in the changelogs to see what's new!"
+        }
+    ],
+    "capabilities": [ "raytraced", "pbr" ]
 }

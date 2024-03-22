@@ -2,6 +2,7 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "lava_flow",
-    "metalness_emissive_roughness": "lava_flow_mer"
+    "metalness_emissive_roughness": "lava_flow_mer",
+    "normal": "lava_flow_normal"
   }
 }
