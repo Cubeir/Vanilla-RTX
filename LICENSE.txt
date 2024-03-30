@@ -9,29 +9,30 @@ Vanilla RTX is free and remains free for everyone so you may do the following:
 - Play, capture and share videos/screenshots, modify, redistribute[1] or redistribute a modified version, use in your own projects of any type in any way. (e.g. distributing a modified copy of a pack as a content creator with your videos or streams, including Vanilla RTX in maps, servers and mods, etc...)
 
 By doing any of the above, you agree to follow all of the following requirements:
-- Give clear credit in an appropriate place (e.g. manifest.jsons and content descriptions)
- - Provide a link to at least one of the original sources or other sources listed later in this document.
- - Do not make your derivative projects, content or mirrors appear directly related to Vanilla RTX or official.
+- Give clear credit in an appropriate place (e.g. content descriptions, manifest.jsons, credits, etc...)
+ - Backlink at least one of the original sources or other sources listed later in this document (This is less of an strict requirement, a mention is often enough, however I always appreciate proper attribution).
+ - Do not make your derivative projects, content or mirrors appear official or uploaded by me when they are not.
 
 - Understand that commercial use of Vanilla RTX is prohibited. Ipso facto, selling or claiming authorship over Vanilla RTX is prohibited. This includes locking Vanilla RTX behind a paywall (like the Minecraft Marketplace).
-  Do not monetize content that includes files from Vanilla RTX in other ways (e.g. by forcing ads to access Vanilla RTX, modified or not).
+  Do not monetize content that includes files from Vanilla RTX in other ways (e.g. by forcing ads to give access Vanilla RTX, modified or not).
   Taking voluntary donations is still allowed, but if you’re unfairly profiting off of Vanilla RTX, don’t do it and use common sense when in doubt.
 
 Exceptions:
-- If you're doing anything privately without directly redistributing Vanilla RTX's files, you can ignore all of the license requirements.
-  Capturing and sharing videos and screenshots for any purpose also falls under 'private use'.
-- Giving credit and linking an original source is only required when you are redistributing files created or edited by me or modified versions of Vanilla RTX.
-  In other words, it is not required to provide a link to a source for things that don't include redistribution of files created or edited by me (e.g. in-game videos & screenshots, or anything within the bounds of personal use).
+- If you're doing anything privately that does not redistribute files of Vanilla RTX, you can ignore all of the license requirements.
+
+- Giving credit or linking an original source is only a requirement when you are redistributing files created or edited by me (or modified versions of Vanilla RTX).
+  In other words, it is not required to provide a link to a source for things that don't mean to redistribute files created or edited by me (e.g. sharing videos & screenshots, or anything else within the bounds of personal use).
+
 
 I reserve the right to:
-- Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group. This action would be final, generally only in the case of unusual circumstances.
-- Edit this license at any time for any reason. (Most often for sake of conciseness and clarity)
+- Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group (This action would be final, generally only in the case of unusual circumstances).
+- Edit this license at any time for any reason (Most often for sake of conciseness and clarity).
 
-Original Source:
+Original Sources:
 - http://minecraftrtx.net
 - Vanilla RTX on GitHub: https://github.com/CubeIR/Vanilla-RTX
 - Vanilla RTX on Patreon: https://www.patreon.com/cubeir
-Mirrors:
+Mirrors Include, but not limited to:
 - Vanilla RTX on MCPEDL: https://mcpedl.com/truly-vanilla-rtx
 - Vanilla RTX Showcase pages on PMC:
 https://www.planetminecraft.com/texture-pack/vanilla-rtx-16x
@@ -44,5 +45,4 @@ Contact:
 Disclaimer:
 "Vanilla RTX" (as a package) refers only to the files created and desgined for the ray tracing functionality of Minecraft's original art resources (found at: https://aka.ms/resourcepacktemplate). This license file applies exclusively to the files edited, designed and created by me.
 
-[1]: Reuploads are allowed as long as you follow the requirements, but discouraged.
-
+[1]: This means reuploads are also allowed as long as you follow the license requirements, but I discourage it.
