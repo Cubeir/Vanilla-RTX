@@ -1,6 +1,6 @@
 # Vanilla-RTX
 
-Vanilla RTX Resource Pack for Minecraft RTX.
+Vanilla RTX Resource Pack for Minecraft with RTX.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.16.200 Only ⚠️
 
