@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "heavy_core",
+    "metalness_emissive_roughness": "heavy_core_mer",
+    "normal": "heavy_core_normal"
+  }
+}

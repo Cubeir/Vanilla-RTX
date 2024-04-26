@@ -1,0 +1,51 @@
+{
+    "dried_kelp_block": {
+        "carried_textures": {
+            "down": "dried_kelp_block_top",
+            "east": "dried_kelp_block_side_b",
+            "north": "dried_kelp_block_side_a",
+            "south": "dried_kelp_block_side_b",
+            "up": "dried_kelp_block_top",
+            "west": "dried_kelp_block_side_a"
+        },
+        "sound": "grass",
+        "textures": {
+            "down": "dried_kelp_block_top",
+            "east": "dried_kelp_block_side_b",
+            "north": "dried_kelp_block_side_a",
+            "south": "dried_kelp_block_side_b",
+            "up": "dried_kelp_block_top",
+            "west": "dried_kelp_block_side_a"
+        },
+        "blockshape": "block"
+    },
+    "chiseled_bookshelf": {
+        "carried_textures": {
+            "down": "chiseled_bookshelf_top",
+            "east": "chiseled_bookshelf_side",
+            "north": "chiseled_bookshelf_side",
+            "south": "chiseled_bookshelf_front",
+            "up": "chiseled_bookshelf_top",
+            "west": "chiseled_bookshelf_side"
+        },
+        "textures": {
+            "up": "chiseled_bookshelf_top",
+            "down": "chiseled_bookshelf_top",
+            "north": "chiseled_bookshelf_front",
+            "south": "chiseled_bookshelf_side",
+            "east": "chiseled_bookshelf_side",
+            "west": "chiseled_bookshelf_side"
+        },
+        "sound": "chiseled_bookshelf",
+        "blockshape": "block"
+    },
+    "lit_deepslate_redstone_ore": {
+        "isotropic": false,
+        "sound": "deepslate",
+        "textures": "deepslate_redstone_ore_lit"
+    },
+    "lit_redstone_ore": {
+        "sound": "stone",
+        "textures": "redstone_ore_lit"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:wither",
+            "min_engine_version": "1.8.0",
+            "materials": {
+                "default": "entity_alphatest",
+                "armor": "charged_creeper"
+              },
+            "spawn_egg": {
+                "texture": "spawn_egg_wither_boss"
+            }
+        }
+    }
+}

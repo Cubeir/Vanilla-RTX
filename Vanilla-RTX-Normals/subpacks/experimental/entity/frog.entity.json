@@ -1,0 +1,11 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:frog",
+            "spawn_egg": {
+                "texture": "spawn_egg_frog"
+            }
+        }
+    }
+}

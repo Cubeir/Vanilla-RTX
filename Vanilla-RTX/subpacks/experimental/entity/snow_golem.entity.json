@@ -1,0 +1,12 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:snow_golem",
+            "min_engine_version": "1.8.0",
+            "spawn_egg": {
+                "texture": "spawn_egg_snow_golem"
+            }
+        }
+    }
+}

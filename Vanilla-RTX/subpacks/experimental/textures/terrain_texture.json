@@ -1,0 +1,21 @@
+{
+    "num_mip_levels": 1,
+    "padding": 1,
+    "texture_data": {
+        "deepslate_redstone_ore_lit": {
+            "textures": "textures/blocks/deepslate/deepslate_redstone_ore_lit"
+        },
+        "redstone_ore_lit": {
+            "textures": "textures/blocks/redstone_ore_lit"
+        },
+        "chiseled_bookshelf_front": {
+            "textures": [
+                "textures/blocks/chiseled_bookshelf_empty",
+                "textures/blocks/chiseled_bookshelf_occupied"
+            ]
+        },
+        "chiseled_bookshelf_top": {
+            "textures": "textures/blocks/chiseled_bookshelf_top"
+        }
+    }
+}

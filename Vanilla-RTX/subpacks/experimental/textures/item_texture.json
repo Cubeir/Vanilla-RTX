@@ -1,0 +1,73 @@
+{
+    "texture_data": {
+        "spawn_egg_piglin": {
+            "textures": "textures/items/egg_piglin"
+        },
+        "spawn_egg_hoglin": {
+            "textures": "textures/items/egg_hoglin"
+        },
+        "spawn_egg_zoglin": {
+            "textures": "textures/items/egg_zoglin"
+        },
+        "spawn_egg_strider": {
+            "textures": "textures/items/egg_strider"
+        },
+        "spawn_egg_piglin_brute": {
+            "textures": "textures/items/egg_piglin_brute"
+        },
+        "spawn_egg_goat": {
+            "textures": "textures/items/egg_goat"
+        },
+        "spawn_egg_axolotl": {
+            "textures": "textures/items/egg_axolotl"
+        },
+        "spawn_egg_glow_squid": {
+            "textures": "textures/items/egg_glow_squid"
+        },
+        "spawn_egg_allay": {
+            "textures": "textures/items/egg_allay"
+        },
+        "spawn_egg_frog": {
+            "textures": "textures/items/egg_frog"
+        },
+        "spawn_egg_tadpole": {
+            "textures": "textures/items/egg_tadpole"
+        },
+        "spawn_egg_warden": {
+            "textures": "textures/items/egg_warden"
+        },
+        "spawn_egg_camel": {
+            "textures": "textures/items/egg_camel"
+        },
+        "spawn_egg_ender_dragon": {
+            "textures": "textures/items/egg_ender_dragon"
+        },
+        "spawn_egg_iron_golem": {
+            "textures": "textures/items/egg_iron_golem"
+        },
+        "spawn_egg_polar_bear": {
+            "textures": "textures/items/egg_polar_bear"
+        },
+        "spawn_egg_snow_golem": {
+            "textures": "textures/items/egg_snow_golem"
+        },
+        "spawn_egg_trader_llama": {
+            "textures": "textures/items/egg_trader_llama"
+        },
+        "spawn_egg_wither_boss": {
+            "textures": "textures/items/egg_wither_boss"
+        },
+        "spawn_egg_sniffer": {
+            "textures": "textures/items/egg_sniffer"
+        },
+        "spawn_egg_armadillo": {
+            "textures": "textures/items/egg_armadillo"
+        },
+        "spawn_egg_breeze": {
+            "textures": "textures/items/egg_breeze"
+        },
+        "spawn_egg_bogged": {
+            "textures": "textures/items/egg_bogged"
+        }
+    }
+}
