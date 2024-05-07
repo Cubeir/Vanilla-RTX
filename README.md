@@ -17,7 +17,7 @@ Initial goal of this project was having something similar to [Vanilla Normals Re
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
-![Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/a4355b59-acc7-47a2-93b8-6ca952716d57)
+![Vanilla RTX for Minecraft RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/32f8e0a7-1c9c-4da9-b9e9-9540203e20bf)
 ![Minecraft with RTX Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![Untitled](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
