@@ -12,7 +12,7 @@ Vanilla RTX uses 16x heightmaps (192x normal maps are later generated based on h
 Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.  
 
-Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became known as Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal baseline Minecraft RTX Experience for all Bedrock Edition players.
+Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became known as Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal baseline Minecraft RTX experience for all Bedrock Edition players.
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
@@ -23,7 +23,7 @@ Initial goal of this project was having something similar to [Vanilla Normals Re
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
 ![ice kings vault](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![Vanilla RTX image](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
-For more information and screenshots visit [Vanilla RTX's website](http://minecraftrtx.net/).
+For more information and screenshots visit [this page](http://minecraftrtx.net/).
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
