@@ -2,8 +2,323 @@
   "biomes": {
     "default": {
       "water_surface_color": "#44AFF5",
-      "water_surface_transparency": 0.84,
+      "water_surface_transparency": 0.65,
       "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "plains": {
+      "water_surface_color": "#44AFF5",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "sunflower_plains": {
+      "water_surface_color": "#44AFF5",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "desert": {
+      "water_surface_color": "#32A598",
+      "fog_identifier": "minecraftpbr:fog_ldd"
+    },
+    "extreme_hills": {
+      "water_surface_color": "#007BF7",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "forest": {
+      "water_surface_color": "#1E97F2",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "flower_forest": {
+      "water_surface_color": "#20A3CC",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "taiga": {
+      "water_surface_color": "#287082",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "taiga_mutated": {
+      "water_surface_color": "#1E6B82",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "swampland": {
+      "water_surface_color": "#4c6559",
+      "water_surface_transparency": 1.0,
+      "fog_identifier": "minecraftpbr:fog_swamp"
+    },
+    "swampland_mutated": {
+      "water_surface_color": "#4c6156",
+      "water_surface_transparency": 1.0,
+      "fog_identifier": "minecraftpbr:fog_swamp"
+    },
+    "mangrove_swamp": {
+      "water_surface_color": "#3a7a6a",
+      "fog_identifier": "minecraftpbr:fog_mangrove"
+    },
+    "river": {
+      "water_surface_color": "#0084FF",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "hell": {
+      "water_surface_color": "#905957",
+      "fog_identifier": "minecraftpbr:hell"
+    },
+    "the_end": {
+      "water_surface_color": "#62529e",
+      "fog_identifier": "minecraftpbr:fog_end"
+    },
+    "frozen_river": {
+      "water_surface_color": "#185390",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "ice_plains": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:fog_snow"
+    },
+    "ice_plains_spikes": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:cold_spike"
+    },
+    "ice_mountains": {
+      "water_surface_color": "#1156a7",
+      "fog_identifier": "minecraftpbr:fog_snow"
+    },
+    "mushroom_island": {
+      "water_surface_color": "#8a8997",
+      "fog_identifier": "minecraftpbr:fog_mushroom"
+    },
+    "mushroom_island_shore": {
+      "water_surface_color": "#818193",
+      "fog_identifier": "minecraftpbr:fog_mushroom"
+    },
+    "beach": {
+      "water_surface_color": "#157cab",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "desert_hills": {
+      "water_surface_color": "#1a7aa1",
+      "fog_identifier": "minecraftpbr:fog_ldd"
+    },
+    "forest_hills": {
+      "water_surface_color": "#056bd1",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "taiga_hills": {
+      "water_surface_color": "#236583",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "extreme_hills_edge": {
+      "water_surface_color": "#045cd5",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "jungle": {
+      "water_surface_color": "#14A2C5",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "bamboo_jungle": {
+      "water_surface_color": "#14A2C5",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "jungle_mutated": {
+      "water_surface_color": "#1B9ED8",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "jungle_hills": {
+      "water_surface_color": "#1B9ED8",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "bamboo_jungle_hills": {
+      "water_surface_color": "#1B9ED8",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "jungle_edge": {
+      "water_surface_color": "#0D8AE3",
+      "fog_identifier": "minecraftpbr:green"
+    },
+    "stone_beach": {
+      "water_surface_color": "#0d67bb",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "cold_beach": {
+      "water_surface_color": "#1463a5",
+      "fog_identifier": "minecraftpbr:fog_snow"
+    },
+    "birch_forest": {
+      "water_surface_color": "#0677ce",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "birch_forest_hills": {
+      "water_surface_color": "#0a74c4",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "roofed_forest": {
+      "water_surface_color": "#3B6CD1",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "cold_taiga": {
+      "water_surface_color": "#205e83",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "cold_taiga_mutated": {
+      "water_surface_color": "#205e83",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "cold_taiga_hills": {
+      "water_surface_color": "#245b78",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "mega_taiga": {
+      "water_surface_color": "#2d6d77",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "mega_spruce_taiga": {
+      "water_surface_color": "#2d6d77",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "mega_taiga_mutated": {
+      "water_surface_color": "#2d6d77",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "mega_spruce_taiga_mutated": {
+      "water_surface_color": "#2d6d77",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "mega_taiga_hills": {
+      "water_surface_color": "#286378",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "extreme_hills_plus_trees": {
+      "water_surface_color": "#0E63AB",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "extreme_hills_plus_trees_mutated": {
+      "water_surface_color": "#0E63AB",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "extreme_hills_mutated": {
+      "water_surface_color": "#0E63AB",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "savanna": {
+      "water_surface_color": "#2C8B9C",
+      "fog_identifier": "minecraftpbr:fog_savanna"
+    },
+    "savanna_plateau": {
+      "water_surface_color": "#2590A8",
+      "fog_identifier": "minecraftpbr:fog_savanna"
+    },
+    "savanna_mutated": {
+      "water_surface_color": "#2590A8",
+      "fog_identifier": "minecraftpbr:fog_savanna"
+    },
+    "mesa": {
+      "water_surface_color": "#4E7F81",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "mesa_bryce": {
+      "water_surface_color": "#497F99",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "mesa_mutated": {
+      "water_surface_color": "#497F99",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "mesa_plateau_stone": {
+      "water_surface_color": "#55809E",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "mesa_plateau": {
+      "water_surface_color": "#55809E",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "ocean": {
+      "water_surface_color": "#1787D4",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "deep_ocean": {
+      "water_surface_color": "#1787D4",
+      "fog_identifier": "minecraftpbr:fog_default"
+    },
+    "warm_ocean": {
+      "water_surface_color": "#02B0E5",
+      "water_surface_transparency": 0.55,
+      "fog_identifier": "minecraftpbr:fog_aqua"
+    },
+    "deep_warm_ocean": {
+      "water_surface_color": "#02B0E5",
+      "fog_identifier": "minecraftpbr:fog_aqua"
+    },
+    "lukewarm_ocean": {
+      "water_surface_color": "#0D96DB",
+      "fog_identifier": "minecraftpbr:fog_aqua"
+    },
+    "deep_lukewarm_ocean": {
+      "water_surface_color": "#0D96DB",
+      "fog_identifier": "minecraftpbr:fog_aqua"
+    },
+    "cold_ocean": {
+      "water_surface_color": "#2080C9",
+      "fog_identifier": "minecraftpbr:cold_ocean"
+    },
+    "deep_cold_ocean": {
+      "water_surface_color": "#2080C9",
+      "fog_identifier": "minecraftpbr:cold_ocean"
+    },
+    "frozen_ocean": {
+      "water_surface_color": "#2570B5",
+      "fog_identifier": "minecraftpbr:cold_ocean"
+    },
+    "deep_frozen_ocean": {
+      "water_surface_color": "#2570B5",
+      "fog_identifier": "minecraftpbr:cold_ocean"
+    },
+    "warped_forest": {
+      "water_surface_color": "#905957",
+      "fog_identifier": "minecraftpbr:warped"
+    },
+    "crimson_forest": {
+      "water_surface_color": "#905957",
+      "fog_identifier": "minecraftpbr:crimson"
+    },
+    "soulsand_valley": {
+      "water_surface_color": "#905957",
+      "fog_identifier": "minecraftpbr:soulv"
+    },
+    "basalt_deltas": {
+      "water_surface_color": "#3f76e4",
+      "fog_identifier": "minecraftpbr:basalt"
+    },
+    "frozen_peaks": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "snowy_slopes": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "jagged_peaks": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "grove": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:cold"
+    },
+    "stony_peaks": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:fog_default_alt"
+    },
+    "deep_dark": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:default_caves"
+    },
+    "lush_caves": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:default_caves"
+    },
+    "dripstone_caves": {
+      "water_surface_color": "#14559b",
+      "fog_identifier": "minecraftpbr:default_caves"
+    },
+    "cherry_grove": {
+      "water_surface_color": "#5db7ef",
+      "fog_identifier": "minecraftpbr:fog_cherry_grove"
     }
   }
 }

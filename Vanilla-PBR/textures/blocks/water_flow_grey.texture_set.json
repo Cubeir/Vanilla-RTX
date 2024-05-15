@@ -1,1 +1,1 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"water_flow_grey", "metalness_emissive_roughness":"water_still_grey_mer"}}
+{"format_version":"1.16.100","minecraft:texture_set":{"color":"water_flow_grey", "metalness_emissive_roughness":"water_flow_grey_mer", "normal":"water_flow_grey_normal"}}

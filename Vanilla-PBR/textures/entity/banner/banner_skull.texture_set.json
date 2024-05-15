@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "banner_skull",
-    "metalness_emissive_roughness": "banner_skull_mer",
-    "heightmap": "banner_skull_heightmap"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "npc_teacher_3",
-    "metalness_emissive_roughness": "npc_teacher_3_mer",
-    "heightmap": "npc_teacher_3_heightmap"
-  }
-}

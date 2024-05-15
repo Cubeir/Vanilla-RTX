@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chain_2",
+    "metalness_emissive_roughness": "chain_2_material",
+    "heightmap": "chain_2_heightmap"
+  }
+}

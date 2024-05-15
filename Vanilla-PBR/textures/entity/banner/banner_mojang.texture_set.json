@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "banner_mojang",
-    "metalness_emissive_roughness": "banner_mojang_mer",
-    "heightmap": "banner_mojang_heightmap"
-  }
-}

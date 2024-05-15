@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sonic_explosion",
+    "metalness_emissive_roughness": "sonic_explosion_mer",
+    "heightmap": "sonic_explosion_heightmap"
+  }
+}

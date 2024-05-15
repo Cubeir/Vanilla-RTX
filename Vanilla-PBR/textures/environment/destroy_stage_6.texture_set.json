@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "destroy_stage_6",
+    "metalness_emissive_roughness": "destroy_stage_6_mer",
+    "heightmap": "destroy_stage_6_heightmap"
+  }
+}

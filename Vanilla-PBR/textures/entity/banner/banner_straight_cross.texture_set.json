@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "banner_straight_cross",
-    "metalness_emissive_roughness": "banner_straight_cross_mer",
-    "heightmap": "banner_straight_cross_heightmap"
-  }
-}

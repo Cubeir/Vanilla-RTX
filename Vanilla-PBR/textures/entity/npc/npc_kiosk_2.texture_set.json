@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "npc_kiosk_2",
-    "metalness_emissive_roughness": "npc_kiosk_2_mer",
-    "heightmap": "npc_kiosk_2_heightmap"
-  }
-}

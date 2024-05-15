@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "npc_scientist_3",
-    "metalness_emissive_roughness": "npc_scientist_3_mer",
-    "heightmap": "npc_scientist_3_heightmap"
-  }
-}

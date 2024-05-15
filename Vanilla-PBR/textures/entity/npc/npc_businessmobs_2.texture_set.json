@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "npc_businessmobs_2",
-    "metalness_emissive_roughness": "npc_businessmobs_2_mer",
-    "heightmap": "npc_businessmobs_2_heightmap"
-  }
-}

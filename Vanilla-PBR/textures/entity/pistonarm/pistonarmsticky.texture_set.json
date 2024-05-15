@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "pistonarmsticky",
-    "metalness_emissive_roughness": "pistonarmsticky_mer",
-    "heightmap": "pistonarmsticky_heightmap"
-  }
-}

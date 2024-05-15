@@ -1,8 +1,0 @@
-{
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "npc_4",
-    "metalness_emissive_roughness": "npc_4_mer",
-    "heightmap": "npc_4_heightmap"
-  }
-}

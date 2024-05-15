@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "gold_1",
+    "metalness_emissive_roughness": "gold_1_material",
+    "heightmap": "gold_1_heightmap"
+  }
+}
