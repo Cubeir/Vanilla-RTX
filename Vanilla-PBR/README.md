@@ -1,14 +1,15 @@
 # Vanilla-PBR
 
-A derivative work & offshoot of Vanilla RTX that uses Deferred Lighting Rendering Pipeline features in latest Minecraft versions.
+A derivative work & offshoot of Vanilla RTX that uses Deferred Lighting Rendering Pipeline features in latest Minecraft Previews.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.20.30.20 Only ⚠️
+⚠️ Windows 10/11, Xbox, Android 9 - Bedrock Edition +1.21.0.22 Only ⚠️
 
 ## Description
 
 For more information & installation guides visit Vanilla PBR's [mcpedl](https://mcpedl.com/vanilla-pbr) page.
 
-![vanilla pbr deferred shaders render dragon bedrock](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/61593596-f4ac-4541-83e7-ab123cf72f98)
-![Lighting Shaders Room Vanilla PBR image](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/f50a59ef-2211-4bd0-b539-25ca48e8d4de)
-![bedrock shaders render dragon deferred lighting (1)](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/56c7e9b7-68fd-4bd5-b404-42ac82a9fecd)
-![bedrock shaders render dragon deferred lighting (2)](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/b180cecd-c790-4db7-a34f-2151a92966f3)
+![vanilla-pbr-deferred-lighting-front-image](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/8a164984-5f80-4c96-b819-2f9ab2e24796)
+![Deferred Graphics Water Waves Showcase](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/c1e8ca9f-484c-419f-872f-5ff877efa3b9)
+![Ice King's Vault Fog Showcase](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/a436dc65-37e5-4ec8-bfb3-0b379222782e)
+![Deferred Lighting Fog](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/948de9cf-b3f4-43ff-93f7-8850ef583991)
+![Deferred Lighting Room Showcase](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/27f71657-abc0-4f8e-bcbd-052e2a205cbe)
