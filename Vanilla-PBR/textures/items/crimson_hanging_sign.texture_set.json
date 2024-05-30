@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "crimson_hanging_sign",
+    "metalness_emissive_roughness": "crimson_hanging_sign_material",
+    "heightmap": "crimson_hanging_sign_heightmap"
+  }
+}

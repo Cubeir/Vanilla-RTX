@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:green"
@@ -27,14 +27,18 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.19,
+          "max_density": 0.18,
           "max_density_height": 30,
           "zero_density_height": 190
         },
-        
         "water": {
           "max_density": 1.0,
           "uniform": true
+        },
+        "weather":{
+          "max_density": 0.24,
+          "max_density_height": 128,
+          "zero_density_height": 300
         }
       },
       "media_coefficients": {

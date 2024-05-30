@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "goat_horn",
+    "metalness_emissive_roughness": "goat_horn_material",
+    "heightmap": "goat_horn_heightmap"
+  }
+}

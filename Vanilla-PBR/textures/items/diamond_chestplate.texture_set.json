@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "diamond_chestplate",
+    "metalness_emissive_roughness": "diamond_chestplate_material",
+    "heightmap": "diamond_chestplate_heightmap"
+  }
+}

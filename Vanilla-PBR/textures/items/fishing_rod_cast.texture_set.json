@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "fishing_rod_cast",
+    "metalness_emissive_roughness": "fishing_rod_cast_material",
+    "heightmap": "fishing_rod_cast_heightmap"
+  }
+}

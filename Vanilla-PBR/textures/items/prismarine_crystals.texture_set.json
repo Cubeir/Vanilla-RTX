@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "prismarine_crystals",
+    "metalness_emissive_roughness": "prismarine_crystals_material",
+    "heightmap": "prismarine_crystals_heightmap"
+  }
+}

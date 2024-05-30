@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "brewing_stand",
+    "metalness_emissive_roughness": "brewing_stand_material",
+    "heightmap": "brewing_stand_heightmap"
+  }
+}

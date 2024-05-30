@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "heartofthesea_closed",
+    "metalness_emissive_roughness": "heartofthesea_closed_material",
+    "heightmap": "heartofthesea_closed_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bow_pulling_0",
+    "metalness_emissive_roughness": "bow_pulling_0_material",
+    "heightmap": "bow_pulling_0_heightmap"
+  }
+}

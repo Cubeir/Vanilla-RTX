@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "turtle_shell_piece",
+    "metalness_emissive_roughness": "turtle_shell_piece_material",
+    "heightmap": "turtle_shell_piece_heightmap"
+  }
+}

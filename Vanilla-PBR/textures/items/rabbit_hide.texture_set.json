@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "rabbit_hide",
+    "metalness_emissive_roughness": "rabbit_hide_material",
+    "heightmap": "rabbit_hide_heightmap"
+  }
+}

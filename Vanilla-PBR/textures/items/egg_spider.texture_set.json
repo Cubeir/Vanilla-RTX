@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_spider",
+    "metalness_emissive_roughness": "egg_spider_material",
+    "heightmap": "egg_spider_heightmap"
+  }
+}

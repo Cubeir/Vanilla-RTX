@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:fog_savanna"
@@ -27,7 +27,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.12,
+          "max_density": 0.11,
           "max_density_height": 50,
           "zero_density_height": 256
         },

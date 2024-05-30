@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "eye_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "eye_armor_trim_smithing_template_material",
+    "heightmap": "eye_armor_trim_smithing_template_heightmap"
+  }
+}

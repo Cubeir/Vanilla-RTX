@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "rabbit_foot",
+    "metalness_emissive_roughness": "rabbit_foot_material",
+    "heightmap": "rabbit_foot_heightmap"
+  }
+}

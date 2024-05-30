@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "record_5",
+    "metalness_emissive_roughness": "record_5_material",
+    "heightmap": "record_5_heightmap"
+  }
+}

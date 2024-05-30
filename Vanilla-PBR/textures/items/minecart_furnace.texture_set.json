@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "minecart_furnace",
+    "metalness_emissive_roughness": "minecart_furnace_material",
+    "heightmap": "minecart_furnace_heightmap"
+  }
+}

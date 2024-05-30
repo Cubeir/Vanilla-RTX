@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_evoker",
+    "metalness_emissive_roughness": "egg_evoker_material",
+    "heightmap": "egg_evoker_heightmap"
+  }
+}

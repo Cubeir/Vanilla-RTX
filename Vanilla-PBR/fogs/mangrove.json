@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:fog_mangrove"
@@ -27,13 +27,18 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.24,
+          "max_density": 0.23,
           "max_density_height": 84,
           "zero_density_height": 128
         },
         "water": {
           "max_density": 1.0,
           "uniform": true
+        },
+        "weather":{
+          "max_density": 0.27,
+          "max_density_height": 128,
+          "zero_density_height": 300
         }
       },
       "media_coefficients": {

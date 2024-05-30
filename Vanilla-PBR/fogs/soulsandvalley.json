@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:soulv"
@@ -21,7 +21,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.07,
+          "max_density": 0.046,
           "uniform": true
         }
       },

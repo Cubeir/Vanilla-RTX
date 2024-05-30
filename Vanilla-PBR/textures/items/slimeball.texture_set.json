@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "slimeball",
+    "metalness_emissive_roughness": "slimeball_material",
+    "heightmap": "slimeball_heightmap"
+  }
+}

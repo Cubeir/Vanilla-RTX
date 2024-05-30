@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "flint_and_steel",
+    "metalness_emissive_roughness": "flint_and_steel_material",
+    "heightmap": "flint_and_steel_heightmap"
+  }
+}

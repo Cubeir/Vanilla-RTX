@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_bat",
+    "metalness_emissive_roughness": "egg_bat_material",
+    "heightmap": "egg_bat_heightmap"
+  }
+}

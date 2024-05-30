@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "book_writable",
+    "metalness_emissive_roughness": "book_writable_material",
+    "heightmap": "book_writable_heightmap"
+  }
+}

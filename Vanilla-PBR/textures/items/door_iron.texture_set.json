@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "door_iron",
+    "metalness_emissive_roughness": "door_iron_material",
+    "heightmap": "door_iron_heightmap"
+  }
+}

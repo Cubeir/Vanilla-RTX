@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:cold_spike"
@@ -27,7 +27,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.021,
+          "max_density": 0.019,
           "max_density_height": 40,
           "zero_density_height": 250
         },

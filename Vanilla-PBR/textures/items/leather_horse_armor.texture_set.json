@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "leather_horse_armor",
+    "metalness_emissive_roughness": "leather_horse_armor_material",
+    "heightmap": "leather_horse_armor_heightmap"
+  }
+}

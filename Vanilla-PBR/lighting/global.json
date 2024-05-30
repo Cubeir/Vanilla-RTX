@@ -7,20 +7,20 @@
       {
            "illuminance" :
            {
-            "0.0": 1000.0,
-            "0.167": 950.0, 
-            "0.2": 750,           
-            "0.21041673": 300.0,  
-            "0.25": 150.0,          
-            "0.257083322": 100.0,  
-            "0.742916678": 100.0,  
-            "0.75": 150.0,         
-            "0.78958327": 300.0,   
-            "0.8": 850.0, 
-            "0.833": 950.0, 
-            "1.0": 1000.0
+            "0.0": 0.0,
+            "0.167": 3.0,
+            "0.2": 9.0,
+            "0.21041673": 12.0,
+            "0.25": 1024.0,
+            "0.257083322": 2047.0,
+            "0.5": 4090,
+            "0.742916678": 2047.0,
+            "0.75": 1024.0,
+            "0.78958327": 12.0,
+            "0.8": 9.0,
+            "0.833": 3.0,
+            "1.0": 0.0
            },
-
            "color": {
             "0.0": [4, 6, 9, 74],
             "0.1": [181, 115, 106, 120],
@@ -40,18 +40,18 @@
        {
            "illuminance" :
            {
-            "0.0": 1.23, 
-            "0.167": 1.17, 
-            "0.2": 1.04,           
-            "0.21041673": 0.71,  
-            "0.25": 0.5,          
-            "0.257083322": 0.49,  
-            "0.742916678": 0.49,  
-            "0.75": 0.5,         
-            "0.78958327": 0.71,   
-            "0.8": 1.04, 
-            "0.833": 1.17, 
-            "1.0": 1.23
+            "0.0": 2.4569, 
+            "0.167": 2.387, 
+            "0.2": 2.236,
+            "0.21041673": 1.887,
+            "0.25": 1.65,
+            "0.257083322": 1.6389,
+            "0.742916678": 1.6389,
+            "0.75": 1.65,
+            "0.78958327": 1.887,
+            "0.8": 2.236, 
+            "0.833": 2.387, 
+            "1.0": 2.4569
            },
            
            "color" :
@@ -83,19 +83,27 @@
       "particles":
       {
          "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
+      },
+      "items":
+      {
+         "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
       }
     },
 
     "point_lights": {
       "colors": {
-         "minecraft:copper_bulb_lit_powered": "#F2B779",
-         "minecraft:copper_bulb_lit": "#F2B779",
-         "minecraft:exposed_copper_bulb_lit_powered": "#F3B16C",
-         "minecraft:exposed_copper_bulb_lit": "#F3B16C",
-         "minecraft:oxidized_copper_bulb_lit_powered": "#F29954",
-         "minecraft:oxidized_copper_bulb_lit": "#F29954",
-         "minecraft:weathered_copper_bulb_lit_powered": "#F4AD61",
-         "minecraft:weathered_copper_bulb_lit": "#F4AD61",
+         "minecraft:cave_wines_head_with_berries": "#DB9C59",
+         "minecraft:cave_wines_body_with_berries": "#DB9C59",
+         "minecraft:trial_spawner": "#FFF1E8",
+         "minecraft:vault": "#FFF1E8",
+         "minecraft:waxed_copper_bulb": "#F2B779",
+         "minecraft:copper_bulb": "#F2B779",
+         "minecraft:waxed_exposed_copper_bulb": "#F3B16C",
+         "minecraft:exposed_copper_bulb_": "#F3B16C",
+         "minecraft:waxed_oxidized_copper_bulb": "#F29954",
+         "minecraft:oxidized_copper_bulb": "#F29954",
+         "minecraft:waxed_weathered_copper_bulb": "#F4AD61",
+         "minecraft:weathered_copper_bulb": "#F4AD61",
          "minecraft:amethyst_cluster": "#B189D9",
          "minecraft:large_amethyst_bud": "#9C7ABF",
          "minecraft:medium_amethyst_bud": "#80659E",

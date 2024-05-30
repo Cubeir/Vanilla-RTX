@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "brush",
+    "metalness_emissive_roughness": "brush_material",
+    "heightmap": "brush_heightmap"
+  }
+}

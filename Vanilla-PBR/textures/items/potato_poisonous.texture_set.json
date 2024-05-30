@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "potato_poisonous",
+    "metalness_emissive_roughness": "potato_poisonous_material",
+    "heightmap": "potato_poisonous_heightmap"
+  }
+}

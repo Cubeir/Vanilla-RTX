@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "record_stal",
+    "metalness_emissive_roughness": "record_stal_material",
+    "heightmap": "record_stal_heightmap"
+  }
+}

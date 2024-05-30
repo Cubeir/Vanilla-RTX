@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_mule",
+    "metalness_emissive_roughness": "egg_mule_material",
+    "heightmap": "egg_mule_heightmap"
+  }
+}

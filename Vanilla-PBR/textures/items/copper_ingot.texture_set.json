@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "copper_ingot",
+    "metalness_emissive_roughness": "copper_ingot_material",
+    "heightmap": "copper_ingot_heightmap"
+  }
+}

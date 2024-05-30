@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "netherite_sword",
+    "metalness_emissive_roughness": "netherite_sword_material",
+    "heightmap": "netherite_sword_heightmap"
+  }
+}

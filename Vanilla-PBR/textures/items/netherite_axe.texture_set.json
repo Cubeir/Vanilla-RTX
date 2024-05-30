@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "netherite_axe",
+    "metalness_emissive_roughness": "netherite_axe_material",
+    "heightmap": "netherite_axe_heightmap"
+  }
+}

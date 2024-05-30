@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "pumpkin_pie",
+    "metalness_emissive_roughness": "pumpkin_pie_material",
+    "heightmap": "pumpkin_pie_heightmap"
+  }
+}

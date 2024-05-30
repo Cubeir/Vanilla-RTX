@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "spider_eye_fermented",
+    "metalness_emissive_roughness": "spider_eye_fermented_material",
+    "heightmap": "spider_eye_fermented_heightmap"
+  }
+}

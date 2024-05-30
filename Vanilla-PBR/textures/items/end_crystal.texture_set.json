@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "end_crystal",
+    "metalness_emissive_roughness": "end_crystal_material",
+    "heightmap": "end_crystal_heightmap"
+  }
+}

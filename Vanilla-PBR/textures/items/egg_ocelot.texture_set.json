@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_ocelot",
+    "metalness_emissive_roughness": "egg_ocelot_material",
+    "heightmap": "egg_ocelot_heightmap"
+  }
+}

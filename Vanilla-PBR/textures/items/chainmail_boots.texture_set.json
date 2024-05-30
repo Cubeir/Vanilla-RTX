@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chainmail_boots",
+    "metalness_emissive_roughness": "chainmail_boots_material",
+    "heightmap": "chainmail_boots_heightmap"
+  }
+}

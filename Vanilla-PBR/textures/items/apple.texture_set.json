@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "apple",
+    "metalness_emissive_roughness": "apple_material",
+    "heightmap": "apple_heightmap"
+  }
+}

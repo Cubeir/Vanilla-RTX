@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "dragon_fireball",
+    "metalness_emissive_roughness": "dragon_fireball_material",
+    "heightmap": "dragon_fireball_heightmap"
+  }
+}

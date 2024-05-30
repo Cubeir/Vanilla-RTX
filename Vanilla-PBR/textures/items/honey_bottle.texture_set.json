@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "honey_bottle",
+    "metalness_emissive_roughness": "honey_bottle_material",
+    "heightmap": "honey_bottle_heightmap"
+  }
+}

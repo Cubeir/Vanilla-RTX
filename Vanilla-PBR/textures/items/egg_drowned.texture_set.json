@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_drowned",
+    "metalness_emissive_roughness": "egg_drowned_material",
+    "heightmap": "egg_drowned_heightmap"
+  }
+}

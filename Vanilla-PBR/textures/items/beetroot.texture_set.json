@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "beetroot",
+    "metalness_emissive_roughness": "beetroot_material",
+    "heightmap": "beetroot_heightmap"
+  }
+}

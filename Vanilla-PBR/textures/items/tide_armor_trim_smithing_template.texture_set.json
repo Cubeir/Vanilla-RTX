@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "tide_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "tide_armor_trim_smithing_template_material",
+    "heightmap": "tide_armor_trim_smithing_template_heightmap"
+  }
+}

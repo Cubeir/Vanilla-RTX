@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_turtle",
+    "metalness_emissive_roughness": "egg_turtle_material",
+    "heightmap": "egg_turtle_heightmap"
+  }
+}

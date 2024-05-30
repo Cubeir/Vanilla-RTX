@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "seeds_melon",
+    "metalness_emissive_roughness": "seeds_melon_material",
+    "heightmap": "seeds_melon_heightmap"
+  }
+}

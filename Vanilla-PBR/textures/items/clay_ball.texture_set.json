@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "clay_ball",
+    "metalness_emissive_roughness": "clay_ball_material",
+    "heightmap": "clay_ball_heightmap"
+  }
+}

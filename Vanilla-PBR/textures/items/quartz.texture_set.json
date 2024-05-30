@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "quartz",
+    "metalness_emissive_roughness": "quartz_material",
+    "heightmap": "quartz_heightmap"
+  }
+}

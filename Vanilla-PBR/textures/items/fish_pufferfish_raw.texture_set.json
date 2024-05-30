@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "fish_pufferfish_raw",
+    "metalness_emissive_roughness": "fish_pufferfish_raw_material",
+    "heightmap": "fish_pufferfish_raw_heightmap"
+  }
+}

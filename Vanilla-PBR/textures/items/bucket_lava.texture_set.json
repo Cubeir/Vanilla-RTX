@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bucket_lava",
+    "metalness_emissive_roughness": "bucket_lava_material",
+    "heightmap": "bucket_lava_heightmap"
+  }
+}

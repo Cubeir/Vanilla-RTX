@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "arms_up_pottery_sherd",
+    "metalness_emissive_roughness": "arms_up_pottery_sherd_material",
+    "heightmap": "arms_up_pottery_sherd_heightmap"
+  }
+}

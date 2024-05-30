@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "porkchop_cooked",
+    "metalness_emissive_roughness": "porkchop_cooked_material",
+    "heightmap": "porkchop_cooked_heightmap"
+  }
+}

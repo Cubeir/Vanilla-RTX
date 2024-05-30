@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "broken_elytra",
+    "metalness_emissive_roughness": "broken_elytra_material",
+    "heightmap": "broken_elytra_heightmap"
+  }
+}

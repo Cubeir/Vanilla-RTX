@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "glow_berries",
+    "metalness_emissive_roughness": "glow_berries_material",
+    "heightmap": "glow_berries_heightmap"
+  }
+}

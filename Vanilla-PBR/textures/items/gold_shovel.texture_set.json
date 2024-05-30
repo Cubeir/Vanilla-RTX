@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "gold_shovel",
+    "metalness_emissive_roughness": "gold_shovel_material",
+    "heightmap": "gold_shovel_heightmap"
+  }
+}

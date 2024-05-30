@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "leather_leggings",
+    "metalness_emissive_roughness": "leather_leggings_material",
+    "heightmap": "leather_leggings_heightmap"
+  }
+}

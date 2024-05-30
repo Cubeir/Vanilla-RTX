@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "wood_pickaxe",
+    "metalness_emissive_roughness": "wood_pickaxe_material",
+    "heightmap": "wood_pickaxe_heightmap"
+  }
+}

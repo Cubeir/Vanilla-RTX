@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sign_birch",
+    "metalness_emissive_roughness": "sign_birch_material",
+    "heightmap": "sign_birch_heightmap"
+  }
+}

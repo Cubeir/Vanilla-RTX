@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bed_pink",
+    "metalness_emissive_roughness": "bed_pink_material",
+    "heightmap": "bed_pink_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "gray_candle",
+    "metalness_emissive_roughness": "gray_candle_material",
+    "heightmap": "gray_candle_heightmap"
+  }
+}

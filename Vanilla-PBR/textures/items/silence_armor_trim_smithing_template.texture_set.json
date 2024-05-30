@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "silence_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "silence_armor_trim_smithing_template_material",
+    "heightmap": "silence_armor_trim_smithing_template_heightmap"
+  }
+}

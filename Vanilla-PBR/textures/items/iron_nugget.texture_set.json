@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "iron_nugget",
+    "metalness_emissive_roughness": "iron_nugget_material",
+    "heightmap": "iron_nugget_heightmap"
+  }
+}

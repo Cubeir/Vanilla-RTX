@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "dune_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "dune_armor_trim_smithing_template_material",
+    "heightmap": "dune_armor_trim_smithing_template_heightmap"
+  }
+}

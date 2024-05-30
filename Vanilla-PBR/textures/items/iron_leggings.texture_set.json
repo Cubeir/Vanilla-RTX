@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "iron_leggings",
+    "metalness_emissive_roughness": "iron_leggings_material",
+    "heightmap": "iron_leggings_heightmap"
+  }
+}

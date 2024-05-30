@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "raw_copper",
+    "metalness_emissive_roughness": "raw_copper_material",
+    "heightmap": "raw_copper_heightmap"
+  }
+}

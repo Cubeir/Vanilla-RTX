@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "empty_armor_slot_helmet",
+    "metalness_emissive_roughness": "empty_armor_slot_helmet_material",
+    "heightmap": "empty_armor_slot_helmet_heightmap"
+  }
+}

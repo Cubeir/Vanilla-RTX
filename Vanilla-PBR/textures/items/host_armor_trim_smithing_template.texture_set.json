@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "host_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "host_armor_trim_smithing_template_material",
+    "heightmap": "host_armor_trim_smithing_template_heightmap"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:fog_cherry_grove"
@@ -27,13 +27,18 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.274,
+          "max_density": 0.244,
           "max_density_height": 90,
           "zero_density_height": 262
         },
         "water": {
           "max_density": 1.0,
           "uniform": true
+        },
+        "weather":{
+          "max_density": 0.29,
+          "max_density_height": 100,
+          "zero_density_height": 264
         }
       },
       "media_coefficients": {

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_shulker",
+    "metalness_emissive_roughness": "egg_shulker_material",
+    "heightmap": "egg_shulker_heightmap"
+  }
+}

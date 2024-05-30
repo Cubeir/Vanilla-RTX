@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "raw_iron",
+    "metalness_emissive_roughness": "raw_iron_material",
+    "heightmap": "raw_iron_heightmap"
+  }
+}

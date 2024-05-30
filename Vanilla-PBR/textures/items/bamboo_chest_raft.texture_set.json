@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bamboo_chest_raft",
+    "metalness_emissive_roughness": "bamboo_chest_raft_material",
+    "heightmap": "bamboo_chest_raft_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "seeds_wheat",
+    "metalness_emissive_roughness": "seeds_wheat_material",
+    "heightmap": "seeds_wheat_heightmap"
+  }
+}

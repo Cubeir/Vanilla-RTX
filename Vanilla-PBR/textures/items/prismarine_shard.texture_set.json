@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "prismarine_shard",
+    "metalness_emissive_roughness": "prismarine_shard_material",
+    "heightmap": "prismarine_shard_heightmap"
+  }
+}

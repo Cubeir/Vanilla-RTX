@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "map_monument",
+    "metalness_emissive_roughness": "map_monument_material",
+    "heightmap": "map_monument_heightmap"
+  }
+}

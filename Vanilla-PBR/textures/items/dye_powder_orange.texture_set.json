@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "dye_powder_orange",
+    "metalness_emissive_roughness": "dye_powder_orange_material",
+    "heightmap": "dye_powder_orange_heightmap"
+  }
+}

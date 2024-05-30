@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "recovery_compass_atlas",
+    "metalness_emissive_roughness": "recovery_compass_atlas_material",
+    "heightmap": "recovery_compass_atlas_heightmap"
+  }
+}

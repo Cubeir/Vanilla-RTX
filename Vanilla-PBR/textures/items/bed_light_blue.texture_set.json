@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bed_light_blue",
+    "metalness_emissive_roughness": "bed_light_blue_material",
+    "heightmap": "bed_light_blue_heightmap"
+  }
+}

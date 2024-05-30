@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "dragons_breath",
+    "metalness_emissive_roughness": "dragons_breath_material",
+    "heightmap": "dragons_breath_heightmap"
+  }
+}

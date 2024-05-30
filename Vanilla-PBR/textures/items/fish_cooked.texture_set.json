@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "fish_cooked",
+    "metalness_emissive_roughness": "fish_cooked_material",
+    "heightmap": "fish_cooked_heightmap"
+  }
+}

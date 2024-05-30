@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "ghast_tear",
+    "metalness_emissive_roughness": "ghast_tear_material",
+    "heightmap": "ghast_tear_heightmap"
+  }
+}

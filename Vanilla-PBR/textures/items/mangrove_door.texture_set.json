@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "mangrove_door",
+    "metalness_emissive_roughness": "mangrove_door_material",
+    "heightmap": "mangrove_door_heightmap"
+  }
+}

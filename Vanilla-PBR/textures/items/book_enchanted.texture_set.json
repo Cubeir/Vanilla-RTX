@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "book_enchanted",
+    "metalness_emissive_roughness": "book_enchanted_material",
+    "heightmap": "book_enchanted_heightmap"
+  }
+}

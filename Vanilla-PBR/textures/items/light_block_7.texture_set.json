@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "light_block_7",
+    "metalness_emissive_roughness": "light_block_7_material",
+    "heightmap": "light_block_7_heightmap"
+  }
+}

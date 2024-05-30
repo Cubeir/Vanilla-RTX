@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "spruce_hanging_sign",
+    "metalness_emissive_roughness": "spruce_hanging_sign_material",
+    "heightmap": "spruce_hanging_sign_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "amethyst_shard",
+    "metalness_emissive_roughness": "amethyst_shard_material",
+    "heightmap": "amethyst_shard_heightmap"
+  }
+}

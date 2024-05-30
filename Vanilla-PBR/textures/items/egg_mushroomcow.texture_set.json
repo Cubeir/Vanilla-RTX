@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_mushroomcow",
+    "metalness_emissive_roughness": "egg_mushroomcow_material",
+    "heightmap": "egg_mushroomcow_heightmap"
+  }
+}

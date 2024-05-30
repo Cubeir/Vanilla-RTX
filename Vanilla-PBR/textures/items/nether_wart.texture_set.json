@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "nether_wart",
+    "metalness_emissive_roughness": "nether_wart_material",
+    "heightmap": "nether_wart_heightmap"
+  }
+}

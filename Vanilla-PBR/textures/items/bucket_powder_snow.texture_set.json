@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bucket_powder_snow",
+    "metalness_emissive_roughness": "bucket_powder_snow_material",
+    "heightmap": "bucket_powder_snow_heightmap"
+  }
+}

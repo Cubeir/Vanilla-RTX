@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "kelp",
+    "metalness_emissive_roughness": "kelp_material",
+    "heightmap": "kelp_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "paper",
+    "metalness_emissive_roughness": "paper_material",
+    "heightmap": "paper_heightmap"
+  }
+}

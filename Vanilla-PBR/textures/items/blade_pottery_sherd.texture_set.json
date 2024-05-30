@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "blade_pottery_sherd",
+    "metalness_emissive_roughness": "blade_pottery_sherd_material",
+    "heightmap": "blade_pottery_sherd_heightmap"
+  }
+}

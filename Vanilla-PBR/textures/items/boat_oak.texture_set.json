@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "boat_oak",
+    "metalness_emissive_roughness": "boat_oak_material",
+    "heightmap": "boat_oak_heightmap"
+  }
+}

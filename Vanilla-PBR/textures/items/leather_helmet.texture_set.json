@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "leather_helmet",
+    "metalness_emissive_roughness": "leather_helmet_material",
+    "heightmap": "leather_helmet_heightmap"
+  }
+}

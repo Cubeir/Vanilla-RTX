@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "carrot_on_a_stick",
+    "metalness_emissive_roughness": "carrot_on_a_stick_material",
+    "heightmap": "carrot_on_a_stick_heightmap"
+  }
+}

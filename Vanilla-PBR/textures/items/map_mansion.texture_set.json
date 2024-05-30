@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "map_mansion",
+    "metalness_emissive_roughness": "map_mansion_material",
+    "heightmap": "map_mansion_heightmap"
+  }
+}

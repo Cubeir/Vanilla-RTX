@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sentry_armor_trim_smithing_template",
+    "metalness_emissive_roughness": "sentry_armor_trim_smithing_template_material",
+    "heightmap": "sentry_armor_trim_smithing_template_heightmap"
+  }
+}

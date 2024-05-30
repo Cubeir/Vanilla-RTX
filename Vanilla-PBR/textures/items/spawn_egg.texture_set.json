@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "spawn_egg",
+    "metalness_emissive_roughness": "spawn_egg_material",
+    "heightmap": "spawn_egg_heightmap"
+  }
+}

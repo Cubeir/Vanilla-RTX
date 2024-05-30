@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bed_lime",
+    "metalness_emissive_roughness": "bed_lime_material",
+    "heightmap": "bed_lime_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bucket_axolotl",
+    "metalness_emissive_roughness": "bucket_axolotl_material",
+    "heightmap": "bucket_axolotl_heightmap"
+  }
+}

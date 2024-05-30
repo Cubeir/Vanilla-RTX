@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sheaf_pottery_sherd",
+    "metalness_emissive_roughness": "sheaf_pottery_sherd_material",
+    "heightmap": "sheaf_pottery_sherd_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_vex",
+    "metalness_emissive_roughness": "egg_vex_material",
+    "heightmap": "egg_vex_heightmap"
+  }
+}

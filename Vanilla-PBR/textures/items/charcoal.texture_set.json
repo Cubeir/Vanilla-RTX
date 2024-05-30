@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "charcoal",
+    "metalness_emissive_roughness": "charcoal_material",
+    "heightmap": "charcoal_heightmap"
+  }
+}

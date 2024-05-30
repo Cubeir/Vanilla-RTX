@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "tipped_arrow_swift",
+    "metalness_emissive_roughness": "tipped_arrow_swift_material",
+    "heightmap": "tipped_arrow_swift_heightmap"
+  }
+}

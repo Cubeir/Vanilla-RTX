@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "door_birch",
+    "metalness_emissive_roughness": "door_birch_material",
+    "heightmap": "door_birch_heightmap"
+  }
+}

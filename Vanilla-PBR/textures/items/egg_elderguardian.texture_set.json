@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_elderguardian",
+    "metalness_emissive_roughness": "egg_elderguardian_material",
+    "heightmap": "egg_elderguardian_heightmap"
+  }
+}

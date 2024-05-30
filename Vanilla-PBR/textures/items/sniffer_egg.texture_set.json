@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "sniffer_egg",
+    "metalness_emissive_roughness": "sniffer_egg_material",
+    "heightmap": "sniffer_egg_heightmap"
+  }
+}

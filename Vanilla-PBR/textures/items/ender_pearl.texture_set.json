@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "ender_pearl",
+    "metalness_emissive_roughness": "ender_pearl_material",
+    "heightmap": "ender_pearl_heightmap"
+  }
+}

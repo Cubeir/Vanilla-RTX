@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "carrot_golden",
+    "metalness_emissive_roughness": "carrot_golden_material",
+    "heightmap": "carrot_golden_heightmap"
+  }
+}

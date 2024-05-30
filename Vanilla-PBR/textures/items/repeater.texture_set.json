@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "repeater",
+    "metalness_emissive_roughness": "repeater_material",
+    "heightmap": "repeater_heightmap"
+  }
+}

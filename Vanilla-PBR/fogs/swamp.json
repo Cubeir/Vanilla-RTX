@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:fog_swamp"
@@ -34,6 +34,11 @@
         "water": {
           "max_density": 1.0,
           "uniform": true
+        },
+        "weather":{
+          "max_density": 0.1,
+          "max_density_height": 64,
+          "zero_density_height": 112
         }
       },
       "media_coefficients": {

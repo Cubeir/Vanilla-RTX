@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_zombiehorse",
+    "metalness_emissive_roughness": "egg_zombiehorse_material",
+    "heightmap": "egg_zombiehorse_heightmap"
+  }
+}

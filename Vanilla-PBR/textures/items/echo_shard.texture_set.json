@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "echo_shard",
+    "metalness_emissive_roughness": "echo_shard_material",
+    "heightmap": "echo_shard_heightmap"
+  }
+}

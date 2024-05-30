@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "iron_ingot",
+    "metalness_emissive_roughness": "iron_ingot_material",
+    "heightmap": "iron_ingot_heightmap"
+  }
+}

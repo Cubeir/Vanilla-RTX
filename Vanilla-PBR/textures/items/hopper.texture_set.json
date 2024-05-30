@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "hopper",
+    "metalness_emissive_roughness": "hopper_material",
+    "heightmap": "hopper_heightmap"
+  }
+}

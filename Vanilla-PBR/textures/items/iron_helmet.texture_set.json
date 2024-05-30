@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "iron_helmet",
+    "metalness_emissive_roughness": "iron_helmet_material",
+    "heightmap": "iron_helmet_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "angler_pottery_sherd",
+    "metalness_emissive_roughness": "angler_pottery_sherd_material",
+    "heightmap": "angler_pottery_sherd_heightmap"
+  }
+}

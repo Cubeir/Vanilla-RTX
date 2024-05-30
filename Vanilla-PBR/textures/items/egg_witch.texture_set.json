@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "egg_witch",
+    "metalness_emissive_roughness": "egg_witch_material",
+    "heightmap": "egg_witch_heightmap"
+  }
+}

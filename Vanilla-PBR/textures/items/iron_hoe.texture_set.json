@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "iron_hoe",
+    "metalness_emissive_roughness": "iron_hoe_material",
+    "heightmap": "iron_hoe_heightmap"
+  }
+}

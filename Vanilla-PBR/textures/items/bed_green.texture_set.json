@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "bed_green",
+    "metalness_emissive_roughness": "bed_green_material",
+    "heightmap": "bed_green_heightmap"
+  }
+}

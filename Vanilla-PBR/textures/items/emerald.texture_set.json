@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "emerald",
+    "metalness_emissive_roughness": "emerald_material",
+    "heightmap": "emerald_heightmap"
+  }
+}

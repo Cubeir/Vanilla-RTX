@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "beef_raw",
+    "metalness_emissive_roughness": "beef_raw_material",
+    "heightmap": "beef_raw_heightmap"
+  }
+}

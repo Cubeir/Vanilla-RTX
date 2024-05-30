@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.0",
   "minecraft:fog_settings": {
     "description": {
       "identifier": "minecraftpbr:fog_end"
@@ -21,7 +21,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.022,
+          "max_density": 0.019,
           "max_density_height": 28,
           "zero_density_height": 128
         },

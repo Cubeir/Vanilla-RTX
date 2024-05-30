@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chalkboard_small",
+    "metalness_emissive_roughness": "chalkboard_small_material",
+    "heightmap": "chalkboard_small_heightmap"
+  }
+}
