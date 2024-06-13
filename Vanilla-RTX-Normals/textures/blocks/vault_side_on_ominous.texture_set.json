@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "vault_side_on_ominous",
+        "metalness_emissive_roughness": "vault_side_on_ominous_mer",
+        "normal": "vault_side_on_ominous_normal"
+    }
+}

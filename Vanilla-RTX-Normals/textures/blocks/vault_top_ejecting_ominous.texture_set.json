@@ -1,0 +1,8 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:texture_set": {
+        "color": "vault_top_ejecting_ominous",
+        "metalness_emissive_roughness": "vault_top_ejecting_ominous_mer",
+        "normal": "vault_top_ejecting_ominous_normal"
+    }
+}

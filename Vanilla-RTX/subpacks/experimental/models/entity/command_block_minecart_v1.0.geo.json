@@ -1,0 +1,66 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.command_block_minecart",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "bottom",
+					"parent": "root",
+					"pivot": [0, 20, 0],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-8.05, 30.5, -18.05], "size": [16.1, 16.1, 16.1], "inflate": -2, "pivot": [0, 20, -10], "rotation": [-90, 0, 0], "uv": [0, 32], "mirror": true},
+						{"origin": [-10, 12, -1], "size": [20, 16, 2], "uv": [0, 10]}
+					]
+				},
+				{
+					"name": "back",
+					"parent": "root",
+					"pivot": [-9, 20, 0],
+					"rotation": [0, 270, 0],
+					"cubes": [
+						{"origin": [-17, 21, -1], "size": [16, 8, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "front",
+					"parent": "root",
+					"pivot": [9, 20, 0],
+					"rotation": [0, 90, 0],
+					"cubes": [
+						{"origin": [1, 21, -1], "size": [16, 8, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "right",
+					"parent": "root",
+					"pivot": [0, 20, -7],
+					"rotation": [0, 180, 0],
+					"cubes": [
+						{"origin": [-8, 21, -8], "size": [16, 8, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "left",
+					"parent": "root",
+					"pivot": [0, 20, 7],
+					"cubes": [
+						{"origin": [-8, 21, 6], "size": [16, 8, 2], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}
