@@ -14,7 +14,7 @@ By doing any of the above, you agree to follow all of the following requirements
  - Do not make your derivative projects, content or mirrors appear official or uploaded by me when they are not.
 
 - Understand that commercial use of Vanilla RTX is prohibited. Ipso facto, selling or claiming authorship over Vanilla RTX is prohibited. This includes locking Vanilla RTX behind a paywall (like the Minecraft Marketplace).
-  Do not monetize content that includes files from Vanilla RTX in other ways (e.g. by forcing ads to give access Vanilla RTX, modified or not).
+  Do not monetize content that includes files from Vanilla RTX in other ways, modified or not.
   Taking voluntary donations is still allowed, but if you’re unfairly profiting off of Vanilla RTX, don’t do it and use common sense when in doubt.
 
 Exceptions:
