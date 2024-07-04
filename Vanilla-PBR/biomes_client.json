@@ -1,12 +1,11 @@
 {
   "biomes": {
     "default": {
-      "water_surface_color": "#44AFF5",
-      "water_surface_transparency": 0.65,
+      "water_surface_color": "#1957A1",
       "fog_identifier": "minecraftpbr:fog_default"
     },
     "plains": {
-      "water_surface_color": "#44AFF5",
+      "water_surface_color": "#1957A1",
       "fog_identifier": "minecraftpbr:fog_default"
     },
     "sunflower_plains": {
@@ -39,12 +38,10 @@
     },
     "swampland": {
       "water_surface_color": "#4c6559",
-      "water_surface_transparency": 1.0,
       "fog_identifier": "minecraftpbr:fog_swamp"
     },
     "swampland_mutated": {
       "water_surface_color": "#4c6156",
-      "water_surface_transparency": 1.0,
       "fog_identifier": "minecraftpbr:fog_swamp"
     },
     "mangrove_swamp": {
@@ -237,7 +234,6 @@
     },
     "warm_ocean": {
       "water_surface_color": "#02B0E5",
-      "water_surface_transparency": 0.55,
       "fog_identifier": "minecraftpbr:fog_aqua"
     },
     "deep_warm_ocean": {

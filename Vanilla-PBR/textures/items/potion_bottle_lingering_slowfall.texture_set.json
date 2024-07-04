@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "potion_bottle_lingering_slowfall",
+    "metalness_emissive_roughness": "potion_bottle_lingering_slowfall_mer",
+    "heightmap": "potion_bottle_lingering_slowfall_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "potion_bottle_nightvision",
+    "metalness_emissive_roughness": "potion_bottle_nightvision_mer",
+    "heightmap": "potion_bottle_nightvision_heightmap"
+  }
+}

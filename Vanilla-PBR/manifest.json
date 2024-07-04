@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-  "description": "Vanilla PBR assets and configurations for Deferred graphics mode.\nThis pack makes use of features available only in 1.21.10.20 Preview and above.\nVersion 2.1.0",
+  "description": "Vanilla PBR assets and configurations for Deferred graphics mode.\nThis pack makes use of features available only in 1.21.10.20 Preview and above.\nVersion 2.2.0",
   "name": "Vanilla PBR",
   "uuid": "1e22f7ce-b2c4-4b88-8005-2822554e07d6",
-  "version": [2, 1, 0],
+  "version": [2, 2, 0],
   "min_engine_version": [1, 21, 0]
 },
 "modules": [
@@ -12,7 +12,7 @@
     "description": "vanillapbr",
     "type": "resources",
     "uuid": "c07a3459-bf49-48d5-b831-f2c9826acbf9",
-    "version": [2, 1 ,0]
+    "version": [2, 2 ,0]
   }
 ],
 "metadata": {
