@@ -25,7 +25,7 @@ Exceptions:
 
 I reserve the right to:
 - Refuse the ability to use, distribute, or modify Vanilla RTX's files for any person or group (This action would be final, generally only in the case of unusual circumstances).
-- Edit this license at any time for any reason (Most often for sake of conciseness and clarity, my overall princinples do not change).
+- Edit this license at any time for any reason (Most often for sake of conciseness and clarity, my overall principles do not change).
 
 Original Sources:
 - http://minecraftrtx.net
