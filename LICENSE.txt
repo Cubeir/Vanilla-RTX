@@ -42,6 +42,6 @@ Contact:
 - Discord: https://discord.gg/A4wv4wwYud | ID: cubeir
 
 Disclaimer:
-"Vanilla RTX" (as a package) refers only to the files created, modified and designed for the proper ray tracing functionality of Minecraft's original art resources (found at: https://aka.ms/resourcepacktemplate) and this license file applies exclusively to the files edited, designed and created by me.
+"Vanilla RTX" (as a package) refers only to the files created, modified and designed for the proper ray tracing functionality of Minecraft's original art resources (found at: https://aka.ms/resourcepacktemplate) -- this license file applies exclusively to the files edited, designed and created by me.
 
 [1]: This means reuploads are also allowed as long as you follow the license requirements, but I discourage it.
