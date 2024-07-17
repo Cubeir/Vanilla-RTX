@@ -4,7 +4,7 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "7596637e-fd35-49c7-89c9-14354bd87f5b",
-        "version": [1, 21, 30],
+        "version": [1, 21, 40],
         "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "vanillartxn",
             "type": "resources",
             "uuid": "35fc6a19-8b79-4e9a-924c-3f0f85affa4c",
-            "version": [1, 21, 30]
+            "version": [1, 21, 40]
         }
     ],
     "metadata": {

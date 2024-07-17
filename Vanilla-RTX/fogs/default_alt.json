@@ -35,7 +35,7 @@
       "media_coefficients": {
         "air": {
           "scattering": [
-            0.035,
+            0.034,
             0.034,
             0.034
           ],
