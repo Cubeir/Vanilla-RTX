@@ -8,7 +8,7 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 Vanilla RTX aims to bring full ray tracing support for Minecraft's default resources while remaining completely faithful to all the different aspects and details of vanilla Minecraft.  
 
-Vanilla RTX uses 16x heightmaps (192x normal maps are later generated based on height differences) Vanilla RTX Normals uses handmade 16x normal maps instead.  
+Vanilla RTX uses 16x heightmaps (with 192x normal maps generated later based on height differences) Vanilla RTX Normals uses handmade 16x normal maps instead.  
 Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.  
 
@@ -17,7 +17,7 @@ Initial goal of this project was having something similar to [Vanilla Normals Re
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
-![Vanilla RTX for Minecraft RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/32f8e0a7-1c9c-4da9-b9e9-9540203e20bf)
+![Vanilla RTX for Minecraft with RTX - Cover Image](https://github.com/user-attachments/assets/4af1fb03-1b2b-4f34-b38a-b1e26f0a019c)
 ![ice kings vault](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![Minecraft with RTX Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
@@ -32,12 +32,12 @@ Reminder:
 Vanilla RTX (Normals) is completely free download and use. However, be aware of unauthorized copies or versions of Vanilla RTX that may circulate, sometimes under different names and even for sale. These unauthorized copies may, at best, replicate the version available on this page.
 
 Disclaimer:  
-The license file linked above does not apply to Minecraft's original art resources.  
+The license file linked above does not apply to any original Minecraft art resource.  
 
-Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) for proper functioning.
-This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by texture_set.jsons. This may rarely result in outdated textures.  
+Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function.
+This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by texture_set.json files. As time passes this may result in outdated textures.  
   
-Updates will include the latest texture changes to retain parity with vanilla textures, and PBR textures will be updated accordingly. A number of resources also had to be edited or converted to function properly with ray tracing, without altering their original appearance.
+Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly. Parts of vanilla resources also had to be edited or converted for proper functioning with ray tracing, or to work around some issues without altering their original appearance.  
 
 ## Tips
 - If you're experiencing low frame rates, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
