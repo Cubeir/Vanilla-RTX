@@ -21,7 +21,7 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.046,
+          "max_density": 0.048,
           "uniform": true
         }
       },
