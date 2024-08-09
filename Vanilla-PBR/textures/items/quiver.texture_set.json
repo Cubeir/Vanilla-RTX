@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "quiver",
-    "metalness_emissive_roughness": "quiver_material",
+    "metalness_emissive_roughness": "quiver_mer",
     "heightmap": "quiver_heightmap"
   }
 }

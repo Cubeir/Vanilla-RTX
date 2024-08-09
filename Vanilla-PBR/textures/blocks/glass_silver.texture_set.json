@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "glass_silver",
-    "metalness_emissive_roughness": "glass_silver_mer",
-    "heightmap": "glass_silver_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "glass_silver",
+        "heightmap": "glass_silver_heightmap",
+        "metalness_emissive_roughness_subsurface": "glass_silver_mer"
+    }
 }

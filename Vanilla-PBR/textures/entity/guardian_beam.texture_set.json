@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "guardian_beam",
-    "metalness_emissive_roughness": "guardian_beam_mer",
-    "heightmap": "guardian_beam_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "guardian_beam",
+        "metalness_emissive_roughness": "guardian_beam_mer",
+        "heightmap": "guardian_beam_heightmap"
+    }
 }

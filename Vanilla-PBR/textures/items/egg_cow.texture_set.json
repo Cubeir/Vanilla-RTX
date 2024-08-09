@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_cow",
-    "metalness_emissive_roughness": "egg_cow_material",
+    "metalness_emissive_roughness": "egg_cow_mer",
     "heightmap": "egg_cow_heightmap"
   }
 }

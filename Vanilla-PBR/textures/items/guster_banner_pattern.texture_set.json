@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "guster_banner_pattern",
+    "metalness_emissive_roughness": "guster_banner_pattern_mer",
+    "heightmap": "guster_banner_pattern_heightmap"
+  }
+}

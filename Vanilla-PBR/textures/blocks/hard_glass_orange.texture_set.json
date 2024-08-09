@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "hard_glass_orange",
-    "metalness_emissive_roughness": "hard_glass_orange_mer",
-    "heightmap": "hard_glass_orange_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "hard_glass_orange",
+        "heightmap": "hard_glass_orange_heightmap",
+        "metalness_emissive_roughness_subsurface": "hard_glass_orange_mer"
+    }
 }

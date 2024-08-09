@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "ominous_bottle",
+    "metalness_emissive_roughness": "ominous_bottle_mer",
+    "heightmap": "ominous_bottle_heightmap"
+  }
+}

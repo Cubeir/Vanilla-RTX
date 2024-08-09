@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "potatoes_stage_1",
-    "metalness_emissive_roughness": "potatoes_stage_1_mer",
-    "heightmap": "potatoes_stage_1_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "potatoes_stage_1",
+        "heightmap": "potatoes_stage_1_heightmap",
+        "metalness_emissive_roughness_subsurface": "potatoes_stage_1_mer"
+    }
 }

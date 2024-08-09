@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_raft",
-    "metalness_emissive_roughness": "bamboo_raft_material",
-    "heightmap": "bamboo_raft_heightmap"
+    "heightmap": "bamboo_raft_heightmap",
+    "metalness_emissive_roughness_subsurface": "bamboo_raft_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "map_locked",
-    "metalness_emissive_roughness": "map_locked_material",
+    "metalness_emissive_roughness": "map_locked_mer",
     "heightmap": "map_locked_heightmap"
   }
 }

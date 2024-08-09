@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "tuxedo_tame",
-    "metalness_emissive_roughness": "tuxedo_tame_mer",
-    "heightmap": "tuxedo_tame_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "tuxedo_tame",
+        "metalness_emissive_roughness": "tuxedo_tame_mer",
+        "heightmap": "tuxedo_tame_heightmap"
+    }
 }

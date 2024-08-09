@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "kelp_top_bulb",
-    "metalness_emissive_roughness": "kelp_top_bulb_mer",
-    "heightmap": "kelp_top_bulb_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "kelp_top_bulb",
+        "heightmap": "kelp_top_bulb_heightmap",
+        "metalness_emissive_roughness_subsurface": "kelp_top_bulb_mer"
+    }
 }

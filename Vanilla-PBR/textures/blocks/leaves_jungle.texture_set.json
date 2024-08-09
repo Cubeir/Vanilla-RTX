@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "leaves_jungle",
-    "metalness_emissive_roughness": "leaves_jungle_mer",
-    "heightmap": "leaves_jungle_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "leaves_jungle",
+        "heightmap": "leaves_jungle_heightmap",
+        "metalness_emissive_roughness_subsurface": "leaves_jungle_mer"
+    }
 }

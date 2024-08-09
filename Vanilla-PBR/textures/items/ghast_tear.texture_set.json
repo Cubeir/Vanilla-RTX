@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "ghast_tear",
-    "metalness_emissive_roughness": "ghast_tear_material",
+    "metalness_emissive_roughness": "ghast_tear_mer",
     "heightmap": "ghast_tear_heightmap"
   }
 }

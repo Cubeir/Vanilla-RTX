@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "warden_pulsating_spots_1",
-    "metalness_emissive_roughness": "warden_pulsating_spots_1_mer",
-    "heightmap": "warden_pulsating_spots_1_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "warden_pulsating_spots_1",
+        "metalness_emissive_roughness": "warden_pulsating_spots_1_mer",
+        "heightmap": "warden_pulsating_spots_1_heightmap"
+    }
 }

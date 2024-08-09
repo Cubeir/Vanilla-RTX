@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "experience_bottle",
-    "metalness_emissive_roughness": "experience_bottle_material",
+    "metalness_emissive_roughness": "experience_bottle_mer",
     "heightmap": "experience_bottle_heightmap"
   }
 }

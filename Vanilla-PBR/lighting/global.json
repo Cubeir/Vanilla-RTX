@@ -1,188 +1,313 @@
 {
-   "format_version": [1, 0, 0],
-
-   "directional_lights" :
-    {
-       "sun":
-      {
-           "illuminance" :
-           {
-            "0.0": 0.0,
-            "0.167": 3.0,
-            "0.2": 8.0,
-            "0.21041673": 11.0,
-            "0.25": 9200.0,
-            "0.257083322": 14700.0,
-            "0.5": 20084,
-            "0.742916678": 14740.0,
-            "0.75": 9250.0,
-            "0.78958327": 11.0,
-            "0.8": 8.0,
-            "0.833": 3.0,
-            "1.0": 0.0
-           },
-           "color": {
-            "0.0": [4, 6, 9, 74],
-            "0.1": [181, 115, 106, 120],
-            "0.2": [240, 185, 130, 150],
-            "0.3": [255, 211, 143, 180],
-            "0.4": [255, 228, 165, 225],
-            "0.5": [255, 250, 199, 255],
-            "0.6": [255, 228, 165, 225],
-            "0.7": [255, 211, 143, 180],
-            "0.8": [240, 185, 130, 150],
-            "0.9": [181, 115, 106, 120],
-            "1.0": [4, 6, 9, 74]
-    
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "directional_lights": {
+        "sun": {
+            "illuminance": {
+                "0.0": 20084,
+                "1.2": 14740.0,
+                "0.242916678": 2.0,
+                "0.25": 2.5,
+                "0.28958327": 2.0,
+                "0.3": 2.0,
+                "0.333": 0.0,
+                "0.5": 0.0,
+                "0.667": 0.0,
+                "0.7": 2.0,
+                "0.71041673": 2.0,
+                "0.75": 2.0,
+                "0.757083322": 2.0,
+                "0.88": 14700.0,
+                "1.0": 20084
+            },
+            "color": {
+                "0.0": [
+                    255,
+                    250,
+                    199,
+                    255
+                ],
+                "0.1": [
+                    255,
+                    228,
+                    165,
+                    225
+                ],
+                "0.2": [
+                    255,
+                    211,
+                    143,
+                    180
+                ],
+                "0.3": [
+                    240,
+                    185,
+                    130,
+                    150
+                ],
+                "0.4": [
+                    181,
+                    115,
+                    106,
+                    120
+                ],
+                "0.5": [
+                    4,
+                    6,
+                    9,
+                    74
+                ],
+                "0.6": [
+                    181,
+                    115,
+                    106,
+                    120
+                ],
+                "0.7": [
+                    240,
+                    185,
+                    130,
+                    150
+                ],
+                "0.8": [
+                    255,
+                    211,
+                    143,
+                    180
+                ],
+                "0.9": [
+                    255,
+                    228,
+                    165,
+                    225
+                ],
+                "1.0": [
+                    255,
+                    250,
+                    199,
+                    255
+                ]
+            }
+        },
+        "moon": {
+            "illuminance": {
+                "0.0": 1.9664,
+                "0.167": 1.912,
+                "0.2": 1.8056,
+                "0.21041673": 1.516,
+                "0.25": 1.32,
+                "0.257083322": 1.3124,
+                "0.742916678": 1.3124,
+                "0.75": 1.32,
+                "0.78958327": 1.516,
+                "0.8": 1.8056,
+                "0.833": 1.912,
+                "1.0": 1.9664
+            },
+            "color": {
+                "0.0": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "0.1": [
+                    238,
+                    238,
+                    238,
+                    232
+                ],
+                "0.2": [
+                    221,
+                    221,
+                    221,
+                    120
+                ],
+                "0.3": [
+                    204,
+                    204,
+                    204,
+                    100
+                ],
+                "0.4": [
+                    187,
+                    187,
+                    187,
+                    90
+                ],
+                "0.5": [
+                    193,
+                    195,
+                    193,
+                    84
+                ],
+                "0.6": [
+                    187,
+                    187,
+                    187,
+                    90
+                ],
+                "0.7": [
+                    204,
+                    204,
+                    204,
+                    100
+                ],
+                "0.8": [
+                    221,
+                    221,
+                    221,
+                    120
+                ],
+                "0.9": [
+                    238,
+                    238,
+                    238,
+                    232
+                ],
+                "1.0": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            }
+        },
+        "orbital_offset_degrees": 31.415926535
+    },
+    "pbr": {
+        "blocks": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                255.0,
+                255.0
+            ]
+        },
+        "actors": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                255.0,
+                255.0
+            ]
+        },
+        "particles": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                255.0,
+                255.0
+            ]
+        },
+        "items": {
+            "global_metalness_emissive_roughness": [
+                0.0,
+                0.0,
+                255.0,
+                255.0
+            ]
         }
-      },
-       "moon": 
-       {
-           "illuminance" :
-           {
-            "0.0": 1.9664, 
-            "0.167": 1.912,
-            "0.2": 1.8056,
-            "0.21041673": 1.516,
-            "0.25": 1.32,
-            "0.257083322": 1.3124,
-            "0.742916678": 1.3124,
-            "0.75": 1.32,
-            "0.78958327": 1.516,
-            "0.8": 1.8056, 
-            "0.833": 1.912,
-            "1.0": 1.9664
-           },
-           
-           "color" :
-           {
-            "0.0": [255, 255, 255, 255],
-            "0.1": [238, 238, 238, 232],
-            "0.2": [221, 221, 221, 120],
-            "0.3": [204, 204, 204, 100], 
-            "0.4": [187, 187, 187, 90],
-            "0.5": [193, 195, 193, 84],
-            "0.6": [187, 187, 187, 90],
-            "0.7": [204, 204, 204, 100],
-            "0.8": [221, 221, 221, 120],
-            "0.9": [238, 238, 238, 232],
-            "1.0": [255, 255, 255, 255]
-           }   
-      },
-         "orbital_offset_degrees" : 31.415926535
     },
-     "pbr" : {
-       "blocks":
-      {
-         "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
-      },
-       "actors":
-      {
-         "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
-      },
-      "particles":
-      {
-         "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
-      },
-      "items":
-      {
-         "global_metalness_emissive_roughness": [0.0, 0.0, 255.0]
-      }
-    },
-
     "point_lights": {
-      "colors": {
-         "minecraft:cave_wines_head_with_berries": "#DB9C59",
-         "minecraft:cave_wines_body_with_berries": "#DB9C59",
-         "minecraft:trial_spawner": "#FFF1E8",
-         "minecraft:vault": "#FFF1E8",
-         "minecraft:waxed_copper_bulb": "#F2B779",
-         "minecraft:copper_bulb": "#F2B779",
-         "minecraft:waxed_exposed_copper_bulb": "#F3B16C",
-         "minecraft:exposed_copper_bulb_": "#F3B16C",
-         "minecraft:waxed_oxidized_copper_bulb": "#F29954",
-         "minecraft:oxidized_copper_bulb": "#F29954",
-         "minecraft:waxed_weathered_copper_bulb": "#F4AD61",
-         "minecraft:weathered_copper_bulb": "#F4AD61",
-         "minecraft:amethyst_cluster": "#B189D9",
-         "minecraft:large_amethyst_bud": "#9C7ABF",
-         "minecraft:medium_amethyst_bud": "#80659E",
-         "minecraft:small_amethyst_bud": "#57427F",
-         "minecraft:light_block": "#FFFFE6",
-         "minecraft:candle": "#FFD175",
-         "minecraft:candle_cake": "#FFD175",
-         "minecraft:black_candle": "#FFD175",
-         "minecraft:black_candle_cake": "#FFD175",
-         "minecraft:blue_candle": "#FFD175",
-         "minecraft:blue_candle_cake": "#FFD175",
-         "minecraft:brown_candle": "#FFD175",
-         "minecraft:brown_candle_cake": "#FFD175",
-         "minecraft:gray_candle": "#FFD175",
-         "minecraft:gray_candle_cake": "#FFD175",
-         "minecraft:green_candle": "#FFD175",
-         "minecraft:green_candle_cake": "#FFD175",
-         "minecraft:light_blue_candle": "#FFD175",
-         "minecraft:light_blue_candle_cake": "#FFD175",
-         "minecraft:light_gray_candle": "#FFD175",
-         "minecraft:light_gray_candle_cake": "#FFD175",
-         "minecraft:lime_candle": "#FFD175",
-         "minecraft:lime_candle_cake": "#FFD175",
-         "minecraft:magenta_candle": "#FFD175",
-         "minecraft:magenta_candle_cake": "#FFD175",
-         "minecraft:purple_candle": "#FFD175",
-         "minecraft:purple_candle_cake": "#FFD175",
-         "minecraft:red_candle": "#FFD175",
-         "minecraft:red_candle_cake": "#FFD175",
-         "minecraft:orange_candle": "#FFD175",
-         "minecraft:orange_candle_cake": "#FFD175",
-         "minecraft:pink_candle": "#FFD175",
-         "minecraft:pink_candle_cake": "#FFD175",
-         "minecraft:white_candle": "#FFD175",
-         "minecraft:white_candle_cake": "#FFD175",
-         "minecraft:yellow_candle": "#FFD175",
-         "minecraft:yellow_candle_cake": "#FFD175",
-         "minecraft:beacon": "#56D8D0",
-         "minecraft:brewing_stand": "#7F5D22",
-         "minecraft:end_gateway": "#6CD3D8",
-         "minecraft:end_portal": "#6CD3D8",
-         "minecraft:ender_chest": "#40754F",
-         "minecraft:dragon_egg": "#22003D",
-         "minecraft:enchanting_table": "#64F4DA",
-         "minecraft:cave_vines_body_with_berries": "#BD782C",
-         "minecraft:cave_vines_head_with_berries": "#BD782C",
-         "minecraft:conduit": "#A8EFFF",
-         "minecraft:glow_lichen": "#8E9882",
-         "minecraft:portal": "#8343DB",
-         "minecraft:sea_pickle": "#D8FFD6",
-         "minecraft:respawn_anchor": "#E4B781",
-         "minecraft:campfire": "#DD9713",
-         "minecraft:fire": "#DD8B11",
-         "minecraft:lantern": "#EFB967",
-         "minecraft:torch": "#EFB967",
-         "minecraft:soul_campfire": "#17AEB2",
-         "minecraft:soul_fire": "#17AEB2",
-         "minecraft:soul_lantern": "#17AEB2",
-         "minecraft:soul_torch": "#17AEB2",
-         "minecraft:redstone_torch": "#A3240B",
-         "minecraft:unlit_redstone_torch": "#000000",
-         "minecraft:end_rod": "#FFF4E5",
-         "minecraft:lit_furnace": "#F8BB36",
-         "minecraft:lit_blast_furnace": "#E77719",
-         "minecraft:lit_smoker": "#E8920E",
-         "minecraft:lit_pumpkin": "#EAB147",
-         "minecraft:lit_redstone_lamp": "#F4AD61",
-         "minecraft:lit_redstone_ore": "#A31010",
-         "minecraft:lit_deepslate_redstone_ore": "#A31010",
-         "minecraft:ochre_froglight": "#F4E6AB",
-         "minecraft:pearlescent_froglight": "#EACED8",
-         "minecraft:verdant_froglight": "#CBEAC7",
-         "minecraft:redstone_lamp": "#000000",
-         "minecraft:sea_lantern": "#BCD3CB",
-         "minecraft:crying_obsidian": "#310F5B",
-         "minecraft:sculk_catalyst": "#0E3E47",
-         "minecraft:glowingobsidian": "#7A0414",
-         "minecraft:glowstone": "#F4CF84",
-         "minecraft:shroomlight": "#FF9647"
-       }
- }
+        "colors": {
+            "minecraft:cave_wines_head_with_berries": "#DB9C59",
+            "minecraft:cave_wines_body_with_berries": "#DB9C59",
+            "minecraft:trial_spawner": "#FFF1E8",
+            "minecraft:vault": "#FFF1E8",
+            "minecraft:waxed_copper_bulb": "#F2B779",
+            "minecraft:copper_bulb": "#F2B779",
+            "minecraft:waxed_exposed_copper_bulb": "#F3B16C",
+            "minecraft:exposed_copper_bulb_": "#F3B16C",
+            "minecraft:waxed_oxidized_copper_bulb": "#F29954",
+            "minecraft:oxidized_copper_bulb": "#F29954",
+            "minecraft:waxed_weathered_copper_bulb": "#F4AD61",
+            "minecraft:weathered_copper_bulb": "#F4AD61",
+            "minecraft:amethyst_cluster": "#B189D9",
+            "minecraft:large_amethyst_bud": "#9C7ABF",
+            "minecraft:medium_amethyst_bud": "#80659E",
+            "minecraft:small_amethyst_bud": "#57427F",
+            "minecraft:light_block": "#FFFFE6",
+            "minecraft:candle": "#FFD175",
+            "minecraft:candle_cake": "#FFD175",
+            "minecraft:black_candle": "#FFD175",
+            "minecraft:black_candle_cake": "#FFD175",
+            "minecraft:blue_candle": "#FFD175",
+            "minecraft:blue_candle_cake": "#FFD175",
+            "minecraft:brown_candle": "#FFD175",
+            "minecraft:brown_candle_cake": "#FFD175",
+            "minecraft:gray_candle": "#FFD175",
+            "minecraft:gray_candle_cake": "#FFD175",
+            "minecraft:green_candle": "#FFD175",
+            "minecraft:green_candle_cake": "#FFD175",
+            "minecraft:light_blue_candle": "#FFD175",
+            "minecraft:light_blue_candle_cake": "#FFD175",
+            "minecraft:light_gray_candle": "#FFD175",
+            "minecraft:light_gray_candle_cake": "#FFD175",
+            "minecraft:lime_candle": "#FFD175",
+            "minecraft:lime_candle_cake": "#FFD175",
+            "minecraft:magenta_candle": "#FFD175",
+            "minecraft:magenta_candle_cake": "#FFD175",
+            "minecraft:purple_candle": "#FFD175",
+            "minecraft:purple_candle_cake": "#FFD175",
+            "minecraft:red_candle": "#FFD175",
+            "minecraft:red_candle_cake": "#FFD175",
+            "minecraft:orange_candle": "#FFD175",
+            "minecraft:orange_candle_cake": "#FFD175",
+            "minecraft:pink_candle": "#FFD175",
+            "minecraft:pink_candle_cake": "#FFD175",
+            "minecraft:white_candle": "#FFD175",
+            "minecraft:white_candle_cake": "#FFD175",
+            "minecraft:yellow_candle": "#FFD175",
+            "minecraft:yellow_candle_cake": "#FFD175",
+            "minecraft:beacon": "#56D8D0",
+            "minecraft:brewing_stand": "#7F5D22",
+            "minecraft:end_gateway": "#6CD3D8",
+            "minecraft:end_portal": "#6CD3D8",
+            "minecraft:ender_chest": "#40754F",
+            "minecraft:dragon_egg": "#22003D",
+            "minecraft:enchanting_table": "#64F4DA",
+            "minecraft:cave_vines_body_with_berries": "#BD782C",
+            "minecraft:cave_vines_head_with_berries": "#BD782C",
+            "minecraft:conduit": "#A8EFFF",
+            "minecraft:glow_lichen": "#8E9882",
+            "minecraft:portal": "#8343DB",
+            "minecraft:sea_pickle": "#D8FFD6",
+            "minecraft:respawn_anchor": "#E4B781",
+            "minecraft:campfire": "#DD9713",
+            "minecraft:fire": "#DD8B11",
+            "minecraft:lantern": "#EFB967",
+            "minecraft:torch": "#EFB967",
+            "minecraft:soul_campfire": "#17AEB2",
+            "minecraft:soul_fire": "#17AEB2",
+            "minecraft:soul_lantern": "#17AEB2",
+            "minecraft:soul_torch": "#17AEB2",
+            "minecraft:redstone_torch": "#A3240B",
+            "minecraft:unlit_redstone_torch": "#000000",
+            "minecraft:end_rod": "#FFF4E5",
+            "minecraft:lit_furnace": "#F8BB36",
+            "minecraft:lit_blast_furnace": "#E77719",
+            "minecraft:lit_smoker": "#E8920E",
+            "minecraft:lit_pumpkin": "#EAB147",
+            "minecraft:lit_redstone_lamp": "#F4AD61",
+            "minecraft:lit_redstone_ore": "#A31010",
+            "minecraft:lit_deepslate_redstone_ore": "#A31010",
+            "minecraft:ochre_froglight": "#F4E6AB",
+            "minecraft:pearlescent_froglight": "#EACED8",
+            "minecraft:verdant_froglight": "#CBEAC7",
+            "minecraft:redstone_lamp": "#000000",
+            "minecraft:sea_lantern": "#BCD3CB",
+            "minecraft:crying_obsidian": "#310F5B",
+            "minecraft:sculk_catalyst": "#0E3E47",
+            "minecraft:glowingobsidian": "#7A0414",
+            "minecraft:glowstone": "#F4CF84",
+            "minecraft:shroomlight": "#FF9647"
+        }
+    },
+    "emissive": {
+        "desaturation": 0.06
+    }
 }

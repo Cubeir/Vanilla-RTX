@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "crossbow_pulling_1",
-    "metalness_emissive_roughness": "crossbow_pulling_1_material",
+    "metalness_emissive_roughness": "crossbow_pulling_1_mer",
     "heightmap": "crossbow_pulling_1_heightmap"
   }
 }

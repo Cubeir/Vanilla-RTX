@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "tipped_arrow_windCharged",
+    "metalness_emissive_roughness": "tipped_arrow_windCharged_mer",
+    "heightmap": "tipped_arrow_windCharged_heightmap"
+  }
+}

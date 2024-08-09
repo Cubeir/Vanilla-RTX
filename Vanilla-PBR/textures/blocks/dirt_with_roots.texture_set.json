@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "dirt_with_roots",
-    "metalness_emissive_roughness": "dirt_with_roots_mer",
-    "heightmap": "dirt_with_roots_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "dirt_with_roots",
+        "heightmap": "dirt_with_roots_heightmap",
+        "metalness_emissive_roughness_subsurface": "dirt_with_roots_mer"
+    }
 }

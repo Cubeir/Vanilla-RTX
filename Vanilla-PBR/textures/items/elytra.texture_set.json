@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "elytra",
-    "metalness_emissive_roughness": "elytra_material",
+    "metalness_emissive_roughness": "elytra_mer",
     "heightmap": "elytra_heightmap"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "tinted_glass",
-    "metalness_emissive_roughness": "tinted_glass_mer",
-    "heightmap": "tinted_glass_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "tinted_glass",
+        "heightmap": "tinted_glass_heightmap",
+        "metalness_emissive_roughness_subsurface": "tinted_glass_mer"
+    }
 }

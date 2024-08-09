@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "coral_plant_red",
-    "metalness_emissive_roughness": "coral_plant_red_mer",
-    "heightmap": "coral_plant_red_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "coral_plant_red",
+        "heightmap": "coral_plant_red_heightmap",
+        "metalness_emissive_roughness_subsurface": "coral_plant_red_mer"
+    }
 }

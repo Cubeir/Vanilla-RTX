@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "warped_fungus_on_a_stick",
-    "metalness_emissive_roughness": "warped_fungus_on_a_stick_material",
-    "heightmap": "warped_fungus_on_a_stick_heightmap"
+    "heightmap": "warped_fungus_on_a_stick_heightmap",
+    "metalness_emissive_roughness_subsurface": "warped_fungus_on_a_stick_mer"
   }
 }

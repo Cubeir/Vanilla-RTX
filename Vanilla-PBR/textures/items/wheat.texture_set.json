@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "wheat",
-    "metalness_emissive_roughness": "wheat_material",
-    "heightmap": "wheat_heightmap"
+    "heightmap": "wheat_heightmap",
+    "metalness_emissive_roughness_subsurface": "wheat_mer"
   }
 }

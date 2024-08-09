@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"endercrystal_beam","metalness_emissive_roughness":"endercrystal_beam_mer","heightmap":"endercrystal_beam_heightmap"}}
+{
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "endercrystal_beam",
+        "metalness_emissive_roughness": "endercrystal_beam_mer",
+        "heightmap": "endercrystal_beam_heightmap"
+    }
+}

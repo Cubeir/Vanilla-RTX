@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "map_trial_chambers",
+    "metalness_emissive_roughness": "map_trial_chambers_mer",
+    "heightmap": "map_trial_chambers_heightmap"
+  }
+}

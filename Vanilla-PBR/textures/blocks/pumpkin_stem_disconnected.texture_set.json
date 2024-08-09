@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "pumpkin_stem_disconnected",
-    "metalness_emissive_roughness": "pumpkin_stem_disconnected_mer",
-    "heightmap": "pumpkin_stem_disconnected_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "pumpkin_stem_disconnected",
+        "metalness_emissive_roughness": "pumpkin_stem_disconnected_mer",
+        "heightmap": "pumpkin_stem_disconnected_heightmap"
+    }
 }

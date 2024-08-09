@@ -1,72 +1,72 @@
 {
-  "format_version": "1.21.0",
-  "minecraft:fog_settings": {
-    "description": {
-      "identifier": "minecraftpbr:fog_mangrove"
-    },
-    "distance": {
-      "air": {
-        "fog_start": 0.92,
-        "fog_end": 1.0,
-        "fog_color": "#ABD2FF",
-        "render_distance_type": "render"
-      },
-      "water": {
-        "fog_start": 0.6,
-        "fog_end": 1.0,
-        "fog_color": "#4d7a60",
-        "render_distance_type": "render"
-      },
-      "weather": {
-        "fog_start": 0.23,
-        "fog_end": 0.7,
-        "fog_color": "#666666",
-        "render_distance_type": "render"
-      }
-    },
-    "volumetric": {
-      "density": {
-        "air": {
-          "max_density": 0.24,
-          "max_density_height": 84,
-          "zero_density_height": 128
+    "format_version": "1.21.0",
+    "minecraft:fog_settings": {
+        "description": {
+            "identifier": "minecraftpbr:fog_mangrove"
         },
-        "water": {
-          "max_density": 1.0,
-          "uniform": true
+        "distance": {
+            "air": {
+                "fog_start": 0.92,
+                "fog_end": 1.0,
+                "fog_color": "#ABD2FF",
+                "render_distance_type": "render"
+            },
+            "water": {
+                "fog_start": 0.6,
+                "fog_end": 1.0,
+                "fog_color": "#4d7a60",
+                "render_distance_type": "render"
+            },
+            "weather": {
+                "fog_start": 0.23,
+                "fog_end": 0.7,
+                "fog_color": "#666666",
+                "render_distance_type": "render"
+            }
         },
-        "weather":{
-          "max_density": 0.27,
-          "max_density_height": 128,
-          "zero_density_height": 300
+        "volumetric": {
+            "density": {
+                "air": {
+                    "max_density": 0.24,
+                    "max_density_height": 84,
+                    "zero_density_height": 128
+                },
+                "water": {
+                    "max_density": 1.0,
+                    "uniform": true
+                },
+                "weather": {
+                    "max_density": 0.27,
+                    "max_density_height": 128,
+                    "zero_density_height": 300
+                }
+            },
+            "media_coefficients": {
+                "air": {
+                    "scattering": [
+                        0.038,
+                        0.053,
+                        0.06
+                    ],
+                    "absorption": [
+                        0.013,
+                        0.0099,
+                        0.026
+                    ]
+                },
+                "water": {
+                    "scattering": [
+                        0.0041,
+                        0.0045,
+                        0.0045
+                    ],
+                    "absorption": [
+                        0.172,
+                        0.134,
+                        0.152
+                    ]
+                }
+            }
         }
-      },
-      "media_coefficients": {
-        "air": {
-          "scattering": [
-            0.038,
-            0.053,
-            0.06
-          ],
-          "absorption": [
-            0.013,
-            0.0099,
-            0.026
-          ]
-        },
-        "water": {
-          "scattering": [
-            0.0041,
-            0.0045,
-            0.0045
-          ],
-          "absorption": [
-            0.172,
-            0.134,
-            0.152
-          ]
-        }
-      }
     }
-  }
 }

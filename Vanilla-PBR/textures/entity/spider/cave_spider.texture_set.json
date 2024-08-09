@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"cave_spider","metalness_emissive_roughness":"cave_spider_mer","heightmap":"cave_spider_heightmap"}}
+{
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "cave_spider",
+        "metalness_emissive_roughness": "cave_spider_mer",
+        "heightmap": "cave_spider_heightmap"
+    }
+}

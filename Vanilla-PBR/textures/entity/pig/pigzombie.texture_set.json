@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "pigzombie",
-    "metalness_emissive_roughness": "pigzombie_mer",
-    "heightmap": "pigzombie_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "pigzombie",
+        "metalness_emissive_roughness": "pigzombie_mer",
+        "heightmap": "pigzombie_heightmap"
+    }
 }

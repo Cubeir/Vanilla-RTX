@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "music_disc_creator_music_box",
+    "metalness_emissive_roughness": "music_disc_creator_music_box_mer",
+    "heightmap": "music_disc_creator_music_box_heightmap"
+  }
+}

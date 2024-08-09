@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "tipped_arrow_oozing",
+    "metalness_emissive_roughness": "tipped_arrow_oozing_mer",
+    "heightmap": "tipped_arrow_oozing_heightmap"
+  }
+}

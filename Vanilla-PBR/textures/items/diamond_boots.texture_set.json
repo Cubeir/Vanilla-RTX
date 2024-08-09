@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "diamond_boots",
-    "metalness_emissive_roughness": "diamond_boots_material",
+    "metalness_emissive_roughness": "diamond_boots_mer",
     "heightmap": "diamond_boots_heightmap"
   }
 }

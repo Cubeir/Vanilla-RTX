@@ -1,1 +1,8 @@
-{"format_version":"1.16.100","minecraft:texture_set":{"color":"drowned","metalness_emissive_roughness":"drowned_mer","heightmap":"drowned_heightmap"}}
+{
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "drowned",
+        "metalness_emissive_roughness": "drowned_mer",
+        "heightmap": "drowned_heightmap"
+    }
+}

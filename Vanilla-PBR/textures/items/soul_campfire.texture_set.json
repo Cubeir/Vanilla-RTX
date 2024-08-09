@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "soul_campfire",
-    "metalness_emissive_roughness": "soul_campfire_material",
-    "heightmap": "soul_campfire_heightmap"
+    "heightmap": "soul_campfire_heightmap",
+    "metalness_emissive_roughness_subsurface": "soul_campfire_mer"
   }
 }

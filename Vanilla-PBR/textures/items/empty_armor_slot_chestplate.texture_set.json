@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "empty_armor_slot_chestplate",
-    "metalness_emissive_roughness": "empty_armor_slot_chestplate_material",
+    "metalness_emissive_roughness": "empty_armor_slot_chestplate_mer",
     "heightmap": "empty_armor_slot_chestplate_heightmap"
   }
 }

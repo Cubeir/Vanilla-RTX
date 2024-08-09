@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "potato_baked",
-    "metalness_emissive_roughness": "potato_baked_material",
+    "metalness_emissive_roughness": "potato_baked_mer",
     "heightmap": "potato_baked_heightmap"
   }
 }

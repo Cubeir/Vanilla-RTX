@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "jellie",
-    "metalness_emissive_roughness": "jellie_mer",
-    "heightmap": "jellie_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "jellie",
+        "metalness_emissive_roughness": "jellie_mer",
+        "heightmap": "jellie_heightmap"
+    }
 }

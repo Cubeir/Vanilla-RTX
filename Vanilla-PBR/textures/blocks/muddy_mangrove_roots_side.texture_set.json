@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "muddy_mangrove_roots_side",
-    "metalness_emissive_roughness": "muddy_mangrove_roots_side_mer",
-    "heightmap": "muddy_mangrove_roots_side_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "muddy_mangrove_roots_side",
+        "heightmap": "muddy_mangrove_roots_side_heightmap",
+        "metalness_emissive_roughness_subsurface": "muddy_mangrove_roots_side_mer"
+    }
 }

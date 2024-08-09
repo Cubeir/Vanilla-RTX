@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "record_pigstep",
-    "metalness_emissive_roughness": "record_pigstep_material",
+    "metalness_emissive_roughness": "record_pigstep_mer",
     "heightmap": "record_pigstep_heightmap"
   }
 }

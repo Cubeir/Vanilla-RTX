@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "record_cat",
-    "metalness_emissive_roughness": "record_cat_material",
+    "metalness_emissive_roughness": "record_cat_mer",
     "heightmap": "record_cat_heightmap"
   }
 }

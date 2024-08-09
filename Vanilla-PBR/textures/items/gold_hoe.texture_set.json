@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "gold_hoe",
-    "metalness_emissive_roughness": "gold_hoe_material",
+    "metalness_emissive_roughness": "gold_hoe_mer",
     "heightmap": "gold_hoe_heightmap"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "bamboo_hanging_sign",
-    "metalness_emissive_roughness": "bamboo_hanging_sign_mer",
-    "heightmap": "bamboo_hanging_sign_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "bamboo_hanging_sign",
+        "heightmap": "bamboo_hanging_sign_heightmap",
+        "metalness_emissive_roughness_subsurface": "bamboo_hanging_sign_mer"
+    }
 }

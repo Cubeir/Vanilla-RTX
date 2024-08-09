@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "gold_pickaxe",
-    "metalness_emissive_roughness": "gold_pickaxe_material",
+    "metalness_emissive_roughness": "gold_pickaxe_mer",
     "heightmap": "gold_pickaxe_heightmap"
   }
 }

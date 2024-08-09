@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "honeycomb",
-    "metalness_emissive_roughness": "honeycomb_material",
-    "heightmap": "honeycomb_heightmap"
+    "heightmap": "honeycomb_heightmap",
+    "metalness_emissive_roughness_subsurface": "honeycomb_mer"
   }
 }

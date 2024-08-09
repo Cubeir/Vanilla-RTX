@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "spawn_egg_overlay",
-    "metalness_emissive_roughness": "spawn_egg_overlay_material",
+    "metalness_emissive_roughness": "spawn_egg_overlay_mer",
     "heightmap": "spawn_egg_overlay_heightmap"
   }
 }

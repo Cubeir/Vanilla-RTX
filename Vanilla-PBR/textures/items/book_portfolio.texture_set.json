@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "book_portfolio",
-    "metalness_emissive_roughness": "book_portfolio_material",
+    "metalness_emissive_roughness": "book_portfolio_mer",
     "heightmap": "book_portfolio_heightmap"
   }
 }

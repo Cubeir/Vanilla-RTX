@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "flow_banner_pattern",
+    "metalness_emissive_roughness": "flow_banner_pattern_mer",
+    "heightmap": "flow_banner_pattern_heightmap"
+  }
+}

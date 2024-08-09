@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "cactus_side",
-    "metalness_emissive_roughness": "cactus_side_mer",
-    "heightmap": "cactus_side_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "cactus_side",
+        "heightmap": "cactus_side_heightmap",
+        "metalness_emissive_roughness_subsurface": "cactus_side_mer"
+    }
 }

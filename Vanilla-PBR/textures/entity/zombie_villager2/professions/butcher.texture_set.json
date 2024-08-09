@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "butcher",
-    "metalness_emissive_roughness": "butcher_mer",
-    "heightmap": "butcher_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "butcher",
+        "metalness_emissive_roughness": "butcher_mer",
+        "heightmap": "butcher_heightmap"
+    }
 }

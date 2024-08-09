@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "warden_tendrils",
-    "metalness_emissive_roughness": "warden_tendrils_mer",
-    "heightmap": "warden_tendrils_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "warden_tendrils",
+        "metalness_emissive_roughness": "warden_tendrils_mer",
+        "heightmap": "warden_tendrils_heightmap"
+    }
 }

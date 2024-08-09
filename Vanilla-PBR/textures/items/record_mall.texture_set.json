@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "record_mall",
-    "metalness_emissive_roughness": "record_mall_material",
+    "metalness_emissive_roughness": "record_mall_mer",
     "heightmap": "record_mall_heightmap"
   }
 }

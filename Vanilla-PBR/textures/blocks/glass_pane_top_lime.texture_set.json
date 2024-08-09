@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "glass_pane_top_lime",
-    "metalness_emissive_roughness": "glass_pane_top_lime_mer",
-    "heightmap": "glass_pane_top_lime_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "glass_pane_top_lime",
+        "heightmap": "glass_pane_top_lime_heightmap",
+        "metalness_emissive_roughness_subsurface": "glass_pane_top_lime_mer"
+    }
 }

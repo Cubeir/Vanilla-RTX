@@ -1,8 +1,8 @@
 {
   "format_version": "1.16.100",
   "minecraft:texture_set": {
-    "color": "potion_bottle_splash_windcharged",
-    "metalness_emissive_roughness": "potion_bottle_splash_windcharged_mer",
-    "heightmap": "potion_bottle_splash_windcharged_heightmap"
+    "color": "potion_bottle_splash_windCharged",
+    "metalness_emissive_roughness": "potion_bottle_splash_windCharged_mer",
+    "heightmap": "potion_bottle_splash_windCharged_heightmap"
   }
 }

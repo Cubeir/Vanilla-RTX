@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cherry_boat",
-    "metalness_emissive_roughness": "cherry_boat_material",
+    "metalness_emissive_roughness": "cherry_boat_mer",
     "heightmap": "cherry_boat_heightmap"
   }
 }

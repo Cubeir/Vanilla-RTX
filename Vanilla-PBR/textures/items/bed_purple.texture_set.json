@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bed_purple",
-    "metalness_emissive_roughness": "bed_purple_material",
+    "metalness_emissive_roughness": "bed_purple_mer",
     "heightmap": "bed_purple_heightmap"
   }
 }

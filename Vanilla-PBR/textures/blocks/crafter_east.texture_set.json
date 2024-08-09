@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:texture_set": {
-    "color": "crafter_east",
-    "metalness_emissive_roughness": "crafter_east_mer",
-    "heightmap": "crafter_east_heightmap"
-  }
+    "format_version": "1.21.30",
+    "minecraft:texture_set": {
+        "color": "crafter_east",
+        "metalness_emissive_roughness": "crafter_east_mer",
+        "heightmap": "crafter_east_heightmap"
+    }
 }

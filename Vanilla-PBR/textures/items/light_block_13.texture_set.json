@@ -1,8 +1,8 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "light_block_13",
-    "metalness_emissive_roughness": "light_block_13_material",
+    "metalness_emissive_roughness": "light_block_13_mer",
     "heightmap": "light_block_13_heightmap"
   }
 }
