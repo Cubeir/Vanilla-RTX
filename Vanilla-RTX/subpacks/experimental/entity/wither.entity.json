@@ -7,7 +7,7 @@
             "materials": {
                 "default": "entity_alphatest",
                 "armor": "charged_creeper"
-              },
+            },
             "spawn_egg": {
                 "texture": "spawn_egg_wither_boss"
             }

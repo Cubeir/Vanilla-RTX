@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "chiseled_bookshelf_bcdf",
+    "metalness_emissive_roughness": "chiseled_bookshelf_bcdf_mer",
+    "normal": "chiseled_bookshelf_bcdf_normal"
+  }
+}

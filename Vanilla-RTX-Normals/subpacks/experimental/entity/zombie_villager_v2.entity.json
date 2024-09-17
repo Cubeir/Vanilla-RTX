@@ -1,0 +1,26 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:zombie_villager_v2",
+      "materials": {
+        "default": "zombie_villager_v2",
+        "blend": "entity_alphablend"
+      },
+      "textures": {
+        "cartographer": "textures/entity/zombie_villager2/professions/cartographer",
+        "librarian": "textures/entity/zombie_villager2/professions/librarian"
+      },
+      "geometry": {
+        "default": "geometry.zombie.villager_v2",
+        "biome": "geometry.zombie.villager_v2.biome",
+        "profession": "geometry.zombie.villager_v2.profession"
+      },
+      "render_controllers": [
+        "controller.render.zombie_villager_v2_base",
+        "controller.render.zombie_villager_v2_masked_biome",
+        "controller.render.zombie_villager_v2_masked_profession"
+      ]
+    }
+  }
+}

@@ -4,7 +4,7 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "d280074f-c346-48cc-b920-34ebf5a117ed",
-        "version": [1, 21, 40],
+        "version": [1, 21, 50],
         "min_engine_version": [ 1, 16, 200 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "vanillartx",
             "type": "resources",
             "uuid": "2cbe30f5-ad52-4a0a-a94f-0f537b014f91",
-            "version": [1, 21, 40]
+            "version": [1, 21, 50]
         }
     ],
     "metadata": {
@@ -52,7 +52,7 @@
         },
         {
             "type": "label",
-            "text": "Experimental: §iEnables experimental or work-in-progress features and updates. Keep an eye out in the changelogs to see what's new!"
+            "text": "Experimental: §iEnables experimental or work-in-progress features and updates. Keep an eye out on the release notes to see what's new!"
         }
     ],
     "capabilities": [ "raytraced", "pbr" ]

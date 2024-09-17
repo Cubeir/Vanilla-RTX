@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:slime",
+      "materials": {
+        "default": "slime",
+        "outer": "slime_outer"
+      },
+      "textures": {
+        "default": "textures/entity/slime/slime"
+      },
+      "geometry": {
+        "default": "geometry.slime",
+        "armor": "geometry.slime.armor"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:cat",
+      "materials": {
+        "default": "entity_nocull"
+      },
+      "geometry": {
+        "default": "geometry.cat"
+      },
+      "render_controllers": [
+        "controller.render.cat"
+      ]
+    }
+  }
+}

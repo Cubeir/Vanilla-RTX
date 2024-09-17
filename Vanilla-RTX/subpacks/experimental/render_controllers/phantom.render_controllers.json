@@ -1,0 +1,17 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.phantom": {
+      "geometry": "Geometry.default",
+      "part_visibility": [
+        { "*": "query.is_invisible ? 0 : 1"},
+        { "eyes": true }
+      ],
+      "materials": [ 
+        { "*": "Material.default" },
+        { "eyes": "Material.invisible" } 
+    ],
+      "textures": [ "Texture.default" ]
+    }
+  }
+}

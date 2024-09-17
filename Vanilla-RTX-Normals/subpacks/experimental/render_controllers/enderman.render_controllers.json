@@ -1,0 +1,28 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.enderman": {
+      "geometry": "Geometry.default",
+      "part_visibility": [
+        { "*": "query.is_invisible ? 0 : 1"}
+      ],
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [ "Texture.default" ]
+    },
+    "controller.render.enderman_invisible": {
+      "geometry": "Geometry.invisible",
+      "part_visibility": [
+        { "*": true }
+      ],
+      "materials": [ { "*": "Material.invisible" } ],
+      "textures": [ "Texture.default" ],
+      "ignore_lighting": true,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  }
+}

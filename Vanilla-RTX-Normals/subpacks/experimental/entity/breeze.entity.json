@@ -8,6 +8,28 @@
                 "breeze_eyes": "entity_alphatest",
                 "breeze_wind": "charged_creeper"
             },
+            "textures": {
+                "default": "textures/entity/breeze/breeze",
+                "breeze_wind": "textures/entity/breeze/breeze_wind",
+                "breeze_eyes": "textures/entity/breeze/breeze_eyes"
+            },
+              "geometry": {
+                "default": "geometry.breeze",
+                "breeze_eyes": "geometry.breeze_eyes",
+                "breeze_wind_top": "geometry.breeze_wind_top",
+                "breeze_wind_mid": "geometry.breeze_wind_mid",
+                "breeze_wind_bottom": "geometry.breeze_wind_bottom"
+            },
+            "render_controllers": [
+                "controller.render.breeze",
+                "controller.render.breeze_eyes",
+                "controller.render.breeze_wind_top",
+                "controller.render.breeze_wind_mid",
+                "controller.render.breeze_wind_bottom"
+            ],
+            "particle_effects": {
+                "ground_particles": "minecraft:breeze_ground_particle"
+            },
             "spawn_egg": {
                 "texture": "spawn_egg_breeze"
             }

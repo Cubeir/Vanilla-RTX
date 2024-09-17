@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "redstone_ore_lit",
+    "metalness_emissive_roughness": "redstone_ore_lit_mer",
+    "normal": "redstone_ore_lit_normal"
+  }
+}

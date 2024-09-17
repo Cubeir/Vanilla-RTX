@@ -1,0 +1,21 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:phantom",
+      "materials": {
+        "default": "phantom",
+        "invisible": "charged_creeper"
+      },
+      "textures": {
+        "default": "textures/entity/phantom"
+      },
+      "geometry": {
+        "default": "geometry.phantom"
+      },
+      "render_controllers": [
+        "controller.render.phantom"
+      ]
+    }
+  }
+}

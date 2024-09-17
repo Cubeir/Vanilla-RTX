@@ -1,0 +1,19 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:magma_cube",
+      "materials": {
+        "default": "magma_cube",
+        "opaque": "entity_alphatest",
+        "glow": "charged_creeper"
+      },
+      "geometry": {
+        "default": "geometry.lavaslime"
+      },
+      "render_controllers": [
+        "controller.render.magma_cube"
+      ]
+    }
+  }
+}

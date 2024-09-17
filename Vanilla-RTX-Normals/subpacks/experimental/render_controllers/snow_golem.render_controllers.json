@@ -1,0 +1,21 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.snowgolem": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [ "Texture.default" ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "part_visibility": [ 
+        { "raster_hider": "query.is_sheared ? 0 : 1" },
+        { "pumpkin_block": "query.is_sheared ? 0 : 1" }
+      ],
+      "materials": [
+        { "*": "Material.default" }
+      ],
+      "textures": [ "Array.skins[0]" ]
+    }
+  }
+}

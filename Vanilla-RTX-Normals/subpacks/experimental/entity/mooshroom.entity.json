@@ -6,6 +6,13 @@
             "min_engine_version": "1.8.0",
             "materials": {
                 "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/cow/mooshroom",
+                "brown": "textures/entity/cow/brown_mooshroom"
+            },
+              "geometry": {
+                "default": "geometry.mooshroom.v1.8"
             }
         }
     }

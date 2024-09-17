@@ -1,0 +1,110 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.villager_v2_base": {
+            "arrays": {
+                "textures": {
+                    "Array.skins": [
+                        "Texture.base",
+                        "Texture.base2",
+                        "Texture.base3",
+                        "Texture.base4",
+                        "Texture.base5",
+                        "Texture.base6"
+                    ]
+                }
+            },
+            "rebuild_animation_matrices": true,
+            "geometry": "Geometry.default",
+            "materials": [ { "*": "Material.default" } ],
+            "textures": [ "Array.skins[query.skin_id]" ]
+        },
+        "controller.render.villager_v2_masked_biome": {
+            "arrays": {
+                "textures": {
+                    "Array.biomes": [
+                        "Texture.plains",
+                        "Texture.desert",
+                        "Texture.jungle",
+                        "Texture.savanna",
+                        "Texture.snow",
+                        "Texture.swamp",
+                        "Texture.taiga"
+                    ]
+                }
+            },
+            "rebuild_animation_matrices": true,
+            "geometry": "Geometry.biome",
+            "part_visibility": [
+                {
+                    "head": "variable.profession_index != 1 && variable.profession_index != 2 && variable.profession_index != 3 && variable.profession_index != 4 && variable.profession_index != 5 && variable.profession_index != 6 && variable.profession_index != 9 && variable.profession_index != 11"
+                }
+            ],
+            "materials": [
+                { "*": "Material.default" }
+            ],
+            "textures": [ "Array.biomes[query.mark_variant]" ]
+        },
+        "controller.render.villager_v2_masked_profession": {
+            "arrays": {
+                "textures": {
+                    "Array.professions": [
+                        "Texture.unskilled",
+                        "Texture.farmer",
+                        "Texture.fisherman",
+                        "Texture.shepherd",
+                        "Texture.fletcher",
+                        "Texture.librarian",
+                        "Texture.cartographer",
+                        "Texture.cleric",
+                        "Texture.armorer",
+                        "Texture.weapon_smith",
+                        "Texture.tool_smith",
+                        "Texture.butcher",
+                        "Texture.leatherworker",
+                        "Texture.stonemason",
+                        "Texture.nitwit"
+                    ]
+                }
+            },
+            "rebuild_animation_matrices": true,
+            "geometry": "Geometry.profession",
+            "part_visibility": [
+                { "*": "!query.is_baby" },
+                { "librarian_glass": "!query.is_baby && variable.profession_index == 5"  },
+                { "cartographer_glass": "!query.is_baby && variable.profession_index == 6" }
+            ],
+            "materials": [
+                { "*": "Material.default" },
+                { "librarian_glass": "variable.profession_index == 5 ? Material.blend : Material.default" },
+                { "cartographer_glass": "variable.profession_index == 6 ? Material.blend : Material.default" }
+            ],
+            "textures": [ "Array.professions[variable.profession_index]" ]
+        },
+        "controller.render.villager_v2_masked_level": {
+            "arrays": {
+                "textures": {
+                    "Array.levels": [
+                        "Texture.level_stone",
+                        "Texture.level_iron",
+                        "Texture.level_gold",
+                        "Texture.level_emerald",
+                        "Texture.level_diamond"
+                    ]
+                }
+            },
+            "rebuild_animation_matrices": true,
+            "geometry": "Geometry.level",
+            "part_visibility": [
+                { "*": "!query.is_baby && variable.profession_index != 0 && variable.profession_index != 14" },
+                { "levelSide": "!query.is_baby && variable.level_index == 0 && variable.profession_index != 0 && variable.profession_index != 14" }
+            ],
+            "materials": [
+                { "*": "Material.default" }
+            ],
+            "textures": [
+                "Array.levels[variable.level_index]"
+            ]
+        }
+    }
+}

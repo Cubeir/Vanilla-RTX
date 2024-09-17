@@ -1,0 +1,46 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.slime",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 2,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "cube",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-3, 1, -3], "size": [6, 6, 6], "uv": [0, 16]},
+						{"origin": [1.3, 4, -3.5], "size": [2, 2, 2], "uv": [32, 4]},
+						{"origin": [-3.3, 4, -3.5], "size": [2, 2, 2], "uv": [32, 0]},
+						{"origin": [0, 2, -3.5], "size": [1, 1, 1], "uv": [32, 8]}
+					]
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.slime.armor",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 2,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "slime_outer",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 8, 8], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

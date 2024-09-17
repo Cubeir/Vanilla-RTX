@@ -1,0 +1,67 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.zombie_villager_v2_base": {
+      "geometry": "Geometry.default",
+      "materials": [
+        { "*": "Material.default" }
+      ],
+      "textures": [ "Texture.default" ]
+    },
+    "controller.render.zombie_villager_v2_masked_biome": {
+      "arrays": {
+        "textures": {
+          "Array.biomes": [
+            "Texture.plains",
+            "Texture.desert",
+            "Texture.jungle",
+            "Texture.savanna",
+            "Texture.snow",
+            "Texture.swamp",
+            "Texture.taiga"
+          ]
+        }
+      },
+      "geometry": "Geometry.biome",
+      "materials": [
+        { "*": "Material.default" }
+      ],
+      "textures": [ "Array.biomes[query.mark_variant]" ]
+    },
+    "controller.render.zombie_villager_v2_masked_profession": {
+      "arrays": {
+        "textures": {
+          "Array.professions": [
+            "Texture.unskilled",
+            "Texture.farmer",
+            "Texture.fisherman",
+            "Texture.shepherd",
+            "Texture.fletcher",
+            "Texture.librarian",
+            "Texture.cartographer",
+            "Texture.cleric",
+            "Texture.armorer",
+            "Texture.weapon_smith",
+            "Texture.tool_smith",
+            "Texture.butcher",
+            "Texture.leatherworker",
+            "Texture.stonemason",
+            "Texture.nitwit"
+          ]
+        }
+      },
+      "geometry": "Geometry.profession",
+      "part_visibility": [
+        { "*": "!query.is_baby" },
+        { "librarian_glass": "!query.is_baby && variable.profession_index == 5"  },
+        { "cartographer_glass": "!query.is_baby && variable.profession_index == 6" }
+      ],
+      "materials": [
+        { "*": "Material.default" },
+        { "librarian_glass": "Material.blend"},
+        { "cartographer_glass": "Material.blend"}
+      ],
+      "textures": [ "Array.professions[variable.profession_index]" ]
+    }
+  }
+}
