@@ -25,6 +25,26 @@ Initial goal of this project was having something similar to [Vanilla Normals Re
 ![Vanilla RTX Demo World](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
 For more information and screenshots visit [this page](http://minecraftrtx.net/).
 
+
+## Usage Tips
+- If you're encountering visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) consider switching to Experimental option included in Vanilla RTX (or Vanilla RTX Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of Minecraft's issues, but please note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
+
+- If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
+
+- There is an issue that will keep Vanilla RTX files from loading and might make the world fully glossy. To prevent this, always make sure ray tracing is enabled before you attempt joining a world. In other words, do not enable ray tracing while inside a world! Do it through the main menu instead. It is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few other glitches.
+
+- It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can sometimes cause incomplete copies of resource pack files.
+
+- To ensure your pack options or subpack changes are saved, you may need to apply the settings multiple times.
+
+- The shortcut for toggling ray tracing while inside of a world is the semicolon key ";" on your keyboard, however it is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few glitches, such as black entity textures.
+
+- Education Edition resources will only load if the pack is loaded in world settings.
+
+- If textures appears broken or fail to load, make sure that server, world, or realm resource packs are not overriding Vanilla RTX's files.
+
+
+
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
 
@@ -38,8 +58,3 @@ Please note that this pack relies on some of Minecraft's original art resources 
 This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by texture_set.json files. As time passes this may result in outdated textures.  
   
 Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly. Parts of vanilla resources also had to be edited or converted for proper functioning with ray tracing, or to work around some issues without altering their original appearance.  
-
-## Tips
-- If you're experiencing low frame rates, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
-
-- There is an issue that will keep Vanilla RTX files from loading and might make the world fully glossy. To prevent this, always make sure ray tracing is enabled before you attempt joining a world. In other words, do not enable ray tracing while inside a world! Do it through the main menu instead. It is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few other glitches.
