@@ -1,93 +1,97 @@
 {
-    "minecraft:color_grading_settings": {
-        "description": {
-            "identifier": "minecraftpbr:default_color_grading"
-        },
-        "color_grading": {
-            "highlights": {
-                "contrast": [
-                    0.95,
-                    0.95,
-                    0.95
-                ],
-                "gain": [
-                    12.84,
-                    12.84,
-                    12.84
-                ],
-                "gamma": [
-                    2.44,
-                    2.44,
-                    2.44
-                ],
-                "offset": [
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "saturation": [
-                    1.1,
-                    1.1,
-                    1.1
-                ]
-            },
-            "midtones": {
-                "contrast": [
-                    0.95,
-                    0.95,
-                    0.95
-                ],
-                "gain": [
-                    12.84,
-                    12.84,
-                    12.84
-                ],
-                "gamma": [
-                    2.44,
-                    2.44,
-                    2.44
-                ],
-                "offset": [
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "saturation": [
-                    1.1,
-                    1.1,
-                    1.1
-                ]
-            },
-            "shadows": {
-                "contrast": [
-                    0.95,
-                    0.95,
-                    0.95
-                ],
-                "gain": [
-                    12.84,
-                    12.84,
-                    12.84
-                ],
-                "gamma": [
-                    2.44,
-                    2.44,
-                    2.44
-                ],
-                "offset": [
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "saturation": [
-                    1.1,
-                    1.1,
-                    1.1
-                ]
-            }
-        },
-        "tone_mapping": {
-            "operator": "hable"
-        }
+  "minecraft:color_grading_settings": {
+    "description": {
+      "identifier": "minecraftpbr:default_color_grading"
+    },
+    "color_grading": {
+      "midtones": {
+        "contrast": [
+          1.15,
+          1.15,
+          1.15
+        ],
+        "gain": [
+          10,
+          10,
+          10
+        ],
+        "gamma": [
+          2.404,
+          2.404,
+          2.404
+        ],
+        "offset": [
+          1,
+          1,
+          1
+        ],
+        "saturation": [
+          1.100000023841858,
+          1.100000023841858,
+          1.100000023841858
+        ]
+      },
+      "highlights": {
+        "enabled": true,
+        "highlightsMin": 2.0069999999999997,
+        "contrast": [
+          1.2,
+          1.2,
+          1.2
+        ],
+        "gain": [
+          10,
+          10,
+          10
+        ],
+        "gamma": [
+          3,
+          3,
+          3
+        ],
+        "offset": [
+          1,
+          1,
+          1
+        ],
+        "saturation": [
+          1.100000023841858,
+          1.100000023841858,
+          1.100000023841858
+        ]
+      },
+      "shadows": {
+        "enabled": true,
+        "shadowsMax": 1,
+        "contrast": [
+          1.2,
+          1.2,
+          1.2
+        ],
+        "gain": [
+          10,
+          10,
+          10
+        ],
+        "gamma": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "offset": [
+          1,
+          1,
+          1
+        ],
+        "saturation": [
+          1.100000023841858,
+          1.100000023841858,
+          1.100000023841858
+        ]
+      }
+    },
+    "tone_mapping": {
+      "operator": "hable"
     }
+  }
 }
