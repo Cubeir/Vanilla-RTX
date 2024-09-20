@@ -1,8 +1,8 @@
 {
     "resource_pack_name": "vanillapbr",
     "texture_name": "atlas.terrain",
-    "padding": 1,
     "num_mip_levels": 1,
+    "padding": 2,
     "texture_data": {
         "deepslate_redstone_ore_lit": {
             "textures": "textures/blocks/deepslate/deepslate_redstone_ore_lit"

@@ -1,313 +1,185 @@
 {
-    "format_version": [
-        1,
-        0,
-        0
-    ],
+  "minecraft:lighting_settings": {
+    "format_version": "1.21.40",
+    "description": {
+      "identifier": "minecraftpbr:default_lighting"
+    },
     "directional_lights": {
-        "sun": {
-            "illuminance": {
-                "0.0": 20084,
-                "1.2": 14740.0,
-                "0.242916678": 2.0,
-                "0.25": 2.5,
-                "0.28958327": 2.0,
-                "0.3": 2.0,
-                "0.333": 0.0,
-                "0.5": 0.0,
-                "0.667": 0.0,
-                "0.7": 2.0,
-                "0.71041673": 2.0,
-                "0.75": 2.0,
-                "0.757083322": 2.0,
-                "0.88": 14700.0,
-                "1.0": 20084
-            },
-            "color": {
-                "0.0": [
-                    255,
-                    250,
-                    199,
-                    255
-                ],
-                "0.1": [
-                    255,
-                    228,
-                    165,
-                    225
-                ],
-                "0.2": [
-                    255,
-                    211,
-                    143,
-                    180
-                ],
-                "0.3": [
-                    240,
-                    185,
-                    130,
-                    150
-                ],
-                "0.4": [
-                    181,
-                    115,
-                    106,
-                    120
-                ],
-                "0.5": [
-                    4,
-                    6,
-                    9,
-                    74
-                ],
-                "0.6": [
-                    181,
-                    115,
-                    106,
-                    120
-                ],
-                "0.7": [
-                    240,
-                    185,
-                    130,
-                    150
-                ],
-                "0.8": [
-                    255,
-                    211,
-                    143,
-                    180
-                ],
-                "0.9": [
-                    255,
-                    228,
-                    165,
-                    225
-                ],
-                "1.0": [
-                    255,
-                    250,
-                    199,
-                    255
-                ]
-            }
+      "sun": {
+        "illuminance": {
+          "0.0": 20084,
+          "1.2": 14740.0,
+          "0.242916678": 2.0,
+          "0.25": 2.5,
+          "0.28958327": 2.0,
+          "0.3": 2.0,
+          "0.333": 0.0,
+          "0.5": 0.0,
+          "0.667": 0.0,
+          "0.7": 2.0,
+          "0.71041673": 2.0,
+          "0.75": 2.0,
+          "0.757083322": 2.0,
+          "0.88": 14700.0,
+          "1.0": 20084
         },
-        "moon": {
-            "illuminance": {
-              "0.750000": 1.3200000524520874,
-              "0.000000": 1.9664000272750854,
-              "0.167000": 1.9119999408721924,
-              "0.742917": 1.312399983406067,
-              "0.200000": 1.8056000471115112,
-              "0.250000": 1.3200000524520874,
-              "0.210417": 1.5160000324249268,
-              "0.257083": 1.312399983406067,
-              "0.789583": 1.5160000324249268,
-              "0.800000": 1.8056000471115112,
-              "0.833000": 1.9119999408721924,
-              "1.000000": 1.9664000272750854
-            },
-            "color": {
-              "0.000000": [
-                0,
-                0,
-                0,
-                0
-              ],
-              "0.100000": [
-                0,
-                0,
-                0,
-                0
-              ],
-              "0.200000": [
-                222,
-                240,
-                255,
-                25.5
-              ],
-              "0.300000": [
-                222,
-                240,
-                255,
-                188.7
-              ],
-              "0.400000": [
-                222,
-                240,
-                255,
-                214.2
-              ],
-              "0.500000": [
-                221.60436734693877,
-                240.05338475635156,
-                255,
-                255
-              ],
-              "0.600000": [
-                222,
-                240,
-                255,
-                214.2
-              ],
-              "0.700000": [
-                222,
-                240,
-                255,
-                188.7
-              ],
-              "0.800000": [
-                222,
-                240,
-                255,
-                25.5
-              ],
-              "0.900000": [
-                0,
-                0,
-                0,
-                0
-              ],
-              "1.000000": [
-                0,
-                0,
-                0,
-                1.5612244897959182
-              ]
-            }
-        },
-        "orbital_offset_degrees": 31.415926535
-    },
-    "pbr": {
-        "blocks": {
-            "global_metalness_emissive_roughness": [
-                0.0,
-                0.0,
-                255.0,
-                255.0
-            ]
-        },
-        "actors": {
-            "global_metalness_emissive_roughness": [
-                0.0,
-                0.0,
-                255.0,
-                255.0
-            ]
-        },
-        "particles": {
-            "global_metalness_emissive_roughness": [
-                0.0,
-                0.0,
-                255.0,
-                255.0
-            ]
-        },
-        "items": {
-            "global_metalness_emissive_roughness": [
-                0.0,
-                0.0,
-                255.0,
-                255.0
-            ]
+        "color": {
+          "0.0": [
+            255,
+            250,
+            199,
+            255
+          ],
+          "0.1": [
+            255,
+            228,
+            165,
+            225
+          ],
+          "0.2": [
+            255,
+            211,
+            143,
+            180
+          ],
+          "0.3": [
+            240,
+            185,
+            130,
+            150
+          ],
+          "0.4": [
+            181,
+            115,
+            106,
+            120
+          ],
+          "0.5": [
+            4,
+            6,
+            9,
+            74
+          ],
+          "0.6": [
+            181,
+            115,
+            106,
+            120
+          ],
+          "0.7": [
+            240,
+            185,
+            130,
+            150
+          ],
+          "0.8": [
+            255,
+            211,
+            143,
+            180
+          ],
+          "0.9": [
+            255,
+            228,
+            165,
+            225
+          ],
+          "1.0": [
+            255,
+            250,
+            199,
+            255
+          ]
         }
-    },
-    "point_lights": {
-        "colors": {
-            "minecraft:cave_wines_head_with_berries": "#DB9C59",
-            "minecraft:cave_wines_body_with_berries": "#DB9C59",
-            "minecraft:trial_spawner": "#FFF1E8",
-            "minecraft:vault": "#FFF1E8",
-            "minecraft:waxed_copper_bulb": "#F2B779",
-            "minecraft:copper_bulb": "#F2B779",
-            "minecraft:waxed_exposed_copper_bulb": "#F3B16C",
-            "minecraft:exposed_copper_bulb_": "#F3B16C",
-            "minecraft:waxed_oxidized_copper_bulb": "#F29954",
-            "minecraft:oxidized_copper_bulb": "#F29954",
-            "minecraft:waxed_weathered_copper_bulb": "#F4AD61",
-            "minecraft:weathered_copper_bulb": "#F4AD61",
-            "minecraft:amethyst_cluster": "#B189D9",
-            "minecraft:large_amethyst_bud": "#9C7ABF",
-            "minecraft:medium_amethyst_bud": "#80659E",
-            "minecraft:small_amethyst_bud": "#57427F",
-            "minecraft:light_block": "#FFFFE6",
-            "minecraft:candle": "#FFD175",
-            "minecraft:candle_cake": "#FFD175",
-            "minecraft:black_candle": "#FFD175",
-            "minecraft:black_candle_cake": "#FFD175",
-            "minecraft:blue_candle": "#FFD175",
-            "minecraft:blue_candle_cake": "#FFD175",
-            "minecraft:brown_candle": "#FFD175",
-            "minecraft:brown_candle_cake": "#FFD175",
-            "minecraft:gray_candle": "#FFD175",
-            "minecraft:gray_candle_cake": "#FFD175",
-            "minecraft:green_candle": "#FFD175",
-            "minecraft:green_candle_cake": "#FFD175",
-            "minecraft:light_blue_candle": "#FFD175",
-            "minecraft:light_blue_candle_cake": "#FFD175",
-            "minecraft:light_gray_candle": "#FFD175",
-            "minecraft:light_gray_candle_cake": "#FFD175",
-            "minecraft:lime_candle": "#FFD175",
-            "minecraft:lime_candle_cake": "#FFD175",
-            "minecraft:magenta_candle": "#FFD175",
-            "minecraft:magenta_candle_cake": "#FFD175",
-            "minecraft:purple_candle": "#FFD175",
-            "minecraft:purple_candle_cake": "#FFD175",
-            "minecraft:red_candle": "#FFD175",
-            "minecraft:red_candle_cake": "#FFD175",
-            "minecraft:orange_candle": "#FFD175",
-            "minecraft:orange_candle_cake": "#FFD175",
-            "minecraft:pink_candle": "#FFD175",
-            "minecraft:pink_candle_cake": "#FFD175",
-            "minecraft:white_candle": "#FFD175",
-            "minecraft:white_candle_cake": "#FFD175",
-            "minecraft:yellow_candle": "#FFD175",
-            "minecraft:yellow_candle_cake": "#FFD175",
-            "minecraft:beacon": "#56D8D0",
-            "minecraft:brewing_stand": "#7F5D22",
-            "minecraft:end_gateway": "#6CD3D8",
-            "minecraft:end_portal": "#6CD3D8",
-            "minecraft:ender_chest": "#40754F",
-            "minecraft:dragon_egg": "#22003D",
-            "minecraft:enchanting_table": "#64F4DA",
-            "minecraft:cave_vines_body_with_berries": "#BD782C",
-            "minecraft:cave_vines_head_with_berries": "#BD782C",
-            "minecraft:conduit": "#A8EFFF",
-            "minecraft:glow_lichen": "#8E9882",
-            "minecraft:portal": "#8343DB",
-            "minecraft:sea_pickle": "#D8FFD6",
-            "minecraft:respawn_anchor": "#E4B781",
-            "minecraft:campfire": "#DD9713",
-            "minecraft:fire": "#DD8B11",
-            "minecraft:lantern": "#EFB967",
-            "minecraft:torch": "#EFB967",
-            "minecraft:soul_campfire": "#17AEB2",
-            "minecraft:soul_fire": "#17AEB2",
-            "minecraft:soul_lantern": "#17AEB2",
-            "minecraft:soul_torch": "#17AEB2",
-            "minecraft:redstone_torch": "#A3240B",
-            "minecraft:unlit_redstone_torch": "#000000",
-            "minecraft:end_rod": "#FFF4E5",
-            "minecraft:lit_furnace": "#F8BB36",
-            "minecraft:lit_blast_furnace": "#E77719",
-            "minecraft:lit_smoker": "#E8920E",
-            "minecraft:lit_pumpkin": "#EAB147",
-            "minecraft:lit_redstone_lamp": "#F4AD61",
-            "minecraft:lit_redstone_ore": "#A31010",
-            "minecraft:lit_deepslate_redstone_ore": "#A31010",
-            "minecraft:ochre_froglight": "#F4E6AB",
-            "minecraft:pearlescent_froglight": "#EACED8",
-            "minecraft:verdant_froglight": "#CBEAC7",
-            "minecraft:redstone_lamp": "#000000",
-            "minecraft:sea_lantern": "#BCD3CB",
-            "minecraft:crying_obsidian": "#310F5B",
-            "minecraft:sculk_catalyst": "#0E3E47",
-            "minecraft:glowingobsidian": "#7A0414",
-            "minecraft:glowstone": "#F4CF84",
-            "minecraft:shroomlight": "#FF9647"
+      },
+      "moon": {
+        "illuminance": {
+          "0.750000": 0.6600000262260437,
+          "0.000000": 0.9832000136375427,
+          "0.167000": 0.9559999704360962,
+          "0.742917": 0.6561999917030335,
+          "0.200000": 0.9028000235557556,
+          "0.250000": 0.6600000262260437,
+          "0.210417": 0.7580000162124634,
+          "0.257083": 0.6561999917030335,
+          "0.789583": 0.7580000162124634,
+          "0.800000": 0.9028000235557556,
+          "0.833000": 0.9559999704360962,
+          "1.000000": 0.9832000136375427
+        },        
+        "color": {
+          "0.000000": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "0.100000": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "0.200000": [
+            222,
+            240,
+            255,
+            25.5
+          ],
+          "0.300000": [
+            222,
+            240,
+            255,
+            188.7
+          ],
+          "0.400000": [
+            222,
+            240,
+            255,
+            214.2
+          ],
+          "0.500000": [
+            221.60436734693877,
+            240.05338475635156,
+            255,
+            255
+          ],
+          "0.600000": [
+            222,
+            240,
+            255,
+            214.2
+          ],
+          "0.700000": [
+            222,
+            240,
+            255,
+            188.7
+          ],
+          "0.800000": [
+            222,
+            240,
+            255,
+            25.5
+          ],
+          "0.900000": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "1.000000": [
+            0,
+            0,
+            0,
+            1.5612244897959182
+          ]
         }
+      },
+      "orbital_offset_degrees": 31.415926535
     },
     "emissive": {
-        "desaturation": 0.06
+      "desaturation": 0.06
     }
+  }
 }

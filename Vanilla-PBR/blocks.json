@@ -1,9 +1,5 @@
 {
-    "format_version": [
-        1,
-        1,
-        0
-    ],
+    "format_version" : [ 1, 1, 0 ],
     "lit_deepslate_redstone_ore": {
         "isotropic": false,
         "sound": "deepslate",
