@@ -1,8 +1,8 @@
 {
+  "format_version": "1.21.40",
   "minecraft:color_grading_settings": {
-    "format_version": "1.21.40",
     "description": {
-      "identifier": "minecraftpbr:default_color_grading"
+      "identifier": "minecraft_pbr:default_color_grading"
     },
     "color_grading": {
       "midtones": {

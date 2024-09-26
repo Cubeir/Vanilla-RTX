@@ -1,7 +1,7 @@
 {
     "format_version": "1.21.30",
     "minecraft:texture_set": {
-        "color": "potion_bottle_damageboost",
+        "color": "potion_bottle_damageBoost",
         "metalness_emissive_roughness": "potion_bottle_damageboost_mer",
         "heightmap": "potion_bottle_damageboost_heightmap"
     }
