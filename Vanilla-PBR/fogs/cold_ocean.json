@@ -28,7 +28,7 @@
             "density": {
                 "air": {
                     "max_density": 0.008,
-                    "max_density_height": 60,
+                    "max_density_height": 62,
                     "zero_density_height": 300
                 },
                 "water": {

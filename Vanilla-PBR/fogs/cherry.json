@@ -27,9 +27,9 @@
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 0.24,
-                    "max_density_height": 90,
-                    "zero_density_height": 262
+                    "max_density": 0.2,
+                    "max_density_height": 62,
+                    "zero_density_height": 256
                 },
                 "water": {
                     "max_density": 1.0,

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "bordure_indented_banner_pattern",
+    "metalness_emissive_roughness": "bordure_indented_banner_pattern_mer",
+    "heightmap": "bordure_indented_banner_pattern_heightmap"
+  }
+}
