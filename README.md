@@ -6,13 +6,13 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 ## Description
 
-Vanilla RTX aims to bring full ray tracing support for Minecraft's default resources while remaining completely faithful to all the different aspects and details of vanilla Minecraft.  
+Vanilla RTX aims to bring full ray tracing support for Minecraft's default resources while remaining completely faithful to all of the different aspects and details of vanilla Minecraft.  
 
 Vanilla RTX uses 16x heightmaps (with 192x normal maps generated later based on height differences) Vanilla RTX Normals uses handmade 16x normal maps instead.  
 Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.  
 
-Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became known as Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
+Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
@@ -56,5 +56,4 @@ The license file linked above does not apply to any original Minecraft art resou
 
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function.
 This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by texture_set.json files. As time passes this may result in outdated textures.  
-  
-Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly. Parts of vanilla resources also had to be edited or converted for proper functioning with ray tracing, or to work around some issues without altering their original appearance.  
+Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly. Parts of vanilla resources also had to be edited or converted for proper functioning with ray tracing, or to work around other technical issues or limitations without altering their original appearance.  
