@@ -3,36 +3,36 @@
     "header": {
         "description": "pack.description",
         "name": "pack.name",
-        "uuid": "7596637e-fd35-49c7-89c9-14354bd87f5b",
-        "version": [1, 21, 50],
-        "min_engine_version": [ 1, 16, 200 ]
+        "uuid": "80036ba7-8e6a-4802-8934-22b236601123",
+        "version": [1, 21, 62],
+        "min_engine_version": [ 1, 16, 100 ]
     },
     "modules": [
         {
             "description": "vanillartxn",
             "type": "resources",
-            "uuid": "35fc6a19-8b79-4e9a-924c-3f0f85affa4c",
-            "version": [1, 21, 50]
+            "uuid": "90222ff6-19a5-42f3-9a2e-e9fa25fe0f7c",
+            "version": [1, 21, 62]
         }
     ],
     "metadata": {
-        "authors": [ "CubeIR" ],
-        "license": "https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt",
-        "url": "https://github.com/CubeIR/Vanilla-RTX/tree/master/Vanilla-RTX-Normals"
+        "authors": [ "Cubeir" ],
+        "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
+        "url": "https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals"
     },
     "subpacks": [
         {
-            "folder_name": "experimental",
-            "name": "Experimental",
-            "memory_tier": 1
+            "folder_name": "2",
+            "name": "Enhanced",
+            "memory_tier": 2
         },
         {
-            "folder_name": "fogless",
+            "folder_name": "1",
             "name": "Fogless",
             "memory_tier": 1
         },
         {
-            "folder_name": "default",
+            "folder_name": "0",
             "name": "Default",
             "memory_tier": 1
         }
@@ -48,12 +48,12 @@
         },
         {
             "type": "label",
-            "text": "Fogless: §iVanilla RTX Normals without the air fog."
+            "text": "Fogless: §iVanilla RTX Normals without air fog."
         },
         {
             "type": "label",
-            "text": "Experimental: §iEnables experimental or work-in-progress features and updates. Keep an eye out on the release notes to see what's new!"
+            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing. Keep an eye out on release notes to see what's new!"
         }
     ],
-    "capabilities": [ "raytraced", "pbr" ]
+    "capabilities": [ "raytraced" ]
 }

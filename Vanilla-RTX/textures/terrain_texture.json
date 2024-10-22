@@ -2,5 +2,5 @@
   "resource_pack_name": "vanillartx",
   "texture_name": "atlas.terrain",
   "num_mip_levels": 0,
-  "padding": 0
+  "padding": 1
 }

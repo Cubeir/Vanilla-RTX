@@ -3,6 +3,6 @@
   "minecraft:texture_set": {
     "color": "rail_normal_turned",
     "metalness_emissive_roughness": "rail_normal_turned_mer",
-    "heightmap": "rail_turned_normal_heightmap"
+    "heightmap": "rail_normal_turned_heightmap"
   }
 }

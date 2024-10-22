@@ -1,0 +1,103 @@
+{
+    "format_version" : [ 1, 1, 0 ],
+    "ice" : {
+        "carried_textures" : "ice_carried"
+    },
+    "frosted_ice" : {
+        "carried_textures" : "frosted_ice_carried"
+     },
+    "tinted_glass" : {
+        "carried_textures" : "tinted_glass_carried"
+     },
+     "slime" : {
+        "carried_textures" : "slime_block_carried"
+     },
+     "honey_block" : {
+        "carried_textures" : {
+           "down" : "honey_bottom_carried",
+           "east" : "honey_side_carried",
+           "north" : "honey_side_carried",
+           "south" : "honey_side_carried",
+           "up" : "honey_top_carried",
+           "west" : "honey_side_carried"
+        }
+     },
+    "cave_vines" : {
+        "carried_textures" : {
+            "down" : "cave_vines_head_carried",
+            "side" : "cave_vines_body_carried",
+            "up" : "cave_vines_body_carried"
+         }
+     },
+     "cave_vines_body_with_berries" : {
+        "carried_textures" : {
+            "down" : "cave_vines_body_carried",
+            "side" : "cave_vines_body_carried",
+            "up" : "cave_vines_body_carried"
+         }
+     },
+     "cave_vines_head_with_berries" : {
+        "carried_textures" : {
+            "down" : "cave_vines_head_carried",
+            "side" : "cave_vines_head_carried",
+            "up" : "cave_vines_head_carried"
+         }
+     },
+     "pointed_dripstone" : {
+        "carried_textures" : "pointed_dripstone_carried"
+     },
+    "lit_pumpkin" : {
+        "textures" : {
+           "down" : "pumpkin_top_lit",
+           "east" : "pumpkin_side_lit",
+           "north" : "pumpkin_side_lit",
+           "south" : "pumpkin_face_lit",
+           "up" : "pumpkin_top_lit",
+           "west" : "pumpkin_side_lit"
+        }
+    },
+    "dried_kelp_block": {
+        "carried_textures" : {
+            "down" : "dried_kelp_block_bottom_carried",
+            "east" : "dried_kelp_block_side_a",
+            "north" : "dried_kelp_block_side_b",
+            "south" : "dried_kelp_block_side_a",
+            "up" : "dried_kelp_block_top_carried",
+            "west" : "dried_kelp_block_side_b"
+         },
+        "textures": {
+            "down": "dried_kelp_block_bottom",
+            "east": "dried_kelp_block_side_b",
+            "north": "dried_kelp_block_side_a",
+            "south": "dried_kelp_block_side_b",
+            "up": "dried_kelp_block_top",
+            "west": "dried_kelp_block_side_a"
+        },
+        "blockshape": "block"
+    },
+    "chiseled_bookshelf": {
+        "carried_textures": {
+            "down": "chiseled_bookshelf_top",
+            "east": "chiseled_bookshelf_side",
+            "north": "chiseled_bookshelf_side",
+            "south": "chiseled_bookshelf_front",
+            "up": "chiseled_bookshelf_top",
+            "west": "chiseled_bookshelf_side"
+        },
+        "textures": {
+            "up": "chiseled_bookshelf_top",
+            "down": "chiseled_bookshelf_top",
+            "north": "chiseled_bookshelf_front",
+            "south": "chiseled_bookshelf_side",
+            "east": "chiseled_bookshelf_side",
+            "west": "chiseled_bookshelf_side"
+        },
+        "blockshape": "block"
+    },
+    "lit_deepslate_redstone_ore": {
+        "textures": "deepslate_redstone_ore_lit"
+    },
+    "lit_redstone_ore": {
+        "textures": "redstone_ore_lit"
+    }
+}
