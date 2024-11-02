@@ -6,18 +6,18 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 ## Description
 
-Vanilla RTX aims to bring full ray tracing support for Minecraft's default resources while remaining completely faithful to all of the different aspects and details of vanilla Minecraft.  
+Vanilla RTX aims to bring full ray tracing support for Minecraft's default resources while remaining completely faithful to all of the different aspects and details of the vanilla game.  
 
 Vanilla RTX uses 16x heightmaps (with 192x normal maps generated later based on height differences) Vanilla RTX Normals uses handmade 16x normal maps instead.  
 Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 Everything is consistent & fine-tuned for Minecraft RTX.  
 
-Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
+Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became [Vanilla RTX Normals](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals). Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ## Images
-![Vanilla RTX Minecraft with RTX Cover Image](https://github.com/user-attachments/assets/b416e764-0350-429e-bb15-706583613a73)
+![Vanilla RTX Minecraft with RTX Cover Image](https://github.com/user-attachments/assets/d64f7bbe-8d2e-4ccb-b515-6ecf5e207200)
 ![ice kings vault](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![Minecraft with RTX Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
@@ -27,7 +27,7 @@ For more information and screenshots visit [this page](http://minecraftrtx.net/)
 
 
 ## Usage Tips
-- If you're encountering visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) consider switching to Experimental option included in Vanilla RTX (or Vanilla RTX Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of Minecraft's issues, but please note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
+- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) consider switching to Experimental option included in Vanilla RTX (or Vanilla RTX Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of Minecraft's issues, but please note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
 
 - If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
 
