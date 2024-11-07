@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "sea_pickle",
     "metalness_emissive_roughness": "sea_pickle_mer",

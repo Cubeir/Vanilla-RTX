@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stone_granite",
     "metalness_emissive_roughness": "stone_granite_mer",

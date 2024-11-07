@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "pale_moss",
+    "metalness_emissive_roughness": "pale_moss_mer",
+    "normal": "pale_moss_normal"
+  }
+}

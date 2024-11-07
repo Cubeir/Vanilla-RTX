@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "trip_wire_source",
     "metalness_emissive_roughness": "trip_wire_source_mer",

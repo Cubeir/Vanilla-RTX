@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cherry_log_side",
     "metalness_emissive_roughness": "cherry_log_side_mer",

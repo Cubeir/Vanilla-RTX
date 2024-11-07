@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "brown_candle",
     "metalness_emissive_roughness": "brown_candle_mer",

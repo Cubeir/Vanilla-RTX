@@ -4,21 +4,21 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "555ebb78-fa06-4ef7-a5f5-a3a8c3b968bf",
-        "version": [1, 21, 62],
-        "min_engine_version": [ 1, 16, 100 ]
+        "version": [1, 21, 70],
+        "min_engine_version": [ 1, 21, 30 ]
     },
     "modules": [
         {
-            "description": "vanillartx",
+            "description": "vanilla_rtx",
             "type": "resources",
             "uuid": "388e3d41-1331-455b-a5f8-406354435579",
-            "version": [1, 21, 62]
+            "version": [1, 21, 70]
         }
     ],
     "metadata": {
         "authors": [ "Cubeir" ],
         "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
-        "url": "https://github.com/Cubeir/Vanilla-RTX"
+        "url": "https://minecraftrtx.net"
     },
     "subpacks": [
         {
@@ -48,7 +48,7 @@
         },
         {
             "type": "label",
-            "text": "Fogless: §iVanilla RTX without air fog."
+            "text": "Fogless: §iRemoves volumetric air fog."
         },
         {
             "type": "label",

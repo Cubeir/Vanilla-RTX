@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stripped_warped_stem_side",
     "metalness_emissive_roughness": "stripped_warped_stem_side_mer",

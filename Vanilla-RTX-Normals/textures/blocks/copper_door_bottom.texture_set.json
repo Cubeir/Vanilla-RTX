@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "copper_door_bottom",
     "metalness_emissive_roughness": "copper_door_bottom_mer",

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "scaffolding_side",
     "metalness_emissive_roughness": "scaffolding_side_mer",

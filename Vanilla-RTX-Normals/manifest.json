@@ -4,21 +4,21 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "80036ba7-8e6a-4802-8934-22b236601123",
-        "version": [1, 21, 62],
-        "min_engine_version": [ 1, 16, 100 ]
+        "version": [1, 21, 70],
+        "min_engine_version": [ 1, 21, 30 ]
     },
     "modules": [
         {
-            "description": "vanillartxn",
+            "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "90222ff6-19a5-42f3-9a2e-e9fa25fe0f7c",
-            "version": [1, 21, 62]
+            "version": [1, 21, 70]
         }
     ],
     "metadata": {
         "authors": [ "Cubeir" ],
         "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
-        "url": "https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals"
+        "url": "https://minecraftrtx.net"
     },
     "subpacks": [
         {
@@ -48,7 +48,7 @@
         },
         {
             "type": "label",
-            "text": "Fogless: §iVanilla RTX Normals without air fog."
+            "text": "Fogless: §iRemoves volumetric air fog."
         },
         {
             "type": "label",

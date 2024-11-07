@@ -28,7 +28,7 @@
                 "level_gold": "textures/entity/villager2/levels/level_gold",
                 "level_emerald": "textures/entity/villager2/levels/level_emerald",
                 "level_diamond": "textures/entity/villager2/levels/level_diamond"
-              },
+            },
             "geometry": {
                 "default": "geometry.villager_v2",
                 "biome": "geometry.villager_v2.biome",

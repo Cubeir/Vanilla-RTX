@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "pale_oak_leaves",
+    "metalness_emissive_roughness": "pale_oak_leaves_mer",
+    "normal": "pale_oak_leaves_normal"
+  }
+}

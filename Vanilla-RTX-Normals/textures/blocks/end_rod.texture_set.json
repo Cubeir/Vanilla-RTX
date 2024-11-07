@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "end_rod",
     "metalness_emissive_roughness": "end_rod_mer",

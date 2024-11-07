@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "soul_lantern",
     "metalness_emissive_roughness": "soul_lantern_mer",

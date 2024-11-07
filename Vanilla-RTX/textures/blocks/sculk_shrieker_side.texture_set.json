@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "sculk_shrieker_side",
     "metalness_emissive_roughness": "sculk_shrieker_side_mer",

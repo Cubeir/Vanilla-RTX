@@ -8,6 +8,21 @@
                 "default": "entity_alphatest",
                 "armor": "charged_creeper"
             },
+            "textures": {
+                "default": "textures/entity/wither_boss/wither",
+                "armor_white": "textures/entity/wither_boss/wither_armor_white",
+                "armor_blue": "textures/entity/wither_boss/wither_armor_blue",
+                "invulnerable": "textures/entity/wither_boss/wither_invulnerable"
+            },
+            "geometry": {
+                "default": "geometry.witherBoss",
+                "armor": "geometry.witherBoss.armor.v1.8"
+            },
+            "render_controllers": [
+                "controller.render.wither_boss",
+                "controller.render.wither_boss_armor_white",
+                "controller.render.wither_boss_armor_blue"
+            ],
             "spawn_egg": {
                 "texture": "spawn_egg_wither_boss"
             }

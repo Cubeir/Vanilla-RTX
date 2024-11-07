@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "tinted_glass",
     "metalness_emissive_roughness": "tinted_glass_mer",

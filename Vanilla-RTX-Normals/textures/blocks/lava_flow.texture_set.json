@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "lava_flow",
     "metalness_emissive_roughness": "lava_flow_mer",

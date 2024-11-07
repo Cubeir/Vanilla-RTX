@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "grindstone_side",
     "metalness_emissive_roughness": "grindstone_side_mer",

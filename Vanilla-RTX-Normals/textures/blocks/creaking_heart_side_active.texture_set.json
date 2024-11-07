@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "creaking_heart_side_active",
+    "metalness_emissive_roughness": "creaking_heart_side_active_mer",
+    "normal": "creaking_heart_side_active_normal"
+  }
+}

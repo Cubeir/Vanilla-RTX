@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "redstone_lamp_off",
     "metalness_emissive_roughness": "redstone_lamp_off_mer",

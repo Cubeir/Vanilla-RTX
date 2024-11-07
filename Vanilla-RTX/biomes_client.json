@@ -410,6 +410,11 @@
       "fog_identifier": "minecraft_rtx:fog_mesa_plateau_stone_mutated",
       "inherit_from_prior_fog": false
     },
+    "pale_garden": {
+      "water_surface_color": "#76889D",
+      "fog_identifier": "minecraft_rtx:fog_pale_garden",
+      "inherit_from_prior_fog": false
+    },
     "redwood_taiga_hills_mutated": {
       "water_surface_color": "#44AFF5",
       "fog_identifier": "minecraft_rtx:fog_redwood_taiga_hills_mutated",

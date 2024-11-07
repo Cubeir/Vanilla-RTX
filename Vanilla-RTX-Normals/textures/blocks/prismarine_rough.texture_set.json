@@ -1,5 +1,5 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "prismarine_rough",
     "metalness_emissive_roughness": "prismarine_rough_mer",
