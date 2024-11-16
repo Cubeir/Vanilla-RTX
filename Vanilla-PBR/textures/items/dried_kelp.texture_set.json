@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "dried_kelp",
-    "heightmap": "dried_kelp_heightmap",
-    "metalness_emissive_roughness_subsurface": "dried_kelp_mer"
+    "metalness_emissive_roughness": "dried_kelp_mer"
   }
 }

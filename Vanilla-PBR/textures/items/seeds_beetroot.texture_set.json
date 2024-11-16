@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "seeds_beetroot",
-    "metalness_emissive_roughness": "seeds_beetroot_mer",
-    "heightmap": "seeds_beetroot_heightmap"
+    "metalness_emissive_roughness": "seeds_beetroot_mer"
   }
 }

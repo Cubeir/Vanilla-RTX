@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "flint_and_steel",
-    "metalness_emissive_roughness": "flint_and_steel_mer",
-    "heightmap": "flint_and_steel_heightmap"
+    "metalness_emissive_roughness": "flint_and_steel_mer"
   }
 }

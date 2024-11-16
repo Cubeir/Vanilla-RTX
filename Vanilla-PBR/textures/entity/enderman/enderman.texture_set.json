@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "enderman",
-        "metalness_emissive_roughness": "enderman_mer",
-        "heightmap": "enderman_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "enderman",
+    "metalness_emissive_roughness": "enderman_mer",
+    "heightmap": "enderman_heightmap"
+  }
 }

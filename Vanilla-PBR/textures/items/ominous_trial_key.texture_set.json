@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "ominous_trial_key",
-    "metalness_emissive_roughness": "ominous_trial_key_mer",
-    "heightmap": "ominous_trial_key_heightmap"
+    "metalness_emissive_roughness": "ominous_trial_key_mer"
   }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "oak_chest_boat",
-    "metalness_emissive_roughness": "oak_chest_boat_mer",
-    "heightmap": "oak_chest_boat_heightmap"
+    "metalness_emissive_roughness": "oak_chest_boat_mer"
   }
 }

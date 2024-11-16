@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "grindstone_round",
-        "metalness_emissive_roughness": "grindstone_round_mer",
-        "heightmap": "grindstone_round_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "grindstone_round",
+    "metalness_emissive_roughness": "grindstone_round_mer",
+    "heightmap": "grindstone_round_heightmap"
+  }
 }

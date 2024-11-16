@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "deepslate",
-        "metalness_emissive_roughness": "deepslate_mer",
-        "heightmap": "deepslate_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "deepslate",
+    "metalness_emissive_roughness": "deepslate_mer",
+    "heightmap": "deepslate_heightmap"
+  }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_shulker",
-    "metalness_emissive_roughness": "egg_shulker_mer",
-    "heightmap": "egg_shulker_heightmap"
+    "metalness_emissive_roughness": "egg_shulker_mer"
   }
 }

@@ -5,17 +5,17 @@
             "identifier": "minecraft_pbr:default_water"
         },
         "particle_concentrations": {
-            "chlorophyll": 0.01,
-            "suspended_sediment": 0.2,
-            "cdom": 0.1
+            "chlorophyll": 0.009999999776482582,
+            "suspended_sediment": 0.20000000298023224,
+            "cdom": 0.10000000149011612
         },
         "waves": {
             "enabled": true,
-            "frequency": 0.763480007648468,
+            "frequency": 0.8431415926535,
             "octaves": 16,
-            "depth": 0.063,
+            "depth": 0.06300000101327896,
             "sampleWidth": 0.16345000267028809,
-            "speed": 2.38761999982968,
+            "speed": 2.387619972229004,
             "shape": 3.7090001106262207,
             "pull": 0.44999998807907104,
             "mix": 0.2329999953508377,

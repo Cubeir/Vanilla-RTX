@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "vault_side_on",
-        "metalness_emissive_roughness": "vault_side_on_mer",
-        "heightmap": "vault_side_on_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "vault_side_on",
+    "metalness_emissive_roughness": "vault_side_on_mer",
+    "heightmap": "vault_side_on_heightmap"
+  }
 }

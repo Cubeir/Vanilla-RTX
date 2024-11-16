@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "temperate_frog",
-        "metalness_emissive_roughness": "temperate_frog_mer",
-        "heightmap": "temperate_frog_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "temperate_frog",
+    "metalness_emissive_roughness": "temperate_frog_mer",
+    "heightmap": "temperate_frog_heightmap"
+  }
 }

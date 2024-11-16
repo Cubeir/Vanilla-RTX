@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stone_hoe",
-    "metalness_emissive_roughness": "stone_hoe_mer",
-    "heightmap": "stone_hoe_heightmap"
+    "metalness_emissive_roughness": "stone_hoe_mer"
   }
 }

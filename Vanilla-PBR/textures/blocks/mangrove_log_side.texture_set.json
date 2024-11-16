@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "mangrove_log_side",
-        "metalness_emissive_roughness": "mangrove_log_side_mer",
-        "heightmap": "mangrove_log_side_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mangrove_log_side",
+    "metalness_emissive_roughness": "mangrove_log_side_mer",
+    "heightmap": "mangrove_log_side_heightmap"
+  }
 }

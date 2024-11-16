@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "parrot_red_blue",
-        "metalness_emissive_roughness": "parrot_red_blue_mer",
-        "heightmap": "parrot_red_blue_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "parrot_red_blue",
+    "metalness_emissive_roughness": "parrot_red_blue_mer",
+    "heightmap": "parrot_red_blue_heightmap"
+  }
 }

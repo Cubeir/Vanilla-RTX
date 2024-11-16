@@ -1,8 +1,7 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "potion_bottle_turtleMaster",
-        "metalness_emissive_roughness": "potion_bottle_turtlemaster_mer",
-        "heightmap": "potion_bottle_turtlemaster_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "potion_bottle_turtleMaster",
+    "metalness_emissive_roughness": "potion_bottle_turtlemaster_mer"
+  }
 }

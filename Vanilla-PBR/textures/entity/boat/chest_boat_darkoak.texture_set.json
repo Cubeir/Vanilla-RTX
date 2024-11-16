@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "chest_boat_darkoak",
-        "metalness_emissive_roughness": "chest_boat_darkoak_mer",
-        "heightmap": "chest_boat_darkoak_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "chest_boat_darkoak",
+    "metalness_emissive_roughness": "chest_boat_darkoak_mer",
+    "heightmap": "chest_boat_darkoak_heightmap"
+  }
 }

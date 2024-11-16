@@ -1,8 +1,7 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "destroy_stage_4",
-        "metalness_emissive_roughness": "destroy_stage_4_mer",
-        "heightmap": "destroy_stage_4_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "destroy_stage_4",
+    "metalness_emissive_roughness": "destroy_stage_4_mer"
+  }
 }

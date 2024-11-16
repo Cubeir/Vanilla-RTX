@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "exposed_copper_trapdoor",
-        "metalness_emissive_roughness": "exposed_copper_trapdoor_mer",
-        "heightmap": "exposed_copper_trapdoor_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "exposed_copper_trapdoor",
+    "metalness_emissive_roughness": "exposed_copper_trapdoor_mer",
+    "heightmap": "exposed_copper_trapdoor_heightmap"
+  }
 }

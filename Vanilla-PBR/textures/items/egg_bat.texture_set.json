@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_bat",
-    "metalness_emissive_roughness": "egg_bat_mer",
-    "heightmap": "egg_bat_heightmap"
+    "metalness_emissive_roughness": "egg_bat_mer"
   }
 }

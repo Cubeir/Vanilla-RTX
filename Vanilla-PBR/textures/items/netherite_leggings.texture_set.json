@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "netherite_leggings",
-    "metalness_emissive_roughness": "netherite_leggings_mer",
-    "heightmap": "netherite_leggings_heightmap"
+    "metalness_emissive_roughness": "netherite_leggings_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "kelp_d",
-        "heightmap": "kelp_d_heightmap",
-        "metalness_emissive_roughness_subsurface": "kelp_d_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "kelp_d",
+    "heightmap": "kelp_d_heightmap",
+    "metalness_emissive_roughness_subsurface": "kelp_d_mer"
+  }
 }

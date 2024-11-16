@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "emerald",
-    "metalness_emissive_roughness": "emerald_mer",
-    "heightmap": "emerald_heightmap"
+    "metalness_emissive_roughness": "emerald_mer"
   }
 }

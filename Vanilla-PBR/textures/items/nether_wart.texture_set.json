@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "nether_wart",
-    "metalness_emissive_roughness": "nether_wart_mer",
-    "heightmap": "nether_wart_heightmap"
+    "metalness_emissive_roughness": "nether_wart_mer"
   }
 }

@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "flow_pottery_sherd",
-    "metalness_emissive_roughness": "flow_pottery_sherd_mer",
-    "heightmap": "flow_pottery_sherd_heightmap"
+    "metalness_emissive_roughness": "flow_pottery_sherd_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "iron_bars",
-        "metalness_emissive_roughness": "iron_bars_mer",
-        "heightmap": "iron_bars_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "iron_bars",
+    "metalness_emissive_roughness": "iron_bars_mer",
+    "heightmap": "iron_bars_heightmap"
+  }
 }

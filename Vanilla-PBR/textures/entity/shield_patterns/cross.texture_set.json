@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "cross",
-        "metalness_emissive_roughness": "cross_mer",
-        "heightmap": "cross_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cross",
+    "metalness_emissive_roughness": "cross_mer",
+    "heightmap": "cross_heightmap"
+  }
 }

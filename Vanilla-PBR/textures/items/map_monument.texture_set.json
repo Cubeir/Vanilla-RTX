@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "map_monument",
-    "metalness_emissive_roughness": "map_monument_mer",
-    "heightmap": "map_monument_heightmap"
+    "metalness_emissive_roughness": "map_monument_mer"
   }
 }

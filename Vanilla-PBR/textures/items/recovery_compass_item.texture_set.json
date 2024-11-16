@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "recovery_compass_item",
-    "metalness_emissive_roughness": "recovery_compass_item_mer",
-    "heightmap": "recovery_compass_item_heightmap"
+    "metalness_emissive_roughness": "recovery_compass_item_mer"
   }
 }

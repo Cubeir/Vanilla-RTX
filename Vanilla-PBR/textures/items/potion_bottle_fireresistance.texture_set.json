@@ -1,8 +1,7 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "potion_bottle_fireResistance",
-        "heightmap": "potion_bottle_fireresistance_heightmap",
-        "metalness_emissive_roughness_subsurface": "potion_bottle_fireresistance_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "potion_bottle_fireResistance",
+    "metalness_emissive_roughness": "potion_bottle_fireresistance_mer"
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "stripped_bamboo_block",
-        "heightmap": "stripped_bamboo_block_heightmap",
-        "metalness_emissive_roughness_subsurface": "stripped_bamboo_block_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "stripped_bamboo_block",
+    "heightmap": "stripped_bamboo_block_heightmap",
+    "metalness_emissive_roughness_subsurface": "stripped_bamboo_block_mer"
+  }
 }

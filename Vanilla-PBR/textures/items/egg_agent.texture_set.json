@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_agent",
-    "metalness_emissive_roughness": "egg_agent_mer",
-    "heightmap": "egg_agent_heightmap"
+    "metalness_emissive_roughness": "egg_agent_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "bee_nectar",
-        "metalness_emissive_roughness": "bee_nectar_mer",
-        "heightmap": "bee_nectar_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "bee_nectar",
+    "metalness_emissive_roughness": "bee_nectar_mer",
+    "heightmap": "bee_nectar_heightmap"
+  }
 }

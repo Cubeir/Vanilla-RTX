@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_stray",
-    "metalness_emissive_roughness": "egg_stray_mer",
-    "heightmap": "egg_stray_heightmap"
+    "metalness_emissive_roughness": "egg_stray_mer"
   }
 }

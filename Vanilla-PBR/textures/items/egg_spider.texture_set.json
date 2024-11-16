@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_spider",
-    "metalness_emissive_roughness": "egg_spider_mer",
-    "heightmap": "egg_spider_heightmap"
+    "metalness_emissive_roughness": "egg_spider_mer"
   }
 }

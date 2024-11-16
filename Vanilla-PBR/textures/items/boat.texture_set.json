@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "boat",
-    "metalness_emissive_roughness": "boat_mer",
-    "heightmap": "boat_heightmap"
+    "metalness_emissive_roughness": "boat_mer"
   }
 }

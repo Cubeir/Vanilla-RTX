@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "jigsaw_lock",
-        "metalness_emissive_roughness": "jigsaw_lock_mer",
-        "heightmap": "jigsaw_lock_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "jigsaw_lock",
+    "metalness_emissive_roughness": "jigsaw_lock_mer",
+    "heightmap": "jigsaw_lock_heightmap"
+  }
 }

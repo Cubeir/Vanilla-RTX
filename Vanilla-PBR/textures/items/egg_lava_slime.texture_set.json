@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_lava_slime",
-    "metalness_emissive_roughness": "egg_lava_slime_mer",
-    "heightmap": "egg_lava_slime_heightmap"
+    "metalness_emissive_roughness": "egg_lava_slime_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "element_110_ds",
-        "metalness_emissive_roughness": "element_110_ds_mer",
-        "heightmap": "element_110_ds_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "element_110_ds",
+    "metalness_emissive_roughness": "element_110_ds_mer",
+    "heightmap": "element_110_ds_heightmap"
+  }
 }

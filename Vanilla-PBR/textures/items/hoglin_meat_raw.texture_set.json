@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "hoglin_meat_raw",
-    "metalness_emissive_roughness": "hoglin_meat_raw_mer",
-    "heightmap": "hoglin_meat_raw_heightmap"
+    "metalness_emissive_roughness": "hoglin_meat_raw_mer"
   }
 }

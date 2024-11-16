@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "map_mansion",
-    "metalness_emissive_roughness": "map_mansion_mer",
-    "heightmap": "map_mansion_heightmap"
+    "metalness_emissive_roughness": "map_mansion_mer"
   }
 }

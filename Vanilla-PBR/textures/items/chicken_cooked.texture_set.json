@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "chicken_cooked",
-    "metalness_emissive_roughness": "chicken_cooked_mer",
-    "heightmap": "chicken_cooked_heightmap"
+    "metalness_emissive_roughness": "chicken_cooked_mer"
   }
 }

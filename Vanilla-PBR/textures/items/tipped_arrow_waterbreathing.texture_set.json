@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "tipped_arrow_waterbreathing",
-    "metalness_emissive_roughness": "tipped_arrow_waterbreathing_mer",
-    "heightmap": "tipped_arrow_waterbreathing_heightmap"
+    "metalness_emissive_roughness": "tipped_arrow_waterbreathing_mer"
   }
 }

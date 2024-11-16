@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_wanderingtrader",
-    "metalness_emissive_roughness": "egg_wanderingtrader_mer",
-    "heightmap": "egg_wanderingtrader_heightmap"
+    "metalness_emissive_roughness": "egg_wanderingtrader_mer"
   }
 }

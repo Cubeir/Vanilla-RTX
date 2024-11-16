@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "parrot_green",
-        "metalness_emissive_roughness": "parrot_green_mer",
-        "heightmap": "parrot_green_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "parrot_green",
+    "metalness_emissive_roughness": "parrot_green_mer",
+    "heightmap": "parrot_green_heightmap"
+  }
 }

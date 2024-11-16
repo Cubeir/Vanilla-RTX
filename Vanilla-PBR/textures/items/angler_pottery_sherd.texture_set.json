@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "angler_pottery_sherd",
-    "metalness_emissive_roughness": "angler_pottery_sherd_mer",
-    "heightmap": "angler_pottery_sherd_heightmap"
+    "metalness_emissive_roughness": "angler_pottery_sherd_mer"
   }
 }

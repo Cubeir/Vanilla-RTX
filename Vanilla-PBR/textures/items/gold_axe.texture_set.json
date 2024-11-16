@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "gold_axe",
-    "metalness_emissive_roughness": "gold_axe_mer",
-    "heightmap": "gold_axe_heightmap"
+    "metalness_emissive_roughness": "gold_axe_mer"
   }
 }

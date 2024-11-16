@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_enderman",
-    "metalness_emissive_roughness": "egg_enderman_mer",
-    "heightmap": "egg_enderman_heightmap"
+    "metalness_emissive_roughness": "egg_enderman_mer"
   }
 }

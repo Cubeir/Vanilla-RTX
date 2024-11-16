@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_ghast",
-    "metalness_emissive_roughness": "egg_ghast_mer",
-    "heightmap": "egg_ghast_heightmap"
+    "metalness_emissive_roughness": "egg_ghast_mer"
   }
 }

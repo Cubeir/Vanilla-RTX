@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "ender_pearl",
-    "metalness_emissive_roughness": "ender_pearl_mer",
-    "heightmap": "ender_pearl_heightmap"
+    "metalness_emissive_roughness": "ender_pearl_mer"
   }
 }

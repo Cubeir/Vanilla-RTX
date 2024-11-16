@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "dye_powder_glow",
-    "metalness_emissive_roughness": "dye_powder_glow_mer",
-    "heightmap": "dye_powder_glow_heightmap"
+    "metalness_emissive_roughness": "dye_powder_glow_mer"
   }
 }

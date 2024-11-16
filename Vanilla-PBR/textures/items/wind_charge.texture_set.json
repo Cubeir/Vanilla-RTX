@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "wind_charge",
-    "metalness_emissive_roughness": "wind_charge_mer",
-    "heightmap": "wind_charge_heightmap"
+    "metalness_emissive_roughness": "wind_charge_mer"
   }
 }

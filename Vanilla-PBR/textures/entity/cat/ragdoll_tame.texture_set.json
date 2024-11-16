@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "ragdoll_tame",
-        "metalness_emissive_roughness": "ragdoll_tame_mer",
-        "heightmap": "ragdoll_tame_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "ragdoll_tame",
+    "metalness_emissive_roughness": "ragdoll_tame_mer",
+    "heightmap": "ragdoll_tame_heightmap"
+  }
 }

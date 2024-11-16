@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "flower_oxeye_daisy",
-        "heightmap": "flower_oxeye_daisy_heightmap",
-        "metalness_emissive_roughness_subsurface": "flower_oxeye_daisy_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "flower_oxeye_daisy",
+    "heightmap": "flower_oxeye_daisy_heightmap",
+    "metalness_emissive_roughness_subsurface": "flower_oxeye_daisy_mer"
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "horse_chestnut",
-        "metalness_emissive_roughness": "horse_chestnut_mer",
-        "heightmap": "horse_chestnut_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "horse_chestnut",
+    "metalness_emissive_roughness": "horse_chestnut_mer",
+    "heightmap": "horse_chestnut_heightmap"
+  }
 }

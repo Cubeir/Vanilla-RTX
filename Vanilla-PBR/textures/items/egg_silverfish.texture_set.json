@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_silverfish",
-    "metalness_emissive_roughness": "egg_silverfish_mer",
-    "heightmap": "egg_silverfish_heightmap"
+    "metalness_emissive_roughness": "egg_silverfish_mer"
   }
 }

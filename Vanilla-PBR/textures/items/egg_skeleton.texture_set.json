@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_skeleton",
-    "metalness_emissive_roughness": "egg_skeleton_mer",
-    "heightmap": "egg_skeleton_heightmap"
+    "metalness_emissive_roughness": "egg_skeleton_mer"
   }
 }

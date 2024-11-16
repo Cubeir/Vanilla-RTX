@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "minecart_command_block",
-    "metalness_emissive_roughness": "minecart_command_block_mer",
-    "heightmap": "minecart_command_block_heightmap"
+    "metalness_emissive_roughness": "minecart_command_block_mer"
   }
 }

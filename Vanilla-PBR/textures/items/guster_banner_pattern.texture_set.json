@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "guster_banner_pattern",
-    "metalness_emissive_roughness": "guster_banner_pattern_mer",
-    "heightmap": "guster_banner_pattern_heightmap"
+    "metalness_emissive_roughness": "guster_banner_pattern_mer"
   }
 }

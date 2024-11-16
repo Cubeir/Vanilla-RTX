@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "concrete_powder_blue",
-        "metalness_emissive_roughness": "concrete_powder_blue_mer",
-        "heightmap": "concrete_powder_blue_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "concrete_powder_blue",
+    "metalness_emissive_roughness": "concrete_powder_blue_mer",
+    "heightmap": "concrete_powder_blue_heightmap"
+  }
 }

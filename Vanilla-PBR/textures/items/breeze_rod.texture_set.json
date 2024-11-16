@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "breeze_rod",
-    "metalness_emissive_roughness": "breeze_rod_mer",
-    "heightmap": "breeze_rod_heightmap"
+    "metalness_emissive_roughness": "breeze_rod_mer"
   }
 }

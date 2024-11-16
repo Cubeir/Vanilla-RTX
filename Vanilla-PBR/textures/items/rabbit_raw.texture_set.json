@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "rabbit_raw",
-    "metalness_emissive_roughness": "rabbit_raw_mer",
-    "heightmap": "rabbit_raw_heightmap"
+    "metalness_emissive_roughness": "rabbit_raw_mer"
   }
 }

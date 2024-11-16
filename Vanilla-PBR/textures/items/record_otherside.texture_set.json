@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "record_otherside",
-    "metalness_emissive_roughness": "record_otherside_mer",
-    "heightmap": "record_otherside_heightmap"
+    "metalness_emissive_roughness": "record_otherside_mer"
   }
 }

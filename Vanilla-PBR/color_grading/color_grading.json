@@ -1,38 +1,98 @@
 {
-  "format_version": "1.21.40",
-  "minecraft:color_grading_settings": {
-    "description": {
-      "identifier": "minecraft_pbr:default_color_grading"
-    },
-    "color_grading": {
-      "midtones": {
-        "contrast": [1.08, 1.08, 1.08],
-        "gain": [10, 10, 10],
-        "gamma": [2.6, 2.6, 2.6],
-        "offset": [0.11, 0.105, 0.1],
-        "saturation": [1.101, 1.101, 1.101]
-      },
-      "highlights": {
-        "enabled": true,
-        "highlightsMin": 2.0,
-        "contrast": [1.08, 1.08, 1.08],
-        "gain": [10, 10, 10],
-        "gamma": [2.6, 2.6, 2.6],
-        "offset": [0.11, 0.105, 0.1],
-        "saturation": [1.101, 1.101, 1.101]
-      },
-      "shadows": {
-        "enabled": true,
-        "shadowsMax": 1.0,
-        "contrast": [1.08, 1.08, 1.08],
-        "gain": [10, 10, 10],
-        "gamma": [2.6, 2.6, 2.6],
-        "offset": [0.11, 0.105, 0.1],
-        "saturation": [1.101, 1.101, 1.101]
-      }
-    },
-    "tone_mapping": {
-      "operator": "hable"
+    "format_version": "1.21.40",
+    "minecraft:color_grading_settings": {
+        "description": {
+            "identifier": "minecraft_pbr:default_color_grading"
+        },
+        "color_grading": {
+            "midtones": {
+                "contrast": [
+                    1.24,
+                    1.24,
+                    1.24
+                ],
+                "gain": [
+                    1.15,
+                    1.12,
+                    1.1
+                ],
+                "gamma": [
+                    1.7,
+                    1.7,
+                    1.7
+                ],
+                "offset": [
+                    -0.001,
+                    -0.005,
+                    -0.01
+                ],
+                "saturation": [
+                    1.3,
+                    1.3,
+                    1.3
+                ]
+            },
+            "highlights": {
+                "enabled": true,
+                "highlightsMin": 1.4,
+                "contrast": [
+                    1.22,
+                    1.22,
+                    1.22
+                ],
+                "gain": [
+                    1.2,
+                    1.15,
+                    1.1
+                ],
+                "gamma": [
+                    1.85,
+                    1.85,
+                    1.85
+                ],
+                "offset": [
+                    0.02,
+                    0.015,
+                    0.01
+                ],
+                "saturation": [
+                    1.28,
+                    1.28,
+                    1.28
+                ]
+            },
+            "shadows": {
+                "enabled": true,
+                "shadowsMax": 0.5,
+                "contrast": [
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "gain": [
+                    0.92,
+                    0.9,
+                    0.88
+                ],
+                "gamma": [
+                    1.55,
+                    1.55,
+                    1.55
+                ],
+                "offset": [
+                    -0.02,
+                    -0.02,
+                    -0.02
+                ],
+                "saturation": [
+                    1.12,
+                    1.12,
+                    1.12
+                ]
+            }
+        },
+        "tone_mapping": {
+            "operator": "hable"
+        }
     }
-  }
 }

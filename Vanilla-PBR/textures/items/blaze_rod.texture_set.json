@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "blaze_rod",
-    "metalness_emissive_roughness": "blaze_rod_mer",
-    "heightmap": "blaze_rod_heightmap"
+    "metalness_emissive_roughness": "blaze_rod_mer"
   }
 }

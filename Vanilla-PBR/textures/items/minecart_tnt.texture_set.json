@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "minecart_tnt",
-    "metalness_emissive_roughness": "minecart_tnt_mer",
-    "heightmap": "minecart_tnt_heightmap"
+    "metalness_emissive_roughness": "minecart_tnt_mer"
   }
 }

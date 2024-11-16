@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "sapling_oak",
-        "heightmap": "sapling_oak_heightmap",
-        "metalness_emissive_roughness_subsurface": "sapling_oak_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "sapling_oak",
+    "heightmap": "sapling_oak_heightmap",
+    "metalness_emissive_roughness_subsurface": "sapling_oak_mer"
+  }
 }

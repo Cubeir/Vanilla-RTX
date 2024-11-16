@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "quartz_block_top",
-        "metalness_emissive_roughness": "quartz_block_top_mer",
-        "heightmap": "quartz_block_top_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "quartz_block_top",
+    "metalness_emissive_roughness": "quartz_block_top_mer",
+    "heightmap": "quartz_block_top_heightmap"
+  }
 }

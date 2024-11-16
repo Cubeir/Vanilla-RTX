@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "birch_hanging_sign",
-    "metalness_emissive_roughness": "birch_hanging_sign_mer",
-    "heightmap": "birch_hanging_sign_heightmap"
+    "metalness_emissive_roughness": "birch_hanging_sign_mer"
   }
 }

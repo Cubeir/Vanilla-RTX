@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "door_spruce",
-    "metalness_emissive_roughness": "door_spruce_mer",
-    "heightmap": "door_spruce_heightmap"
+    "metalness_emissive_roughness": "door_spruce_mer"
   }
 }

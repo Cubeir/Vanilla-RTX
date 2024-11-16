@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "music_disc_relic",
-    "metalness_emissive_roughness": "music_disc_relic_mer",
-    "heightmap": "music_disc_relic_heightmap"
+    "metalness_emissive_roughness": "music_disc_relic_mer"
   }
 }

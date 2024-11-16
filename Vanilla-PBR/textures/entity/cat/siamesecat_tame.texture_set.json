@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "siamesecat_tame",
-        "metalness_emissive_roughness": "siamesecat_tame_mer",
-        "heightmap": "siamesecat_tame_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "siamesecat_tame",
+    "metalness_emissive_roughness": "siamesecat_tame_mer",
+    "heightmap": "siamesecat_tame_heightmap"
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "campfire_log",
-        "metalness_emissive_roughness": "campfire_log_mer",
-        "heightmap": "campfire_log_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "campfire_log",
+    "metalness_emissive_roughness": "campfire_log_mer",
+    "heightmap": "campfire_log_heightmap"
+  }
 }

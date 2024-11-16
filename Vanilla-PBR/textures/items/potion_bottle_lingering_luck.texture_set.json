@@ -1,8 +1,7 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "potion_bottle_lingering_luck",
-        "metalness_emissive_roughness": "potion_bottle_lingering_luck_mer",
-        "heightmap": "potion_bottle_lingering_luck_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "potion_bottle_lingering_luck",
+    "metalness_emissive_roughness": "potion_bottle_lingering_luck_mer"
+  }
 }

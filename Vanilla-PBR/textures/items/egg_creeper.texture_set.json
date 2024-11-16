@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_creeper",
-    "metalness_emissive_roughness": "egg_creeper_mer",
-    "heightmap": "egg_creeper_heightmap"
+    "metalness_emissive_roughness": "egg_creeper_mer"
   }
 }

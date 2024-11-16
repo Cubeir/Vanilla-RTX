@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "skeleton",
-        "metalness_emissive_roughness": "skeleton_mer",
-        "heightmap": "skeleton_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "skeleton",
+    "metalness_emissive_roughness": "skeleton_mer",
+    "heightmap": "skeleton_heightmap"
+  }
 }

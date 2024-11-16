@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "chorus_fruit",
-    "metalness_emissive_roughness": "chorus_fruit_mer",
-    "heightmap": "chorus_fruit_heightmap"
+    "metalness_emissive_roughness": "chorus_fruit_mer"
   }
 }

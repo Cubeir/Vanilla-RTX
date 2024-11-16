@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "nitwit",
-        "metalness_emissive_roughness": "nitwit_mer",
-        "heightmap": "nitwit_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "nitwit",
+    "metalness_emissive_roughness": "nitwit_mer",
+    "heightmap": "nitwit_heightmap"
+  }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_donkey",
-    "metalness_emissive_roughness": "egg_donkey_mer",
-    "heightmap": "egg_donkey_heightmap"
+    "metalness_emissive_roughness": "egg_donkey_mer"
   }
 }

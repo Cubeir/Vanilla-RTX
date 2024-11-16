@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_villager",
-    "metalness_emissive_roughness": "egg_villager_mer",
-    "heightmap": "egg_villager_heightmap"
+    "metalness_emissive_roughness": "egg_villager_mer"
   }
 }

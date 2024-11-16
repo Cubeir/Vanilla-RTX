@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "amethyst_cluster",
-        "metalness_emissive_roughness": "amethyst_cluster_mer",
-        "heightmap": "amethyst_cluster_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "amethyst_cluster",
+    "metalness_emissive_roughness": "amethyst_cluster_mer",
+    "heightmap": "amethyst_cluster_heightmap"
+  }
 }

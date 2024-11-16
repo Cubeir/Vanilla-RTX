@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_zombie",
-    "metalness_emissive_roughness": "egg_zombie_mer",
-    "heightmap": "egg_zombie_heightmap"
+    "metalness_emissive_roughness": "egg_zombie_mer"
   }
 }

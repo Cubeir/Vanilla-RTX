@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "zombie_piglin",
-        "metalness_emissive_roughness": "zombie_piglin_mer",
-        "heightmap": "zombie_piglin_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "zombie_piglin",
+    "metalness_emissive_roughness": "zombie_piglin_mer",
+    "heightmap": "zombie_piglin_heightmap"
+  }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mushroom_stew",
-    "metalness_emissive_roughness": "mushroom_stew_mer",
-    "heightmap": "mushroom_stew_heightmap"
+    "metalness_emissive_roughness": "mushroom_stew_mer"
   }
 }

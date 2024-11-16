@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "cake_bottom",
-        "metalness_emissive_roughness": "cake_bottom_mer",
-        "heightmap": "cake_bottom_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cake_bottom",
+    "heightmap": "cake_bottom_heightmap",
+    "metalness_emissive_roughness_subsurface": "cake_bottom_mer"
+  }
 }

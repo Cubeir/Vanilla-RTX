@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "red_sand",
-        "metalness_emissive_roughness": "red_sand_mer",
-        "heightmap": "red_sand_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "red_sand",
+    "metalness_emissive_roughness": "red_sand_mer",
+    "heightmap": "red_sand_heightmap"
+  }
 }

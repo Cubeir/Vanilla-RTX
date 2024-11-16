@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "book_written",
-    "metalness_emissive_roughness": "book_written_mer",
-    "heightmap": "book_written_heightmap"
+    "metalness_emissive_roughness": "book_written_mer"
   }
 }

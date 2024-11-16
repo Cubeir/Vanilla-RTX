@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "fishing_rod_uncast",
-    "metalness_emissive_roughness": "fishing_rod_uncast_mer",
-    "heightmap": "fishing_rod_uncast_heightmap"
+    "metalness_emissive_roughness": "fishing_rod_uncast_mer"
   }
 }

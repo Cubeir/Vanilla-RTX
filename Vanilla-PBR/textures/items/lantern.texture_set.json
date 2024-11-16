@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "lantern",
-    "metalness_emissive_roughness": "lantern_mer",
-    "heightmap": "lantern_heightmap"
+    "metalness_emissive_roughness": "lantern_mer"
   }
 }

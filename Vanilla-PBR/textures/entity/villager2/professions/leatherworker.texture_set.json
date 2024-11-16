@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "leatherworker",
-        "metalness_emissive_roughness": "leatherworker_mer",
-        "heightmap": "leatherworker_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "leatherworker",
+    "metalness_emissive_roughness": "leatherworker_mer",
+    "heightmap": "leatherworker_heightmap"
+  }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "comparator",
-    "metalness_emissive_roughness": "comparator_mer",
-    "heightmap": "comparator_heightmap"
+    "metalness_emissive_roughness": "comparator_mer"
   }
 }

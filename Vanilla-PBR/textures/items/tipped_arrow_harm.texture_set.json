@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "tipped_arrow_harm",
-    "metalness_emissive_roughness": "tipped_arrow_harm_mer",
-    "heightmap": "tipped_arrow_harm_heightmap"
+    "metalness_emissive_roughness": "tipped_arrow_harm_mer"
   }
 }

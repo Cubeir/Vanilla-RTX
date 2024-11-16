@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "level_gold",
-        "metalness_emissive_roughness": "level_gold_mer",
-        "heightmap": "level_gold_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "level_gold",
+    "metalness_emissive_roughness": "level_gold_mer",
+    "heightmap": "level_gold_heightmap"
+  }
 }

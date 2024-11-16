@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "ocelot_tame",
-        "metalness_emissive_roughness": "ocelot_tame_mer",
-        "heightmap": "ocelot_tame_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "ocelot_tame",
+    "metalness_emissive_roughness": "ocelot_tame_mer",
+    "heightmap": "ocelot_tame_heightmap"
+  }
 }

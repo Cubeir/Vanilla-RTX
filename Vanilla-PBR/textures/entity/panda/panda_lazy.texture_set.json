@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "panda_lazy",
-        "metalness_emissive_roughness": "panda_lazy_mer",
-        "heightmap": "panda_lazy_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "panda_lazy",
+    "metalness_emissive_roughness": "panda_lazy_mer",
+    "heightmap": "panda_lazy_heightmap"
+  }
 }

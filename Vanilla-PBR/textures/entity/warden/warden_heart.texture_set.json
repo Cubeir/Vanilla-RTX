@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "warden_heart",
-        "metalness_emissive_roughness": "warden_heart_mer",
-        "heightmap": "warden_heart_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "warden_heart",
+    "metalness_emissive_roughness": "warden_heart_mer",
+    "heightmap": "warden_heart_heightmap"
+  }
 }

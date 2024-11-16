@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mangrove_propagule",
-    "heightmap": "mangrove_propagule_heightmap",
-    "metalness_emissive_roughness_subsurface": "mangrove_propagule_mer"
+    "metalness_emissive_roughness": "mangrove_propagule_mer"
   }
 }

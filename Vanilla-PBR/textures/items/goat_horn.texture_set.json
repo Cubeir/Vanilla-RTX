@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "goat_horn",
-    "metalness_emissive_roughness": "goat_horn_mer",
-    "heightmap": "goat_horn_heightmap"
+    "metalness_emissive_roughness": "goat_horn_mer"
   }
 }

@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "end_bricks",
-        "metalness_emissive_roughness": "end_bricks_mer",
-        "heightmap": "end_bricks_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "end_bricks",
+    "metalness_emissive_roughness": "end_bricks_mer",
+    "heightmap": "end_bricks_heightmap"
+  }
 }

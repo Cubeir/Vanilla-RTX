@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "endframe_eye",
-        "metalness_emissive_roughness": "endframe_eye_mer",
-        "heightmap": "endframe_eye_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "endframe_eye",
+    "metalness_emissive_roughness": "endframe_eye_mer",
+    "heightmap": "endframe_eye_heightmap"
+  }
 }

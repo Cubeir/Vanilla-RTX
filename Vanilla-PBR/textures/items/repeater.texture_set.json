@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "repeater",
-    "metalness_emissive_roughness": "repeater_mer",
-    "heightmap": "repeater_heightmap"
+    "metalness_emissive_roughness": "repeater_mer"
   }
 }

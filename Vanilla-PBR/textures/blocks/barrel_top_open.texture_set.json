@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "barrel_top_open",
-        "metalness_emissive_roughness": "barrel_top_open_mer",
-        "heightmap": "barrel_top_open_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "barrel_top_open",
+    "metalness_emissive_roughness": "barrel_top_open_mer",
+    "heightmap": "barrel_top_open_heightmap"
+  }
 }

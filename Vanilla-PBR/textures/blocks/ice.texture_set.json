@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "ice",
-        "heightmap": "ice_heightmap",
-        "metalness_emissive_roughness_subsurface": "ice_mer"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "ice",
+    "heightmap": "ice_heightmap",
+    "metalness_emissive_roughness_subsurface": "ice_mer"
+  }
 }

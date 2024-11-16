@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mangrove_boat",
-    "metalness_emissive_roughness": "mangrove_boat_mer",
-    "heightmap": "mangrove_boat_heightmap"
+    "metalness_emissive_roughness": "mangrove_boat_mer"
   }
 }

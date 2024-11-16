@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_sign",
-    "heightmap": "bamboo_sign_heightmap",
-    "metalness_emissive_roughness_subsurface": "bamboo_sign_mer"
+    "metalness_emissive_roughness": "bamboo_sign_mer"
   }
 }

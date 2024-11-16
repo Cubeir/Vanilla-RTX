@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "decor_lime",
-        "metalness_emissive_roughness": "decor_lime_mer",
-        "heightmap": "decor_lime_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "decor_lime",
+    "metalness_emissive_roughness": "decor_lime_mer",
+    "heightmap": "decor_lime_heightmap"
+  }
 }

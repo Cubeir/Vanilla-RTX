@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "raw_copper",
-    "metalness_emissive_roughness": "raw_copper_mer",
-    "heightmap": "raw_copper_heightmap"
+    "metalness_emissive_roughness": "raw_copper_mer"
   }
 }

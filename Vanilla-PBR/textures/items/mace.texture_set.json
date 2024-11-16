@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mace",
-    "metalness_emissive_roughness": "mace_mer",
-    "heightmap": "mace_heightmap"
+    "metalness_emissive_roughness": "mace_mer"
   }
 }

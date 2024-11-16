@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_ravager",
-    "metalness_emissive_roughness": "egg_ravager_mer",
-    "heightmap": "egg_ravager_heightmap"
+    "metalness_emissive_roughness": "egg_ravager_mer"
   }
 }

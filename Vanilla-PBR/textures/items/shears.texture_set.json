@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "shears",
-    "metalness_emissive_roughness": "shears_mer",
-    "heightmap": "shears_heightmap"
+    "metalness_emissive_roughness": "shears_mer"
   }
 }

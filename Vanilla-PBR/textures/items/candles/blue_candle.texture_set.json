@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "blue_candle",
-    "metalness_emissive_roughness": "blue_candle_mer",
-    "heightmap": "blue_candle_heightmap"
+    "metalness_emissive_roughness": "blue_candle_mer"
   }
 }

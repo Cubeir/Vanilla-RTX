@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "flow_armor_trim_smithing_template",
-    "metalness_emissive_roughness": "flow_armor_trim_smithing_template_mer",
-    "heightmap": "flow_armor_trim_smithing_template_heightmap"
+    "metalness_emissive_roughness": "flow_armor_trim_smithing_template_mer"
   }
 }

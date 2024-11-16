@@ -1,8 +1,7 @@
 {
-  "format_version": "1.16.100",
+  "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "guster_pottery_sherd",
-    "metalness_emissive_roughness": "guster_pottery_sherd_mer",
-    "heightmap": "guster_pottery_sherd_heightmap"
+    "metalness_emissive_roughness": "guster_pottery_sherd_mer"
   }
 }

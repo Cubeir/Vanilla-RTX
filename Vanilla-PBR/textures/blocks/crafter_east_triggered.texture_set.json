@@ -1,8 +1,8 @@
 {
-    "format_version": "1.21.30",
-    "minecraft:texture_set": {
-        "color": "crafter_east_triggered",
-        "metalness_emissive_roughness": "crafter_east_triggered_mer",
-        "heightmap": "crafter_east_triggered_heightmap"
-    }
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "crafter_east_triggered",
+    "metalness_emissive_roughness": "crafter_east_triggered_mer",
+    "heightmap": "crafter_east_triggered_heightmap"
+  }
 }

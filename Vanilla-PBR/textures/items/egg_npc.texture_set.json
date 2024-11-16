@@ -2,7 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "egg_npc",
-    "metalness_emissive_roughness": "egg_npc_mer",
-    "heightmap": "egg_npc_heightmap"
+    "metalness_emissive_roughness": "egg_npc_mer"
   }
 }
