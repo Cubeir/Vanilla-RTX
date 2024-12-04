@@ -2,7 +2,7 @@
 
 Vanilla RTX Resource Pack for Minecraft with RTX.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.30 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.21.40 Only ⚠️
 
 ## Description
 
@@ -15,9 +15,10 @@ Everything is consistent & fine-tuned for Minecraft RTX.
 Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became [Vanilla RTX Normals](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals). Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/CubeIR/Vanilla-RTX) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CubeIR/Vanilla-RTX?style=flat) [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
+[![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX)
 ## Images
-![Vanilla RTX Minecraft with RTX Cover Image](https://github.com/user-attachments/assets/d64f7bbe-8d2e-4ccb-b515-6ecf5e207200)
+![Vanilla RTX for Minecraft RTX - Cover Image](https://github.com/user-attachments/assets/96f0cfcc-4cf5-4199-93fc-423e7a18cffa)
 ![ice kings vault](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![Minecraft with RTX Vanilla RTX](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
