@@ -13,6 +13,9 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#76889D"
+      },
+      "minecraft:biome_music": {
+        "volume_multiplier": 0
       }
     }
   }

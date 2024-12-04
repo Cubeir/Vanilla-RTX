@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "render_controllers": {
+    "controller.render.creaking": {
+      "geometry": "Geometry.default",
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [ "Texture.default" ]
+    },
+    "controller.render.creaking_eyes": {
+      "geometry": "Geometry.eyes",
+      "materials": [ { "*": "Material.eyes" } ],
+      "textures": [ "Texture.eyes" ],
+      "ignore_lighting": true,
+      "light_color_multiplier": 1.0,
+      "part_visibility": [ { "*": "variable.has_emissive_eyes" } ]
+    }
+  }
+}

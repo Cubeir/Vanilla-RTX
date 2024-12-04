@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.fireworks_rocket",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [0.5, -2.5, -7],
+							"size": [0, 5, 12],
+							"uv": {
+								"north": {"uv": [32, 27], "uv_size": [0, 5]},
+								"east": {"uv": [3, 6], "uv_size": [12, 5]},
+								"south": {"uv": [32, 27], "uv_size": [0, 5]},
+								"west": {"uv": [3, 18], "uv_size": [12, -5], "uv_rotation": 180},
+								"up": {"uv": [32, 32], "uv_size": [0, -12]},
+								"down": {"uv": [32, 32], "uv_size": [0, -12]}
+							}
+						},
+						{
+							"origin": [0.5, -2.5, -7],
+							"size": [0, 5, 12],
+							"pivot": [0.5, 0, -1],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"north": {"uv": [32, 27], "uv_size": [0, 5]},
+								"east": {"uv": [3, 13], "uv_size": [12, 5]},
+								"south": {"uv": [32, 27], "uv_size": [0, 5]},
+								"west": {"uv": [3, 11], "uv_size": [12, -5], "uv_rotation": 180},
+								"up": {"uv": [32, 32], "uv_size": [0, -12]},
+								"down": {"uv": [32, 32], "uv_size": [0, -12]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

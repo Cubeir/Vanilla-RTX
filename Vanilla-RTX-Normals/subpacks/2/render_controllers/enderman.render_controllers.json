@@ -12,18 +12,12 @@
     "controller.render.enderman_invisible": {
       "geometry": "Geometry.invisible",
       "part_visibility": [
-        { "*": true }
+        { "head": true }
       ],
       "materials": [ { "*": "Material.invisible" } ],
       "textures": [ "Texture.default" ],
-      "ignore_lighting": true,
-      "color": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-      },
-      "light_color_multiplier": 8.0
+      "ignore_lighting": false,
+      "light_color_multiplier": 1.0
     }
   }
 }

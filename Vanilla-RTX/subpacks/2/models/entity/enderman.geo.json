@@ -87,8 +87,8 @@
 				"texture_width": 64,
 				"texture_height": 32,
 				"visible_bounds_width": 5,
-				"visible_bounds_height": 2,
-				"visible_bounds_offset": [0, 1, 0]
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
 			},
 			"bones": [
 				{
@@ -101,7 +101,7 @@
 					"parent": "body",
 					"pivot": [0, 24, 0],
 					"cubes": [
-						{"origin": [-4, 24, -4.025], "size": [8, 8, 0], "uv": [24, 0]}
+						{"origin": [-4, 24, -4.03], "size": [8, 8, 0], "uv": [24, 0]}
 					]
 				}
 			]

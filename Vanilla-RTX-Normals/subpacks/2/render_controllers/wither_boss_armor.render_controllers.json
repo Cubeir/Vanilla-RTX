@@ -14,7 +14,7 @@
         "scale": [ 1.0, 1.0 ]
       },
       "ignore_lighting": true,
-      "light_color_multiplier": 10.0
+      "light_color_multiplier": 2.0
     },
 
     "controller.render.wither_boss_armor_blue": {

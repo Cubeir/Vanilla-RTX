@@ -4,15 +4,15 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "555ebb78-fa06-4ef7-a5f5-a3a8c3b968bf",
-        "version": [1, 21, 70],
-        "min_engine_version": [ 1, 21, 30 ]
+        "version": [1, 21, 80],
+        "min_engine_version": [ 1, 21, 40 ]
     },
     "modules": [
         {
             "description": "vanilla_rtx",
             "type": "resources",
             "uuid": "388e3d41-1331-455b-a5f8-406354435579",
-            "version": [1, 21, 70]
+            "version": [1, 21, 80]
         }
     ],
     "metadata": {
