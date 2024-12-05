@@ -8,13 +8,15 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 This project aims to bring complete ray tracing support for Minecraft's default resources with thoughtfully designed materials.  
 
-Vanilla RTX uses 16x heightmaps (with 192x normal maps generated later based on height differences) Vanilla RTX Normals uses handcrafted 16x normal maps instead.  
-Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
-Everything is consistent & fine-tuned for Minecraft RTX.  
+- **Vanilla RTX:** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
+- **Vanilla RTX Normals:** Features handcrafted 16x normal maps instead.
+- **Vanilla PBR**: A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of platforms.
+- Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
+- Everything is consistent & fine-tuned for Minecraft RTX.  
 
-Initial goal of this project was having something similar to [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition, which later became [Vanilla RTX Normals](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals). Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.
-
-
+The initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition. This effort later evolved into [Vanilla RTX Normals](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals).  
+Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
+  
 [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX)
 ## Images
@@ -28,7 +30,7 @@ More screenshots at [this page](http://minecraftrtx.net/gallery).
 
 
 ## Usage Tips
-- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) consider switching to Experimental option included in Vanilla RTX (or Vanilla RTX Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but please note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
+- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Experimental option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
 
 - If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card control panel. This also reduces input latency when compared to Minecraft's VSync.
 
@@ -38,11 +40,11 @@ More screenshots at [this page](http://minecraftrtx.net/gallery).
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can sometimes cause incomplete copies of resource pack files.
 
-- To ensure your pack options or subpack changes are saved, you may need to apply the settings multiple times.
+- To ensure your subpack changes are saved, you may need to apply the settings multiple times.
 
 - Education Edition resources will only load if the pack is loaded in world settings.
 
-- If textures appears broken or fail to load, make sure that server, world, or realm resource packs are not overriding Vanilla RTX's files.
+- If textures appear broken or fail to load, make sure that server, world, or realm resource packs are not overriding Vanilla RTX's files.
 
 
 
@@ -54,7 +56,7 @@ Vanilla RTX (Normals) is completely free download and use. However, be aware of 
 
 Disclaimer:  
 The license file linked above does not apply to any original Minecraft art resource.  
-
+  
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://github.com/Mojang/bedrock-samples/releases)) to function.
-This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by texture_set.json files. As time passes this may result in outdated textures.  
-Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly. Parts of vanilla resources also had to be modified or converted for proper functioning with ray tracing or to work around other technical issues or limitations without altering their original appearance.  
+This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated textures. Updates will include the latest texture changes to retain parity with vanilla textures and PBR textures will be updated accordingly.  
+Parts of vanilla resources also had to be modified or converted for proper functioning with ray tracing or to work around other technical issues or limitations without altering their original appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing mode.
