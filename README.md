@@ -8,13 +8,13 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 This project aims to bring complete ray tracing support for Minecraft's default resources with thoughtfully designed materials.  
 
-- **Vanilla RTX:** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
-- **Vanilla RTX Normals:** Features handcrafted 16x normal maps instead.
-- **Vanilla PBR**: A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of platforms.
+- **[Vanilla RTX:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
+- **[Vanilla RTX Normals:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals)** Features handcrafted 16x normal maps instead.
+- **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of platforms.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 - Everything is consistent & fine-tuned for Minecraft RTX.  
 
-The initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition. This effort later evolved into [Vanilla RTX Normals](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals).  
+Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition. This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
   
 [![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
