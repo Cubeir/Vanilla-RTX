@@ -52,7 +52,7 @@ More screenshots at [this page](http://minecraftrtx.net/gallery).
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
 
 Reminder:  
-Vanilla RTX (Normals) is completely free download and use. However, be aware of unauthorized copies or versions of Vanilla RTX that may circulate, sometimes under different names and even for sale. These unauthorized copies may, at best, replicate the version available on this page.
+Vanilla RTX and its derivative works are completely free to download and use. However be aware of unauthorized copies or versions of Vanilla RTX that may circulate, sometimes under different names and even for sale. These unauthorized copies may, at best, replicate the version available on this page.
 
 Disclaimer:  
 The license file linked above does not apply to any original Minecraft art resource.  
