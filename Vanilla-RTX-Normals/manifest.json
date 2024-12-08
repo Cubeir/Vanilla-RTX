@@ -4,19 +4,33 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "80036ba7-8e6a-4802-8934-22b236601123",
-        "version": [1, 21, 80],
-        "min_engine_version": [ 1, 21, 40 ]
+        "version": [
+            1,
+            21,
+            80
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            40
+        ]
     },
     "modules": [
         {
             "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "90222ff6-19a5-42f3-9a2e-e9fa25fe0f7c",
-            "version": [1, 21, 80]
+            "version": [
+                1,
+                21,
+                80
+            ]
         }
     ],
     "metadata": {
-        "authors": [ "Cubeir" ],
+        "authors": [
+            "Cubeir"
+        ],
         "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
         "url": "https://minecraftrtx.net"
     },
@@ -55,5 +69,7 @@
             "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing. Keep an eye out on release notes to see what's new!"
         }
     ],
-    "capabilities": [ "raytraced" ]
+    "capabilities": [
+        "raytraced"
+    ]
 }
