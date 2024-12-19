@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraftpbr:basalt"
+        "fog_identifier": "minecraft_pbr:fog_basalt_deltas"
       },
       "minecraft:water_appearance": {
         "surface_color": "#3f76e4"

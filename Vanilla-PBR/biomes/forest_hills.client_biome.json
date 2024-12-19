@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraftpbr:fog_default_alt"
+        "fog_identifier": "minecraft_pbr:fog_forest_hills"
       },
       "minecraft:water_appearance": {
         "surface_color": "#056bd1"

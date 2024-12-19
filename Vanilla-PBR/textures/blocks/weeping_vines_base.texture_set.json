@@ -1,8 +1,8 @@
 {
   "format_version": "1.21.30",
   "minecraft:texture_set": {
-    "color": "weeping_vines_plant",
-    "heightmap": "weeping_vines_plant_heightmap",
-    "metalness_emissive_roughness_subsurface": "weeping_vines_plant_mer"
+    "color": "weeping_vines_base",
+    "heightmap": "weeping_vines_base_heightmap",
+    "metalness_emissive_roughness_subsurface": "weeping_vines_base_mer"
   }
 }

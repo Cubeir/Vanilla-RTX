@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "magmacube",
-    "metalness_emissive_roughness": "magmacube_mer",
-    "heightmap": "magmacube_heightmap"
-  }
-}

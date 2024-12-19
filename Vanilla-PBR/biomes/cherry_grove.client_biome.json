@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraftpbr:fog_cherry_grove"
+        "fog_identifier": "minecraft_pbr:fog_cherry_grove"
       },
       "minecraft:water_appearance": {
         "surface_color": "#5db7ef"

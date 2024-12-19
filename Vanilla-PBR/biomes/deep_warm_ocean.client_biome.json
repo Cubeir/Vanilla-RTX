@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "minecraftpbr:fog_aqua"
+        "fog_identifier": "minecraft_pbr:fog_deep_warm_ocean"
       },
       "minecraft:water_appearance": {
         "surface_color": "#02B0E5"

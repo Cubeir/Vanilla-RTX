@@ -46,7 +46,7 @@
                 "0.8174999952316284": 0
             }
         },
-        "rayleigh_strength": 0.59,
+        "rayleigh_strength": 0.5,
         "sun_mie_strength": {
             "0.0": 1,
             "0.25": 3,

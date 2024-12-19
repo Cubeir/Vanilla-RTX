@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "creaking_eyes",
+    "metalness_emissive_roughness": "creaking_eyes_mer",
+    "heightmap": "creaking_eyes_heightmap"
+  }
+}
