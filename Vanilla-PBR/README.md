@@ -11,7 +11,7 @@ As of now the following devices are supported by the [deferred lighting]((https:
 - Xbox
 - Android (GLES 3 devices running Android OS 9 and above)
 - PS4/PS5
-- iOS (iPhone 9, iPad 9th gen, or iPad Mini 6th gen and higher)
+- iOS (iPad 9th gen, or iPad Mini 6th gen and higher)
 
 ## Installation Guide
 1. Download the latest Vanilla PBR release from this page.
