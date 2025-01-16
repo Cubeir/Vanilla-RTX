@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "bat_v2",
+    "metalness_emissive_roughness": "bat_v2_mer",
+    "heightmap": "bat_v2_heightmap"
+  }
+}

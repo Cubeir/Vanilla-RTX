@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "priest",
-    "metalness_emissive_roughness": "priest_mer",
-    "heightmap": "priest_heightmap"
-  }
-}

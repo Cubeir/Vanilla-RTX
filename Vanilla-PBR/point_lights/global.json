@@ -87,9 +87,9 @@
       "minecraft:sea_lantern": "#BCD3CB",
       "minecraft:crying_obsidian": "#270C49",
       "minecraft:sculk_catalyst": "#0E3E47",
+      "minecraft:shroomlight": "#FF9647",
       "minecraft:glowingobsidian": "#7A0414",
-      "minecraft:glowstone": "#F4CF84",
-      "minecraft:shroomlight": "#FF9647"
+      "minecraft:glowstone": "#F4CF84"
     }
   }
 }

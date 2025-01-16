@@ -66,13 +66,13 @@
                     "1.0": [0, 0, 0, 2]
                 }
             },
-            "orbital_offset_degrees": 15.31415926535
+            "orbital_offset_degrees": 20.718
         },
         "emissive": {
             "desaturation": 0.05
         },
         "ambient": {
-            "illuminance": 0.17,
+            "illuminance": 0.18,
             "color": "#DCDCE5"
         }
     }
