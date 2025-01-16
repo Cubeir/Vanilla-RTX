@@ -2,7 +2,7 @@
 
 Vanilla RTX Resource Pack for Minecraft with RTX.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.40 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.21.40 Only
 
 ## Description
 
@@ -10,15 +10,18 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 
 - **[Vanilla RTX:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
 - **[Vanilla RTX Normals:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals)** Features handcrafted 16x normal maps instead.
-- **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of platforms.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
-- Everything is consistent & fine-tuned for Minecraft RTX.  
+- Everything is consistent & fine-tuned for Minecraft RTX.
+- **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of hardware.
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition. This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
   
-[![](https://dcbadge.vercel.app/api/server/A4wv4wwYud?style=flat)](https://discord.gg/A4wv4wwYud)
-![GitHub repo size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX)
+[![Discord](https://img.shields.io/discord/721377277480402985?style=flat&logo=discord&logoColor=F3E9D4&label=VANILLA%20RTX%20Discord&color=F3E9D4&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=Online&up_color=F3E9D4&down_message=Temporarily%20Down&down_color=ED9E00&style=flat&logoSize=auto&label=Website&cacheSeconds=100&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index)
+![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat&color=F3E9D4&label=Repo%20Size&cacheSeconds=3600)
+![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat&color=F3E9D4&label=Last%20Commit&cacheSeconds=1800)
+
 ## Images
 ![Vanilla RTX for Minecraft RTX - Cover Image](https://github.com/user-attachments/assets/96f0cfcc-4cf5-4199-93fc-423e7a18cffa)
 ![ice kings vault](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
