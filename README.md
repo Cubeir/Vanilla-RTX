@@ -6,7 +6,7 @@ Vanilla RTX Resource Pack for Minecraft with RTX.
 
 ## Description
 
-This project aims to bring complete ray tracing support for Minecraft's default resources in a manner that feels native to the game, with thoughtfully designed materials.
+This project aims to bring complete ray tracing support for Minecraft's default resources in a manner that feels native to the game with thoughtfully designed materials.
 
 - **[Vanilla RTX:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
 - **[Vanilla RTX Normals:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals)** Features handcrafted 16x normal maps instead.
@@ -14,7 +14,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - Everything is consistent & fine-tuned for Minecraft RTX.
 - **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of hardware.
 
-Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed) for Bedrock Edition. This effort later evolved into Vanilla RTX Normals.  
+Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
   
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat&logo=discord&logoColor=F3E9D4&label=VANILLA%20RTX%20Discord&color=F3E9D4&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
@@ -29,7 +29,7 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![Vanilla RTX Normals Wall](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
 ![Vanilla RTX image](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
 ![Vanilla RTX Demo World](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
-More screenshots at [this page](http://minecraftrtx.net/gallery).
+More screenshots at [Vanilla RTX Gallery](http://minecraftrtx.net/gallery).
 ## Usage Tips
 - If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Experimental option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks, side effects, or cause minor incompatibility with other resource packs/add-ons, they can also be unstable and potentially break with future Minecraft updates due to use of undocumented features.
 
