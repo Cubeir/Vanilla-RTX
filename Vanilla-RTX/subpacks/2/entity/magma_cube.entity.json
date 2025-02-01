@@ -9,10 +9,15 @@
         "glow": "charged_creeper"
       },
       "geometry": {
-        "default": "geometry.lavaslime"
+        "default": "geometry.magma_cube_v2",
+        "core": "geometry.magma_cube_v2.core"
+      },
+      "textures": {
+        "default": "textures/entity/slime/magmacube_v2"
       },
       "render_controllers": [
-        "controller.render.magma_cube"
+        "controller.render.magma_cube",
+        "controller.render.magma_cube_core"
       ]
     }
   }

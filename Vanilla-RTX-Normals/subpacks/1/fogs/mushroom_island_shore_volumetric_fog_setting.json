@@ -44,7 +44,7 @@
           "zero_density_height": 320
         },
         "weather": {
-          "max_density": 0.04,
+          "max_density": 0.0,
           "max_density_height": 62,
           "zero_density_height": 320
         }

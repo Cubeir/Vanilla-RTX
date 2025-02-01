@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mangrove_leaves_opaque",
+    "metalness_emissive_roughness": "mangrove_leaves_opaque_mer",
+    "normal": "mangrove_leaves_opaque_normal"
+  }
+}

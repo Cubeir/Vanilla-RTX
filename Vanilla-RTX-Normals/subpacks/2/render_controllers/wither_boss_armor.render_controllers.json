@@ -13,8 +13,13 @@
         ],
         "scale": [ 1.0, 1.0 ]
       },
-      "ignore_lighting": true,
-      "light_color_multiplier": 2.0
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "ignore_lighting": true
     },
 
     "controller.render.wither_boss_armor_blue": {
@@ -29,8 +34,13 @@
         ],
         "scale": [ 1.0, 1.0 ]
       },
-      "ignore_lighting": true,
-      "light_color_multiplier": 2.0
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "ignore_lighting": true
     }
   }
 }

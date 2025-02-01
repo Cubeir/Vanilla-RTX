@@ -68,6 +68,9 @@
         },
         "spawn_egg_bogged": {
             "textures": "textures/items/egg_bogged"
+        },
+        "spawn_egg_creaking": {
+            "textures": "textures/items/egg_creaking"
         }
     }
 }

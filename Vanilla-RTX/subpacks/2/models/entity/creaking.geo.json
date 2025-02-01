@@ -102,9 +102,14 @@
 				{
 					"name": "head",
 					"parent": "upperBody",
+					"pivot": [-4, 30, 0]
+				},
+				{
+					"name": "eyes_raster",
+					"parent": "head",
 					"pivot": [-4, 30, 0],
 					"cubes": [
-						{"origin": [-7, 30, -3.03], "size": [6, 10, 0], "uv": [6, 6]}
+						{"origin": [-7, 32, -3.025], "size": [6, 6, 0], "uv": [6, 8]}
 					]
 				}
 			]

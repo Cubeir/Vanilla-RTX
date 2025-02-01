@@ -1,0 +1,133 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.magma_cube_v2",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "InsideCube",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "bodyCube_0",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 7, -4], "size": [8, 1, 8], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "bodyCube_1",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 6, -4], "size": [8, 1, 8], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "bodyCube_2",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 5, -4], "size": [8, 1, 8], "uv": [0, 18]}
+					]
+				},
+				{
+					"name": "eye_1",
+					"parent": "bodyCube_2",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-3, 5, -4.03], "size": [6, 1, 0], "uv": [52, 62]}
+					]
+				},
+				{
+					"name": "bodyCube_3",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 4, -4], "size": [8, 1, 8], "uv": [0, 27]}
+					]
+				},
+				{
+					"name": "eye_2",
+					"parent": "bodyCube_3",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-3, 4, -4.03], "size": [6, 1, 0], "uv": [52, 63]}
+					]
+				},
+				{
+					"name": "bodyCube_4",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 3, -4], "size": [8, 1, 8], "uv": [32, 0]}
+					]
+				},
+				{
+					"name": "bodyCube_5",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 2, -4], "size": [8, 1, 8], "uv": [32, 9]}
+					]
+				},
+				{
+					"name": "bodyCube_6",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 1, -4], "size": [8, 1, 8], "uv": [32, 18]}
+					]
+				},
+				{
+					"name": "bodyCube_7",
+					"parent": "InsideCube",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [-4, 0, -4], "size": [8, 1, 8], "uv": [32, 27]}
+					]
+				},
+				{
+					"name": "lavaCore_raytraced",
+					"parent": "InsideCube",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 2, -2], "size": [4, 4, 4], "uv": [24, 40]}
+					]
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.magma_cube_v2.core",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "InsideCube",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "lavaCore_raster",
+					"parent": "InsideCube",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 2, -2], "size": [4, 4, 4], "inflate": 0.025, "uv": [0, 56]}
+					]
+				}
+			]
+		}
+	]
+}
