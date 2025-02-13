@@ -2,7 +2,7 @@
 
 Vanilla RTX Resource Pack for Minecraft with RTX.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.40 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.21.51 Only ⚠️
 
 ## Description
 
@@ -17,10 +17,10 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
   
-[![Discord](https://img.shields.io/discord/721377277480402985?style=flat&logo=discord&logoColor=F3E9D4&label=VANILLA%20RTX%20Discord&color=F3E9D4&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=Online&up_color=F3E9D4&down_message=Temporarily%20Down&down_color=ED9E00&style=flat&logoSize=auto&label=Website&cacheSeconds=100&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
-![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat&color=F3E9D4&label=Repo%20Size&cacheSeconds=3600) 
-![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat&color=F3E9D4&label=Last%20Commit&cacheSeconds=1800) 
+[![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F3E9D4&label=VANILLA%20RTX%20Discord&color=F3E9D4&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=Online&up_color=F3E9D4&down_message=Temporarily%20Down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website&cacheSeconds=100&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
+![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F3E9D4&label=Repo%20Size&cacheSeconds=3600) 
+![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat-square&color=F3E9D4&label=Last%20Commit&cacheSeconds=1800) 
 
 ## Images
 ![Vanilla RTX for Minecraft RTX - Cover Image](https://github.com/user-attachments/assets/96f0cfcc-4cf5-4199-93fc-423e7a18cffa)
