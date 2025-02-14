@@ -2,7 +2,7 @@
 
 Vanilla RTX Resource Pack for Minecraft with RTX.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.51 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.21.60 Only ⚠️
 
 ## Description
 
@@ -33,7 +33,7 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![Vanilla RTX Demo World](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
 More at [Vanilla RTX Gallery](http://minecraftrtx.net/gallery) and [MCPEDL Page](http://minecraftrtx.net/gallery)
 ## Usage Tips
-- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor side effects or cause minor incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
+- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks or incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
 
 - If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync.
 
