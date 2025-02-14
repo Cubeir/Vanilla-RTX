@@ -4,7 +4,7 @@
         "description": "pack.description",
         "name": "pack.name",
         "uuid": "80036ba7-8e6a-4802-8934-22b236601123",
-        "version": [1, 21, 90],
+        "version": [1, 21, 95],
         "min_engine_version": [ 1, 21, 51 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "90222ff6-19a5-42f3-9a2e-e9fa25fe0f7c",
-            "version": [1, 21, 80]
+            "version": [1, 21, 95]
         }
     ],
     "metadata": {

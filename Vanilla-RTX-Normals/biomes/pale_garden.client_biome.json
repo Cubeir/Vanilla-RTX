@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:client_biome": {
     "description": {
       "identifier": "pale_garden"
@@ -12,10 +12,16 @@
         "fog_identifier": "minecraft_rtx:fog_pale_garden"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#76889D"
+        "surface_color": "#0059BF"
       },
       "minecraft:biome_music": {
         "volume_multiplier": 0
+      },
+      "minecraft:foliage_appearance": {
+        "color": "#878d76"
+      },
+      "minecraft:grass_appearance": {
+        "color": "#778272"
       }
     }
   }

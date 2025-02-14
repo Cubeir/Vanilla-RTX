@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:client_biome": {
     "description": {
       "identifier": "swampland_mutated"
@@ -9,7 +9,18 @@
         "fog_identifier": "minecraft_rtx:fog_swampland_mutated"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#4c6156"
+        "surface_color": "#2D7F52",
+        "surface_opacity": 1.0
+      },
+      "minecraft:foliage_appearance": {
+        "color": {
+          "color_map": "swamp_foliage"
+        }
+      },
+      "minecraft:grass_appearance": {
+        "color": {
+          "color_map": "swamp_grass"
+        }
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.60",
   "minecraft:client_biome": {
     "description": {
       "identifier": "mesa"
@@ -10,6 +10,12 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#4E7F81"
+      },
+      "minecraft:foliage_appearance": {
+        "color": "#aea42a"
+      },
+      "minecraft:grass_appearance": {
+        "color": "#90814d"
       }
     }
   }
