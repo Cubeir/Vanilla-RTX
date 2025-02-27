@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "pig",
-    "metalness_emissive_roughness": "pig_mer",
-    "heightmap": "pig_heightmap"
-  }
-}

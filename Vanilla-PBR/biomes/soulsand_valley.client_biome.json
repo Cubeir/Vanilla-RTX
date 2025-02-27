@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "soulsand_valley"
@@ -10,6 +10,11 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#905957"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": "ambient.soulsand_valley.additions",
+        "loop": "ambient.soulsand_valley.loop",
+        "mood": "ambient.soulsand_valley.mood"
       }
     }
   }

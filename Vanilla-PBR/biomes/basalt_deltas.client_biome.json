@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "basalt_deltas"
@@ -10,6 +10,11 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#3f76e4"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": "ambient.basalt_deltas.additions",
+        "loop": "ambient.basalt_deltas.loop",
+        "mood": "ambient.basalt_deltas.mood"
       }
     }
   }

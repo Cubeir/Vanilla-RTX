@@ -33,55 +33,31 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.016,
+          "max_density": 0.004848484918543569,
           "max_density_height": 30,
           "zero_density_height": 127
         },
         "weather": {
-          "max_density": 0.02,
+          "max_density": 0.006060606148179461,
           "max_density_height": 62,
           "zero_density_height": 127
         },
         "water": {
-          "max_density": 1.0,
+          "max_density": 0.3030303074089731,
           "uniform": true
         }
       },
       "media_coefficients": {
         "air": {
           "scattering": [
-            0.14170666,
-            0.14314666,
-            0.14314666
+            0.23583999333937963,
+            0.240529993125995,
+            0.240529993125995
           ],
           "absorption": [
-            0.08837333,
-            0.04481333,
-            0.04481333
-          ]
-        },
-        "water": {
-          "scattering": [
-            0.0005,
-            0.006,
-            0.012
-          ],
-          "absorption": [
-            0.12,
-            0.068,
-            0.04
-          ]
-        },
-        "cloud": {
-          "scattering": [
-            0.045,
-            0.045,
-            0.045
-          ],
-          "absorption": [
-            0.045,
-            0.045,
-            0.045
+            0.0,
+            0.0,
+            0.0
           ]
         }
       }

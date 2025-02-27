@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "egg_mule",
-    "metalness_emissive_roughness": "egg_mule_mer"
-  }
-}

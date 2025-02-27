@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Vanilla PBR assets and configurations for Deferred Lighting graphics mode.\nVersion 2.11.0",
+        "description": "Vanilla PBR assets and configurations for Deferred Lighting graphics mode.\nVersion 2.12.0",
         "name": "Vanilla PBR",
         "uuid": "addd506f-9b83-4bda-a33f-d9467ba14cf6",
-        "version": [ 2, 11, 0 ],
-        "min_engine_version": [ 1, 21, 50 ]
+        "version": [ 2, 12, 0 ],
+        "min_engine_version": [ 1, 21, 70 ]
     },
     "modules": [
         {
             "description": "vanilla_pbr",
             "type": "resources",
             "uuid": "628800ce-4e1e-43a6-8355-e45ed3a424d4",
-            "version": [ 2, 11, 0 ]
+            "version": [ 2, 12, 0 ]
         }
     ],
     "metadata": {

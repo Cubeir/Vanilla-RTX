@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "hell"
@@ -10,6 +10,11 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#905957"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": "ambient.nether_wastes.additions",
+        "loop": "ambient.nether_wastes.loop",
+        "mood": "ambient.nether_wastes.mood"
       }
     }
   }

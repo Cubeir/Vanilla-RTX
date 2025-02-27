@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "egg_glow_squid",
-    "metalness_emissive_roughness": "egg_glow_squid_mer"
-  }
-}

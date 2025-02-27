@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.40",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "roofed_forest_mutated"
@@ -10,6 +10,9 @@
       },
       "minecraft:water_appearance": {
         "surface_color": "#44AFF5"
+      },
+      "minecraft:dry_foliage_color": {
+        "color": "#7B5334"
       }
     }
   }

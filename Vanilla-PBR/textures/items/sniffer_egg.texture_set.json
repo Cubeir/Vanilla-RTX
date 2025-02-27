@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sniffer_egg",
-    "metalness_emissive_roughness": "sniffer_egg_mer"
-  }
-}
