@@ -33,11 +33,12 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![Vanilla RTX Demo World](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
 More at [Vanilla RTX Gallery](http://minecraftrtx.net/gallery) and [MCPEDL Page](http://minecraftrtx.net/gallery)
 ## Usage Tips
+- There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while in a world. So join any world, enable ray tracing (you may experience issues at first) then exit to the main menu and rejoin. Once enabled, do not turn ray tracing off to prevent this issue from occurring again, or [enable ray tracing via options.txt](https://www.youtube.com/watch?v=hNS1p4IYmJo&feature=youtu.be) instead before launching the game.
+To simplify things, you can use this [batch script](https://github.com/Cubeir/Vanilla-RTX/blob/master/LaunchMinecraftRTX.bat) to quickly activate ray tracing before it launches Minecraft.
+
 - If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks or incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
 
 - If you're experiencing low frame rate, [disable Minecraft's VSync](https://youtu.be/E-gANUpoMus?t=12), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync.
-
-- There is an issue that will keep Vanilla RTX files from loading and might make the world fully glossy. To prevent this, always make sure ray tracing is enabled before you attempt joining a world. In other words, do not enable ray tracing while inside a world! Do it through the main menu instead.
 
 - The shortcut for toggling ray tracing while inside of a world is the semicolon key (;) on your keyboard, however it is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few glitches, such as messing up player geometry or black entity textures.
 
