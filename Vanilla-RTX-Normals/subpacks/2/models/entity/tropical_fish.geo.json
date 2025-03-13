@@ -1,0 +1,307 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.tropicalfish_a",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [-0.5, 0, 0],
+					"cubes": [
+						{"origin": [-1, 0, -3], "size": [2, 3, 6], "uv": [0, 0]},
+						{"origin": [0, 3, -2.9992], "size": [0, 4, 6], "uv": [10, -6]}
+					]
+				},
+				{
+					"name": "tailfin",
+					"parent": "body",
+					"pivot": [0, 0, 3],
+					"cubes": [
+						{"origin": [0, 0, 3], "size": [0, 3, 4], "uv": [24, -4]}
+					]
+				},
+				{
+					"name": "leftFin",
+					"parent": "body",
+					"pivot": [0.5, 0, 1],
+					"cubes": [
+						{"origin": [0.336, 0, -0.10594], "size": [2, 2, 0], "uv": [2, 12]}
+					]
+				},
+				{
+					"name": "rightFin",
+					"parent": "body",
+					"pivot": [-0.5, 0, 1],
+					"cubes": [
+						{"origin": [-2.336, 0, -0.10594], "size": [2, 2, 0], "uv": [2, 16]}
+					]
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.tropicalfish_b",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [-0.5, 0, 0],
+					"cubes": [
+						{"origin": [-1, 0, -0.0008], "size": [2, 6, 6], "uv": [0, 20]},
+						{"origin": [0, -5, -0.0008], "size": [0, 5, 6], "uv": [20, 21]},
+						{"origin": [0, 6, -0.0008], "size": [0, 5, 6], "uv": [20, 10]}
+					]
+				},
+				{
+					"name": "tailfin",
+					"parent": "body",
+					"pivot": [0, 0, 6],
+					"cubes": [
+						{"origin": [0, 0.0008, 6], "size": [0, 6, 5], "uv": [21, 16]}
+					]
+				},
+				{
+					"name": "leftFin",
+					"parent": "body",
+					"pivot": [0.5, 0, 1],
+					"cubes": [
+						{"origin": [2.05673, 0, 2.35152], "size": [2, 2, 0], "uv": [2, 12]}
+					]
+				},
+				{
+					"name": "rightFin",
+					"parent": "body",
+					"pivot": [-0.5, 0, 1],
+					"cubes": [
+						{"origin": [-4.05673, 0, 2.35152], "size": [2, 2, 0], "uv": [2, 16]}
+					]
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.tropicalfish_a.pattern",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [-0.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-1, 0, -3],
+							"size": [2, 3, 6],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {"uv": [6, 6], "uv_size": [2, 3]},
+								"east": {"uv": [0, 6], "uv_size": [6, 3]},
+								"south": {"uv": [14, 6], "uv_size": [2, 3]},
+								"west": {"uv": [8, 6], "uv_size": [6, 3]},
+								"up": {"uv": [6, 0], "uv_size": [2, 6]},
+								"down": {"uv": [8, 6], "uv_size": [2, -6]}
+							}
+						},
+						{
+							"origin": [0, 3, -2.9992],
+							"size": [0, 4, 6],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {"uv": [32, 31], "uv_size": [-1, 1]},
+								"east": {"uv": [10, 0], "uv_size": [6, 4]},
+								"south": {"uv": [31, 31], "uv_size": [1, 1]},
+								"west": {"uv": [16, 0], "uv_size": [6, 4]},
+								"up": {"uv": [32, 31], "uv_size": [-1, 1]},
+								"down": {"uv": [32, 32], "uv_size": [-1, -1]}
+							}
+						}
+					]
+				},
+				{
+					"name": "tailfin",
+					"parent": "body",
+					"pivot": [0, 0, 3],
+					"cubes": [
+						{
+							"origin": [0, 0, 3],
+							"size": [0, 3, 4],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {"uv": [31, 31], "uv_size": [1, 1]},
+								"east": {"uv": [24, 0], "uv_size": [4, 3]},
+								"south": {"uv": [32, 31], "uv_size": [-1, 1]},
+								"west": {"uv": [28, 0], "uv_size": [4, 3]},
+								"up": {"uv": [32, 31], "uv_size": [-1, 1]},
+								"down": {"uv": [32, 32], "uv_size": [-1, -1]}
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.tropicalfish_b.pattern",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [-0.5, 0, 0],
+					"cubes": [
+						{
+							"origin": [-1, 0, -0.0008],
+							"size": [2, 6, 6],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {
+									"uv": [6, 26],
+									"uv_size": [2, 6]
+								},
+								"east": {
+									"uv": [0, 26],
+									"uv_size": [6, 6]
+								},
+								"south": {
+									"uv": [14, 26],
+									"uv_size": [2, 6]
+								},
+								"west": {
+									"uv": [8, 26],
+									"uv_size": [6, 6]
+								},
+								"up": {
+									"uv": [6, 20],
+									"uv_size": [2, 6]
+								},
+								"down": {
+									"uv": [8, 26],
+									"uv_size": [2, -6]
+								}
+							}
+						},
+						{
+							"origin": [0, -5, -0.0008],
+							"size": [0, 5, 6],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {
+									"uv": [0, 0],
+									"uv_size": [1, 1]
+								},
+								"east": {
+									"uv": [20, 27],
+									"uv_size": [6, 5]
+								},
+								"south": {
+									"uv": [1, 0],
+									"uv_size": [-1, 1]
+								},
+								"west": {
+									"uv": [26, 27],
+									"uv_size": [6, 5]
+								},
+								"up": {
+									"uv": [1, 0],
+									"uv_size": [-1, 1]
+								},
+								"down": {
+									"uv": [1, 1],
+									"uv_size": [-1, -1]
+								}
+							}
+						},
+						{
+							"origin": [0, 6, -0.0008],
+							"size": [0, 5, 6],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {
+									"uv": [0, 0],
+									"uv_size": [1, 1]
+								},
+								"east": {
+									"uv": [20, 16],
+									"uv_size": [6, 5]
+								},
+								"south": {
+									"uv": [1, 0],
+									"uv_size": [-1, 1]
+								},
+								"west": {
+									"uv": [26, 16],
+									"uv_size": [6, 5]
+								},
+								"up": {
+									"uv": [1, 0],
+									"uv_size": [-1, 1]
+								},
+								"down": {
+									"uv": [1, 1],
+									"uv_size": [-1, -1]
+								}
+							}
+						}
+					]
+				},
+				{
+					"name": "tailfin",
+					"parent": "body",
+					"pivot": [0, 0, 6],
+					"cubes": [
+						{
+							"origin": [0, 0.0008, 6],
+							"size": [0, 6, 5],
+							"inflate": 0.0125,
+							"uv": {
+								"north": {
+									"uv": [26, 21],
+									"uv_size": [0, 6]
+								},
+								"east": {
+									"uv": [21, 21],
+									"uv_size": [5, 6]
+								},
+								"south": {
+									"uv": [31, 21],
+									"uv_size": [0, 6]
+								},
+								"west": {
+									"uv": [26, 21],
+									"uv_size": [5, 6]
+								},
+								"up": {
+									"uv": [26, 16],
+									"uv_size": [0, 5]
+								},
+								"down": {
+									"uv": [26, 21],
+									"uv_size": [0, -5]
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

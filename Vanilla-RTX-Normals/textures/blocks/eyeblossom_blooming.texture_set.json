@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "eyeblossom_blooming",
-    "metalness_emissive_roughness": "eyeblossom_blooming_mer",
-    "normal": "eyeblossom_blooming_normal"
-  }
-}
