@@ -33,7 +33,7 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![Vanilla RTX Demo World](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/3ac5552d-0261-461b-ad26-ef6315dc2606)
 More at [Vanilla RTX Gallery](http://minecraftrtx.net/gallery) and [MCPEDL Page](http://minecraftrtx.net/gallery)
 ## Usage Tips
-- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, zip the desired folder, rename the .zip extension to .mcpack, and double-click to import into Minecraft or Minecraft Preview.
+- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, zip the desired folder, rename the `.zip` extension to `.mcpack`, and double-click to import into Minecraft or Minecraft Preview.
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
