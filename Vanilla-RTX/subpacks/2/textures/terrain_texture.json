@@ -4,9 +4,6 @@
     "num_mip_levels": 1,
     "padding": 2,
     "texture_data": {
-        "frog_spawn_carried": {
-            "textures": "textures/blocks/frogspawn_carried"
-        },
         "slime_block_carried": {
             "textures": "textures/blocks/slime_carried"
         },
@@ -27,6 +24,21 @@
         },
         "frosted_ice_carried": {
             "textures": "textures/blocks/frosted_ice_0_carried"
+        },
+        "cave_vines_head_carried": {
+            "textures": [
+              "textures/blocks/cave_vines_head_carried",
+              "textures/blocks/cave_vines_head_berries_carried"
+            ]
+          },
+          "cave_vines_body_carried": {
+            "textures": [
+              "textures/blocks/cave_vines_body_carried",
+              "textures/blocks/cave_vines_body_berries_carried"
+            ]
+        },
+        "pointed_dripstone_carried": {
+            "textures": "textures/blocks/pointed_dripstone_carried"
         },
         "pumpkin_side_lit": {
             "textures": "textures/blocks/pumpkin_side_lit"

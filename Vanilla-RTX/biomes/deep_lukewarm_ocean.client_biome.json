@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.40",
   "minecraft:client_biome": {
     "description": {
       "identifier": "deep_lukewarm_ocean"

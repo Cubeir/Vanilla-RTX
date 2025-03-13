@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.40",
   "minecraft:client_biome": {
     "description": {
       "identifier": "warm_ocean"
@@ -9,8 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_warm_ocean"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#02B0E5",
-        "surface_opacity": 0.55
+        "surface_color": "#02B0E5"
       }
     }
   }
