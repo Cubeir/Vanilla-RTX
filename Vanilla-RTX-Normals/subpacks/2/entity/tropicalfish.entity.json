@@ -1,0 +1,37 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:tropicalfish",
+      "materials": {
+        "default": "tropicalfish"
+      },
+      "textures": {
+        "typeA": "textures/entity/fish/tropical_a",
+        "typeB": "textures/entity/fish/tropical_b",
+        "aPattern1": "textures/entity/fish/tropical_a_pattern_1",
+        "aPattern2": "textures/entity/fish/tropical_a_pattern_2",
+        "aPattern3": "textures/entity/fish/tropical_a_pattern_3",
+        "aPattern4": "textures/entity/fish/tropical_a_pattern_4",
+        "aPattern5": "textures/entity/fish/tropical_a_pattern_5",
+        "aPattern6": "textures/entity/fish/tropical_a_pattern_6",
+        "bPattern1": "textures/entity/fish/tropical_b_pattern_1",
+        "bPattern2": "textures/entity/fish/tropical_b_pattern_2",
+        "bPattern3": "textures/entity/fish/tropical_b_pattern_3",
+        "bPattern4": "textures/entity/fish/tropical_b_pattern_4",
+        "bPattern5": "textures/entity/fish/tropical_b_pattern_5",
+        "bPattern6": "textures/entity/fish/tropical_b_pattern_6"
+      },
+      "geometry": {
+        "typeA": "geometry.tropicalfish_a",
+        "typeB": "geometry.tropicalfish_b",
+        "patternA": "geometry.tropicalfish_a.pattern",
+        "patternB": "geometry.tropicalfish_b.pattern"
+      },
+      "render_controllers": [
+        "controller.render.tropicalfish",
+        "controller.render.tropicalfish.pattern"
+      ]
+    }
+  }
+}

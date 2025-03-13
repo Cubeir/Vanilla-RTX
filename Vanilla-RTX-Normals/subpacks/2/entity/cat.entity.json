@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:cat",
       "materials": {
-        "default": "entity_nocull"
+        "default": "wolf"
       },
       "geometry": {
         "default": "geometry.cat"

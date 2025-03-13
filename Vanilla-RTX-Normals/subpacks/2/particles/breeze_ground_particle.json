@@ -68,7 +68,7 @@
                     "variable.ground_particle_color.r * 0.7",
                     "variable.ground_particle_color.g * 0.7",
                     "variable.ground_particle_color.b * 0.7",
-                    "variable.ground_particle_color.a * 0.62"
+                    "variable.ground_particle_color.a * 0.65"
                 ]
             },
             "minecraft:particle_appearance_lighting": {}
