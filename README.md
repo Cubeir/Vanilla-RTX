@@ -21,7 +21,7 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
 ![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=3600) 
 ![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=1800) 
-[![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dcubeir%26type%3Dpatrons&style=flat-square&color=F4E9D3&label=&labelColor=555555&logo=patreon&logoColor=F4E9D3)](https://patreon.com/cubeir)
+[![Ko-Fi](https://img.shields.io/badge/-Support%20me%20on%20Ko--Fi-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555)](https://ko-fi.com/cubeir)
 
 
 ## Images
