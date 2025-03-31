@@ -10,31 +10,28 @@
                 "death_material": "entity_beam_additive",
                 "dissolve_0": "entity_dissolve_layer0.skinning",
                 "dissolve_1": "entity_dissolve_layer1.skinning"
-              },
-              "textures": {
+            },
+            "textures": {
                 "default": "textures/entity/dragon/dragon",
                 "exploding": "textures/entity/dragon/dragon_exploding",
                 "beam": "textures/entity/endercrystal/endercrystal_beam"
-              },
-              "geometry": {
-                "default": "geometry.dragon"
-              },
-              "render_controllers": [
-                {
-                  "controller.render.ender_dragon_death_pre_pass": "query.death_ticks > 1.0"
-                },
-                {
-                  "controller.render.ender_dragon_death_main_pass": "query.death_ticks > 1.0"
-                },
-                {
-                  "controller.render.ender_dragon_default": "query.death_ticks <= 1.0"
-                }
-              ],
-              "spawn_egg": {
-                "texture": "spawn_egg_ender_dragon"
             },
+            "geometry": {
+                "default": "geometry.dragon"
+            },
+            "render_controllers": [
+                {
+                    "controller.render.ender_dragon_death_pre_pass": "query.death_ticks > 1.0"
+                },
+                {
+                    "controller.render.ender_dragon_death_main_pass": "query.death_ticks > 1.0"
+                },
+                {
+                    "controller.render.ender_dragon_default": "query.death_ticks <= 1.0"
+                }
+            ],
             "scripts": {
-              "should_update_bones_and_effects_offscreen": "1.0"
+                "should_update_bones_and_effects_offscreen": "1.0"
             }
         }
     }

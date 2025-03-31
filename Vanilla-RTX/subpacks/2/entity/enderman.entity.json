@@ -8,12 +8,12 @@
         "default": "enderman",
         "invisible": "charged_creeper"
       },
-      "textures": {
-        "default": "textures/entity/enderman/enderman"
-      },
       "geometry": {
         "default": "geometry.enderman.v1.8",
         "invisible": "geometry.enderman.v1.8.invisible"
+      },
+      "textures": {
+        "default": "textures/entity/enderman/enderman"
       },
       "render_controllers": [
         "controller.render.enderman",

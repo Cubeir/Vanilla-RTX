@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "pale_garden"
@@ -22,6 +22,9 @@
       },
       "minecraft:grass_appearance": {
         "color": "#778272"
+      },
+      "minecraft:dry_foliage_color": {
+        "color": "#A0A69C"
       }
     }
   }

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
       "identifier": "swampland_mutated"
@@ -21,6 +21,9 @@
         "color": {
           "color_map": "swamp_grass"
         }
+      },
+      "minecraft:dry_foliage_color": {
+        "color": "#7B5334"
       }
     }
   }

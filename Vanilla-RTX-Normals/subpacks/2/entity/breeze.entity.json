@@ -29,9 +29,6 @@
             ],
             "particle_effects": {
                 "ground_particles": "minecraft:breeze_ground_particle"
-            },
-            "spawn_egg": {
-                "texture": "spawn_egg_breeze"
             }
         }
     }

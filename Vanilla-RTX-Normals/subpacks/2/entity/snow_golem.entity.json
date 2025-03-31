@@ -15,10 +15,7 @@
       },
       "render_controllers": [
         "controller.render.snowgolem"
-      ],
-      "spawn_egg": {
-        "texture": "spawn_egg_snow_golem"
-      }
+      ]
     }
   }
 }

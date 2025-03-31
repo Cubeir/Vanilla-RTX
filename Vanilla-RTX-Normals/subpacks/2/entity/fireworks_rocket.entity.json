@@ -12,12 +12,6 @@
       "geometry": {
         "default": "geometry.fireworks_rocket"
       },
-      "scripts": {
-        "animate": [
-          "move"
-        ],
-        "should_update_bones_and_effects_offscreen": "1.0"
-      },
       "render_controllers": [
         "controller.render.fireworks_rocket"
       ]

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cactus_flower",
+    "metalness_emissive_roughness": "cactus_flower_mer",
+    "normal": "cactus_flower_normal"
+  }
+}

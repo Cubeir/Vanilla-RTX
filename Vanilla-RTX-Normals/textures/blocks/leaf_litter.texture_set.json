@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "leaf_litter",
+    "metalness_emissive_roughness": "leaf_litter_mer",
+    "normal": "leaf_litter_normal"
+  }
+}

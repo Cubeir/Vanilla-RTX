@@ -1,25 +1,20 @@
 {
     "format_version": 2,
     "header": {
-        "description": "pack.description",
         "name": "pack.name",
-        "uuid": "80036ba7-8e6a-4802-8934-22b236601123",
-        "version": [1, 21, 100],
-        "min_engine_version": [ 1, 21, 60 ]
+        "description": "pack.description",
+        "uuid": "bbe2b225-b45b-41c2-bd3b-465cd83e6071",
+        "version": [1, 21, 110],
+        "min_engine_version": [ 1, 21, 70 ]
     },
     "modules": [
         {
             "description": "vanilla_rtx_normals",
             "type": "resources",
-            "uuid": "90222ff6-19a5-42f3-9a2e-e9fa25fe0f7c",
-            "version": [1, 21, 100]
+            "uuid": "b2eef2c6-d893-467e-b31d-cda7bf643eaa",
+            "version": [1, 21, 110]
         }
     ],
-    "metadata": {
-        "authors": [ "Cubeir" ],
-        "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
-        "url": "https://minecraftrtx.net"
-    },
     "subpacks": [
         {
             "folder_name": "2",
@@ -52,8 +47,13 @@
         },
         {
             "type": "label",
-            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing. Keep an eye out on release notes to see what's new!"
+            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing compatibility. Keep an eye out on release notes to see what's new!"
         }
     ],
-    "capabilities": [ "raytraced" ]
+    "capabilities": [ "raytraced" ],
+    "metadata": {
+        "authors": [ "Cubeir" ],
+        "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
+        "url": "https://minecraftrtx.net"
+    }
 }

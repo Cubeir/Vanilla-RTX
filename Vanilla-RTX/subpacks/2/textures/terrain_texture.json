@@ -1,8 +1,8 @@
 {
     "resource_pack_name": "vanilla_rtx",
     "texture_name": "atlas.terrain",
-    "num_mip_levels": 1,
     "padding": 2,
+    "num_mip_levels": 1,
     "texture_data": {
         "frog_spawn_carried": {
             "textures": "textures/blocks/frogspawn_carried"
@@ -11,7 +11,7 @@
             "textures": "textures/blocks/slime_carried"
         },
         "honey_side_carried": {
-            "textures": "textures/blocks/honey_side_carried" 
+            "textures": "textures/blocks/honey_side_carried"
         },
         "honey_top_carried": {
             "textures": "textures/blocks/honey_top_carried"
@@ -43,17 +43,20 @@
         "redstone_ore_lit": {
             "textures": "textures/blocks/redstone_ore_lit"
         },
-        "dried_kelp_block_bottom":
-        {
+        "dried_kelp_block_bottom": {
             "textures": "textures/blocks/dried_kelp_bottom"
         },
-        "dried_kelp_block_bottom_carried":
-        {
+        "dried_kelp_block_bottom_carried": {
             "textures": "textures/blocks/dried_kelp_bottom_carried"
         },
-        "dried_kelp_block_top_carried":
-        {
+        "dried_kelp_block_top_carried": {
             "textures": "textures/blocks/dried_kelp_top_carried"
+        },
+        "firefly_bush": {
+            "textures": [
+                "textures/blocks/firefly_bush_firefly",
+                "textures/blocks/firefly_bush_firefly"
+            ]
         },
         "chiseled_bookshelf_front": {
             "textures": [

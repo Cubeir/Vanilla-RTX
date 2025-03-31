@@ -35,9 +35,6 @@
                 "controller.render.warden_pulsating_glow_1",
                 "controller.render.warden_pulsating_glow_2"
             ],
-            "spawn_egg": {
-                "texture": "spawn_egg_warden"
-            },
             "scripts": {
                 "should_update_bones_and_effects_offscreen": "1.0"
             }

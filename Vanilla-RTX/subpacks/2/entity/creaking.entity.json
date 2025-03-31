@@ -18,10 +18,7 @@
       "render_controllers": [
         "controller.render.creaking",
         "controller.render.creaking_eyes"
-      ],
-      "spawn_egg": {
-        "texture": "spawn_egg_creaking"
-      }
+      ]
     }
   }
 }

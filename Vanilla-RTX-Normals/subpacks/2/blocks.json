@@ -286,6 +286,7 @@
         "blockshape": "cross_texture"
     },
     "firefly_bush": {
+        "textures": "firefly_bush",
         "blockshape": "cross_texture"
     },
     "bush": {
@@ -306,7 +307,9 @@
     "sunflower": {
         "blockshape": "double_plant"
     },
-    "web": {},
+    "web": {
+        "blockshape": "cross_texture"
+    },
     "cave_vines": {},
     "cave_vines_body_with_berries": {},
     "cave_vines_head_with_berries": {},

@@ -1,0 +1,8 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/firefly_bush_firefly",
+    "atlas_tile": "firefly_bush",
+    "ticks_per_frame": 8,
+    "blend_frames": true
+  }
+]

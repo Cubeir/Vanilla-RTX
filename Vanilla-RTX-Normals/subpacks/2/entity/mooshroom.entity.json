@@ -8,12 +8,15 @@
                 "default": "entity_alphatest"
             },
             "textures": {
-                "default": "textures/entity/cow/mooshroom",
-                "brown": "textures/entity/cow/brown_mooshroom"
+                "default": "textures/entity/cow/mooshroom_v2",
+                "brown": "textures/entity/cow/brown_mooshroom_v2"
             },
-              "geometry": {
-                "default": "geometry.mooshroom.v1.8"
-            }
+            "geometry": {
+                "default": "geometry.mooshroom.v2"
+            },
+            "render_controllers": [
+                "controller.render.mooshroom"
+            ]
         }
     }
 }

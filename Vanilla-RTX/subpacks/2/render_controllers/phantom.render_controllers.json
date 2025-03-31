@@ -4,14 +4,30 @@
     "controller.render.phantom": {
       "geometry": "Geometry.default",
       "part_visibility": [
-        { "*": "query.is_invisible ? 0 : 1"},
-        { "eyes": true }
+        { "*": "query.is_invisible ? 0 : 1"}
       ],
       "materials": [ 
-        { "*": "Material.default" },
-        { "eyes": "Material.invisible" } 
+        { "*": "Material.default" }
     ],
       "textures": [ "Texture.default" ]
+    },
+    "controller.render.phantom.eyes": {
+      "geometry": "Geometry.eyes",
+      "part_visibility": [
+        { "*": true}
+      ],
+      "materials": [ 
+        { "*": "Material.invisible" }
+    ],
+      "textures": [ "Texture.default" ],
+      "ignore_lighting": true,
+      "light_color_multiplier": 31.0,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
     }
   }
 }
