@@ -12,7 +12,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - **[Vanilla RTX Normals:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-RTX-Normals)** Features handcrafted 16x normal maps instead.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of the same material.
-- **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A derivative of Vanilla RTX for Deferred Lighting graphics mode usable on a wider range of hardware.
+- **[Vanilla PBR:](https://github.com/Cubeir/Vanilla-RTX/tree/master/Vanilla-PBR)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
