@@ -1,7 +1,32 @@
 @echo off
-set "file=%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt"
+:START
+cls
+echo ================================
+echo   Launch Minecraft with RTX
+echo ================================
+echo [1] Minecraft
+echo [2] Minecraft Preview
+echo.
 
-REM Read options.txt and modify graphics_mode to ray tracing
+choice /c 12 /n /m "Select an option [1/2]:"
+
+REM Handle invalid input by restarting
+if not "%errorlevel%"=="1" if not "%errorlevel%"=="2" (
+    echo Invalid input. Please enter 1 or 2.
+    timeout /t 2 >nul
+    goto START
+)
+
+REM Set file location and protocol based on user input
+if errorlevel 2 (
+    set "file=%LOCALAPPDATA%\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt"
+    set "protocol=minecraft-preview://"
+) else (
+    set "file=%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftpe\options.txt"
+    set "protocol=minecraft://"
+)
+
+REM Update graphics_mode to ray tracing
 (for /f "tokens=1,* delims=:" %%A in ('type "%file%"') do (
     if /i "%%A"=="graphics_mode" (
         echo graphics_mode:3
@@ -10,11 +35,9 @@ REM Read options.txt and modify graphics_mode to ray tracing
     )
 )) > "%file%.tmp"
 
-REM Save changes
-move /y "%file%.tmp" "%file%"
+move /y "%file%.tmp" "%file%" >nul
 
-REM Delay for a few milliseconds just in case
-ping -n 2 127.0.0.1 >nul
+REM Launch Minecraft with the selected protocol
+start "" "%protocol%"
 
-REM Launch Minecraft
-start minecraft://
+exit
