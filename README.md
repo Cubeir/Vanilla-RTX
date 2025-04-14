@@ -1,7 +1,13 @@
 # Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only ⚠️
+⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only ⚠️  
+</br>
+[![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
+![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=3600) 
+![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=1800) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=Online&up_color=F4E9D3&down_message=Temporarily%20Down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website%20Status&cacheSeconds=90&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
+[![Ko-Fi](https://img.shields.io/badge/-Support%20my%20work%20on%20Ko--Fi-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555)](https://ko-fi.com/cubeir)
 
 ## Description
 
@@ -19,13 +25,6 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
-  
-[![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
-![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=3600) 
-![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=1800) 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=Online&up_color=F4E9D3&down_message=Temporarily%20Down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website%20Status&cacheSeconds=90&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
-[![Ko-Fi](https://img.shields.io/badge/-Support%20my%20work%20on%20Ko--Fi-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555)](https://ko-fi.com/cubeir)
-
 
 ## Images
 ![vanilla-rtx_spring-to-life-primary-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/174c32e5-d1db-4d27-b283-1e0320e4284c)
