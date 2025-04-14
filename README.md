@@ -1,4 +1,5 @@
-Vanilla RTX Resource Pack for Minecraft with RTX.
+# Vanilla-RTX
+Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only ⚠️
 
