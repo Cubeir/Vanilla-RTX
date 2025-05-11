@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_flower_forest"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#20A3CC"
+        "surface_color": "#009CCC"
       }
     }
   }

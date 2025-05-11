@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_redwood_taiga_mutated"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#44AFF5"
+        "surface_color": "#00A4FF"
       }
     }
   }

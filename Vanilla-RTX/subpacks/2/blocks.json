@@ -55,25 +55,6 @@
     "frog_spawn": {
         "carried_textures": "frog_spawn_carried"
     },
-    "dried_kelp_block": {
-        "carried_textures": {
-            "down": "dried_kelp_block_bottom_carried",
-            "east": "dried_kelp_block_side_a",
-            "north": "dried_kelp_block_side_b",
-            "south": "dried_kelp_block_side_a",
-            "up": "dried_kelp_block_top_carried",
-            "west": "dried_kelp_block_side_b"
-        },
-        "textures": {
-            "down": "dried_kelp_block_bottom",
-            "east": "dried_kelp_block_side_b",
-            "north": "dried_kelp_block_side_a",
-            "south": "dried_kelp_block_side_b",
-            "up": "dried_kelp_block_top",
-            "west": "dried_kelp_block_side_a"
-        },
-        "blockshape": "block"
-    },
     "chiseled_bookshelf": {
         "carried_textures": {
             "down": "chiseled_bookshelf_top",

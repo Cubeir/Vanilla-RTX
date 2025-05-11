@@ -40,50 +40,49 @@
       "density": {
         "air": {
           "max_density": 0.0,
-          "max_density_height": 60,
-          "zero_density_height": 320
+          "max_density_height": 52,
+          "zero_density_height": 276
         },
         "weather": {
           "max_density": 0.0,
-          "max_density_height": 62,
-          "zero_density_height": 320
+          "uniform": true
         }
       },
       "media_coefficients": {
         "air": {
           "scattering": [
-            0.034,
-            0.034,
-            0.034
+            0.0046,
+            0.004,
+            0.0059
           ],
           "absorption": [
-            0.019,
-            0.019,
-            0.019
+            0.06946,
+            0.07708,
+            0.07548
           ]
         },
         "water": {
           "scattering": [
-            0.0012,
-            0.002,
-            0.003
+            0.000225,
+            0.007,
+            0.012
           ],
           "absorption": [
-            0.14,
-            0.1,
-            0.08
+            0.495812,
+            0.288728,
+            0.195208
           ]
         },
         "cloud": {
           "scattering": [
-            0.045,
-            0.045,
-            0.045
+            0.1,
+            0.1,
+            0.1
           ],
           "absorption": [
-            0.045,
-            0.045,
-            0.045
+            0.1,
+            0.1,
+            0.1
           ]
         }
       }

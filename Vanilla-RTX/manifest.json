@@ -4,7 +4,7 @@
         "name": "pack.name",
         "description": "pack.description",
         "uuid": "a5c3cc7d-1740-4b5e-ae2c-71bc14b3f63b",
-        "version": [1, 21, 110],
+        "version": [1, 21, 120],
         "min_engine_version": [ 1, 21, 70 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "vanilla_rtx",
             "type": "resources",
             "uuid": "af805084-fafa-4124-9ae2-00be4bc202dc",
-            "version": [1, 21, 110]
+            "version": [1, 21, 120]
         }
     ],
     "subpacks": [
@@ -39,7 +39,7 @@
         },
         {
             "type": "label",
-            "text": "Default: §iStandard Vanilla RTX experience."
+            "text": "Default: §iStandard Minecraft with RTX experience."
         },
         {
             "type": "label",

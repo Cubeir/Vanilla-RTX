@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_river"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#0084FF"
+        "surface_color": "#0080FF"
       }
     }
   }
