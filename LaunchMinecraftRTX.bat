@@ -154,9 +154,8 @@ echo Ray tracing enabled for %version_name%.
 echo Launching %version_name%...
 start "" "%protocol%"
 echo.
-echo %version_name% launched. Press any key to return to menu...
-pause >nul
-exit /b
+echo %version_name% launched. Returning to menu...
+exit
 
 :TOGGLE_VSYNC
 
@@ -196,6 +195,5 @@ if exist "%mc_preview_file%" (
 )
 
 echo.
-echo VSync settings updated. Press any key to return to menu...
-pause >nul
+echo VSync settings updated. Returning to menu...
 exit /b
