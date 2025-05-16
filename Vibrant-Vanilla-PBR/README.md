@@ -1,7 +1,7 @@
 # Vanilla PBR for Vibrant Visuals
 
 An offshoot of Vanilla RTX that uses Minecraft's built-in Deferred Lighting Rendering Pipeline features in latest Minecraft Previews. Usable on a wide range of hardware.    
-⚠️ Bedrock Edition +1.21.80 Previews Only ⚠️
+⚠️ Bedrock Edition +1.21.90 Only ⚠️
 
 ![vanilla-pbr-deferred-lighting-shaders-for-minecraft-bedrock-edition-garden-awakens-update-cover](https://github.com/user-attachments/assets/3e634c2b-09f9-4009-82eb-14caf9609c0c)
 
