@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mushroom_island_shore"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_pbr:fog_mushroom_island_shore"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#818193"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "minecraft_pbr:mushroom_island_shore_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "minecraft_pbr:mushroom_island_shore_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "minecraft_pbr:mushroom_island_shore_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "minecraft_pbr:mushroom_island_shore_water"
+      }
+    }
+  }
+}

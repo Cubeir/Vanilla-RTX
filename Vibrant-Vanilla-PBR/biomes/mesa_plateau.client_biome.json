@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "mesa_plateau"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_pbr:fog_mesa_plateau"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#55809E"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "minecraft_pbr:mesa_plateau_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "minecraft_pbr:mesa_plateau_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "minecraft_pbr:mesa_plateau_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "minecraft_pbr:mesa_plateau_water"
+      }
+    }
+  }
+}

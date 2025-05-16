@@ -1,0 +1,98 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:color_grading_settings": {
+    "description": {
+      "identifier": "minecraft_pbr:sunflower_plains_color_grading"
+    },
+    "color_grading": {
+      "midtones": {
+        "contrast": [
+          1.22,
+          1.22,
+          1.22
+        ],
+        "gain": [
+          1.15,
+          1.12,
+          1.1
+        ],
+        "gamma": [
+          1.54,
+          1.54,
+          1.54
+        ],
+        "offset": [
+          -0.001,
+          -0.005,
+          -0.01
+        ],
+        "saturation": [
+          1.147,
+          1.147,
+          1.147
+        ]
+      },
+      "highlights": {
+        "enabled": true,
+        "highlightsMin": 1.4,
+        "contrast": [
+          1.2,
+          1.2,
+          1.2
+        ],
+        "gain": [
+          1.2,
+          1.15,
+          1.1
+        ],
+        "gamma": [
+          1.74,
+          1.74,
+          1.74
+        ],
+        "offset": [
+          0.02,
+          0.015,
+          0.01
+        ],
+        "saturation": [
+          1.1364,
+          1.1364,
+          1.1364
+        ]
+      },
+      "shadows": {
+        "enabled": true,
+        "shadowsMax": 0.5,
+        "contrast": [
+          1.18,
+          1.18,
+          1.18
+        ],
+        "gain": [
+          1.2,
+          1.15,
+          1.1
+        ],
+        "gamma": [
+          1.44,
+          1.44,
+          1.44
+        ],
+        "offset": [
+          0.002,
+          0.0015,
+          0.001
+        ],
+        "saturation": [
+          1.1223,
+          1.1223,
+          1.1223
+        ]
+      }
+    },
+    "tone_mapping": {
+      "operator": "hable"
+    }
+  }
+}

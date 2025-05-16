@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "hell"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_pbr:fog_hell"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#905957"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": "ambient.nether_wastes.additions",
+        "loop": "ambient.nether_wastes.loop",
+        "mood": "ambient.nether_wastes.mood"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "minecraft_pbr:hell_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "minecraft_pbr:hell_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "minecraft_pbr:hell_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "minecraft_pbr:hell_water"
+      }
+    }
+  }
+}

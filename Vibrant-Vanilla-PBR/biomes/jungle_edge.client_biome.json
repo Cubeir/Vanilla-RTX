@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "jungle_edge"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_pbr:fog_jungle_edge"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#0D8AE3"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "minecraft_pbr:jungle_edge_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "minecraft_pbr:jungle_edge_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "minecraft_pbr:jungle_edge_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "minecraft_pbr:jungle_edge_water"
+      }
+    }
+  }
+}

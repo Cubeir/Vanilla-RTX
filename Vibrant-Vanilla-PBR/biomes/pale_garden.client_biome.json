@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "pale_garden"
+    },
+    "components": {
+      "minecraft:sky_color": {
+        "sky_color": "#b9b9b9"
+      },
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_pbr:fog_pale_garden"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#0059BF"
+      },
+      "minecraft:biome_music": {
+        "volume_multiplier": 0
+      },
+      "minecraft:foliage_appearance": {
+        "color": "#878d76"
+      },
+      "minecraft:grass_appearance": {
+        "color": "#778272"
+      },
+      "minecraft:dry_foliage_color": {
+        "color": "#A0A69C"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "minecraft_pbr:pale_garden_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "minecraft_pbr:pale_garden_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "minecraft_pbr:pale_garden_lighting"
+      },
+      "minecraft:water_identifier": {
+        "water_identifier": "minecraft_pbr:pale_garden_water"
+      }
+    }
+  }
+}

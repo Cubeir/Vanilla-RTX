@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Vibrant Vanilla PBR",
+        "description": "Enhanced assets and configurations for Vibrant Visuals graphics mode.\nVersion 3.0",
+        "uuid": "ea110667-b53f-4fb4-bf08-78f6e92d5a3a",
+        "version": [ 3, 0, 0 ],
+        "min_engine_version": [ 1, 21, 80 ]
+    },
+    "modules": [
+        {
+            "description": "vanilla_pbr",
+            "type": "resources",
+            "uuid": "e1d34297-2552-4c12-9049-f92e59d11b66",
+            "version": [ 3, 0, 0 ]
+        }
+    ],
+    "capabilities": [ "pbr" ]
+}
