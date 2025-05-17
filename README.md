@@ -52,7 +52,7 @@ For an updated list of features [view this page](https://minecraftrtx.net/enhanc
 
 - The shortcut for toggling ray tracing while inside of a world is the semicolon key (;) on your keyboard, however it is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few glitches, such as jumbled player geometry or black entity textures.
 
-- To ensure subpack changes are saved, you may need to apply the settings multiple times.
+- To ensure subpack changes are saved, you may need to apply the setting multiple times.
 
 - Education Edition resources will only load if the pack is loaded in world settings.
 
