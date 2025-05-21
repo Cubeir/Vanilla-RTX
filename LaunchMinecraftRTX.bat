@@ -114,7 +114,7 @@ if "%mc_vsync%"=="enabled" (
 exit /b
 
 :ENABLE_RTX
-REM MC launch protocol based on input
+REM MC launch protocols
 if "%~1"=="preview" (
     set "file=%mc_preview_file%"
     set "protocol=minecraft-preview://"
@@ -135,15 +135,17 @@ if not exist "!file!" (
     exit /b
 )
 
-REM read-only attribute
+REM Read-only attribute
 attrib -r "!file!" >nul 2>&1
 
-REM Updates graphics_mode
+REM Update graphics_mode & enable graphics_mode_switch
 echo.
 echo Enabling ray tracing for %version_name%...
 (for /f "tokens=1,* delims=:" %%A in ('type "!file!"') do (
     if /i "%%A"=="graphics_mode" (
         echo graphics_mode:3
+    ) else if /i "%%A"=="graphics_mode_switch" (
+        echo graphics_mode_switch:1
     ) else (
         echo %%A:%%B
     )
@@ -154,12 +156,12 @@ echo Ray tracing enabled for %version_name%.
 echo Launching %version_name%...
 start "" "%protocol%"
 echo.
-echo %version_name% launched. Returning to menu...
-exit
+echo %version_name% launched. Press any key to return to menu...
+exit /b
 
 :TOGGLE_VSYNC
 
-REM Disable VSync for both versions if they exist
+REM Disable VSync for both versions
 if exist "%mc_file%" (
     echo.
     echo Disabling VSync for Minecraft...
