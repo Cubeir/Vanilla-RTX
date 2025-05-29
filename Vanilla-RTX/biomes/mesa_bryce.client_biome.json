@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_mesa_bryce"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#497F99"
+        "surface_color": "#3A7B9A"
       },
       "minecraft:foliage_appearance": {
         "color": "#aea42a"

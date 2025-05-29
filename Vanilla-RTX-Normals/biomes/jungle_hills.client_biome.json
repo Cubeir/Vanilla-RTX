@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_jungle_hills"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#1B9ED8"
+        "surface_color": "#0090CE"
       }
     }
   }

@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_mesa_plateau_stone"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#55809E"
+        "surface_color": "#45799C"
       },
       "minecraft:foliage_appearance": {
         "color": "#aea42a"

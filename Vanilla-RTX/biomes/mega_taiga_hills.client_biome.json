@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_mega_taiga_hills"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#286378"
+        "surface_color": "#276B82"
       }
     }
   }

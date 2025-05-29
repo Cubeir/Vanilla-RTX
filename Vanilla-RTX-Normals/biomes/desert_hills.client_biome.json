@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_desert_hills"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#1a7aa1"
+        "surface_color": "#0079A5"
       }
     }
   }

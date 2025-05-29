@@ -4,7 +4,7 @@
         "name": "pack.name",
         "description": "pack.description",
         "uuid": "a5c3cc7d-1740-4b5e-ae2c-71bc14b3f63b",
-        "version": [1, 21, 120],
+        "version": [1, 21, 130],
         "min_engine_version": [ 1, 21, 70 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "vanilla_rtx",
             "type": "resources",
             "uuid": "af805084-fafa-4124-9ae2-00be4bc202dc",
-            "version": [1, 21, 120]
+            "version": [1, 21, 130]
         }
     ],
     "subpacks": [
@@ -39,7 +39,7 @@
         },
         {
             "type": "label",
-            "text": "Default: §iStandard Minecraft with RTX experience."
+            "text": "Default: §iStandard Vanilla RTX experience."
         },
         {
             "type": "label",
@@ -47,13 +47,13 @@
         },
         {
             "type": "label",
-            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing compatibility. Keep an eye out on release notes to see what's new!"
+            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing compatibility. Keep an eye out on the release notes to see what's new!"
         }
     ],
     "capabilities": [ "raytraced" ],
     "metadata": {
         "authors": [ "Cubeir" ],
         "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
-        "url": "https://minecraftrtx.net"
+        "url": "https://mcpedl.com/vanilla-rtx"
     }
 }
