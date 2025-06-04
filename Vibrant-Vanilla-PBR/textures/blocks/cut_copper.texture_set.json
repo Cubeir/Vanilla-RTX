@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cut_copper",
-    "metalness_emissive_roughness": "cut_copper_mer",
-    "heightmap": "cut_copper_heightmap"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "crafter_south",
-    "metalness_emissive_roughness": "crafter_south_mer",
-    "heightmap": "crafter_south_heightmap"
-  }
-}

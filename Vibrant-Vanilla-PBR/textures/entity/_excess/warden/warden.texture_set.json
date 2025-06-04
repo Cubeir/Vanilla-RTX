@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "warden",
-    "metalness_emissive_roughness": "warden_mer",
-    "heightmap": "warden_heightmap"
-  }
-}

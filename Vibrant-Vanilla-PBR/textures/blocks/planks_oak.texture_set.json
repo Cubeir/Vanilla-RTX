@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "planks_oak",
-    "metalness_emissive_roughness": "planks_oak_mer",
-    "heightmap": "planks_oak_heightmap"
-  }
-}

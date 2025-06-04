@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "mangrove_chest_boat",
-    "metalness_emissive_roughness": "mangrove_chest_boat_mer"
-  }
-}

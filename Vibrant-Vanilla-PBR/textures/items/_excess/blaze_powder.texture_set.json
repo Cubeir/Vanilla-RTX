@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "blaze_powder",
-    "metalness_emissive_roughness": "blaze_powder_mer"
-  }
-}

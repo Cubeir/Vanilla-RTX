@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "glowstone_dust",
-    "metalness_emissive_roughness": "glowstone_dust_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cartography_table_top",
-    "metalness_emissive_roughness": "cartography_table_top_mer",
-    "heightmap": "cartography_table_top_heightmap"
-  }
-}

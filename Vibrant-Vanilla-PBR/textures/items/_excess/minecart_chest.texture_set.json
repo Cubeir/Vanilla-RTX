@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "minecart_chest",
-    "metalness_emissive_roughness": "minecart_chest_mer"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cherry_sign",
-    "metalness_emissive_roughness": "cherry_sign_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "zombie-villager",
-    "metalness_emissive_roughness": "zombie-villager_mer",
-    "heightmap": "zombie-villager_heightmap"
-  }
-}

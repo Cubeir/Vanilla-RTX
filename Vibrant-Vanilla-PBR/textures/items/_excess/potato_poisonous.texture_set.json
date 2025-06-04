@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "potato_poisonous",
-    "metalness_emissive_roughness": "potato_poisonous_mer"
-  }
-}

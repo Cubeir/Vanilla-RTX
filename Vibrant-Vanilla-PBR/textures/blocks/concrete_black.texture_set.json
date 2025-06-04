@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "concrete_black",
-    "metalness_emissive_roughness": "concrete_black_mer",
-    "heightmap": "concrete_black_heightmap"
-  }
-}

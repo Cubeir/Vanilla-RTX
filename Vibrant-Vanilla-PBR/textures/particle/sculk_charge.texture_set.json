@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sculk_charge",
-    "metalness_emissive_roughness": "sculk_charge_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "beacon_beam",
-    "metalness_emissive_roughness": "beacon_beam_mer",
-    "heightmap": "beacon_beam_heightmap"
-  }
-}

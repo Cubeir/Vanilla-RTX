@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cookie",
-    "metalness_emissive_roughness": "cookie_mer"
-  }
-}

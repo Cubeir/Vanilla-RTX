@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sculk_sensor_side",
-    "metalness_emissive_roughness": "sculk_sensor_side_mer",
-    "heightmap": "sculk_sensor_side_heightmap"
-  }
-}

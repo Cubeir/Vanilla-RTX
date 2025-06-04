@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "gold_horse_armor",
-    "metalness_emissive_roughness": "gold_horse_armor_mer"
-  }
-}

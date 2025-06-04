@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "beef_cooked",
-    "metalness_emissive_roughness": "beef_cooked_mer"
-  }
-}

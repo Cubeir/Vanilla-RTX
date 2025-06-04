@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "pitcher_pod",
-    "metalness_emissive_roughness": "pitcher_pod_mer"
-  }
-}

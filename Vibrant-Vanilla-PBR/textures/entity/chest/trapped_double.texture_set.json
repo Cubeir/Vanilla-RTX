@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "trapped_double",
-    "metalness_emissive_roughness": "trapped_double_mer",
-    "heightmap": "trapped_double_heightmap"
-  }
-}

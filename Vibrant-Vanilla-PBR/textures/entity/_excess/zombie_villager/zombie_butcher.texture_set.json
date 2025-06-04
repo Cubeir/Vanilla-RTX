@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "zombie_butcher",
-    "metalness_emissive_roughness": "zombie_butcher_mer",
-    "heightmap": "zombie_butcher_heightmap"
-  }
-}

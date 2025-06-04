@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sculk_catalyst_side_bloom",
-    "metalness_emissive_roughness": "sculk_catalyst_side_bloom_mer",
-    "heightmap": "sculk_catalyst_side_bloom_heightmap"
-  }
-}

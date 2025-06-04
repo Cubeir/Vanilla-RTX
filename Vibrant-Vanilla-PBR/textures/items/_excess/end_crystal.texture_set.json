@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "end_crystal",
-    "metalness_emissive_roughness": "end_crystal_mer"
-  }
-}

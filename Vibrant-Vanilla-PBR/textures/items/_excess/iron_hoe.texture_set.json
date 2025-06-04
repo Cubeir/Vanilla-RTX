@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "iron_hoe",
-    "metalness_emissive_roughness": "iron_hoe_mer"
-  }
-}

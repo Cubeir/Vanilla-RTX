@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "vex_charging",
-    "metalness_emissive_roughness": "vex_charging_mer",
-    "heightmap": "vex_charging_heightmap"
-  }
-}

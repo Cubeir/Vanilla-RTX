@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "snow",
-    "metalness_emissive_roughness": "snow_mer",
-    "heightmap": "snow_heightmap"
-  }
-}

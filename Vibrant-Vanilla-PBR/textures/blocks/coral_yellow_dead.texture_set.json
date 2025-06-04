@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "coral_yellow_dead",
-    "heightmap": "coral_yellow_dead_heightmap",
-    "metalness_emissive_roughness_subsurface": "coral_yellow_dead_mer"
-  }
-}

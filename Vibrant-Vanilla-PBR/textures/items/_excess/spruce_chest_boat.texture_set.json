@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "spruce_chest_boat",
-    "metalness_emissive_roughness": "spruce_chest_boat_mer"
-  }
-}

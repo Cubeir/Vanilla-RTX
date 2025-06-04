@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "creeper_armor",
-    "metalness_emissive_roughness": "creeper_armor_mer",
-    "heightmap": "creeper_armor_heightmap"
-  }
-}

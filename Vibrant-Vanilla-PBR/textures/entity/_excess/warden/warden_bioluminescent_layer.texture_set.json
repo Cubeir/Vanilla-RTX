@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "warden_bioluminescent_layer",
-    "metalness_emissive_roughness": "warden_bioluminescent_layer_mer",
-    "heightmap": "warden_bioluminescent_layer_heightmap"
-  }
-}

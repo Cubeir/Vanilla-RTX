@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sign_warped",
-    "metalness_emissive_roughness": "sign_warped_mer"
-  }
-}

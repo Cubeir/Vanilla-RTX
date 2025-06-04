@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "seagrass",
-    "heightmap": "seagrass_heightmap",
-    "metalness_emissive_roughness_subsurface": "seagrass_mer"
-  }
-}

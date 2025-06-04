@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "dark_oak_hanging_sign",
-    "metalness_emissive_roughness": "dark_oak_hanging_sign_mer"
-  }
-}

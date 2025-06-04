@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "squid",
-    "metalness_emissive_roughness": "squid_mer",
-    "heightmap": "squid_heightmap"
-  }
-}

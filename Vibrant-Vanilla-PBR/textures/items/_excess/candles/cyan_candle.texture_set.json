@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cyan_candle",
-    "metalness_emissive_roughness": "cyan_candle_mer"
-  }
-}

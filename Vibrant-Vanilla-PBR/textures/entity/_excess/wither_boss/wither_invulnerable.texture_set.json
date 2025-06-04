@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "wither_invulnerable",
-    "metalness_emissive_roughness": "wither_invulnerable_mer",
-    "heightmap": "wither_invulnerable_heightmap"
-  }
-}

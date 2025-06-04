@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "carrot_golden",
-    "metalness_emissive_roughness": "carrot_golden_mer"
-  }
-}

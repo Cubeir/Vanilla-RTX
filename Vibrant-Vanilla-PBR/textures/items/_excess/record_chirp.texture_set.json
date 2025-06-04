@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "record_chirp",
-    "metalness_emissive_roughness": "record_chirp_mer"
-  }
-}

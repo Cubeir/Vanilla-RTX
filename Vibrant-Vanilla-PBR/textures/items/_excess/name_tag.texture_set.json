@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "name_tag",
-    "metalness_emissive_roughness": "name_tag_mer"
-  }
-}

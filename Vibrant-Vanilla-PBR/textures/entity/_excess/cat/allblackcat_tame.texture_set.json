@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "allblackcat_tame",
-    "metalness_emissive_roughness": "allblackcat_tame_mer",
-    "heightmap": "allblackcat_tame_heightmap"
-  }
-}

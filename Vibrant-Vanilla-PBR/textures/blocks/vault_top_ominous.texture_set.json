@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "vault_top_ominous",
-    "metalness_emissive_roughness": "vault_top_ominous_mer",
-    "heightmap": "vault_top_ominous_heightmap"
-  }
-}

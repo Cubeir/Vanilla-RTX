@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "diamond_pickaxe",
-    "metalness_emissive_roughness": "diamond_pickaxe_mer"
-  }
-}

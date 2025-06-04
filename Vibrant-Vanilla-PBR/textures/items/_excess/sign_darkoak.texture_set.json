@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sign_darkoak",
-    "metalness_emissive_roughness": "sign_darkoak_mer"
-  }
-}

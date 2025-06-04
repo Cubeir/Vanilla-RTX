@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "guardian",
-    "metalness_emissive_roughness": "guardian_mer",
-    "heightmap": "guardian_heightmap"
-  }
-}

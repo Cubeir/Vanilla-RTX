@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "axolotl_blue",
-    "metalness_emissive_roughness": "axolotl_blue_mer",
-    "heightmap": "axolotl_blue_heightmap"
-  }
-}

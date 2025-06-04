@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "lectern_front",
-    "metalness_emissive_roughness": "lectern_front_mer",
-    "heightmap": "lectern_front_heightmap"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "torchflower",
-    "heightmap": "torchflower_heightmap",
-    "metalness_emissive_roughness_subsurface": "torchflower_mer"
-  }
-}

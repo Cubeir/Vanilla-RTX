@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "wood_shovel",
-    "metalness_emissive_roughness": "wood_shovel_mer"
-  }
-}

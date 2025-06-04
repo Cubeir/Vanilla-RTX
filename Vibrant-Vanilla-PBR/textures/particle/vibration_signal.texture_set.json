@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "vibration_signal",
-    "metalness_emissive_roughness": "vibration_signal_mer"
-  }
-}

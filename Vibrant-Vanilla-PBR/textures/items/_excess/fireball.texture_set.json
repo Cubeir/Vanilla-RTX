@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "fireball",
-    "metalness_emissive_roughness": "fireball_mer"
-  }
-}

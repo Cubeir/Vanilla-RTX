@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "vindicator",
-    "metalness_emissive_roughness": "vindicator_mer",
-    "heightmap": "vindicator_heightmap"
-  }
-}

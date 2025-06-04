@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "turtle_helmet",
-    "metalness_emissive_roughness": "turtle_helmet_mer"
-  }
-}

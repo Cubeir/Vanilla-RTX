@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "rotten_flesh",
-    "metalness_emissive_roughness": "rotten_flesh_mer"
-  }
-}

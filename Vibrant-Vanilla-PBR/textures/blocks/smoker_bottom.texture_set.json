@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "smoker_bottom",
-    "metalness_emissive_roughness": "smoker_bottom_mer",
-    "heightmap": "smoker_bottom_heightmap"
-  }
-}

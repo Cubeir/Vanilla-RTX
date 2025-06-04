@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "portal",
-    "metalness_emissive_roughness": "portal_mer"
-  }
-}

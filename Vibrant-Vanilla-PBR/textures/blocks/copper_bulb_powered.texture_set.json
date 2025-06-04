@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "copper_bulb_powered",
-    "metalness_emissive_roughness": "copper_bulb_powered_mer",
-    "heightmap": "copper_bulb_powered_heightmap"
-  }
-}

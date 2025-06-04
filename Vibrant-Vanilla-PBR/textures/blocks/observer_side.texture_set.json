@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "observer_side",
-    "metalness_emissive_roughness": "observer_side_mer",
-    "heightmap": "observer_side_heightmap"
-  }
-}

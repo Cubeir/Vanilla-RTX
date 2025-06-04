@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "watch_atlas",
-    "metalness_emissive_roughness": "watch_atlas_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "straight_cross",
-    "metalness_emissive_roughness": "straight_cross_mer",
-    "heightmap": "straight_cross_heightmap"
-  }
-}

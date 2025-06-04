@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "mangrove_roots_top",
-    "heightmap": "mangrove_roots_top_heightmap",
-    "metalness_emissive_roughness_subsurface": "mangrove_roots_top_mer"
-  }
-}

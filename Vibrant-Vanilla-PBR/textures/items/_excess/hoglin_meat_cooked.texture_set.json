@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "hoglin_meat_cooked",
-    "metalness_emissive_roughness": "hoglin_meat_cooked_mer"
-  }
-}

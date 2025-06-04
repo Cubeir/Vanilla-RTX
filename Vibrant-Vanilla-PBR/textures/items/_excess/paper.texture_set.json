@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "paper",
-    "metalness_emissive_roughness": "paper_mer"
-  }
-}

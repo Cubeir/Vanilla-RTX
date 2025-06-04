@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "clock_item",
-    "metalness_emissive_roughness": "clock_item_mer"
-  }
-}

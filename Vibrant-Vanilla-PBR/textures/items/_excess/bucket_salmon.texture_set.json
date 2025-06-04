@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "bucket_salmon",
-    "metalness_emissive_roughness": "bucket_salmon_mer"
-  }
-}

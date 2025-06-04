@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "lodestonecompass_item",
-    "metalness_emissive_roughness": "lodestonecompass_item_mer"
-  }
-}

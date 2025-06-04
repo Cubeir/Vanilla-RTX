@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "map_filled",
-    "metalness_emissive_roughness": "map_filled_mer"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "light_block_14",
-    "metalness_emissive_roughness": "light_block_14_mer"
-  }
-}

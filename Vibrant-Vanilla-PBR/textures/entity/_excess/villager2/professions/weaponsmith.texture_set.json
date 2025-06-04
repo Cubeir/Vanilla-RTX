@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "weaponsmith",
-    "metalness_emissive_roughness": "weaponsmith_mer",
-    "heightmap": "weaponsmith_heightmap"
-  }
-}

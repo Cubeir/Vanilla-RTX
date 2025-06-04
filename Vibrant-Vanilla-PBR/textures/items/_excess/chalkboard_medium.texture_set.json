@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "chalkboard_medium",
-    "metalness_emissive_roughness": "chalkboard_medium_mer"
-  }
-}

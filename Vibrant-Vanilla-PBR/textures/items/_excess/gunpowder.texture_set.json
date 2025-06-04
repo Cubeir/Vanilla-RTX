@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "gunpowder",
-    "metalness_emissive_roughness": "gunpowder_mer"
-  }
-}

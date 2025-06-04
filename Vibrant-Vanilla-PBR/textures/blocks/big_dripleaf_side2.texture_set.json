@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "big_dripleaf_side2",
-    "heightmap": "big_dripleaf_side2_heightmap",
-    "metalness_emissive_roughness_subsurface": "big_dripleaf_side2_mer"
-  }
-}

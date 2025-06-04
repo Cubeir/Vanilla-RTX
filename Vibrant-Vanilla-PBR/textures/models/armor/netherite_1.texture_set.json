@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "netherite_1",
-    "metalness_emissive_roughness": "netherite_1_mer",
-    "heightmap": "netherite_1_heightmap"
-  }
-}

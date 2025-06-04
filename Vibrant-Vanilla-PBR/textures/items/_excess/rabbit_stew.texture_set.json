@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "rabbit_stew",
-    "metalness_emissive_roughness": "rabbit_stew_mer"
-  }
-}

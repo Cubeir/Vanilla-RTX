@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "crossbow_firework",
-    "metalness_emissive_roughness": "crossbow_firework_mer"
-  }
-}

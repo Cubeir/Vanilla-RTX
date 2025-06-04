@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "camera_tripod",
-    "metalness_emissive_roughness": "camera_tripod_mer",
-    "heightmap": "camera_tripod_heightmap"
-  }
-}

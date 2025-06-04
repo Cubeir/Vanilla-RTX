@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "music_disc_creator_music_box",
-    "metalness_emissive_roughness": "music_disc_creator_music_box_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "villager",
-    "metalness_emissive_roughness": "villager_mer",
-    "heightmap": "villager_heightmap"
-  }
-}

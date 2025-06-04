@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "redstone_dust_line",
-    "metalness_emissive_roughness": "redstone_dust_line_mer",
-    "heightmap": "redstone_dust_line_heightmap"
-  }
-}

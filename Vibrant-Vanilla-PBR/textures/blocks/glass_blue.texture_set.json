@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "glass_blue",
-    "heightmap": "glass_blue_heightmap",
-    "metalness_emissive_roughness_subsurface": "glass_blue_mer"
-  }
-}

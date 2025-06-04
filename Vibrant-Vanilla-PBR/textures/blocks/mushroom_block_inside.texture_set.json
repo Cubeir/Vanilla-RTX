@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "mushroom_block_inside",
-    "metalness_emissive_roughness": "mushroom_block_inside_mer",
-    "heightmap": "mushroom_block_inside_heightmap"
-  }
-}

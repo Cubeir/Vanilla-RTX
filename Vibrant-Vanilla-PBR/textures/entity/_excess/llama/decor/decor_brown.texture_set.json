@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "decor_brown",
-    "metalness_emissive_roughness": "decor_brown_mer",
-    "heightmap": "decor_brown_heightmap"
-  }
-}

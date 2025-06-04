@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "flower_cornflower",
-    "heightmap": "flower_cornflower_heightmap",
-    "metalness_emissive_roughness_subsurface": "flower_cornflower_mer"
-  }
-}

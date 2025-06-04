@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "white_tame",
-    "metalness_emissive_roughness": "white_tame_mer",
-    "heightmap": "white_tame_heightmap"
-  }
-}

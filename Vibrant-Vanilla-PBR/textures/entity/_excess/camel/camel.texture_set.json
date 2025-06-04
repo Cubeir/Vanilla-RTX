@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "camel",
-    "metalness_emissive_roughness": "camel_mer",
-    "heightmap": "camel_heightmap"
-  }
-}

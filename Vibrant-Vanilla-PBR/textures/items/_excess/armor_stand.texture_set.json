@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "armor_stand",
-    "metalness_emissive_roughness": "armor_stand_mer"
-  }
-}

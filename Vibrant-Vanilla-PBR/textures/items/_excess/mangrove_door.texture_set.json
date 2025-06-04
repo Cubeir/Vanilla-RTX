@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "mangrove_door",
-    "metalness_emissive_roughness": "mangrove_door_mer"
-  }
-}

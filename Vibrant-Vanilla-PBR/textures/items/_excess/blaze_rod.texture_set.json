@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "blaze_rod",
-    "metalness_emissive_roughness": "blaze_rod_mer"
-  }
-}

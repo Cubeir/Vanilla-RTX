@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "netherite_ingot",
-    "metalness_emissive_roughness": "netherite_ingot_mer"
-  }
-}

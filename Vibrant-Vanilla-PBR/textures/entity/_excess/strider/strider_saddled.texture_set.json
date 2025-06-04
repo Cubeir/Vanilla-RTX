@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "strider_saddled",
-    "metalness_emissive_roughness": "strider_saddled_mer",
-    "heightmap": "strider_saddled_heightmap"
-  }
-}

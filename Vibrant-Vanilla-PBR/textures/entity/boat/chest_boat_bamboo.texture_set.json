@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "chest_boat_bamboo",
-    "heightmap": "chest_boat_bamboo_heightmap",
-    "metalness_emissive_roughness_subsurface": "chest_boat_bamboo_mer"
-  }
-}

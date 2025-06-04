@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "crafter_top_triggered",
-    "metalness_emissive_roughness": "crafter_top_triggered_mer",
-    "heightmap": "crafter_top_triggered_heightmap"
-  }
-}

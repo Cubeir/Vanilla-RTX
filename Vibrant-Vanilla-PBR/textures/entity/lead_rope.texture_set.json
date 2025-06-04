@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "lead_rope",
-    "metalness_emissive_roughness": "lead_rope_mer",
-    "heightmap": "lead_rope_heightmap"
-  }
-}

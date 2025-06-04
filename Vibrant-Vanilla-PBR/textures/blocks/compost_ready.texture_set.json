@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "compost_ready",
-    "metalness_emissive_roughness": "compost_ready_mer",
-    "heightmap": "compost_ready_heightmap"
-  }
-}

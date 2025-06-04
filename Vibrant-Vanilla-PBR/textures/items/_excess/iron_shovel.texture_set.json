@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "iron_shovel",
-    "metalness_emissive_roughness": "iron_shovel_mer"
-  }
-}

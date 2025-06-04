@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "feather",
-    "metalness_emissive_roughness": "feather_mer"
-  }
-}

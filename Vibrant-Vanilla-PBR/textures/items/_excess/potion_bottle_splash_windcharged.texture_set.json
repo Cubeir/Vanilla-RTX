@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "potion_bottle_splash_windCharged",
-    "metalness_emissive_roughness": "potion_bottle_splash_windcharged_mer"
-  }
-}

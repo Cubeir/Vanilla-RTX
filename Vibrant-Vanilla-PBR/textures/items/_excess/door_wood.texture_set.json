@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "door_wood",
-    "metalness_emissive_roughness": "door_wood_mer"
-  }
-}

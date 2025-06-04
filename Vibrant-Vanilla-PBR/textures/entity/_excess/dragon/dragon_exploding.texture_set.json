@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "dragon_exploding",
-    "metalness_emissive_roughness": "dragon_exploding_mer",
-    "heightmap": "dragon_exploding_heightmap"
-  }
-}

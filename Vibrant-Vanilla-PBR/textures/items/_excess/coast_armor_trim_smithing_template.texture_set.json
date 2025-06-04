@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "coast_armor_trim_smithing_template",
-    "metalness_emissive_roughness": "coast_armor_trim_smithing_template_mer"
-  }
-}

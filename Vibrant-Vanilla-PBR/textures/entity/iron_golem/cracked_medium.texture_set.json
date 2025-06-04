@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cracked_medium",
-    "metalness_emissive_roughness": "cracked_medium_mer",
-    "heightmap": "cracked_medium_heightmap"
-  }
-}

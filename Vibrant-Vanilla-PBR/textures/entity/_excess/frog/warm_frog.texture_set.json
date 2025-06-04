@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "warm_frog",
-    "metalness_emissive_roughness": "warm_frog_mer",
-    "heightmap": "warm_frog_heightmap"
-  }
-}

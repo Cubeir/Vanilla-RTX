@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "compass_atlas",
-    "metalness_emissive_roughness": "compass_atlas_mer"
-  }
-}

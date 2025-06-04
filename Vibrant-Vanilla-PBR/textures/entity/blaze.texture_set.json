@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "blaze",
-    "metalness_emissive_roughness": "blaze_mer",
-    "heightmap": "blaze_heightmap"
-  }
-}

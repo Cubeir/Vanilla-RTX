@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "panda_playful",
-    "metalness_emissive_roughness": "panda_playful_mer",
-    "heightmap": "panda_playful_heightmap"
-  }
-}

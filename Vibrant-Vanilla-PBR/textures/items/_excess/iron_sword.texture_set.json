@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "iron_sword",
-    "metalness_emissive_roughness": "iron_sword_mer"
-  }
-}

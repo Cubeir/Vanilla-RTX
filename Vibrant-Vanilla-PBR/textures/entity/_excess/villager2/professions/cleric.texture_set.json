@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cleric",
-    "metalness_emissive_roughness": "cleric_mer",
-    "heightmap": "cleric_heightmap"
-  }
-}

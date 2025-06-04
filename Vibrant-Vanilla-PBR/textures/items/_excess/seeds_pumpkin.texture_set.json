@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "seeds_pumpkin",
-    "metalness_emissive_roughness": "seeds_pumpkin_mer"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "fish_pufferfish_raw",
-    "metalness_emissive_roughness": "fish_pufferfish_raw_mer"
-  }
-}

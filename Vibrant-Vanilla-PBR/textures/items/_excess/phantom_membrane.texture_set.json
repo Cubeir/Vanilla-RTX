@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "phantom_membrane",
-    "metalness_emissive_roughness": "phantom_membrane_mer"
-  }
-}

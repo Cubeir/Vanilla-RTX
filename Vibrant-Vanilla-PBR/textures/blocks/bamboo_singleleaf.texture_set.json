@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "bamboo_singleleaf",
-    "heightmap": "bamboo_singleleaf_heightmap",
-    "metalness_emissive_roughness_subsurface": "bamboo_singleleaf_mer"
-  }
-}

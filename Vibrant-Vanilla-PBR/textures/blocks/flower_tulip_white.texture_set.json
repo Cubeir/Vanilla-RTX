@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "flower_tulip_white",
-    "heightmap": "flower_tulip_white_heightmap",
-    "metalness_emissive_roughness_subsurface": "flower_tulip_white_mer"
-  }
-}

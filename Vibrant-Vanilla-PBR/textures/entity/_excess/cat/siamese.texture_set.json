@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "siamese",
-    "metalness_emissive_roughness": "siamese_mer",
-    "heightmap": "siamese_heightmap"
-  }
-}

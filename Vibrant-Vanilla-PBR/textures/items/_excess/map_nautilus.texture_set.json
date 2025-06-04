@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "map_nautilus",
-    "metalness_emissive_roughness": "map_nautilus_mer"
-  }
-}

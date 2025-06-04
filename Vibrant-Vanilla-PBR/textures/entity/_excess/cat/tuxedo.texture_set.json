@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "tuxedo",
-    "metalness_emissive_roughness": "tuxedo_mer",
-    "heightmap": "tuxedo_heightmap"
-  }
-}

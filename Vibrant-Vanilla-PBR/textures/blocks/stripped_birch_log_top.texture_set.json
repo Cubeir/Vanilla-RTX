@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "stripped_birch_log_top",
-    "metalness_emissive_roughness": "stripped_birch_log_top_mer",
-    "heightmap": "stripped_birch_log_top_heightmap"
-  }
-}

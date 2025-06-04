@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "bed_gray",
-    "metalness_emissive_roughness": "bed_gray_mer"
-  }
-}

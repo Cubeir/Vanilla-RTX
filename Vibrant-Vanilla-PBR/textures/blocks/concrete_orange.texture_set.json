@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "concrete_orange",
-    "metalness_emissive_roughness": "concrete_orange_mer",
-    "heightmap": "concrete_orange_heightmap"
-  }
-}

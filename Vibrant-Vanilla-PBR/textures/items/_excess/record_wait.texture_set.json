@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "record_wait",
-    "metalness_emissive_roughness": "record_wait_mer"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "shulker_shell",
-    "metalness_emissive_roughness": "shulker_shell_mer"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "shulker_blue",
-    "metalness_emissive_roughness": "shulker_blue_mer",
-    "heightmap": "shulker_blue_heightmap"
-  }
-}

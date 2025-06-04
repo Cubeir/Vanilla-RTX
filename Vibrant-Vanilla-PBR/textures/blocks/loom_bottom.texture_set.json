@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "loom_bottom",
-    "metalness_emissive_roughness": "loom_bottom_mer",
-    "heightmap": "loom_bottom_heightmap"
-  }
-}

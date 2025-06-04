@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "cloth_2",
-    "metalness_emissive_roughness": "cloth_2_mer",
-    "heightmap": "cloth_2_heightmap"
-  }
-}

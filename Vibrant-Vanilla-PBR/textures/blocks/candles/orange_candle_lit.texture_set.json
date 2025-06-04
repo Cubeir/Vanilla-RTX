@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "orange_candle_lit",
-    "metalness_emissive_roughness": "orange_candle_lit_mer",
-    "heightmap": "orange_candle_lit_heightmap"
-  }
-}

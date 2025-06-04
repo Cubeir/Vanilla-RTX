@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "zombie_priest",
-    "metalness_emissive_roughness": "zombie_priest_mer",
-    "heightmap": "zombie_priest_heightmap"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "spider_eye_fermented",
-    "metalness_emissive_roughness": "spider_eye_fermented_mer"
-  }
-}

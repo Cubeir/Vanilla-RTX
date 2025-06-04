@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "zombie_librarian",
-    "metalness_emissive_roughness": "zombie_librarian_mer",
-    "heightmap": "zombie_librarian_heightmap"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sign_jungle",
-    "metalness_emissive_roughness": "sign_jungle_mer"
-  }
-}

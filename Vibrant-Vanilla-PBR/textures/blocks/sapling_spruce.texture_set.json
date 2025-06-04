@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "sapling_spruce",
-    "heightmap": "sapling_spruce_heightmap",
-    "metalness_emissive_roughness_subsurface": "sapling_spruce_mer"
-  }
-}

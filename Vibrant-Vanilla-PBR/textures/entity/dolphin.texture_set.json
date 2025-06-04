@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "dolphin",
-    "metalness_emissive_roughness": "dolphin_mer",
-    "heightmap": "dolphin_heightmap"
-  }
-}

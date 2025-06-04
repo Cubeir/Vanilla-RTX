@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "fishhook",
-    "metalness_emissive_roughness": "fishhook_mer",
-    "heightmap": "fishhook_heightmap"
-  }
-}

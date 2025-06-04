@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "boat_oak",
-    "metalness_emissive_roughness": "boat_oak_mer"
-  }
-}

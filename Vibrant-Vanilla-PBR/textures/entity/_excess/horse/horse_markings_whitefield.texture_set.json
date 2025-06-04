@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "horse_markings_whitefield",
-    "metalness_emissive_roughness": "horse_markings_whitefield_mer",
-    "heightmap": "horse_markings_whitefield_heightmap"
-  }
-}

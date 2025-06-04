@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "purpur_block",
-    "metalness_emissive_roughness": "purpur_block_mer",
-    "heightmap": "purpur_block_heightmap"
-  }
-}

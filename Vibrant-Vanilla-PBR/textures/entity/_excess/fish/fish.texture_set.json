@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "fish",
-    "metalness_emissive_roughness": "fish_mer",
-    "heightmap": "fish_heightmap"
-  }
-}

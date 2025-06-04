@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "enchanting_table_bottom",
-    "metalness_emissive_roughness": "enchanting_table_bottom_mer",
-    "heightmap": "enchanting_table_bottom_heightmap"
-  }
-}

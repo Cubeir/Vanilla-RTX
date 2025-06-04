@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "bucket_tropical",
-    "metalness_emissive_roughness": "bucket_tropical_mer"
-  }
-}

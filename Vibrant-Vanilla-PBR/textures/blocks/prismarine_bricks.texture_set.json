@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "prismarine_bricks",
-    "metalness_emissive_roughness": "prismarine_bricks_mer",
-    "heightmap": "prismarine_bricks_heightmap"
-  }
-}

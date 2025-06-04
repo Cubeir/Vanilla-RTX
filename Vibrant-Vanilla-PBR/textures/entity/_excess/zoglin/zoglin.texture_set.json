@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "zoglin",
-    "metalness_emissive_roughness": "zoglin_mer",
-    "heightmap": "zoglin_heightmap"
-  }
-}

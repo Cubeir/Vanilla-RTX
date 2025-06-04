@@ -1,7 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "bucket_water",
-    "metalness_emissive_roughness": "bucket_water_mer"
-  }
-}
