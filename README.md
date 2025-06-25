@@ -3,7 +3,7 @@ Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only.  
 ⚠️ Dedicated DXR-capable hardware required.  
-⚠️ **Important: To solve the issues with ray tracing in Minecarft 1.21.90, follow this [comment](https://github.com/Cubeir/Vanilla-RTX/issues/49#issuecomment-2994431940).** (Temporary)  
+⚠️ **Important: To solve the issues with ray tracing in Minecarft 1.21.90, [follow this guide](https://github.com/Cubeir/Vanilla-RTX/issues/49#issuecomment-2994431940).** (Temporary)  
 </br>
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
 ![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=3600) 
