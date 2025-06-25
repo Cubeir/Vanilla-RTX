@@ -23,7 +23,6 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - Official Child Projects:
   - **Vanilla RTX Opus:** Composition of both Vanilla RTX & Vanilla RTX Normals. (Coming along soon!)
   - **[Vibrant Vanilla PBR:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
-  - **[Vanilla RTX Pure:](https://mcpedl.com/vanilla-rtx-pure)** A derivation of Vanilla RTX without heightmaps or normal maps which to some players is a more faithful represenation of Vanilla RTX.
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
