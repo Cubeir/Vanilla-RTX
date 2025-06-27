@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "element_114_fl",
-    "metalness_emissive_roughness": "element_114_fl_mer",
-    "normal": "element_114_fl_normal"
-  }
-}

@@ -4,32 +4,28 @@
         "name": "pack.name",
         "description": "pack.description",
         "uuid": "bbe2b225-b45b-41c2-bd3b-465cd83e6071",
-        "version": [1, 21, 140],
-        "min_engine_version": [ 1, 21, 70 ]
+        "pack_scope": "any",
+        "version": [1, 21, 150],
+        "min_engine_version": [ 1, 21, 90 ]
     },
     "modules": [
         {
             "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "b2eef2c6-d893-467e-b31d-cda7bf643eaa",
-            "version": [1, 21, 140]
+            "version": [1, 21, 150]
         }
     ],
     "subpacks": [
         {
-            "folder_name": "2",
+            "folder_name": "1",
             "name": "Enhanced",
             "memory_tier": 2
         },
         {
-            "folder_name": "1",
-            "name": "Fogless",
-            "memory_tier": 1
-        },
-        {
             "folder_name": "0",
             "name": "Default",
-            "memory_tier": 1
+            "memory_tier": 2
         }
     ],
     "settings": [
@@ -39,15 +35,19 @@
         },
         {
             "type": "label",
-            "text": "Default: §iStandard Vanilla RTX Normals experience."
+            "text": "Default: §iStandard Vanilla RTX Normals."
         },
         {
             "type": "label",
-            "text": "Fogless: §iRemoves volumetric air fog."
+            "text": "Enhanced: §iEnables modification and enhancement of resources beyond blocks with improved ray tracing compatibility.\n\nFeatures workarounds for entity and block rendering issues, glowing eyes for applicable mobs, better particles for ray tracing, and much more!"
         },
         {
             "type": "label",
-            "text": "Enhanced: §iEnables experimental or work-in-progress features that modify and enhance resources beyond blocks for ray tracing compatibility. Keep an eye out on the release notes to see what's new!"
+            "text": ""
+        },
+        {
+            "type": "label",
+            "text": "Tip: §iFor control over fog density, use the Vanilla RTX Tuner app."
         }
     ],
     "capabilities": [ "raytraced" ],

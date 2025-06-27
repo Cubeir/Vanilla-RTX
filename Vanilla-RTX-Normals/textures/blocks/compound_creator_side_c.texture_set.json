@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "compound_creator_side_c",
-    "metalness_emissive_roughness": "compound_creator_side_c_mer",
-    "normal": "compound_creator_side_c_normal"
-  }
-}

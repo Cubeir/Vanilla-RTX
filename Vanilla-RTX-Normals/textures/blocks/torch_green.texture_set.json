@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "torch_green",
-    "metalness_emissive_roughness": "torch_green_mer",
-    "normal": "torch_green_normal"
-  }
-}

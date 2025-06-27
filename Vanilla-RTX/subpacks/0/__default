@@ -1,2 +1,2 @@
-// The default subpack folder is empty so no extra files are dumped over default Vanilla RTX.
-// This file is only here to prevent some software from deleting or ignoring this folder due to being empty.
+// The default subpack folder is empty so no extra files are dumped over 'default' Vanilla RTX, which consists all of the files in the root folder.
+// This file is here to prevent some software from deleting or ignoring this folder due to being empty, preserving folder structure as referenced in manifest.json

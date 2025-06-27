@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "hard_glass_red",
-    "metalness_emissive_roughness": "hard_glass_red_mer",
-    "normal": "hard_glass_red_normal"
-  }
-}

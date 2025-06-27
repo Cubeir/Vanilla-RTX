@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "tnt_side_underwater",
-    "metalness_emissive_roughness": "tnt_side_underwater_mer",
-    "normal": "tnt_side_underwater_normal"
-  }
-}

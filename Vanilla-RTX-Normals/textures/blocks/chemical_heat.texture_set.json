@@ -1,8 +1,0 @@
-{
-  "format_version": "1.21.30",
-  "minecraft:texture_set": {
-    "color": "chemical_heat",
-    "metalness_emissive_roughness": "chemical_heat_mer",
-    "normal": "chemical_heat_normal"
-  }
-}
