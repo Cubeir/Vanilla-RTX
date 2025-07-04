@@ -20,8 +20,10 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of the same material.
 - Compatibility errors of vanilla resources with ray tracing are resolved through the Enhanced option as much as possible. (accessed from resource pack's settings)
-- Official Child Projects:
+- Related Projects:
+  - **[Vanilla RTX Tuner](https://github.com/Cubeir/Vanilla-RTX-Tuner):** An installable tool that lets you customize fog, lighting, materials, and more in Vanilla RTX.
   - **Vanilla RTX Opus:** Composition of both Vanilla RTX & Vanilla RTX Normals. (Coming along soon!)
+  - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only packs to add ray tracing compatibility to content available under Minecraft: Education Edition toggle.
   - **[Vibrant Vanilla PBR:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
