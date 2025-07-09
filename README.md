@@ -39,7 +39,7 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![vanilla-rtx_sculk-wild-update-deepdark_minecraft](https://github.com/user-attachments/assets/5ea09a8e-6416-46d6-a568-58270bbabaf5)
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) gallery.
 ## Usage Tips
-- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, zip the desired folder, rename the `.zip` extension to `.mcpack`, and double-click to import into Minecraft or Minecraft Preview.
+- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
