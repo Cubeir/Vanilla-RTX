@@ -36,7 +36,9 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 ![vanilla-rtx_normals-wall-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
 ![vanilla-rtx_room-lighting-image_minecraft-rtx](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
 ![vanilla-rtx_mangrove-swamp-wild-update_minecraft](https://github.com/user-attachments/assets/4cbacc35-27e2-465b-8b4c-bab5ece9edef)
+![vanilla-rtx-normals-stonecutter-design-example](https://github.com/user-attachments/assets/b91cea41-da90-418b-b87e-ece1c2317c10)
 ![vanilla-rtx_sculk-wild-update-deepdark_minecraft](https://github.com/user-attachments/assets/5ea09a8e-6416-46d6-a568-58270bbabaf5)
+
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) gallery.
 ## Usage Tips
 - For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.
