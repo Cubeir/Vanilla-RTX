@@ -1,4 +1,4 @@
-# Vanilla-RTX
+![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/a8fd96f9-2e8e-47b4-9ce5-35a7f47e7909)![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/d98e4c9f-aa98-4067-9054-e58466af353e)# Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only.  
@@ -30,7 +30,7 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
 
 ## Images
-![vanilla-rtx_spring-to-life-primary-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/174c32e5-d1db-4d27-b283-1e0320e4284c)
+![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/2443facc-c96f-4cb9-846f-38042dc7c1fe)
 ![vanilla-rtx_ice-king's-vault-ray-tracing-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![vanilla-rtx_colosseum-demo-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![vanilla-rtx_normals-wall-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
