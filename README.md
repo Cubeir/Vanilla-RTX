@@ -1,4 +1,4 @@
-![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/a8fd96f9-2e8e-47b4-9ce5-35a7f47e7909)![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/d98e4c9f-aa98-4067-9054-e58466af353e)# Vanilla-RTX
+# Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only.  
