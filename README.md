@@ -78,5 +78,5 @@ This is due to a game limitation where texture maps can only be called within th
 Large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations without altering their original appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
 
 ### Credits
-Created and maintained with ❤️‍🔥 by Cubeir, with special thanks to:
+Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
 EchoQuasar, Miriel, Big Plonk, FobidenNinja, nathanhillis420, Spikey, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, ObliviousDraede, Dabadking, Spaceowl, Alexkillerk209, nattyhob, Rolando Dojer, Waffle, Willström, Ernesto cuellar, Bastha, Steve, Plugin, Jayssizle, Drackae, Pizza4001, nxsty, Irwin Montalvo Roach, Thomas Zeman, Azorawing, PotatoHour, Kittygamer123, UDJM_Phoenix, Lanaismymommy, StigFinnegan, TKbn, joanmrz, James Kelly, RJ Fajilan, spacetoker, Byrn, OmarVillegas, Jacob, Isttret, Superluminal, Travis Bishop, crungleDorf, ri, ObsydianX, Dylan, Kyo Don, Okapi, The_Asa_Games, GoldGamer 11 —— and to everyone who has supported this project in any way along the way.
