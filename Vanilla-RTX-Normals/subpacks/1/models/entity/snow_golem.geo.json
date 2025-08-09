@@ -42,7 +42,7 @@
 					"parent": "head",
 					"pivot": [0, 25, 0],
 					"cubes": [
-						{"origin": [-5, 20.6, -5], "size": [10, 10, 10], "inflate": 1.1, "uv": [88, 12]}
+						{"origin": [-5, 20.6, -5], "size": [10, 10, 10], "inflate": 1.1, "uv": [88, 0]}
 					]
 				},
 				{
@@ -59,7 +59,10 @@
 					"pivot": [0, 18, 0],
 					"cubes": [
 						{"origin": [1, 20, -1], "size": [12, 2, 2], "inflate": -0.5, "uv": [32, 0]}
-					]
+					],
+					"locators": {
+						"lead_hold": [-9, 31.5, 0]
+					}
 				},
 				{
 					"name": "arm2",

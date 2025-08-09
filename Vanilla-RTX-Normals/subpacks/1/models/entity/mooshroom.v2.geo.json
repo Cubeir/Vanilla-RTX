@@ -1,14 +1,14 @@
 {
-	"format_version": "1.12.0",
+	"format_version": "1.21.0",
 	"minecraft:geometry": [
 		{
 			"description": {
 				"identifier": "geometry.mooshroom.v2",
 				"texture_width": 64,
 				"texture_height": 64,
-				"visible_bounds_width": 4,
-				"visible_bounds_height": 5,
-				"visible_bounds_offset": [0, 2.5, 0]
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
 			},
 			"bones": [
 				{
@@ -17,7 +17,10 @@
 					"cubes": [
 						{"origin": [-6, 8, 2], "size": [12, 18, 10], "pivot": [0, 14, 4], "rotation": [90, 0, 0], "uv": [18, 4]},
 						{"origin": [-2, 8, 1], "size": [4, 6, 1], "pivot": [0, 14, 4], "rotation": [90, 0, 0], "uv": [52, 0]}
-					]
+					],
+					"locators": {
+						"lead_hold": [0, 34, 1]
+					}
 				},
 				{
 					"name": "leg0",
@@ -54,6 +57,16 @@
 					]
 				},
 				{
+					"name": "bodymushroom1",
+					"parent": "body",
+					"pivot": [-1.87868, 25, -0.29289],
+					"rotation": [180, 142.5, 180],
+					"cubes": [
+						{"origin": [-2.625, 22, 2.05711], "size": [8, 8, 0], "pivot": [1.375, 26, 2.05711], "rotation": [0, 8.75, 0], "uv": [0, 56]},
+						{"origin": [-2.625, 22, 2.05711], "size": [8, 8, 0], "pivot": [1.375, 26, 2.05711], "rotation": [0, 98.75, 0], "uv": [0, 56]}
+					]
+				},
+				{
 					"name": "bodymushroom0",
 					"parent": "body",
 					"pivot": [3.12132, 26.5, 7.87868],
@@ -68,16 +81,6 @@
 					"parent": "bodymushroom0",
 					"pivot": [3.12132, 26.5, 7.87868],
 					"rotation": [0, 90, 0]
-				},
-				{
-					"name": "bodymushroom1",
-					"parent": "body",
-					"pivot": [-1.87868, 25, -0.29289],
-					"rotation": [180, 142.5, 180],
-					"cubes": [
-						{"origin": [-2.625, 22, 2.05711], "size": [8, 8, 0], "pivot": [1.375, 26, 2.05711], "rotation": [0, 8.75, 0], "uv": [0, 56]},
-						{"origin": [-2.625, 22, 2.05711], "size": [8, 8, 0], "pivot": [1.375, 26, 2.05711], "rotation": [0, 98.75, 0], "uv": [0, 56]}
-					]
 				},
 				{
 					"name": "head",
