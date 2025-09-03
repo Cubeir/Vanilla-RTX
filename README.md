@@ -42,26 +42,20 @@ More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/
 ## Usage Tips
 - For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.
 
-- It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
-
-- If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync.
-
 - Activation issues: There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while in a world. You must first join any world, enable ray tracing (you may experience issues at first) then exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again, or [enable ray tracing via options.txt](https://www.youtube.com/watch?v=hNS1p4IYmJo&feature=youtu.be) instead before launching the game.  
 
-For simplicity, use this [batch script](https://github.com/Cubeir/Vanilla-RTX/blob/master/LaunchMinecraftRTX.bat) which quickly activates ray tracing before launching Minecraft with an option to disable VSync. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist) — Vanilla RTX Tuner app also provides the same functionality via the "Launch Minecraft RTX" button.
+For simplicity, use this [batch script](https://github.com/Cubeir/Vanilla-RTX/blob/master/LaunchMinecraftRTX.bat) which quickly activates ray tracing before launching Minecraft with an option to disable VSync. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist) — Vanilla RTX Tuner app also provides the same functionality via the 'Launch Minecraft RTX' button.
+
+- If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync.
 
 - If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks or incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
 For an updated list of features [view this page](https://minecraftrtx.net/enhancements).
 
-- The shortcut for toggling ray tracing while inside of a world is the semicolon key (;) on your keyboard, however it is a good practice to always keep ray tracing on and avoid dynamically toggling it, as it can cause a few glitches, such as jumbled player geometry or black entity textures.
+- It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
-- To ensure subpack changes are saved, you may need to apply the setting multiple times.
-
-- Education Edition resources will only load if the pack is loaded in world settings.
+- To ensure subpack changes are saved, you may need to apply the setting multiple times ([MCPE-162002](https://bugs.mojang.com/browse/MCPE/issues/MCPE-162002))
 
 - If textures fail to load or appear to have issues, make sure that world, server or realm resource packs are not overriding Vanilla RTX's files.
-
-
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
@@ -74,7 +68,7 @@ The license file linked above does not apply to any original Minecraft art resou
   
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://aka.ms/resourcepacktemplate)) to function.
 This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
-Large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations without altering their original appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
+It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations without altering their original appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
 
 ### Credits
 Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
