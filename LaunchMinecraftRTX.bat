@@ -3,6 +3,14 @@ setlocal enabledelayedexpansion
 
 :MAIN
 cls
+echo IMPORTANT NOTICE:
+echo THIS SCRIPT HAS BEEN DEPRECATED! 
+echo It only works for Minecraft 1.21.120.20 and lower versions.
+echo.
+echo It is highly recommended to use the "Launch Minecraft RTX" functionality
+echo of the Vanilla RTX Tuner app instead which achieves the same result as
+echo this script, press 1 to go to Vanilla RTX Tuner download page.
+echo.
 echo ================================
 echo   Launch Minecraft with RTX
 echo ================================
@@ -14,23 +22,27 @@ set "mc_preview_file=%LOCALAPPDATA%\Packages\Microsoft.MinecraftWindowsBeta_8wek
 call :CHECK_RTX_STATUS
 call :CHECK_VSYNC_STATUS
 
-echo [1] Minecraft            %mc_rtx_status%
-echo [2] Minecraft Preview    %mc_preview_rtx_status%
-echo [3] %vsync_status%
+echo [1] Vanilla RTX Tuner    (Recommended)
+echo [2] Minecraft            %mc_rtx_status%
+echo [3] Minecraft Preview    %mc_preview_rtx_status%
+echo [4] %vsync_status%
 echo [0] Exit
 echo.
-choice /c 1230 /n /m "Select an option [1/2/3/0]:"
+choice /c 12340 /n /m "Select an option [1/2/3/4/0]:"
 
-if errorlevel 4 (
+if errorlevel 5 (
     exit /b
-) else if errorlevel 3 (
+) else if errorlevel 4 (
     call :TOGGLE_VSYNC
     goto MAIN
-) else if errorlevel 2 (
+) else if errorlevel 3 (
     call :ENABLE_RTX "preview"
     goto MAIN
-) else if errorlevel 1 (
+) else if errorlevel 2 (
     call :ENABLE_RTX "regular"
+    goto MAIN
+) else if errorlevel 1 (
+    start "" "https://github.com/Cubeir/Vanilla-RTX-Tuner"
     goto MAIN
 )
 
