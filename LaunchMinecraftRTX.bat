@@ -43,7 +43,18 @@ if errorlevel 5 (
     goto MAIN
 ) else if errorlevel 1 (
     start "" "https://github.com/Cubeir/Vanilla-RTX-Tuner"
-    goto MAIN
+    echo.
+    echo Opening Vanilla RTX Tuner download page...
+    echo https://github.com/Cubeir/Vanilla-RTX-Tuner
+    echo.
+    echo If your browser window hasn't opened, visit the link above manually.
+    echo.
+    echo The Vanilla RTX Tuner app provides a much better experience with automatic updates, and is actively maintained
+    echo for the newest Minecraft versions. 
+    echo.
+    echo Press any key to exit...
+    pause >nul
+    exit /b
 )
 
 goto MAIN
