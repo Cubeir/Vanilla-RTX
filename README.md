@@ -23,7 +23,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
   - **[Vanilla RTX Tuner](https://github.com/Cubeir/Vanilla-RTX-Tuner):** An installable tool that lets you adjust fog, lighting, materials, and more in Vanilla RTX, with automated package updates & more...
   - **Vanilla RTX Opus:** Composition of both Vanilla RTX & Vanilla RTX Normals. (Coming along soon!)
   - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only packs to add ray tracing compatibility to content available under Minecraft: Education Edition toggle.
-  - **[Vibrant Vanilla PBR:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
+  - **[Vanilla Vibrant Visuals:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
 
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals.  
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
