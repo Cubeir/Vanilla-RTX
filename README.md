@@ -1,7 +1,7 @@
 # Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.70 Only.  
+⚠️ Windows 10/11 - Bedrock Edition +1.21.90 Only.  
 ⚠️ Dedicated DXR-capable hardware required.  
 </br>
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
@@ -40,13 +40,14 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) gallery.
 ## Usage Tips
-- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.
+- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.  
+Note: [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) automates this whole process, so you can easily keep the pack updated for the latest version of the game.
 
 - Activation issues: There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while in a world. You must first join any world, enable ray tracing (you may experience issues at first) then exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again, or [enable ray tracing via options.txt](https://www.youtube.com/watch?v=hNS1p4IYmJo&feature=youtu.be) instead before launching the game.  
 
-For simplicity, use this [batch script](https://github.com/Cubeir/Vanilla-RTX/blob/master/LaunchMinecraftRTX.bat) which quickly activates ray tracing before launching Minecraft with an option to disable VSync. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist) — Vanilla RTX Tuner app also provides the same functionality via the 'Launch Minecraft RTX' button.
+For simplicity, [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) provides the same functionality via the 'Launch Minecraft RTX' button which activates ray tracing before launching Minecraft. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
 
-- If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync.
+- If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX Tuner App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
 - If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks or incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
 For an updated list of features [view this page](https://minecraftrtx.net/enhancements).
