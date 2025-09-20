@@ -1,4 +1,5 @@
-@echo off
+@echo off1
+
 setlocal enabledelayedexpansion
 
 :MAIN
