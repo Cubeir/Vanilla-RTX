@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "roofed_forest"
+      "identifier": "minecraft:roofed_forest"
     },
     "components": {
       "minecraft:fog_appearance": {
@@ -13,6 +13,12 @@
       },
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"
+      },
+      "minecraft:grass_appearance": {
+        "grass_is_shaded": true
+      },
+      "minecraft:biome_music": {
+        "music_definition": "roofed_forest"
       }
     }
   }

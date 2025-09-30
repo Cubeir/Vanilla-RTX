@@ -1,7 +1,7 @@
 {
   "resource_pack_name": "vanilla_rtx_normals",
   "texture_name": "atlas.terrain",
-  "padding": 2,
+  "padding": 8,
   "num_mip_levels": 1,
   "texture_data": {
     "frog_spawn_carried": {

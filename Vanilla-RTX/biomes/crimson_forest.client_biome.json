@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "crimson_forest"
+      "identifier": "minecraft:crimson_forest"
     },
     "components": {
       "minecraft:fog_appearance": {
@@ -15,6 +15,12 @@
         "addition": "ambient.crimson_forest.additions",
         "loop": "ambient.crimson_forest.loop",
         "mood": "ambient.crimson_forest.mood"
+      },
+      "minecraft:precipitation": {
+        "red_spores": 0.25
+      },
+      "minecraft:biome_music": {
+        "music_definition": "crimson_forest"
       }
     }
   }

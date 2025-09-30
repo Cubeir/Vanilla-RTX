@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "extreme_hills"
+      "identifier": "minecraft:extreme_hills"
     },
     "components": {
       "minecraft:fog_appearance": {

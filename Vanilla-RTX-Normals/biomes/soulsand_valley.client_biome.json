@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "soulsand_valley"
+      "identifier": "minecraft:soulsand_valley"
     },
     "components": {
       "minecraft:fog_appearance": {
@@ -15,6 +15,12 @@
         "addition": "ambient.soulsand_valley.additions",
         "loop": "ambient.soulsand_valley.loop",
         "mood": "ambient.soulsand_valley.mood"
+      },
+      "minecraft:precipitation": {
+        "ash": 0.05
+      },
+      "minecraft:biome_music": {
+        "music_definition": "soulsand_valley"
       }
     }
   }

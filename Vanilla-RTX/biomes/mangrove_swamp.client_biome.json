@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "mangrove_swamp"
+      "identifier": "minecraft:mangrove_swamp"
     },
     "components": {
       "minecraft:fog_appearance": {
@@ -23,6 +23,9 @@
       },
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"
+      },
+      "minecraft:biome_music": {
+        "music_definition": "mangrove_swamp"
       }
     }
   }

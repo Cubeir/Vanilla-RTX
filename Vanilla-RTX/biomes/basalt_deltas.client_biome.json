@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "basalt_deltas"
+      "identifier": "minecraft:basalt_deltas"
     },
     "components": {
       "minecraft:fog_appearance": {
@@ -15,6 +15,12 @@
         "addition": "ambient.basalt_deltas.additions",
         "loop": "ambient.basalt_deltas.loop",
         "mood": "ambient.basalt_deltas.mood"
+      },
+      "minecraft:precipitation": {
+        "white_ash": 2.0
+      },
+      "minecraft:biome_music": {
+        "music_definition": "basalt_deltas"
       }
     }
   }

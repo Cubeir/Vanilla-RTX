@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "bamboo_jungle"
+      "identifier": "minecraft:bamboo_jungle"
     },
     "components": {
       "minecraft:fog_appearance": {

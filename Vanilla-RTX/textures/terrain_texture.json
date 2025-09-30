@@ -1,6 +1,6 @@
 {
     "resource_pack_name": "vanilla_rtx",
     "texture_name": "atlas.terrain",
-    "padding": 2,
+    "padding": 8,
     "num_mip_levels": 1
 }

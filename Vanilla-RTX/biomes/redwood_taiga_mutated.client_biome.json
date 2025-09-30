@@ -1,8 +1,8 @@
 {
-  "format_version": "1.21.70",
+  "format_version": "1.21.110",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "redwood_taiga_mutated"
+      "identifier": "minecraft:redwood_taiga_mutated"
     },
     "components": {
       "minecraft:fog_appearance": {
