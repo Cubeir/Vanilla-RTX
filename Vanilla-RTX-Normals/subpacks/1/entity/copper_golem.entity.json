@@ -1,0 +1,45 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:copper_golem",
+            "min_engine_version": "1.12.0",
+            "materials": {
+                "default": "entity_alphatest",
+                "eyes": "charged_creeper",
+                "flower": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/copper_golem/copper_golem",
+                "exposed": "textures/entity/copper_golem/copper_golem_exposed",
+                "weathered": "textures/entity/copper_golem/copper_golem_weathered",
+                "oxidized": "textures/entity/copper_golem/copper_golem_oxidized",
+                "eyes_default": "textures/entity/copper_golem/copper_golem_eyes",
+                "eyes_exposed": "textures/entity/copper_golem/copper_golem_eyes_exposed",
+                "eyes_weathered": "textures/entity/copper_golem/copper_golem_eyes_weathered",
+                "eyes_oxidized": "textures/entity/copper_golem/copper_golem_eyes_oxidized",
+                "flower": "textures/entity/copper_golem/copper_golem_flower"
+            },
+            "geometry": {
+                "default": "geometry.copper_golem",
+                "flower": "geometry.copper_golem.flower",
+                "standing": "geometry.copper_golem",
+                "sitting": "geometry.copper_golem.sitting",
+                "running": "geometry.copper_golem.running",
+                "star": "geometry.copper_golem.star",
+                "eyes": "geometry.copper_golem.eyes"
+            },
+            "scripts": {
+                "should_update_bones_and_effects_offscreen": "1.0"
+            },
+            "render_controllers": [
+                "controller.render.copper_golem_flower",
+                "controller.render.copper_golem",
+                "controller.render.copper_golem_eyes.default",
+                "controller.render.copper_golem_eyes.exposed",
+                "controller.render.copper_golem_eyes.weathered",
+                "controller.render.copper_golem_eyes.oxidized"
+            ]
+        }
+    }
+}

@@ -5,7 +5,7 @@
         "description": "pack.description",
         "uuid": "bbe2b225-b45b-41c2-bd3b-465cd83e6071",
         "pack_scope": "any",
-        "version": [1, 21, 175],
+        "version": [1, 21, 180],
         "min_engine_version": [ 1, 21, 100 ]
     },
     "modules": [
@@ -13,7 +13,7 @@
             "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "b2eef2c6-d893-467e-b31d-cda7bf643eaa",
-            "version": [1, 21, 175]
+            "version": [1, 21, 180]
         }
     ],
     "subpacks": [

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "exposed_copper_chain1",
+    "metalness_emissive_roughness": "exposed_copper_chain1_mer",
+    "normal": "exposed_copper_chain1_normal"
+  }
+}

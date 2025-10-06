@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "copper_bars",
+    "metalness_emissive_roughness": "copper_bars_mer",
+    "heightmap": "copper_bars_heightmap"
+  }
+}

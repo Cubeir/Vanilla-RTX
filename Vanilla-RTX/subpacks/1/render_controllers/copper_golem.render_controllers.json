@@ -1,0 +1,117 @@
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.copper_golem": {
+            "arrays": {
+                "textures": {
+                    "Array.textures": [
+                        "Texture.default",
+                        "Texture.exposed",
+                        "Texture.weathered",
+                        "Texture.oxidized"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.textures[v.index]"
+            ]
+        },
+        "controller.render.copper_golem_eyes.default": {
+            "geometry": "Geometry.eyes",
+            "part_visibility": [
+                {
+                    "*": "v.index == 0"
+                }
+            ],
+            "materials": [
+                {
+                    "*": "Material.eyes"
+                }
+            ],
+            "textures": [
+                "Texture.eyes_default"
+            ],
+            "ignore_lighting": true,
+            "light_color_multiplier": 75
+        },
+        "controller.render.copper_golem_eyes.exposed": {
+            "geometry": "Geometry.eyes",
+            "part_visibility": [
+                {
+                    "*": "v.index == 1"
+                }
+            ],
+            "materials": [
+                {
+                    "*": "Material.eyes"
+                }
+            ],
+            "textures": [
+                "Texture.eyes_exposed"
+            ],
+            "ignore_lighting": true,
+            "light_color_multiplier": 30.0
+        },
+        "controller.render.copper_golem_eyes.weathered": {
+            "geometry": "Geometry.eyes",
+            "part_visibility": [
+                {
+                    "*": "v.index == 2"
+                }
+            ],
+            "materials": [
+                {
+                    "*": "Material.eyes"
+                }
+            ],
+            "textures": [
+                "Texture.eyes_weathered"
+            ],
+            "ignore_lighting": true,
+            "light_color_multiplier": 13.0
+        },
+        "controller.render.copper_golem_eyes.oxidized": {
+            "geometry": "Geometry.eyes",
+            "part_visibility": [
+                {
+                    "*": "v.index == 3"
+                }
+            ],
+            "materials": [
+                {
+                    "*": "Material.eyes"
+                }
+            ],
+            "textures": [
+                "Texture.eyes_oxidized"
+            ],
+            "ignore_lighting": true,
+            "light_color_multiplier": 1.33
+        },
+        "controller.render.copper_golem_flower": {
+            "geometry": "Geometry.flower",
+            "materials": [
+                {
+                    "*": "Material.flower"
+                }
+            ],
+            "textures": [
+                "Texture.flower"
+            ],
+            "part_visibility": [
+                {
+                    "*": "false"
+                },
+                {
+                    "flower": "query.property('minecraft:has_flower')"
+                }
+            ]
+        }
+    }
+}
