@@ -49,14 +49,13 @@ For simplicity, use the [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanill
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX Tuner App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
-- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various work-in-progress features and updates, which enhance visuals and work around some of ray tracing's technical issues with vanilla resources, but note that some of them may come with minor drawbacks or incompatibility with other resource packs/add-ons, they can also potentially break with future Minecraft updates due to use of undocumented features.
-For an updated list of features [view this page](https://minecraftrtx.net/enhancements).
+- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various features and updates that enhance visuals and work around some of ray tracing's technical incompatibilities with vanilla resources, but note that some of them may come with minor drawbacks when paired with other resource packs/add-ons. For an up-to-date list of features [visit this page](https://minecraftrtx.net/enhancements).
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
-- To ensure subpack changes are saved, you may need to apply the setting multiple times ([MCPE-162002](https://bugs.mojang.com/browse/MCPE/issues/MCPE-162002))
+- To ensure subpack changes are saved, you may need to apply the setting multiple times while ([MCPE-162002](https://bugs.mojang.com/browse/MCPE/issues/MCPE-162002)) and [MCPE-229024](https://bugs.mojang.com/browse/MCPE/issues/MCPE-229024) persist.
 
-- If textures fail to load or appear to have issues, make sure that world, server or realm resource packs are not overriding Vanilla RTX's files.
+- If textures fail to load or appear to have issues, make sure that world, server or realm resource packs aren't overriding Vanilla RTX's files.
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
@@ -73,4 +72,4 @@ It is also worth noting large parts of vanilla resources also had to be modified
 
 ### Credits
 Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
-nattyhob, EchoQuasar, Miriel, Big Plonk, FobidenNinja, Spikey, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Waffle, Willström, Ernesto cuellar, Bastha, Plugin, Byrn, OmarVillegas, Jacob, Isttret, Jayssizle, Drackae, Pizza4001, PotatoHour, Kittygamer123, Lanaismymommy, Superluminal, Travis Bishop, ObsydianX, Dylan, Kyo Don, TKbn, James Kelly, Aaerox, jessehall(Maneating-Zebras), The_Asa_Games, Diego Jauregui, Charles D Powell, jamesyoung, Dan Martin (Weeblerned), Bryan Tepox, Koorg, ThePhanderOn, Pete, Sebastian Casas, GabrielGarig, Sarux, DomoTurbulence, Rory, J, James Beaulieu —— and to everyone who has supported this project in any way along the way.
+nattyhob, EchoQuasar, Miriel, Big Plonk, FobidenNinja, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Waffle, Willström, Ernesto cuellar, Bastha, Plugin, Jayssizle, Byrn, OmarVillegas, Jacob, Isttret, Superluminal, Drackae, Pizza4001, PotatoHour, Kittygamer123, Lanaismymommy, TKbn, James Kelly, Travis Bishop, ObsydianX, Dylan, Kyo Don, Aaerox, jessehall(Maneating-Zebras), The_Asa_Games, Diego Jauregui, Pete, Charles D Powell, jamesyoung, Dan Martin (Weeblerned), Bryan Tepox, Koorg, Sebastian Casas, GabrielGarig, Sarux, Nash Knowlden, Dr._.Niki, joanmrz, DomoTurbulence, Rory, J, James Beaulieu —— and to everyone who has supported this project in any way along the way.
