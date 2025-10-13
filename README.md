@@ -17,7 +17,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - **[Vanilla RTX:](https://mcpedl.com/vanilla-rtx)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
 - **[Vanilla RTX Normals:](https://mcpedl.com/vanilla-rtx-normals)** Features handcrafted 16x normal maps instead.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)  
-- All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of the same material.
+- All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
 - Compatibility errors of vanilla resources with ray tracing are resolved through the Enhanced option as much as possible. (accessed from resource pack's settings)
 - Related Projects:
   - **[Vanilla RTX Tuner](https://github.com/Cubeir/Vanilla-RTX-Tuner):** An installable tool that lets you adjust fog, lighting & materials in Vanilla RTX, with automated package updates and more...
