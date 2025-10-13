@@ -53,7 +53,7 @@ For simplicity, use the [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanill
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
-- To ensure subpack changes are saved, you may need to apply the setting multiple times while ([MCPE-162002](https://bugs.mojang.com/browse/MCPE/issues/MCPE-162002)) and [MCPE-229024](https://bugs.mojang.com/browse/MCPE/issues/MCPE-229024) persist.
+- To ensure subpack changes are saved, you may need to apply the setting multiple times while [MCPE-162002](https://bugs.mojang.com/browse/MCPE/issues/MCPE-162002) and [MCPE-229024](https://bugs.mojang.com/browse/MCPE/issues/MCPE-229024) persist.
 
 - If textures fail to load or appear to have issues, make sure that world, server or realm resource packs aren't overriding Vanilla RTX's files.
 
