@@ -29,7 +29,7 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for all Bedrock Edition players.  
 
 ## Images
-![vanilla-rtx_chase-the-skies-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/2443facc-c96f-4cb9-846f-38042dc7c1fe)
+![vanilla-rtx-copper-age-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/b596912f-a556-49c8-8430-0407503f8703)
 ![vanilla-rtx_ice-king's-vault-ray-tracing-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![vanilla-rtx_colosseum-demo-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![vanilla-rtx_normals-wall-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
@@ -40,12 +40,12 @@ Vanilla RTX now strives to provide an ideal default Minecraft RTX experience for
 
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) gallery.
 ## Usage Tips
-- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, and open in Minecraft or Minecraft Preview to import.  
-Note: [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) automates this whole process, so you can easily keep the pack updated for the latest version of the game.
+- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either ibe of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import.  
+Note: [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) automates this process, so you can easily keep the pack updated for the latest version of the game.
 
-- Activation issues: There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while in a world. You must first join any world, enable ray tracing (you may experience issues at first) then exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again, or [enable ray tracing via options.txt](https://www.youtube.com/watch?v=hNS1p4IYmJo&feature=youtu.be) instead before launching the game.  
-
-For simplicity, [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) provides the same functionality via the 'Launch Minecraft RTX' button which activates ray tracing before launching Minecraft. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
+- Activation issues: There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while inside a world.  
+Workaround: While in the main menu, head to video settings, turn on `Allow In-Game Graphics Mode Switching` then join any world, enable ray tracing from the dropdown graphics mode menu in video settings (you may experience issues at first), now exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again.
+For simplicity, use the [Vanilla RTX Tuner App](https://github.com/Cubeir/Vanilla-RTX-Tuner) to launch the game through the 'Launch Minecraft RTX' button which activates ray tracing before Minecraft is launched. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX Tuner App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
