@@ -1,7 +1,7 @@
 # Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
-⚠️ Windows 10/11 - Bedrock Edition +1.21.90 Only.  
+⚠️ Windows 10/11 - Bedrock Edition +1.21.100 Only.  
 ⚠️ Dedicated DXR-capable hardware required.  
 </br>
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=3600)](https://discord.gg/A4wv4wwYud) 
