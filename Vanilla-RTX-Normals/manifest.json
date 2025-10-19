@@ -5,27 +5,39 @@
         "description": "pack.description",
         "uuid": "bbe2b225-b45b-41c2-bd3b-465cd83e6071",
         "pack_scope": "any",
-        "version": [1, 21, 180],
-        "min_engine_version": [ 1, 21, 100 ]
+        "version": [
+            1,
+            21,
+            184
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            100
+        ]
     },
     "modules": [
         {
             "description": "vanilla_rtx_normals",
             "type": "resources",
             "uuid": "b2eef2c6-d893-467e-b31d-cda7bf643eaa",
-            "version": [1, 21, 180]
+            "version": [
+                1,
+                21,
+                184
+            ]
         }
     ],
     "subpacks": [
         {
             "folder_name": "1",
             "name": "Enhanced",
-            "memory_tier": 2
+            "memory_tier": 1
         },
         {
             "folder_name": "0",
             "name": "Default",
-            "memory_tier": 2
+            "memory_tier": 1
         }
     ],
     "settings": [
@@ -50,9 +62,13 @@
             "text": "Tip: §iYou can adjust fog density, emissive intensity, auto-update the pack & tune it to your preference using the §rVanilla RTX Tuner §iapp."
         }
     ],
-    "capabilities": [ "raytraced" ],
+    "capabilities": [
+        "raytraced"
+    ],
     "metadata": {
-        "authors": [ "Cubeir" ],
+        "authors": [
+            "Cubeir"
+        ],
         "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
         "url": "https://mcpedl.com/truly-vanilla-rtx"
     }
