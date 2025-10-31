@@ -22,6 +22,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - Related Projects:
   - **[Vanilla RTX Tuner](https://github.com/Cubeir/Vanilla-RTX-Tuner):** An installable tool that lets you adjust fog, lighting & materials in Vanilla RTX, with automated package updates and more...
   - **Vanilla RTX Opus:** Composition of both Vanilla RTX & Vanilla RTX Normals. (Coming along soon!)
+  - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties for ray tracing.
   - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to add ray tracing support to the content available under Minecraft: Education Edition toggle.
   - **[Vanilla Vibrant Visuals:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
 
