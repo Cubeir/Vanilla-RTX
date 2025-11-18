@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "pack.name",
-    "description": "pack.description",
+    "name": "Vanilla RTX",
+    "description": "  The default ray-traced Minecraft graphics, everything is covered!",
     "uuid": "a5c3cc7d-1740-4b5e-ae2c-71bc14b3f63b",
     "pack_scope": "any",
     "version": [

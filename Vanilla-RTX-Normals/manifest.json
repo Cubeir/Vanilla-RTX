@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "pack.name",
-    "description": "pack.description",
+    "name": "Vanilla RTX Normals",
+    "description": "  The default ray-traced Minecraft graphics, featuring handcrafted 16x normal maps!",
     "uuid": "bbe2b225-b45b-41c2-bd3b-465cd83e6071",
     "pack_scope": "any",
     "version": [
