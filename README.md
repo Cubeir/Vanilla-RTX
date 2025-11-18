@@ -12,7 +12,7 @@ Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ## Description
 
-This project aims to bring complete ray tracing support for Minecraft's default resources in a manner that seamlessly integerates with the game while maintaining a native look and feel.
+This project aims to bring complete ray tracing support for Minecraft's default resources in a manner that seamlessly integerates with the vanilla game while maintaining a native look and feel.
 
 - **[Vanilla RTX:](https://mcpedl.com/vanilla-rtx)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
 - **[Vanilla RTX Normals:](https://mcpedl.com/vanilla-rtx-normals)** Features handcrafted 16x normal maps instead.
@@ -20,7 +20,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
 - Compatibility errors of vanilla resources with ray tracing are resolved through the Enhanced option as much as possible. (accessed from resource pack's settings)
 - Related Projects:
-  - **[Vanilla RTX Tuner App:](https://github.com/Cubeir/Vanilla-RTX-Tuner)** A complementry windows application that lets you access Minecraft with RTX easily, adjust fog, lighting & materials in Vanilla RTX, with automated package updates and more...
+  - **[Vanilla RTX App:](https://github.com/Cubeir/Vanilla-RTX-Tuner)** A complementry windows application that lets you access Minecraft with RTX easily, adjust fog, lighting & materials in Vanilla RTX, with automated package updates and more...
   - **Vanilla RTX Opus:** The composition of both Vanilla RTX & Vanilla RTX Normals. (Coming along soon!)
   - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties for ray tracing.
   - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to add ray tracing support to the content available under Minecraft: Education Edition toggle.
@@ -73,4 +73,4 @@ It is also worth noting large parts of vanilla resources also had to be modified
 
 ### Credits
 Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
-nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Waffle, Willström, Ernesto cuellar, Bastha, Plugin, Jayssizle, Drackae, Pizza4001, PotatoHour, Kittygamer123, Lanaismymommy, Byrn, OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, TKbn, James Kelly, Aaerox, jessehall(Maneating-Zebras), Dylan, Kyo Don, The_Asa_Games, Charles D Powell, jamesyoung, Dan Martin (Weeblerned), Pete, Sebastian Casas, GabrielGarig, Nash Knowlden, Bryan Tepox, DomoTurbulence, Rory, J, James Beaulieu, Dr._.Niki, joanmrz, Gabriel Braga, PlayingVoyage, hipo, Jack Brandham —— and to everyone who has supported this project in any way along the way.
+nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Ernesto cuellar, Bastha, Plugin, Jayssizle, Drackae, Pizza4001, PotatoHour, Kittygamer123, Lanaismymommy, TKbn, James Kelly, Byrn, OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, Dylan, Aaerox, jessehall(Maneating-Zebras), Kyo Don, The_Asa_Games, Pete, Charles D Powell, jamesyoung, Dan Martin (Weeblerned), Sebastian Casas, GabrielGarig, Nash Knowlden, Dr._.Niki, Bryan Tepox, DomoTurbulence, Rory, J, James Beaulieu, hipo, Jack Brandham, Commander Grub, Guzozvak —— and to everyone who has supported this project in any way along the way.
