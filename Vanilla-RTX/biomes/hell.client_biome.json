@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.110",
+  "format_version": "1.21.120",
   "minecraft:client_biome": {
     "description": {
       "identifier": "minecraft:hell"
@@ -15,6 +15,9 @@
         "addition": "ambient.nether_wastes.additions",
         "loop": "ambient.nether_wastes.loop",
         "mood": "ambient.nether_wastes.mood"
+      },
+      "minecraft:biome_music": {
+        "music_definition": "hell"
       }
     }
   }
