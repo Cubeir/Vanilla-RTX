@@ -12,9 +12,17 @@
         "surface_color": "#905957"
       },
       "minecraft:ambient_sounds": {
-        "addition": "ambient.nether_wastes.additions",
+        "addition": {
+          "asset": "ambient.nether_wastes.additions",
+          "chance": 0.0111
+        },
         "loop": "ambient.nether_wastes.loop",
-        "mood": "ambient.nether_wastes.mood"
+        "mood": "ambient.nether_wastes.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:biome_music": {
         "music_definition": "hell"

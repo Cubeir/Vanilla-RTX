@@ -12,9 +12,17 @@
         "surface_color": "#905957"
       },
       "minecraft:ambient_sounds": {
-        "addition": "ambient.soulsand_valley.additions",
+        "addition": {
+          "asset": "ambient.soulsand_valley.additions",
+          "chance": 0.0111
+        },
         "loop": "ambient.soulsand_valley.loop",
-        "mood": "ambient.soulsand_valley.mood"
+        "mood": "ambient.soulsand_valley.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:precipitation": {
         "ash": 0.05

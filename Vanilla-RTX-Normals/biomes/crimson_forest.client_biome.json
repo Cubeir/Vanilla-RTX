@@ -12,9 +12,17 @@
         "surface_color": "#905957"
       },
       "minecraft:ambient_sounds": {
-        "addition": "ambient.crimson_forest.additions",
+        "addition": {
+          "asset": "ambient.crimson_forest.additions",
+          "chance": 0.0111
+        },
         "loop": "ambient.crimson_forest.loop",
-        "mood": "ambient.crimson_forest.mood"
+        "mood": "ambient.crimson_forest.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:precipitation": {
         "red_spores": 0.25

@@ -12,9 +12,17 @@
         "surface_color": "#3f76e4"
       },
       "minecraft:ambient_sounds": {
-        "addition": "ambient.basalt_deltas.additions",
+        "addition": {
+          "asset": "ambient.basalt_deltas.additions",
+          "chance": 0.0111
+        },
         "loop": "ambient.basalt_deltas.loop",
-        "mood": "ambient.basalt_deltas.mood"
+        "mood": "ambient.basalt_deltas.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:precipitation": {
         "white_ash": 2.0

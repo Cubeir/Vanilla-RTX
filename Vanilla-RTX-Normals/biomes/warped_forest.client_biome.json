@@ -12,9 +12,17 @@
         "surface_color": "#905957"
       },
       "minecraft:ambient_sounds": {
-        "addition": "ambient.warped_forest.additions",
+        "addition": {
+          "asset": "ambient.warped_forest.additions",
+          "chance": 0.0111
+        },
         "loop": "ambient.warped_forest.loop",
-        "mood": "ambient.warped_forest.mood"
+        "mood": "ambient.warped_forest.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:precipitation": {
         "blue_spores": 0.25
