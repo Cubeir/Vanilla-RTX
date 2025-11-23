@@ -31,36 +31,41 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 
 ## Images
 ![vanilla-rtx-copper-age-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/b596912f-a556-49c8-8430-0407503f8703)
+![vanilla-rtx-normals-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/287ae890-edeb-4d85-abd1-7860f0316d4f)
+![vanilla-rtx-opus-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/08ce9bda-8695-4524-bfc7-2ef3b1f12186)
 ![vanilla-rtx_ice-king's-vault-ray-tracing-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
+![vanilla-rtx_mangrove-swamp-fog_minecraft-rtx](https://github.com/user-attachments/assets/ba8c3a0e-1d3d-464d-b71c-a3630f1d71a7)
+![vanilla-rtx_resin_minecraft-rtx](https://github.com/user-attachments/assets/b0771f10-2f50-4ba4-a9e7-5d497a593deb)
+![vanilla-rtx_mangrove-swamp-wild-update_minecraft](https://github.com/user-attachments/assets/4cbacc35-27e2-465b-8b4c-bab5ece9edef)
 ![vanilla-rtx_colosseum-demo-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![vanilla-rtx_normals-wall-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
-![vanilla-rtx_room-lighting-image_minecraft-rtx](https://user-images.githubusercontent.com/75272685/222483572-42c3f0bf-9baf-4e2f-a751-bddedad80ab2.png)
-![vanilla-rtx_mangrove-swamp-wild-update_minecraft](https://github.com/user-attachments/assets/4cbacc35-27e2-465b-8b4c-bab5ece9edef)
 ![vanilla-rtx-normals-stonecutter-design-example](https://github.com/user-attachments/assets/b91cea41-da90-418b-b87e-ece1c2317c10)
 ![vanilla-rtx_sculk-wild-update-deepdark_minecraft](https://github.com/user-attachments/assets/5ea09a8e-6416-46d6-a568-58270bbabaf5)
 
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) gallery.
 ## Usage Tips
 - For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either ibe of the folders `Vanilla RTX` or `Vanilla RTX Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import.  
-Note: [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) automates this process, so you can easily keep the pack updated for the latest version of the game.
+[Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) automates this process, so you can easily keep the pack updated for the latest version of the game.
 
 - Activation issues: There is a problem that will keep Vanilla RTX from loading and could make the world appear glossy. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while inside a world.  
 Workaround: While in the main menu, head to video settings, turn on `Allow In-Game Graphics Mode Switching` then join any world, enable ray tracing from the dropdown graphics mode menu in video settings (you may experience issues at first), now exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again.
-For simplicity, use the [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) to launch the game through the 'Launch Minecraft RTX' button which activates ray tracing before Minecraft is launched. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
+The [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) simplifies this by launching the game with ray tracing pre-enabled. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
-- If you've encountered visual bugs (such as some textures exhibiting z-fighting issues, or entities with missing or black textures) try switching to Enhanced option included in Vanilla RTX (Normals). This enables various features and updates that enhance visuals and work around some of ray tracing's technical incompatibilities with vanilla resources, but note that some of them may come with minor drawbacks when paired with other resource packs/add-ons. For an up-to-date list of features [visit this page](https://minecraftrtx.net/enhancements).
+- If you've encountered visual glitches, know that everything was done in this pack to solve as many of them as possible, for an up-to-date list of features [visit this page](https://minecraftrtx.net/enhancements).  
+But there are limits to resource packs, and most of the remainig issues you encounter can only be solved by Mojang. They're likely already reported at [bugs.mojang.com](https://bugs.mojang.com/), consider voting for them.
 
 - It is recommended that you enable the pack in Global Resources instead of World resource packs, there's an issue in Minecraft that can create incomplete copies of resource pack's files when enabled in world settings.
 
-- If textures fail to load or appear to have issues, make sure that world, server or realm resource packs aren't overriding Vanilla RTX's files.
+- Always ensure that world, server or realm resource packs aren't overriding Vanilla RTX's files to avoid issues.
 
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
 
 Reminder:  
-Vanilla RTX and its derivative works are completely free to download and use. However be aware of unauthorized copies or versions of Vanilla RTX that may circulate, sometimes under different names and even for sale. These unauthorized copies may, at best, replicate the version available on this page.
+Vanilla RTX and its derivative works are completely free to download and use, any project that uses them is also required to remain free.  
+However be aware there are many non-attributed copies of Vanilla RTX that circulate, often under entirely different names and even for sale. These copies may, at best, replicate the version available on this page.
 
 Disclaimer:  
 The license file linked above does not apply to any original Minecraft art resource.  
