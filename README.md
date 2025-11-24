@@ -1,4 +1,4 @@
-# Vanilla-RTX
+![vanilla-rtx-normals-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/8c7f49e5-ca2a-45e7-b6ca-607b56bbe153)# Vanilla-RTX
 Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.120 Only.  
@@ -31,8 +31,8 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 
 ## Images
 ![vanilla-rtx-copper-age-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/b596912f-a556-49c8-8430-0407503f8703)
-![vanilla-rtx-normals-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/287ae890-edeb-4d85-abd1-7860f0316d4f)
-![vanilla-rtx-opus-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/08ce9bda-8695-4524-bfc7-2ef3b1f12186)
+![vanilla-rtx-normals-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/80b522bf-4e7f-402b-9a21-c8535d7e326e)
+![vanilla-rtx-opus-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/cd0ba2ec-611a-4b3e-86a9-3c660324d771)
 ![vanilla-rtx_ice-king's-vault-ray-tracing-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![vanilla-rtx_mangrove-swamp-fog_minecraft-rtx](https://github.com/user-attachments/assets/ba8c3a0e-1d3d-464d-b71c-a3630f1d71a7)
 ![vanilla-rtx_resin_minecraft-rtx](https://github.com/user-attachments/assets/b0771f10-2f50-4ba4-a9e7-5d497a593deb)
