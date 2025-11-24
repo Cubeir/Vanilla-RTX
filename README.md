@@ -31,7 +31,7 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 
 ## Images
 ![vanilla-rtx-copper-age-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/b596912f-a556-49c8-8430-0407503f8703)
-![vanilla-rtx_normals-main-cover-image_minecraft-rtx](https://github.com/user-attachments/assets/303cc003-ee1c-4f73-8adf-b97cfc026701)
+![vanilla-rtx-normals-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/415892b6-cf17-40eb-8fbf-26e602518cb8)
 ![vanilla-rtx-opus-minecraft-rtx-cover-image](https://github.com/user-attachments/assets/cd0ba2ec-611a-4b3e-86a9-3c660324d771)
 ![vanilla-rtx_ice-king's-vault-ray-tracing-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/974cf798-aea6-4723-89a8-49c911e19830)
 ![vanilla-rtx_mangrove-swamp-fog_minecraft-rtx](https://github.com/user-attachments/assets/ba8c3a0e-1d3d-464d-b71c-a3630f1d71a7)
