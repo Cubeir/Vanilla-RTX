@@ -39,8 +39,9 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 ![vanilla-rtx_mangrove-swamp-wild-update_minecraft](https://github.com/user-attachments/assets/4cbacc35-27e2-465b-8b4c-bab5ece9edef)
 ![vanilla-rtx_colosseum-demo-showcase-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/83bc172f-e0bc-4e1a-884d-7a8747f92163)
 ![vanilla-rtx_normals-wall-image_minecraft-rtx](https://github.com/CubeIR/Vanilla-RTX/assets/75272685/7b621735-1e62-40d1-bfbd-a673556443d7)
+![vanilla-rtx-sculk-image](https://github.com/user-attachments/assets/2ffa6369-0e23-4c7d-b64f-4753f0b70071)
 ![vanilla-rtx-normals-stonecutter-design-example](https://github.com/user-attachments/assets/b91cea41-da90-418b-b87e-ece1c2317c10)
-![vanilla-rtx_sculk-wild-update-deepdark_minecraft](https://github.com/user-attachments/assets/5ea09a8e-6416-46d6-a568-58270bbabaf5)
+
 ![vanilla-rtx-desert-atmosphere-example](https://github.com/user-attachments/assets/c108e23d-d8a1-4ae7-8478-d58751afad04)
 
 
