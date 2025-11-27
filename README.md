@@ -28,7 +28,7 @@ This project aims to bring complete ray tracing support for Minecraft's default 
   - **[Vanilla Vibrant Visuals:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.
 
 <p align="center"> <a href="https://apps.microsoft.com/detail/9n6pcrz5v9dj?referrer=appbadge&mode=full">
-  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="350"/>
+  <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="400"/>
   </a> </p>
   
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default ray-traced Minecraft experience for all Bedrock Edition players.  
