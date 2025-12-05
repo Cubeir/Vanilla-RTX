@@ -62,8 +62,8 @@ The [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) simplifies this
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
-- If you've encountered visual glitches, be informed that they are most likely issues tied to the game, everything was already done in this pack to solve as many of them as possible, for an up-to-date list of fixes [visit this page](https://minecraftrtx.net/enhancements).  
-However there are limits to resource packs, and most of the remainig issues you encounter can only be solved by Mojang. They're likely already reported at [bugs.mojang.com](https://bugs.mojang.com/), consider voting for them.
+- If you've encountered visual glitches, be informed that they are most likely issues tied to the game, everything was already done in this pack to solve as many of them as possible, for an up-to-date list of the fixes [visit this page](https://minecraftrtx.net/enhancements).  
+However there are limits to resource packs, and most of the remaining issues you may encounter can only be solved by Mojang. They're likely already reported at [bugs.mojang.com](https://bugs.mojang.com/), consider voting for them.
 
 - Always ensure that world, server or realm resource packs aren't overriding Vanilla RTX to avoid issues.
 
