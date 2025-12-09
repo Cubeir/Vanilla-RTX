@@ -15,7 +15,7 @@ Vanilla RTX Resource Pack for Minecraft with Ray Tracing.
 This project aims to maintain complete ray tracing support for Minecraft's default resources in a manner that integerates seamlessly with the vanilla game while bringing a deservingly canonical look and feel for RTX.
 
 <p align="center"> <a href="https://apps.microsoft.com/detail/9n6pcrz5v9dj?referrer=appbadge&mode=full">
-  <img src="https://github.com/user-attachments/assets/c7d27a86-2da1-4307-ab02-011aefff5728"/>
+<img width="766" height="128" alt="get-from-the-vanilla-rtx-app" src="https://github.com/user-attachments/assets/e5e8a97b-3f40-4fd0-b50a-d220e8d2b423" />
   </a> </p>
 
 - **[Vanilla RTX:](https://mcpedl.com/vanilla-rtx)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
