@@ -1,5 +1,5 @@
 # Vanilla-RTX
-Vanilla RTX Resource Pack for Minecraft with Ray Tracing.  
+Vanilla RTX Resource Packs for Minecraft with Ray Tracing.  
 
 ⚠️ Windows 10/11 - Bedrock Edition +1.21.120 Only.  
 ⚠️ Dedicated DXR-capable hardware required.  
@@ -19,7 +19,7 @@ This project aims to maintain complete ray tracing support for Minecraft's defau
 
 - **[Vanilla RTX:](https://mcpedl.com/vanilla-rtx)** Uses 16x heightmaps with 192x normal maps generated based on height differences.  
 - **[Vanilla RTX Normals:](https://mcpedl.com/vanilla-rtx-normals)** Features handcrafted 16x normal maps instead.
-- **Vanilla RTX Opus:** The composition of both Vanilla RTX & Vanilla RTX Normals. (Coming Very Soon!)
+- **[Vanilla RTX Opus:](http://mcpedl.com/vanilla-rtx-opus)** The composition of both Vanilla RTX & Vanilla RTX Normals.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
 - Compatibility errors of vanilla resources with ray tracing are resolved through the Enhanced option as much as possible. (accessed from resource pack's settings)
@@ -52,12 +52,12 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) galleries.  
 
 ## Usage Tips
-- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress either one of the folders `Vanilla-RTX` or `Vanilla-RTX-Normals` into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import while the game is closed.  
-[Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) automates this process, so you can easily keep the pack updated for the latest version of the game.
+- For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress any of the folders' contents into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import while the game is closed.  
+[Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) automates this process and shows you whether updates are available, allowing you to keep the resource packs up-to-date for the latest version of the game with ease.
 
 - Activation issues: There is a problem that will keep Vanilla RTX from loading. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while inside a world.  
 Workaround: While in the main menu, head to video settings, turn on `Allow In-Game Graphics Mode Switching` then join any world, enable ray tracing from the dropdown graphics mode menu in video settings (you may experience issues at first), now exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again.
-The [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) simplifies this by launching the game with ray tracing pre-enabled. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
+The [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) circumvents all of this by launching the game with ray tracing pre-enabled. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
@@ -77,11 +77,10 @@ Disclaimers:
 Not associated or affiliated with Mojang Studios or Nvidia.  
 
 The license file linked above does not apply to any original Minecraft art resource.  
-
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://aka.ms/resourcepacktemplate)) to function.
 This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
 It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations, without altering their in-game appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
 
 ### Credits
 Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
-nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Ernesto cuellar, Bastha, Plugin, Jayssizle, Drackae, Pizza4001, PotatoHour, Kittygamer123, Lanaismymommy, TKbn, James Kelly, Aaerox, Byrn, OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, Dylan, Kyo Don, jessehall(Maneating-Zebras), The_Asa_Games, Charles D Powell, Pete, jamesyoung, Dan Martin (Weeblerned), Sebastian Casas, GabrielGarig, Nash Knowlden, Dr._.Niki, Bryan Tepox, DomoTurbulence, Rory, J, James Beaulieu, hipo, Jack Brandham, Commander Grub, Guzozvak —— and to everyone who has supported this project in any way along the way.
+nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Bastha, Plugin, Jayssizle, Drackae, PotatoHour, Kittygamer123, Lanaismymommy, TKbn, James Kelly, Aaerox, jessehall(Maneating-Zebras), Byrn, OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, Dylan, Kyo Don, The_Asa_Games, Pete, Charles D Powell, jamesyoung, Bryan Tepox, Sebastian Casas, GabrielGarig, Nash Knowlden, Commander Grub, Guzozvak, DomoTurbulence, Rory, James Beaulieu, imcalledsebastian, mickael, Ernesto cuellar —— and to everyone who has supported this project in any way along the way.
