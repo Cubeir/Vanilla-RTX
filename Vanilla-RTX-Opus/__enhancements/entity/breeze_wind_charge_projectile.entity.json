@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:breeze_wind_charge_projectile",
+            "materials": {
+                "default": "entity_alphatest"
+            }
+        }
+    }
+}

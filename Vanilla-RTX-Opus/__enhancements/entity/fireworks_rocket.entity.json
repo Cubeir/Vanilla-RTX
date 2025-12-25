@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:fireworks_rocket",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/fireworks"
+      },
+      "geometry": {
+        "default": "geometry.fireworks_rocket"
+      },
+      "render_controllers": [
+        "controller.render.fireworks_rocket"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "soul_sand",
+    "metalness_emissive_roughness": "soul_sand_mer",
+    "normal": "soul_sand_normal"
+  }
+}

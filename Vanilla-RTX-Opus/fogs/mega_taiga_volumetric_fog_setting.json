@@ -1,0 +1,79 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "minecraft_rtx:fog_mega_taiga"
+    },
+    "distance": {
+      "water": {
+        "fog_start": 0.4675,
+        "fog_end": 0.8203125,
+        "fog_color": "#2d6d77",
+        "render_distance_type": "render",
+        "transition_fog": {
+          "init_fog": {
+            "fog_start": 0.125,
+            "fog_end": 0.25,
+            "fog_color": "#2d6d77",
+            "render_distance_type": "render"
+          },
+          "min_percent": 0.25,
+          "mid_seconds": 5,
+          "mid_percent": 0.6,
+          "max_seconds": 30
+        }
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.22,
+          "max_density_height": 58,
+          "zero_density_height": 256
+        },
+        "weather": {
+          "max_density": 0.24,
+          "uniform": true
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [
+            0.00462,
+            0.004,
+            0.0059
+          ],
+          "absorption": [
+            0.06946,
+            0.07708,
+            0.07548
+          ]
+        },
+        "water": {
+          "scattering": [
+            0.000225,
+            0.0095,
+            0.0114
+          ],
+          "absorption": [
+            0.49,
+            0.246399,
+            0.192212
+          ]
+        },
+        "cloud": {
+          "scattering": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "absorption": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      }
+    }
+  }
+}

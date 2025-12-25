@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "stonecutter_side",
+    "metalness_emissive_roughness": "stonecutter_side_mer",
+    "normal": "stonecutter_side_normal"
+  }
+}

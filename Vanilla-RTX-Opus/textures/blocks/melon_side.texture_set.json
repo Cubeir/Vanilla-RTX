@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "melon_side",
+    "metalness_emissive_roughness": "melon_side_mer",
+    "normal": "melon_side_normal"
+  }
+}

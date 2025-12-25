@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "flower_houstonia",
+    "metalness_emissive_roughness": "flower_houstonia_mer",
+    "normal": "flower_houstonia_normal"
+  }
+}

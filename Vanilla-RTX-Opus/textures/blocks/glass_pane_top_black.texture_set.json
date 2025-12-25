@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "glass_pane_top_black",
+    "metalness_emissive_roughness": "glass_pane_top_black_mer",
+    "normal": "glass_pane_top_black_normal"
+  }
+}

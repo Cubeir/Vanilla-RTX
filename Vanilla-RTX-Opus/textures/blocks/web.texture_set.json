@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "web",
+    "metalness_emissive_roughness": "web_mer",
+    "normal": "web_normal"
+  }
+}

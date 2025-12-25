@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "torchflower_crop_stage_0",
+    "metalness_emissive_roughness": "torchflower_crop_stage_0_mer",
+    "normal": "torchflower_crop_stage_0_normal"
+  }
+}

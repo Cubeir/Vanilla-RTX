@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "hanging_roots",
+    "metalness_emissive_roughness": "hanging_roots_mer",
+    "normal": "hanging_roots_normal"
+  }
+}

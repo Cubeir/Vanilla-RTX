@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "white_candle_lit",
+    "metalness_emissive_roughness": "white_candle_lit_mer",
+    "normal": "white_candle_lit_normal"
+  }
+}

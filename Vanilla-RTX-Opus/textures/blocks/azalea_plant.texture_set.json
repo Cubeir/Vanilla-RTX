@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "azalea_plant",
+    "metalness_emissive_roughness": "azalea_plant_mer",
+    "normal": "azalea_plant_normal"
+  }
+}

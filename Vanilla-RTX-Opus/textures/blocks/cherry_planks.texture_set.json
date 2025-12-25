@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cherry_planks",
+    "metalness_emissive_roughness": "cherry_planks_mer",
+    "normal": "cherry_planks_normal"
+  }
+}

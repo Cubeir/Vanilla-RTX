@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "firefly_bush_firefly",
+    "metalness_emissive_roughness": "firefly_bush_firefly_mer",
+    "normal": "firefly_bush_firefly_normal"
+  }
+}

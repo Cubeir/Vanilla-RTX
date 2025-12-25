@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "calcite",
+    "metalness_emissive_roughness": "calcite_mer",
+    "normal": "calcite_normal"
+  }
+}

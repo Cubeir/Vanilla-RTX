@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "dripstone_block",
+    "metalness_emissive_roughness": "dripstone_block_mer",
+    "normal": "dripstone_block_normal"
+  }
+}

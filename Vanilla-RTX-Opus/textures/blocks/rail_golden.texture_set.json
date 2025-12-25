@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "rail_golden",
+    "metalness_emissive_roughness": "rail_golden_mer",
+    "normal": "rail_golden_normal"
+  }
+}

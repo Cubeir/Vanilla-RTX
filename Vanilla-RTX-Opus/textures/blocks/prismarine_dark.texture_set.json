@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "prismarine_dark",
+    "metalness_emissive_roughness": "prismarine_dark_mer",
+    "normal": "prismarine_dark_normal"
+  }
+}

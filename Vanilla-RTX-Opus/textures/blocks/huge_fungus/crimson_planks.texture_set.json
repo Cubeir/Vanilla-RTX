@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "crimson_planks",
+    "metalness_emissive_roughness": "crimson_planks_mer",
+    "normal": "crimson_planks_normal"
+  }
+}

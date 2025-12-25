@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.120",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:warped_forest"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_rtx:fog_warped_forest"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#905957"
+      },
+      "minecraft:ambient_sounds": {
+        "addition": {
+          "asset": "ambient.warped_forest.additions",
+          "chance": 0.0111
+        },
+        "loop": "ambient.warped_forest.loop",
+        "mood": "ambient.warped_forest.mood",
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
+      },
+      "minecraft:precipitation": {
+        "blue_spores": 0.25
+      },
+      "minecraft:biome_music": {
+        "music_definition": ""
+      }
+    }
+  }
+}

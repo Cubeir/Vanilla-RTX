@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "wildflowers",
+    "metalness_emissive_roughness": "wildflowers_mer",
+    "normal": "wildflowers_normal"
+  }
+}

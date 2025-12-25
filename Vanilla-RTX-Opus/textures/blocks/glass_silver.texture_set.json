@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "glass_silver",
+    "metalness_emissive_roughness": "glass_silver_mer",
+    "normal": "glass_silver_normal"
+  }
+}

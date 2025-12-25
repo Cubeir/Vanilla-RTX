@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "observer_front",
+    "metalness_emissive_roughness": "observer_front_mer",
+    "normal": "observer_front_normal"
+  }
+}

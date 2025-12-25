@@ -1,0 +1,43 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:warden",
+            "materials": {
+                "default": "entity_alphatest",
+                "bioluminescent_layer": "entity_alphatest",
+                "glow": "charged_creeper",
+                "blend": "entity_alphablend"
+            },
+            "textures": {
+                "default": "textures/entity/warden/warden",
+                "bioluminescent_layer": "textures/entity/warden/warden_bioluminescent_layer",
+                "spots_0": "textures/entity/warden/warden_pulsating_spots_0",
+                "spots_1": "textures/entity/warden/warden_pulsating_spots_1",
+                "spots_2": "textures/entity/warden/warden_pulsating_spots_2",
+                "tendrils": "textures/entity/warden/warden_tendrils",
+                "heart": "textures/entity/warden/warden_heart",
+                "glow": "textures/entity/warden/warden_glow_layer"
+              },
+            "geometry": {
+                "default": "geometry.warden",
+                "default_bioluminescent": "geometry.warden.bioluminescent_layer",
+                "default_glow": "geometry.warden.glow_layer"
+            },
+            "render_controllers": [
+                "controller.render.warden",
+                "controller.render.warden_bioluminescent_layer",
+                "controller.render.warden_spots_1",
+                "controller.render.warden_spots_2",
+                "controller.render.warden_tendrils",
+                "controller.render.warden_heart",
+                "controller.render.warden_heart_glow",
+                "controller.render.warden_pulsating_glow_1",
+                "controller.render.warden_pulsating_glow_2"
+            ],
+            "scripts": {
+                "should_update_bones_and_effects_offscreen": "1.0"
+            }
+        }
+    }
+}

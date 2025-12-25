@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "crimson_fungus",
+    "metalness_emissive_roughness": "crimson_fungus_mer",
+    "normal": "crimson_fungus_normal"
+  }
+}

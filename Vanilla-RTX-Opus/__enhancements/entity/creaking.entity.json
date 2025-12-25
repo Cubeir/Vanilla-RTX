@@ -1,0 +1,27 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:creaking",
+            "materials": {
+                "default": "entity_alphatest",
+                "eyes": "charged_creeper"
+            },
+            "geometry": {
+                "default": "geometry.creaking",
+                "eyes": "geometry.creaking.eyes"
+            },
+            "textures": {
+                "default": "textures/entity/creaking/creaking",
+                "eyes": "textures/entity/creaking/creaking_eyes"
+            },
+            "scripts": {
+                "should_update_bones_and_effects_offscreen": "1.0"
+            },
+            "render_controllers": [
+                "controller.render.creaking",
+                "controller.render.creaking_eyes"
+            ]
+        }
+    }
+}

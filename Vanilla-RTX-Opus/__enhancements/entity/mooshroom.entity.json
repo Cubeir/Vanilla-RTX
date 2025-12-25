@@ -1,0 +1,22 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:mooshroom",
+            "min_engine_version": "1.8.0",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/entity/cow/mooshroom_v2",
+                "brown": "textures/entity/cow/brown_mooshroom_v2"
+            },
+            "geometry": {
+                "default": "geometry.mooshroom.v2"
+            },
+            "render_controllers": [
+                "controller.render.mooshroom"
+            ]
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "red_sandstone_normal",
+    "metalness_emissive_roughness": "red_sandstone_normal_mer",
+    "normal": "red_sandstone_normal_normal"
+  }
+}

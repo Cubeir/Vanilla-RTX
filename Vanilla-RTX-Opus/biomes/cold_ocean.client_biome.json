@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.120",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "minecraft:cold_ocean"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "minecraft_rtx:fog_cold_ocean"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#2080C9"
+      },
+      "minecraft:biome_music": {
+        "underwater_music": true
+      },
+      "minecraft:ambient_sounds": {
+        "underwater_addition": {
+          "asset": "ambient.underwater.additions",
+          "chance": 0.01
+        },
+        "underwater_loop": "ambient.underwater.loop"
+      }
+    }
+  }
+}

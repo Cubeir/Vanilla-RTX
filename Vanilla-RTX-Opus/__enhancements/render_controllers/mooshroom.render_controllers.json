@@ -1,0 +1,23 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.mooshroom": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.default",
+            "Texture.brown"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "part_visibility": [
+        { "headmushroom": "!query.is_baby" },
+        { "bodymushroom0": "!query.is_baby" },
+        { "bodymushroom1": "!query.is_baby" }
+      ],
+      "materials": [ { "*": "Material.default" } ],
+      "textures": [ "Array.skins[query.variant]" ]
+    }
+  }
+}

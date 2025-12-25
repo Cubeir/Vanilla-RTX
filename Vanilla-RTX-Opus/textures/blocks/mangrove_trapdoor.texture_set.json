@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mangrove_trapdoor",
+    "metalness_emissive_roughness": "mangrove_trapdoor_mer",
+    "normal": "mangrove_trapdoor_normal"
+  }
+}

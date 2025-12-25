@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "planks_jungle",
+    "metalness_emissive_roughness": "planks_jungle_mer",
+    "normal": "planks_jungle_normal"
+  }
+}

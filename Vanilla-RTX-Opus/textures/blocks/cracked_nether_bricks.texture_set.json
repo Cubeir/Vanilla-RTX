@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cracked_nether_bricks",
+    "metalness_emissive_roughness": "cracked_nether_bricks_mer",
+    "normal": "cracked_nether_bricks_normal"
+  }
+}

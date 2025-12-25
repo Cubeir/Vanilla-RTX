@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "spore_blossom",
+    "metalness_emissive_roughness": "spore_blossom_mer",
+    "normal": "spore_blossom_normal"
+  }
+}

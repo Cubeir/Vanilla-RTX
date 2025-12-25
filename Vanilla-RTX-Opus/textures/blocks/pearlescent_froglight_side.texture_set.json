@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "pearlescent_froglight_side",
+    "metalness_emissive_roughness": "pearlescent_froglight_side_mer",
+    "normal": "pearlescent_froglight_side_normal"
+  }
+}

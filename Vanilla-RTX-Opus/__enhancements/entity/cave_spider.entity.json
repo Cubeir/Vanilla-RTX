@@ -1,0 +1,24 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:cave_spider",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "spider",
+        "invisible": "charged_creeper"
+      },
+      "textures": {
+        "default": "textures/entity/spider/cave_spider"
+      },
+      "geometry": {
+        "default": "geometry.spider.v1.8",
+        "invisible": "geometry.spider.v1.8.invisible"
+      },
+      "render_controllers": [
+        "controller.render.spider",
+        "controller.render.spider_invisible"
+      ]
+    }
+  }
+}

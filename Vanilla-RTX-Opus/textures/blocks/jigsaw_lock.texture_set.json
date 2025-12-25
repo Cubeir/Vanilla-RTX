@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "jigsaw_lock",
+    "metalness_emissive_roughness": "jigsaw_lock_mer",
+    "normal": "jigsaw_lock_normal"
+  }
+}

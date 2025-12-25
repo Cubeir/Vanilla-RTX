@@ -1,0 +1,87 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.block_minecart.v1.8",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 6,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "bottom",
+					"pivot": [0, 20, 0],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-10, 12, -19.5], "size": [20, 16, 2], "inflate": -0.005, "uv": [0, 10]}
+					]
+				},
+				{
+					"name": "block",
+					"parent": "bottom",
+					"pivot": [0.025, 20.025, -9.975],
+					"cubes": [
+						{"origin": [-7.975, 12, -17.96], "size": [16.025, 16.025, 16.025], "inflate": -2, "pivot": [0.025, 20.025, -9.975], "rotation": [-90, 0, 0], "uv": [0, 32], "mirror": true}
+					]
+				},
+				{
+					"name": "raster_hider",
+					"parent": "bottom",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-8, 12, -18],
+							"size": [16.05, 16.05, 16.05],
+							"inflate": -1.75,
+							"pivot": [0.025, 20.025, -9.975],
+							"rotation": [-90, 0, 0],
+							"uv": {
+								"north": {"uv": [16, 32], "uv_size": [-16, 16]},
+								"east": {"uv": [16, 32], "uv_size": [-16, 16]},
+								"south": {"uv": [16, 32], "uv_size": [-16, 16]},
+								"west": {"uv": [16, 32], "uv_size": [-16, 16]},
+								"up": {"uv": [16, 32], "uv_size": [-16, 16]},
+								"down": {"uv": [16, 48], "uv_size": [-16, -16]}
+							}
+						}
+					]
+				},
+				{
+					"name": "back",
+					"parent": "bottom",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 15.495, -21], "size": [16, 8, 2], "pivot": [9, 13, -20], "rotation": [-90, 0, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "front",
+					"parent": "bottom",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [10, 29.495, -21], "size": [16, 8, 2], "pivot": [9, 27, -20], "rotation": [-90, 0, -180], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "right",
+					"parent": "bottom",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-24, 22.495, -28], "size": [16, 8, 2], "pivot": [-16, 20, -20], "rotation": [-90, 0, 90], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "left",
+					"parent": "bottom",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-6, 22.495, -14], "size": [16, 8, 2], "pivot": [2, 20, -20], "rotation": [-90, 0, -90], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "command_block_back",
+    "metalness_emissive_roughness": "command_block_back_mer",
+    "normal": "command_block_back_normal"
+  }
+}

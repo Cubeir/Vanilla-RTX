@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "kelp_top_bulb",
+    "metalness_emissive_roughness": "kelp_top_bulb_mer",
+    "normal": "kelp_top_bulb_normal"
+  }
+}

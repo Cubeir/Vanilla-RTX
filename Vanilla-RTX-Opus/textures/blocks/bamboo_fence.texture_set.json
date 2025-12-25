@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "bamboo_fence",
+    "metalness_emissive_roughness": "bamboo_fence_mer",
+    "normal": "bamboo_fence_normal"
+  }
+}

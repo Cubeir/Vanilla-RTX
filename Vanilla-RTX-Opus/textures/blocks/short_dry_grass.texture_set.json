@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "short_dry_grass",
+    "metalness_emissive_roughness": "short_dry_grass_mer",
+    "normal": "short_dry_grass_normal"
+  }
+}

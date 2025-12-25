@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "itemframe_background",
+    "metalness_emissive_roughness": "itemframe_background_mer",
+    "normal": "itemframe_background_normal"
+  }
+}

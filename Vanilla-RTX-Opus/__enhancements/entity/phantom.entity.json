@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:phantom",
+      "materials": {
+        "default": "phantom",
+        "invisible": "charged_creeper"
+      },
+      "textures": {
+        "default": "textures/entity/phantom"
+      },
+      "geometry": {
+        "default": "geometry.phantom",
+        "eyes": "geometry.phantom.eyes"
+      },
+      "scripts": {
+        "should_update_bones_and_effects_offscreen": "1.0"
+      },
+      "animations": {
+        "phantom_base_pose": "animation.phantom.base_pose"
+      },
+      "render_controllers": [
+        "controller.render.phantom",
+        "controller.render.phantom.eyes"
+      ]
+    }
+  }
+}

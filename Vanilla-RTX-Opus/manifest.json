@@ -1,0 +1,41 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Vanilla RTX Opus",
+    "description": "  The ultimate ray-traced Minecraft graphics, featuring an unprecedented level of detail!",
+    "uuid": "7c87f859-4d79-4d51-8887-bf450b2b2bfa",
+    "pack_scope": "any",
+    "version": [
+      1,
+      22,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      100
+    ]
+  },
+  "modules": [
+    {
+      "description": "vanilla_rtx_opus",
+      "type": "resources",
+      "uuid": "be0b22f0-ad13-4bbd-81ba-b457fd9e38b8",
+      "version": [
+        1,
+        22,
+        0
+      ]
+    }
+  ],
+  "capabilities": [
+    "raytraced"
+  ],
+  "metadata": {
+    "authors": [
+      "Cubeir"
+    ],
+    "license": "https://github.com/Cubeir/Vanilla-RTX/blob/master/LICENSE.txt",
+    "url": "http://curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx-opus"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "weathered_lightning_rod",
+    "metalness_emissive_roughness": "weathered_lightning_rod_mer",
+    "normal": "weathered_lightning_rod_normal"
+  }
+}

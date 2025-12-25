@@ -1,0 +1,35 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.magma_cube": {
+      "geometry": "Geometry.default",
+      "materials": [
+         { "*": "Material.default" },
+         { "lavaCore_raytraced": "Material.opaque" },
+         { "eye_1": "Material.glow" },
+         { "eye_2": "Material.glow" }
+        ],
+      "textures": [ "Texture.default" ],
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "ignore_lighting": true
+    },
+    "controller.render.magma_cube_core": {
+      "geometry": "Geometry.core",
+      "materials": [ { "*": "Material.glow" } ],
+      "textures": [ "Texture.default" ],
+      "light_color_multiplier": 8.0,
+      "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "ignore_lighting": true
+    }
+  }
+}

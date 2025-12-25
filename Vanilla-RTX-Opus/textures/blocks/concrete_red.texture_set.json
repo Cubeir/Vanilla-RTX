@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "concrete_red",
+    "metalness_emissive_roughness": "concrete_red_mer",
+    "normal": "concrete_red_normal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "dried_ghast_state_1_bottom",
+    "metalness_emissive_roughness": "dried_ghast_state_1_bottom_mer",
+    "normal": "dried_ghast_state_1_bottom_normal"
+  }
+}
