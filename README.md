@@ -24,10 +24,11 @@ This project maintains full ray tracing support for Minecraft’s default resour
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
 - Compatibility errors of vanilla resources with ray tracing are resolved through [Enhancements](https://minecraftrtx.net/enhancements) as much as possible.
 - The packs are regularly updated for full coverage of the latest Minecraft updates.  
-- Related Projects:
+- Related Projects & Extensions:
   - **[Vanilla RTX App (Recommended):](https://github.com/Cubeir/Vanilla-RTX-App)** The companion app for Minecraft RTX that lets you access everything easily, adjust fog, lighting & materials in PBR resource packs, with automated package updates for Vanilla RTX and much more... 
-  - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties for ray tracing.
-  - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to extend ray tracing support to content available under the Minecraft: Education Edition toggle.
+  - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties.
+  - **[Chemistry RTX:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to extend ray tracing support to content available under the Minecraft: Education Edition toggle.
+  - **[Creative RTX:](http://mcpedl.com/creative-rtx):** Replaces all Education Edition Element block textures with high definition and exotic materials for creative builds using ray tracing.
   - **[Vanilla Vibrant Visuals:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.  
   
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default ray-traced Minecraft experience for all Bedrock Edition players.  
