@@ -12,7 +12,7 @@ Vanilla RTX Resource Packs for Minecraft with Ray Tracing.
 
 ## Description
 
-This project aims to maintain complete ray tracing support for Minecraft's default resources in a manner that integerates seamlessly with the vanilla game while bringing a deservingly canonical look and feel for RTX.
+This project aims to maintain complete ray tracing support for Minecraft's default resources in a manner that integerates seamlessly with the vanilla game while bringing together a deservingly canonical art direction for RTX.
 
 <p align="center"> <a href="https://apps.microsoft.com/detail/9n6pcrz5v9dj?referrer=appbadge&mode=full">
 <img width="766" height="128" alt="get-from-the-vanilla-rtx-app" src="https://github.com/user-attachments/assets/3cc1ff33-12bd-4bea-a7ef-e48ff5f36d61" /> </p>
@@ -22,12 +22,12 @@ This project aims to maintain complete ray tracing support for Minecraft's defau
 - **[Vanilla RTX Opus:](http://mcpedl.com/vanilla-rtx-opus)** The composition of both Vanilla RTX & Vanilla RTX Normals.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
-- Compatibility errors of vanilla resources with ray tracing are resolved through the Enhanced option as much as possible. (accessed from resource pack's settings)
+- Compatibility errors of vanilla resources with ray tracing are resolved through [Enhancements](https://minecraftrtx.net/enhancements) as much as possible.
 - The packs are regularly updated for full coverage of the latest Minecraft updates.  
 - Related Projects:
-  - **[Vanilla RTX App (Recommended):](https://github.com/Cubeir/Vanilla-RTX-app)** A companion app that lets you access Minecraft with RTX easily, adjust fog, lighting & materials in any RTX resource pack, with automated package updates and more... 
+  - **[Vanilla RTX App (Recommended):](https://github.com/Cubeir/Vanilla-RTX-App)** The companion app for Minecraft RTX that lets you access everything easily, adjust fog, lighting & materials in PBR resource packs, with automated package updates for Vanilla RTX and much more... 
   - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties for ray tracing.
-  - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to add ray tracing support to the content available under Minecraft: Education Edition toggle.
+  - **[Chemistry RTX Extensions:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to extend ray tracing support to content available under the Minecraft: Education Edition toggle.
   - **[Vanilla Vibrant Visuals:](https://mcpedl.com/vanilla-pbr)** A branch of Vanilla RTX for Vibrant Visuals graphics mode usable on a wider range of hardware.  
   
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default ray-traced Minecraft experience for all Bedrock Edition players.  
@@ -66,6 +66,14 @@ However there are limits to resource packs, and most of the remaining issues you
 
 - Always ensure that world, server or realm resource packs aren't overriding Vanilla RTX to avoid issues.
 
+- If you're using a dual-GPU setup (e.g. a Laptop with an Integrated GPU) make sure Minecraft is set to use High Performance GPU preference.  
+
+- If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.  
+
+- If textures are getting randomly swapped, make sure your driver's VSync is enabled for Minecraft (i.e. through Nvidia Control Panel App or AMD Radeon Software).  
+
+- For RTX 50-series users, upscaling (DLSS) cannot be enabled because the game ships with an outdated DLSS file, you can easily upgrade DLSS through the Vanilla RTX App to solve this issue.  
+
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
 
@@ -78,9 +86,9 @@ Not associated or affiliated with Mojang Studios or Nvidia.
 
 The license file linked above does not apply to any original Minecraft art resource.  
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://aka.ms/resourcepacktemplate)) to function.
-This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base game's resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
-It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations, without altering their in-game appearance. For instance, the Enhanced option which addresses a wide range of compatibility issues with Minecraft’s vanilla resources in ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
+This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
+It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues or limitations, without altering their in-game appearance. For instance, the optional enhancements which addresses a wide range of compatibility issues of Minecraft’s vanilla resources with ray tracing graphics mode, [learn more](https://minecraftrtx.net/enhancements).
 
 ### Credits
 Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
-nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Bastha, Plugin, Jayssizle, Drackae, PotatoHour, Kittygamer123, Lanaismymommy, TKbn, James Kelly, Aaerox, jessehall(Maneating-Zebras), Byrn, OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, Dylan, Kyo Don, The_Asa_Games, Pete, Charles D Powell, jamesyoung, Bryan Tepox, Sebastian Casas, GabrielGarig, Nash Knowlden, Commander Grub, Guzozvak, DomoTurbulence, Rory, James Beaulieu, imcalledsebastian, mickael, Ernesto cuellar —— and to everyone who has supported this project in any way along the way.
+nattyhob, EchoQuasar, Miriel, Big Plonk, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, Giuseppe DiMarca, Jordan, David Sabrowsky, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Bastha, Plugin, Jayssizle, Drackae, PotatoHour, Kittygamer123, Byrn, Lanaismymommy, TKbn, James Kelly, Aaerox, jessehall(Maneating-Zebras), OmarVillegas, Isttret, Superluminal, Travis Bishop, ObsydianX, Dylan, Kyo Don, The_Asa_Games, Pete, GabrielGarig, Charles D Powell, jamesyoung, Bryan Tepox, Sebastian Casas, Nash Knowlden, DomoTurbulence, Rory, James Beaulieu, Commander Grub, Guzozvak, Joseph, mickael, Ernesto cuellar, X3 —— and to everyone who has supported this project in any way along the way.
