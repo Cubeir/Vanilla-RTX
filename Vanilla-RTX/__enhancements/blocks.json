@@ -167,6 +167,9 @@
     "dandelion": {
         "blockshape": "cross_texture"
     },
+    "golden_dandelion": {
+        "blockshape": "cross_texture"
+    },
     "nether_sprouts": {
         "blockshape": "cross_texture"
     },

@@ -1,17 +1,64 @@
 {
-  "format_version": "1.8.0",
-  "minecraft:client_entity": {
-    "description": {
-      "identifier": "minecraft:cat",
-      "materials": {
-        "default": "wolf"
-      },
-      "geometry": {
-        "default": "geometry.cat"
-      },
-      "render_controllers": [
-        "controller.render.cat"
-      ]
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:cat",
+            "materials": {
+                "default": "wolf"
+            },
+            "textures": {
+                "white": "textures/entity/cat/white",
+                "black": "textures/entity/cat/tuxedo",
+                "red": "textures/entity/cat/redtabby",
+                "siamese": "textures/entity/cat/siamesecat",
+                "british": "textures/entity/cat/britishshorthair",
+                "calico": "textures/entity/cat/calico",
+                "persian": "textures/entity/cat/persian",
+                "ragdoll": "textures/entity/cat/ragdoll",
+                "tabby": "textures/entity/cat/tabby",
+                "jellie": "textures/entity/cat/jellie",
+                "all_black": "textures/entity/cat/allblackcat",
+                "white_tame": "textures/entity/cat/white_tame",
+                "black_tame": "textures/entity/cat/tuxedo_tame",
+                "red_tame": "textures/entity/cat/redtabby_tame",
+                "siamese_tame": "textures/entity/cat/siamesecat_tame",
+                "british_tame": "textures/entity/cat/britishshorthair_tame",
+                "calico_tame": "textures/entity/cat/calico_tame",
+                "persian_tame": "textures/entity/cat/persian_tame",
+                "ragdoll_tame": "textures/entity/cat/ragdoll_tame",
+                "tabby_tame": "textures/entity/cat/tabby_tame",
+                "all_black_tame": "textures/entity/cat/allblackcat_tame",
+                "jellie_tame": "textures/entity/cat/jellie_tame",
+                "baby_white": "textures/entity/cat/white_baby",
+                "baby_black": "textures/entity/cat/tuxedo_baby",
+                "baby_red": "textures/entity/cat/redtabby_baby",
+                "baby_siamese": "textures/entity/cat/siamese_baby",
+                "baby_british": "textures/entity/cat/britishshorthair_baby",
+                "baby_calico": "textures/entity/cat/calico_baby",
+                "baby_persian": "textures/entity/cat/persian_baby",
+                "baby_ragdoll": "textures/entity/cat/ragdoll_baby",
+                "baby_tabby": "textures/entity/cat/tabby_baby",
+                "baby_jellie": "textures/entity/cat/jellie_baby",
+                "baby_all_black": "textures/entity/cat/allblackcat_baby",
+                "baby_white_tame": "textures/entity/cat/white_tame_baby",
+                "baby_black_tame": "textures/entity/cat/tuxedo_tame_baby",
+                "baby_red_tame": "textures/entity/cat/redtabby_tame_baby",
+                "baby_siamese_tame": "textures/entity/cat/siamese_tame_baby",
+                "baby_british_tame": "textures/entity/cat/britishshorthair_tame_baby",
+                "baby_calico_tame": "textures/entity/cat/calico_tame_baby",
+                "baby_persian_tame": "textures/entity/cat/persian_tame_baby",
+                "baby_ragdoll_tame": "textures/entity/cat/ragdoll_tame_baby",
+                "baby_tabby_tame": "textures/entity/cat/tabby_tame_baby",
+                "baby_all_black_tame": "textures/entity/cat/allblackcat_tame_baby",
+                "baby_jellie_tame": "textures/entity/cat/jellie_tame_baby"
+            },
+            "geometry": {
+                "default": "geometry.cat",
+                "baby": "geometry.cat.baby"
+            },
+            "render_controllers": [
+                "controller.render.cat.v2"
+            ]
+        }
     }
-  }
 }
