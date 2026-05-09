@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mangrove_shelf",
+    "metalness_emissive_roughness": "mangrove_shelf_mer",
+    "normal": "mangrove_shelf_normal"
+  }
+}
