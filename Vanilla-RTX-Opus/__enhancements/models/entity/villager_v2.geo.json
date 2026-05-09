@@ -366,31 +366,6 @@
 			},
 			"bones": [
 				{
-					"name": "head",
-					"pivot": [1, 8, 0],
-					"cubes": [
-						{"origin": [-4, 8, -3.5], "size": [8, 8, 7], "uv": [0, 0]}
-					]
-				},
-				{
-					"name": "helmet",
-					"parent": "head",
-					"pivot": [1, 12, 0]
-				},
-				{
-					"name": "brim",
-					"parent": "head",
-					"pivot": [1, 12.5, 0]
-				},
-				{
-					"name": "nose",
-					"parent": "head",
-					"pivot": [1, 10, -4],
-					"cubes": [
-						{"origin": [-1, 8, -4.5], "size": [2, 2, 1], "uv": [23, 0]}
-					]
-				},
-				{
 					"name": "body",
 					"pivot": [1, 5.25, 0],
 					"cubes": [
@@ -398,16 +373,16 @@
 					]
 				},
 				{
-					"name": "head2",
+					"name": "head",
 					"parent": "body",
-					"pivot": [1, 8, 0],
+					"pivot": [0, 8, 0],
 					"cubes": [
 						{"origin": [-4, 8, -3.5], "size": [8, 8, 7], "uv": [0, 0]}
 					]
 				},
 				{
-					"name": "nose2",
-					"parent": "head2",
+					"name": "nose",
+					"parent": "head",
 					"pivot": [1, 10, -4],
 					"cubes": [
 						{"origin": [-1, 8, -4.5], "size": [2, 2, 1], "uv": [23, 0]}
