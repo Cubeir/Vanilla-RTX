@@ -71,10 +71,6 @@ However there are limits to resource packs, and most of the remaining issues you
 
 - If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.  
 
-- If textures are getting randomly swapped, make sure your driver's VSync is enabled for Minecraft (i.e. through Nvidia Control Panel App or AMD Radeon Software).  
-
-- For RTX 50-series users, upscaling (DLSS) cannot be enabled because the game ships with an outdated DLSS file, you can easily upgrade DLSS through the Vanilla RTX App to solve this issue.  
-
 ## Copyright
 [View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
 
@@ -87,9 +83,5 @@ Not associated or affiliated with Mojang Studios or Nvidia.
 
 The license file linked above does not apply to any original Minecraft art resource.  
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://aka.ms/resourcepacktemplate)) to function.
-This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base resources as referenced by ```texture_set.json``` files. As time passes this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
+This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base resources as referenced by ```texture_set.json``` files. Over time, this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
 It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues and limitations without altering their in-game appearance. For instance, the included [enhancements](https://minecraftrtx.net/enhancements) which addresses a wide range of compatibility issues of Minecraft’s vanilla resources with ray tracing graphics mode.
-
-### Credits
-Created and maintained with ❤️‍🔥 by Cubeir — special thanks to:
-nattyhob, EchoQuasar, Miriel, Big Plonk, Giuseppe DiMarca, Jordan, Cody Starr, Dabadking, Spaceowl, Rolando Dojer, Willström, Bastha, Plugin, Jayssizle, Drackae, PotatoHour, Kittygamer123, Lanaismymommy, James Kelly, Aaerox, jessehall(Maneating-Zebras), Joseph, Byrn, OmarVillegas, Isttret, Nash Knowlden, Superluminal, Travis Bishop, Dylan, Kyo Don, Commander Grub, The_Asa_Games, Charles D Powell, jamesyoung, Nogi Keita, Koiboi, DomoTurbulence, Rory, James Beaulieu, Nick Da Fox, Healor, Richard Anderson (Rich), Jacob, Luxalios, Oxbow117, Mono234_Glitch, Austin Mullings, mIbU, DrawVid, Spikey ᵈᵉʳ ᶠᵘᶜʰˢ, PrepareForBeans, Leo Montenero —— and to everyone who has supported this project in any way along the way.
