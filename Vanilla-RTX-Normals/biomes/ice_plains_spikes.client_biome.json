@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_ice_plains_spikes"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#14559b"
+        "surface_color": "#004999"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

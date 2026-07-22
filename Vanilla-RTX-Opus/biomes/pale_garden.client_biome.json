@@ -12,7 +12,7 @@
         "fog_identifier": "minecraft_rtx:fog_pale_garden"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#0059BF"
+        "surface_color": "#0C4F9B"
       },
       "minecraft:biome_music": {
         "volume_multiplier": 0

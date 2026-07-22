@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_mushroom_island"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#8a8997"
+        "surface_color": "#585496"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

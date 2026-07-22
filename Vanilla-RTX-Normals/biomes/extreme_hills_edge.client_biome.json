@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_extreme_hills_edge"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#045cd5"
+        "surface_color": "#005BD3"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

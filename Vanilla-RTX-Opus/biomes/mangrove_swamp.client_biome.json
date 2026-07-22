@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_mangrove_swamp"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#238E72"
+        "surface_color": "#007759"
       },
       "minecraft:foliage_appearance": {
         "color": {

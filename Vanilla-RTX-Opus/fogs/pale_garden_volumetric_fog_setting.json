@@ -39,12 +39,12 @@
     "volumetric": {
       "density": {
         "air": {
-          "max_density": 0.15,
+          "max_density": 0.2,
           "max_density_height": 62,
           "zero_density_height": 288
         },
         "weather": {
-          "max_density": 0.175,
+          "max_density": 0.225,
           "max_density_height": 74,
           "zero_density_height": 320
         }

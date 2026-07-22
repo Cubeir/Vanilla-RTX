@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_cold_taiga_hills"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#245b78"
+        "surface_color": "#004F77"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

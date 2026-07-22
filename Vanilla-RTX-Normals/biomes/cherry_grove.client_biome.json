@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_cherry_grove"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#179BED"
+        "surface_color": "#0092ED"
       },
       "minecraft:foliage_appearance": {
         "color": "#b6db61"

@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_cold_beach"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#1463a5"
+        "surface_color": "#0059A3"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

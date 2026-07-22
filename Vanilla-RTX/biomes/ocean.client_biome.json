@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_ocean"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#1787D4"
+        "surface_color": "#007ED3"
       },
       "minecraft:biome_music": {
         "underwater_music": true

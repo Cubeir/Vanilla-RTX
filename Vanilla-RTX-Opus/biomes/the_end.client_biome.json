@@ -12,7 +12,7 @@
         "fog_identifier": "minecraft_rtx:fog_the_end"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#62529e"
+        "surface_color": "#4C2FBF"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {

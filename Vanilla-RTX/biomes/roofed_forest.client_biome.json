@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_roofed_forest"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#3B6CD1"
+        "surface_color": "#0044CE"
       },
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"
