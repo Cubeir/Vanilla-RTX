@@ -20,13 +20,13 @@
             "water": {
                 "fog_start": 0.4675,
                 "fog_end": 0.8203125,
-                "fog_color": "#5bc313",
+                "fog_color": "#17543c",
                 "render_distance_type": "render",
                 "transition_fog": {
                     "init_fog": {
                         "fog_start": 0.125,
                         "fog_end": 0.25,
-                        "fog_color": "#5bc313",
+                        "fog_color": "#17543c",
                         "render_distance_type": "render"
                     },
                     "min_percent": 0.25,
@@ -53,8 +53,8 @@
                 "air": {
                     "scattering": [
                         0.064,
-                        0.064,
-                        0.064
+                        0.068,
+                        0.067
                     ],
                     "absorption": [
                         0,
