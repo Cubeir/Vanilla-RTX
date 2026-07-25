@@ -40,8 +40,8 @@
             "density": {
                 "air": {
                     "max_density": 0.285,
-                    "max_density_height": 62,
-                    "zero_density_height": 128
+                    "max_density_height": 64,
+                    "zero_density_height": 192
                 },
                 "weather": {
                     "max_density": 0.295,
@@ -56,9 +56,9 @@
                         0.00365
                     ],
                     "absorption": [
-                        0.0462,
-                        0.0552,
-                        0.0894
+                        0.04158,
+                        0.04968,
+                        0.08046
                     ]
                 },
                 "water": {
