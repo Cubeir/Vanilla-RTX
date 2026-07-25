@@ -62,7 +62,7 @@
               "Math.clamp(variable.dig_particle_color.r, 0, 1)",
               "Math.clamp(variable.dig_particle_color.g, 0, 1)",
               "Math.clamp(variable.dig_particle_color.b, 0, 1)",
-              "Math.clamp(variable.dig_particle_color.a, 0, 1) * 0.55"
+              "Math.clamp(variable.dig_particle_color.a, 0, 1) * 0.5"
             ]
           },
           "interpolant": 0

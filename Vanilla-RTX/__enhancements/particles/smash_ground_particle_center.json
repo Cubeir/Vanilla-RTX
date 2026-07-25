@@ -61,7 +61,7 @@
               "variable.surface_particle_tint.r",
               "variable.surface_particle_tint.g",
               "variable.surface_particle_tint.b",
-              "variable.surface_particle_tint.a * 0.575"
+              "variable.surface_particle_tint.a * 0.525"
             ]
           },
           "interpolant": 0
