@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cherry_log_top",
-    "metalness_emissive_roughness": "cherry_log_top_mer",
+    "metalness_emissive_roughness_subsurface": "cherry_log_top_mers",
     "heightmap": "cherry_log_top_heightmap"
   }
 }

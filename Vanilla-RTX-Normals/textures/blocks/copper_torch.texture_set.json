@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "copper_torch",
-    "metalness_emissive_roughness": "copper_torch_mer",
+    "metalness_emissive_roughness_subsurface": "copper_torch_mers",
     "normal": "copper_torch_normal"
   }
 }

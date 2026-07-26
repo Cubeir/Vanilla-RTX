@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "farmland_wet",
-    "metalness_emissive_roughness": "farmland_wet_mer",
+    "metalness_emissive_roughness_subsurface": "farmland_wet_mers",
     "heightmap": "farmland_wet_heightmap"
   }
 }

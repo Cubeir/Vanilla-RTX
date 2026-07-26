@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "coral_red",
-    "metalness_emissive_roughness": "coral_red_mer",
+    "metalness_emissive_roughness_subsurface": "coral_red_mers",
     "heightmap": "coral_red_heightmap"
   }
 }

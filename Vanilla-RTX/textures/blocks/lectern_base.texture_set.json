@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "lectern_base",
-    "metalness_emissive_roughness": "lectern_base_mer",
+    "metalness_emissive_roughness_subsurface": "lectern_base_mers",
     "heightmap": "lectern_base_heightmap"
   }
 }

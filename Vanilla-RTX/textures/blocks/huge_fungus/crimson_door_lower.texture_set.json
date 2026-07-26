@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "crimson_door_lower",
-    "metalness_emissive_roughness": "crimson_door_lower_mer",
+    "metalness_emissive_roughness_subsurface": "crimson_door_lower_mers",
     "heightmap": "crimson_door_lower_heightmap"
   }
 }

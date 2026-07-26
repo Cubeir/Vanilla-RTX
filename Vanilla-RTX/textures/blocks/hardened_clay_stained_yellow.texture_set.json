@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "hardened_clay_stained_yellow",
-    "metalness_emissive_roughness": "hardened_clay_stained_yellow_mer",
+    "metalness_emissive_roughness_subsurface": "hardened_clay_stained_yellow_mers",
     "heightmap": "hardened_clay_stained_yellow_heightmap"
   }
 }

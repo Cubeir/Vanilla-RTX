@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "respawn_anchor_side1",
-    "metalness_emissive_roughness": "respawn_anchor_side1_mer",
+    "metalness_emissive_roughness_subsurface": "respawn_anchor_side1_mers",
     "heightmap": "respawn_anchor_side1_heightmap"
   }
 }

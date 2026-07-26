@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "jigsaw_back",
-    "metalness_emissive_roughness": "jigsaw_back_mer",
+    "metalness_emissive_roughness_subsurface": "jigsaw_back_mers",
     "heightmap": "jigsaw_back_heightmap"
   }
 }

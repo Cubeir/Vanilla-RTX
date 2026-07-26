@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "loom_top",
-    "metalness_emissive_roughness": "loom_top_mer",
+    "metalness_emissive_roughness_subsurface": "loom_top_mers",
     "heightmap": "loom_top_heightmap"
   }
 }

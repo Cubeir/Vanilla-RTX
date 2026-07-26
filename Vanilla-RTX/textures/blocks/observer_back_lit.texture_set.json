@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "observer_back_lit",
-    "metalness_emissive_roughness": "observer_back_lit_mer",
+    "metalness_emissive_roughness_subsurface": "observer_back_lit_mers",
     "heightmap": "observer_back_lit_heightmap"
   }
 }

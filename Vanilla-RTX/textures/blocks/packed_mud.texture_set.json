@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "packed_mud",
-    "metalness_emissive_roughness": "packed_mud_mer",
+    "metalness_emissive_roughness_subsurface": "packed_mud_mers",
     "heightmap": "packed_mud_heightmap"
   }
 }

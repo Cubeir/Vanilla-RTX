@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "spruce_trapdoor",
-    "metalness_emissive_roughness": "spruce_trapdoor_mer",
+    "metalness_emissive_roughness_subsurface": "spruce_trapdoor_mers",
     "heightmap": "spruce_trapdoor_heightmap"
   }
 }

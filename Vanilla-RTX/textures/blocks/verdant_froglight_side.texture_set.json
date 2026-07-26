@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "verdant_froglight_side",
-    "metalness_emissive_roughness": "verdant_froglight_side_mer",
+    "metalness_emissive_roughness_subsurface": "verdant_froglight_side_mers",
     "heightmap": "verdant_froglight_side_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "glazed_terracotta_yellow",
-    "metalness_emissive_roughness": "glazed_terracotta_yellow_mer",
+    "metalness_emissive_roughness_subsurface": "glazed_terracotta_yellow_mers",
     "heightmap": "glazed_terracotta_yellow_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mushroom_block_skin_red",
-    "metalness_emissive_roughness": "mushroom_block_skin_red_mer",
+    "metalness_emissive_roughness_subsurface": "mushroom_block_skin_red_mers",
     "heightmap": "mushroom_block_skin_red_heightmap"
   }
 }

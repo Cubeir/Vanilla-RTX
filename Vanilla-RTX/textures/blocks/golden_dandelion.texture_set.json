@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "golden_dandelion",
-    "metalness_emissive_roughness": "golden_dandelion_mer",
+    "metalness_emissive_roughness_subsurface": "golden_dandelion_mers",
     "heightmap": "golden_dandelion_heightmap"
   }
 }

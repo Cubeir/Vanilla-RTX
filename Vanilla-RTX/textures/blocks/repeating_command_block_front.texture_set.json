@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "repeating_command_block_front",
-    "metalness_emissive_roughness": "repeating_command_block_front_mer",
+    "metalness_emissive_roughness_subsurface": "repeating_command_block_front_mers",
     "heightmap": "repeating_command_block_front_heightmap"
   }
 }

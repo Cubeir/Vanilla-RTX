@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "chorus_plant",
-    "metalness_emissive_roughness": "chorus_plant_mer",
+    "metalness_emissive_roughness_subsurface": "chorus_plant_mers",
     "heightmap": "chorus_plant_heightmap"
   }
 }

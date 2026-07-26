@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "target_side",
-    "metalness_emissive_roughness": "target_side_mer",
+    "metalness_emissive_roughness_subsurface": "target_side_mers",
     "heightmap": "target_side_heightmap"
   }
 }

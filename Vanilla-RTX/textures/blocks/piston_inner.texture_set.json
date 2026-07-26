@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "piston_inner",
-    "metalness_emissive_roughness": "piston_inner_mer",
+    "metalness_emissive_roughness_subsurface": "piston_inner_mers",
     "heightmap": "piston_inner_heightmap"
   }
 }

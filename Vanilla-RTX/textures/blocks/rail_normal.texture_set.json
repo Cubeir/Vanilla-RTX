@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "rail_normal",
-    "metalness_emissive_roughness": "rail_normal_mer",
+    "metalness_emissive_roughness_subsurface": "rail_normal_mers",
     "heightmap": "rail_normal_heightmap"
   }
 }

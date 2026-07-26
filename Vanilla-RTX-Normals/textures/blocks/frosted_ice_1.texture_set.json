@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "frosted_ice_1",
-    "metalness_emissive_roughness": "frosted_ice_1_mer",
+    "metalness_emissive_roughness_subsurface": "frosted_ice_1_mers",
     "normal": "frosted_ice_1_normal"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "vault_front_on",
-    "metalness_emissive_roughness": "vault_front_on_mer",
+    "metalness_emissive_roughness_subsurface": "vault_front_on_mers",
     "heightmap": "vault_front_on_heightmap"
   }
 }

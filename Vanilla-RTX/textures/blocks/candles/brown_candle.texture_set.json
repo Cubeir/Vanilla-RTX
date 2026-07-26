@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "brown_candle",
-    "metalness_emissive_roughness": "brown_candle_mer",
+    "metalness_emissive_roughness_subsurface": "brown_candle_mers",
     "heightmap": "brown_candle_heightmap"
   }
 }

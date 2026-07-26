@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "mangrove_trapdoor",
-    "metalness_emissive_roughness": "mangrove_trapdoor_mer",
+    "metalness_emissive_roughness_subsurface": "mangrove_trapdoor_mers",
     "heightmap": "mangrove_trapdoor_heightmap"
   }
 }

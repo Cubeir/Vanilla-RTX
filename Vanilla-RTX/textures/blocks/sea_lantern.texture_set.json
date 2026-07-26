@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "sea_lantern",
-    "metalness_emissive_roughness": "sea_lantern_mer",
+    "metalness_emissive_roughness_subsurface": "sea_lantern_mers",
     "heightmap": "sea_lantern_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "weathered_copper_grate",
-    "metalness_emissive_roughness": "weathered_copper_grate_mer",
+    "metalness_emissive_roughness_subsurface": "weathered_copper_grate_mers",
     "heightmap": "weathered_copper_grate_heightmap"
   }
 }

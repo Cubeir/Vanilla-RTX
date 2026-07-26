@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "concrete_green",
-    "metalness_emissive_roughness": "concrete_green_mer",
+    "metalness_emissive_roughness_subsurface": "concrete_green_mers",
     "heightmap": "concrete_green_heightmap"
   }
 }

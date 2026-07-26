@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "wool_colored_blue",
-    "metalness_emissive_roughness": "wool_colored_blue_mer",
+    "metalness_emissive_roughness_subsurface": "wool_colored_blue_mers",
     "heightmap": "wool_colored_blue_heightmap"
   }
 }

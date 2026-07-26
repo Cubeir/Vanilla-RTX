@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "pumpkin_stem_connected",
-    "metalness_emissive_roughness": "pumpkin_stem_connected_mer",
+    "metalness_emissive_roughness_subsurface": "pumpkin_stem_connected_mers",
     "heightmap": "pumpkin_stem_connected_heightmap"
   }
 }

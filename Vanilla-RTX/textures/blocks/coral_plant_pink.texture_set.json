@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "coral_plant_pink",
-    "metalness_emissive_roughness": "coral_plant_pink_mer",
+    "metalness_emissive_roughness_subsurface": "coral_plant_pink_mers",
     "heightmap": "coral_plant_pink_heightmap"
   }
 }

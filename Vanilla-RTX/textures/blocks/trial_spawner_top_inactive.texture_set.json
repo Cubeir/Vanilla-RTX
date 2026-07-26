@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "trial_spawner_top_inactive",
-    "metalness_emissive_roughness": "trial_spawner_top_inactive_mer",
+    "metalness_emissive_roughness_subsurface": "trial_spawner_top_inactive_mers",
     "heightmap": "trial_spawner_top_inactive_heightmap"
   }
 }

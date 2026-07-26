@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stonebrick_cracked",
-    "metalness_emissive_roughness": "stonebrick_cracked_mer",
+    "metalness_emissive_roughness_subsurface": "stonebrick_cracked_mers",
     "heightmap": "stonebrick_cracked_heightmap"
   }
 }

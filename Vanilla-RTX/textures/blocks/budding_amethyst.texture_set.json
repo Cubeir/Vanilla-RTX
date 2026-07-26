@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "budding_amethyst",
-    "metalness_emissive_roughness": "budding_amethyst_mer",
+    "metalness_emissive_roughness_subsurface": "budding_amethyst_mers",
     "heightmap": "budding_amethyst_heightmap"
   }
 }

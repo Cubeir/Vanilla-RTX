@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "glass_light_blue",
-    "metalness_emissive_roughness": "glass_light_blue_mer",
+    "metalness_emissive_roughness_subsurface": "glass_light_blue_mers",
     "normal": "glass_light_blue_normal"
   }
 }

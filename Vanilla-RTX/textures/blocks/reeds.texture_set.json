@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "reeds",
-    "metalness_emissive_roughness": "reeds_mer",
+    "metalness_emissive_roughness_subsurface": "reeds_mers",
     "heightmap": "reeds_heightmap"
   }
 }

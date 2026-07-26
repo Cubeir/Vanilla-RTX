@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "spruce_shelf",
-    "metalness_emissive_roughness": "spruce_shelf_mer",
+    "metalness_emissive_roughness_subsurface": "spruce_shelf_mers",
     "heightmap": "spruce_shelf_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bone_block_side",
-    "metalness_emissive_roughness": "bone_block_side_mer",
+    "metalness_emissive_roughness_subsurface": "bone_block_side_mers",
     "heightmap": "bone_block_side_heightmap"
   }
 }

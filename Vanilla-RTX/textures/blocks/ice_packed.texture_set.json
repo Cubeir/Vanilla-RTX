@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "ice_packed",
-    "metalness_emissive_roughness": "ice_packed_mer",
+    "metalness_emissive_roughness_subsurface": "ice_packed_mers",
     "heightmap": "ice_packed_heightmap"
   }
 }

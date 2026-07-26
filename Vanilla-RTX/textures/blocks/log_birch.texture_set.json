@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "log_birch",
-    "metalness_emissive_roughness": "log_birch_mer",
+    "metalness_emissive_roughness_subsurface": "log_birch_mers",
     "heightmap": "log_birch_heightmap"
   }
 }

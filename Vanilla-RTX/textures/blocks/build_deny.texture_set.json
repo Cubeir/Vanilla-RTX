@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "build_deny",
-    "metalness_emissive_roughness": "build_deny_mer",
+    "metalness_emissive_roughness_subsurface": "build_deny_mers",
     "heightmap": "build_deny_heightmap"
   }
 }

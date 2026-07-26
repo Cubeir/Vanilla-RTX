@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "diamond_block",
-    "metalness_emissive_roughness": "diamond_block_mer",
+    "metalness_emissive_roughness_subsurface": "diamond_block_mers",
     "heightmap": "diamond_block_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "crimson_planks",
-    "metalness_emissive_roughness": "crimson_planks_mer",
+    "metalness_emissive_roughness_subsurface": "crimson_planks_mers",
     "heightmap": "crimson_planks_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "smithing_table_front",
-    "metalness_emissive_roughness": "smithing_table_front_mer",
+    "metalness_emissive_roughness_subsurface": "smithing_table_front_mers",
     "heightmap": "smithing_table_front_heightmap"
   }
 }

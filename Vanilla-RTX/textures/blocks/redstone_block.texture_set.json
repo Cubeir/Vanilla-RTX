@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "redstone_block",
-    "metalness_emissive_roughness": "redstone_block_mer",
+    "metalness_emissive_roughness_subsurface": "redstone_block_mers",
     "heightmap": "redstone_block_heightmap"
   }
 }

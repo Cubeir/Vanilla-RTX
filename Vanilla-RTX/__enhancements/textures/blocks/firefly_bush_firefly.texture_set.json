@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "firefly_bush_firefly",
-    "metalness_emissive_roughness": "firefly_bush_firefly_mer",
+    "metalness_emissive_roughness_subsurface": "firefly_bush_firefly_mers",
     "heightmap": "firefly_bush_firefly_heightmap"
   }
 }

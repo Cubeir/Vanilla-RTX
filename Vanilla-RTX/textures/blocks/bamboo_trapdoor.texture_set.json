@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_trapdoor",
-    "metalness_emissive_roughness": "bamboo_trapdoor_mer",
+    "metalness_emissive_roughness_subsurface": "bamboo_trapdoor_mers",
     "heightmap": "bamboo_trapdoor_heightmap"
   }
 }

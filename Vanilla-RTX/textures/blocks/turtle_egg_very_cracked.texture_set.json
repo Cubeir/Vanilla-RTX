@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "turtle_egg_very_cracked",
-    "metalness_emissive_roughness": "turtle_egg_very_cracked_mer",
+    "metalness_emissive_roughness_subsurface": "turtle_egg_very_cracked_mers",
     "heightmap": "turtle_egg_very_cracked_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "kelp_a",
-    "metalness_emissive_roughness": "kelp_a_mer",
+    "metalness_emissive_roughness_subsurface": "kelp_a_mers",
     "heightmap": "kelp_a_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "azalea_plant",
-    "metalness_emissive_roughness": "azalea_plant_mer",
+    "metalness_emissive_roughness_subsurface": "azalea_plant_mers",
     "heightmap": "azalea_plant_heightmap"
   }
 }

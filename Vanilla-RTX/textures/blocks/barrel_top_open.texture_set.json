@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "barrel_top_open",
-    "metalness_emissive_roughness": "barrel_top_open_mer",
+    "metalness_emissive_roughness_subsurface": "barrel_top_open_mers",
     "heightmap": "barrel_top_open_heightmap"
   }
 }

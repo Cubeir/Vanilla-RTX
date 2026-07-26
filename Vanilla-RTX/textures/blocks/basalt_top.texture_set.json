@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "basalt_top",
-    "metalness_emissive_roughness": "basalt_top_mer",
+    "metalness_emissive_roughness_subsurface": "basalt_top_mers",
     "heightmap": "basalt_top_heightmap"
   }
 }

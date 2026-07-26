@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "anvil_base",
-    "metalness_emissive_roughness": "anvil_base_mer",
+    "metalness_emissive_roughness_subsurface": "anvil_base_mers",
     "heightmap": "anvil_base_heightmap"
   }
 }

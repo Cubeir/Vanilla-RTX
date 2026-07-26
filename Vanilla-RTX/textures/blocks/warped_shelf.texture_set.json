@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "warped_shelf",
-    "metalness_emissive_roughness": "warped_shelf_mer",
+    "metalness_emissive_roughness_subsurface": "warped_shelf_mers",
     "heightmap": "warped_shelf_heightmap"
   }
 }

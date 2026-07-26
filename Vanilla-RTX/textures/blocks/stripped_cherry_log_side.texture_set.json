@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stripped_cherry_log_side",
-    "metalness_emissive_roughness": "stripped_cherry_log_side_mer",
+    "metalness_emissive_roughness_subsurface": "stripped_cherry_log_side_mers",
     "heightmap": "stripped_cherry_log_side_heightmap"
   }
 }

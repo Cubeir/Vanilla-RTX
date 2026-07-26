@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "pitcher_crop_top_stage_4",
-    "metalness_emissive_roughness": "pitcher_crop_top_stage_4_mer",
+    "metalness_emissive_roughness_subsurface": "pitcher_crop_top_stage_4_mers",
     "heightmap": "pitcher_crop_top_stage_4_heightmap"
   }
 }

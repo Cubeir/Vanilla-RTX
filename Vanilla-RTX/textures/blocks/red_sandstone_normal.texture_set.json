@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "red_sandstone_normal",
-    "metalness_emissive_roughness": "red_sandstone_normal_mer",
+    "metalness_emissive_roughness_subsurface": "red_sandstone_normal_mers",
     "heightmap": "red_sandstone_normal_heightmap"
   }
 }

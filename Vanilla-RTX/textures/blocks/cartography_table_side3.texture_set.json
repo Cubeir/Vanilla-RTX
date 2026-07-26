@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cartography_table_side3",
-    "metalness_emissive_roughness": "cartography_table_side3_mer",
+    "metalness_emissive_roughness_subsurface": "cartography_table_side3_mers",
     "heightmap": "cartography_table_side3_heightmap"
   }
 }

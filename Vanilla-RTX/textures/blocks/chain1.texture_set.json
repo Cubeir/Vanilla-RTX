@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "chain1",
-    "metalness_emissive_roughness": "chain1_mer",
+    "metalness_emissive_roughness_subsurface": "chain1_mers",
     "heightmap": "chain1_heightmap"
   }
 }

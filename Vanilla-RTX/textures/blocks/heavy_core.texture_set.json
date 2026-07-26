@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "heavy_core",
-    "metalness_emissive_roughness": "heavy_core_mer",
+    "metalness_emissive_roughness_subsurface": "heavy_core_mers",
     "heightmap": "heavy_core_heightmap"
   }
 }

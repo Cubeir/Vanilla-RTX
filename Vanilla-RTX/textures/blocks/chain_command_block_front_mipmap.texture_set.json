@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "chain_command_block_front_mipmap",
-    "metalness_emissive_roughness": "chain_command_block_front_mipmap_mer",
+    "metalness_emissive_roughness_subsurface": "chain_command_block_front_mipmap_mers",
     "heightmap": "chain_command_block_front_mipmap_heightmap"
   }
 }

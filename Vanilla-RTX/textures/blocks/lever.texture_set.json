@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "lever",
-    "metalness_emissive_roughness": "lever_mer",
+    "metalness_emissive_roughness_subsurface": "lever_mers",
     "heightmap": "lever_heightmap"
   }
 }

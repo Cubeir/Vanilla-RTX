@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "crafter_south_triggered",
-    "metalness_emissive_roughness": "crafter_south_triggered_mer",
+    "metalness_emissive_roughness_subsurface": "crafter_south_triggered_mers",
     "heightmap": "crafter_south_triggered_heightmap"
   }
 }

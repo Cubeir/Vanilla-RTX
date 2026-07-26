@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cauldron_top",
-    "metalness_emissive_roughness": "cauldron_top_mer",
+    "metalness_emissive_roughness_subsurface": "cauldron_top_mers",
     "heightmap": "cauldron_top_heightmap"
   }
 }

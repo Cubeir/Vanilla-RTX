@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "cherry_leaves_opaque",
-    "metalness_emissive_roughness": "cherry_leaves_opaque_mer",
+    "metalness_emissive_roughness_subsurface": "cherry_leaves_opaque_mers",
     "heightmap": "cherry_leaves_opaque_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "exposed_copper_bulb",
-    "metalness_emissive_roughness": "exposed_copper_bulb_mer",
+    "metalness_emissive_roughness_subsurface": "exposed_copper_bulb_mers",
     "heightmap": "exposed_copper_bulb_heightmap"
   }
 }

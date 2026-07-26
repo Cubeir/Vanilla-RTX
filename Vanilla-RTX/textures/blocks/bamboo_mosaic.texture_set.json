@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_mosaic",
-    "metalness_emissive_roughness": "bamboo_mosaic_mer",
+    "metalness_emissive_roughness_subsurface": "bamboo_mosaic_mers",
     "heightmap": "bamboo_mosaic_heightmap"
   }
 }

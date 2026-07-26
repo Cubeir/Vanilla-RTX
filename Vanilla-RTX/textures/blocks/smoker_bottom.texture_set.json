@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "smoker_bottom",
-    "metalness_emissive_roughness": "smoker_bottom_mer",
+    "metalness_emissive_roughness_subsurface": "smoker_bottom_mers",
     "heightmap": "smoker_bottom_heightmap"
   }
 }

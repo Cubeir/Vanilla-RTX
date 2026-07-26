@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "dispenser_front_horizontal",
-    "metalness_emissive_roughness": "dispenser_front_horizontal_mer",
+    "metalness_emissive_roughness_subsurface": "dispenser_front_horizontal_mers",
     "heightmap": "dispenser_front_horizontal_heightmap"
   }
 }

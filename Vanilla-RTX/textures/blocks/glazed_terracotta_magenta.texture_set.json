@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "glazed_terracotta_magenta",
-    "metalness_emissive_roughness": "glazed_terracotta_magenta_mer",
+    "metalness_emissive_roughness_subsurface": "glazed_terracotta_magenta_mers",
     "heightmap": "glazed_terracotta_magenta_heightmap"
   }
 }

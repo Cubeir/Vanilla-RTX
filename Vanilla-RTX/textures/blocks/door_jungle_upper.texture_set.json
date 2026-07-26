@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "door_jungle_upper",
-    "metalness_emissive_roughness": "door_jungle_upper_mer",
+    "metalness_emissive_roughness_subsurface": "door_jungle_upper_mers",
     "heightmap": "door_jungle_upper_heightmap"
   }
 }

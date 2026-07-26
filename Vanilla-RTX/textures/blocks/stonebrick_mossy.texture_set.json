@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "stonebrick_mossy",
-    "metalness_emissive_roughness": "stonebrick_mossy_mer",
+    "metalness_emissive_roughness_subsurface": "stonebrick_mossy_mers",
     "heightmap": "stonebrick_mossy_heightmap"
   }
 }

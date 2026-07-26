@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "lightning_rod",
-    "metalness_emissive_roughness": "lightning_rod_mer",
+    "metalness_emissive_roughness_subsurface": "lightning_rod_mers",
     "heightmap": "lightning_rod_heightmap"
   }
 }

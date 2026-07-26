@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "potted_azalea_bush_top",
-    "metalness_emissive_roughness": "potted_azalea_bush_top_mer",
+    "metalness_emissive_roughness_subsurface": "potted_azalea_bush_top_mers",
     "normal": "potted_azalea_bush_top_normal"
   }
 }

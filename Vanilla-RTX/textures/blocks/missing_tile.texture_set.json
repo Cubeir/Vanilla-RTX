@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "missing_tile",
-    "metalness_emissive_roughness": "missing_tile_mer",
+    "metalness_emissive_roughness_subsurface": "missing_tile_mers",
     "heightmap": "missing_tile_heightmap"
   }
 }

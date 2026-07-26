@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "noteblock",
-    "metalness_emissive_roughness": "noteblock_mer",
+    "metalness_emissive_roughness_subsurface": "noteblock_mers",
     "heightmap": "noteblock_heightmap"
   }
 }

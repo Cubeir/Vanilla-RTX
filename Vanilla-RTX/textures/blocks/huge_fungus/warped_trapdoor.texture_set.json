@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "warped_trapdoor",
-    "metalness_emissive_roughness": "warped_trapdoor_mer",
+    "metalness_emissive_roughness_subsurface": "warped_trapdoor_mers",
     "heightmap": "warped_trapdoor_heightmap"
   }
 }

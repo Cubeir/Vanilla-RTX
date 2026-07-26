@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "grass_side_snowed",
-    "metalness_emissive_roughness": "grass_side_snowed_mer",
+    "metalness_emissive_roughness_subsurface": "grass_side_snowed_mers",
     "heightmap": "grass_side_snowed_heightmap"
   }
 }

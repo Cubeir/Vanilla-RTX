@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "concrete_cyan",
-    "metalness_emissive_roughness": "concrete_cyan_mer",
+    "metalness_emissive_roughness_subsurface": "concrete_cyan_mers",
     "heightmap": "concrete_cyan_heightmap"
   }
 }

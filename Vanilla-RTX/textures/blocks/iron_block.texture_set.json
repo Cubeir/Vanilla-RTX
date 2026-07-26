@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "iron_block",
-    "metalness_emissive_roughness": "iron_block_mer",
+    "metalness_emissive_roughness_subsurface": "iron_block_mers",
     "heightmap": "iron_block_heightmap"
   }
 }

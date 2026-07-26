@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "crafter_west",
-    "metalness_emissive_roughness": "crafter_west_mer",
+    "metalness_emissive_roughness_subsurface": "crafter_west_mers",
     "heightmap": "crafter_west_heightmap"
   }
 }

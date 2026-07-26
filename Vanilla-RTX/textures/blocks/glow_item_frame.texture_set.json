@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "glow_item_frame",
-    "metalness_emissive_roughness": "glow_item_frame_mer",
+    "metalness_emissive_roughness_subsurface": "glow_item_frame_mers",
     "heightmap": "glow_item_frame_heightmap"
   }
 }

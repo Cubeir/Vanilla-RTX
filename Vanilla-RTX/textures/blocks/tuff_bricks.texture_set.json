@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "tuff_bricks",
-    "metalness_emissive_roughness": "tuff_bricks_mer",
+    "metalness_emissive_roughness_subsurface": "tuff_bricks_mers",
     "heightmap": "tuff_bricks_heightmap"
   }
 }

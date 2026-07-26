@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "planks_spruce",
-    "metalness_emissive_roughness": "planks_spruce_mer",
+    "metalness_emissive_roughness_subsurface": "planks_spruce_mers",
     "heightmap": "planks_spruce_heightmap"
   }
 }

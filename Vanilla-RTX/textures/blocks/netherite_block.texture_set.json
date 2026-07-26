@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "netherite_block",
-    "metalness_emissive_roughness": "netherite_block_mer",
+    "metalness_emissive_roughness_subsurface": "netherite_block_mers",
     "heightmap": "netherite_block_heightmap"
   }
 }

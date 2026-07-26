@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "structure_void",
-    "metalness_emissive_roughness": "structure_void_mer",
+    "metalness_emissive_roughness_subsurface": "structure_void_mers",
     "heightmap": "structure_void_heightmap"
   }
 }

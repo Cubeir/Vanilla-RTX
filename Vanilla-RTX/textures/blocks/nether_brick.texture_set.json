@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "nether_brick",
-    "metalness_emissive_roughness": "nether_brick_mer",
+    "metalness_emissive_roughness_subsurface": "nether_brick_mers",
     "heightmap": "nether_brick_heightmap"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "pale_oak_shelf",
-    "metalness_emissive_roughness": "pale_oak_shelf_mer",
+    "metalness_emissive_roughness_subsurface": "pale_oak_shelf_mers",
     "heightmap": "pale_oak_shelf_heightmap"
   }
 }

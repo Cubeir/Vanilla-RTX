@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "nether_sprouts",
-    "metalness_emissive_roughness": "nether_sprouts_mer",
+    "metalness_emissive_roughness_subsurface": "nether_sprouts_mers",
     "heightmap": "nether_sprouts_heightmap"
   }
 }

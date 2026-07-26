@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "compost_ready",
-    "metalness_emissive_roughness": "compost_ready_mer",
+    "metalness_emissive_roughness_subsurface": "compost_ready_mers",
     "heightmap": "compost_ready_heightmap"
   }
 }
