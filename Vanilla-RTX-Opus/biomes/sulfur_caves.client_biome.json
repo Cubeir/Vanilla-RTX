@@ -9,7 +9,7 @@
         "fog_identifier": "minecraft_rtx:fog_sulfur_caves"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#00BC71"
+        "surface_color": "#00C077"
       },
       "minecraft:ambient_sounds": {
         "underwater_addition": {
@@ -19,7 +19,10 @@
         "underwater_loop": "ambient.underwater.loop"
       },
       "minecraft:biome_music": {
-        "music_definition": "dripstone_caves"
+        "music_definition": "sulfur_caves"
+      },
+      "minecraft:grass_appearance": {
+        "color": "#ABA64F"
       }
     }
   }

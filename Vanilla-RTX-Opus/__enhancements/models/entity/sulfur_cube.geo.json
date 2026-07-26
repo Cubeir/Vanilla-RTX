@@ -1,0 +1,54 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.sulfur_cube",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "rightItem",
+					"pivot": [4, 10, -4],
+					"rotation": [-20, 135, 0]
+				},
+				{
+					"name": "sulfur_cube",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-9, 0, -9], "size": [18, 18, 18], "inflate": -0.01, "uv": [0, 0]},
+						{"origin": [-8, 1, -8], "size": [16, 16, 16], "inflate": -0.125, "uv": [0, 36]}
+					],
+					"locators": {
+						"lead": [0, 8, -4.25],
+						"lead_hold": [0, 30, 0]
+					}
+				}
+			]
+		},
+		{
+			"description": {
+				"identifier": "geometry.sulfur_cube.small",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 1.5, 0]
+			},
+			"bones": [
+				{
+					"name": "sulfur_cube",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-5, 0, -5], "size": [10, 10, 10], "inflate": -0.01, "uv": [0, 0]},
+						{"origin": [-4, 1, -4], "size": [8, 8, 8], "inflate": -0.125, "uv": [0, 20]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:sulfur_cube",
+            "materials": {
+                "default": "sulfur_cube",
+                "outer": "sulfur_cube_outer"
+            },
+            "textures": {
+                "default": "textures/entity/sulfur_cube/sulfur_cube_inner",
+                "small": "textures/entity/sulfur_cube/sulfur_cube_inner_small",
+                "tnt": "textures/entity/sulfur_cube/sulfur_cube_tnt",
+                "outer": "textures/entity/sulfur_cube/sulfur_cube_outer",
+                "outer_small": "textures/entity/sulfur_cube/sulfur_cube_outer_small"
+            },
+            "geometry": {
+                "default": "geometry.sulfur_cube",
+                "small": "geometry.sulfur_cube.small"
+            }
+        }
+    }
+}
