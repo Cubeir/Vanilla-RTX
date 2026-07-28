@@ -16,9 +16,8 @@
                 "spots_1": "textures/entity/warden/warden_pulsating_spots_1",
                 "spots_2": "textures/entity/warden/warden_pulsating_spots_2",
                 "tendrils": "textures/entity/warden/warden_tendrils",
-                "heart": "textures/entity/warden/warden_heart",
-                "glow": "textures/entity/warden/warden_glow_layer"
-              },
+                "heart": "textures/entity/warden/warden_heart"
+            },
             "geometry": {
                 "default": "geometry.warden",
                 "default_bioluminescent": "geometry.warden.bioluminescent_layer",
