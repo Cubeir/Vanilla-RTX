@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "azalea_side",
-    "metalness_emissive_roughness": "azalea_side_mer",
+    "metalness_emissive_roughness_subsurface": "azalea_side_mers",
     "normal": "azalea_side_normal"
   }
 }

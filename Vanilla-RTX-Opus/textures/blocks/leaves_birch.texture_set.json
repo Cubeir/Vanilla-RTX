@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "leaves_birch",
-    "metalness_emissive_roughness": "leaves_birch_mer",
+    "metalness_emissive_roughness_subsurface": "leaves_birch_mers",
     "normal": "leaves_birch_normal"
   }
 }

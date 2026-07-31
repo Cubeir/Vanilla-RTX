@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "concrete_red",
-    "metalness_emissive_roughness": "concrete_red_mer",
+    "metalness_emissive_roughness_subsurface": "concrete_red_mers",
     "normal": "concrete_red_normal"
   }
 }

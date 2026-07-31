@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "oxidized_copper_chain2",
-    "metalness_emissive_roughness": "oxidized_copper_chain2_mer",
+    "metalness_emissive_roughness_subsurface": "oxidized_copper_chain2_mers",
     "normal": "oxidized_copper_chain2_normal"
   }
 }

@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "flower_allium",
-    "metalness_emissive_roughness": "flower_allium_mer",
+    "metalness_emissive_roughness_subsurface": "flower_allium_mers",
     "normal": "flower_allium_normal"
   }
 }

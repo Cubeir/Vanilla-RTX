@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "small_dripleaf_stem_bottom",
-    "metalness_emissive_roughness": "small_dripleaf_stem_bottom_mer",
+    "metalness_emissive_roughness_subsurface": "small_dripleaf_stem_bottom_mers",
     "normal": "small_dripleaf_stem_bottom_normal"
   }
 }

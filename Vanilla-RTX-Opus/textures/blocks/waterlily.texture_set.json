@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "waterlily",
-    "metalness_emissive_roughness": "waterlily_mer",
+    "metalness_emissive_roughness_subsurface": "waterlily_mers",
     "normal": "waterlily_normal"
   }
 }

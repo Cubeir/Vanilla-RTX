@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_shelf",
-    "metalness_emissive_roughness": "bamboo_shelf_mer",
+    "metalness_emissive_roughness_subsurface": "bamboo_shelf_mers",
     "normal": "bamboo_shelf_normal"
   }
 }

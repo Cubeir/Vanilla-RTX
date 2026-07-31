@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "bamboo_fence_gate",
-    "metalness_emissive_roughness": "bamboo_fence_gate_mer",
+    "metalness_emissive_roughness_subsurface": "bamboo_fence_gate_mers",
     "normal": "bamboo_fence_gate_normal"
   }
 }

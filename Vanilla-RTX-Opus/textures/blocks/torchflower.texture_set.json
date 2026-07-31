@@ -2,7 +2,7 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "torchflower",
-    "metalness_emissive_roughness": "torchflower_mer",
+    "metalness_emissive_roughness_subsurface": "torchflower_mers",
     "normal": "torchflower_normal"
   }
 }
