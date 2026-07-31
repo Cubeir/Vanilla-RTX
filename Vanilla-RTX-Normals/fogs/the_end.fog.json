@@ -1,61 +1,65 @@
 {
-  "format_version": "1.26.20",
-  "minecraft:fog_settings": {
-    "description": {
-      "identifier": "minecraft_rtx:fog_the_end"
-    },
-    "distance": {
-      "air": {
-        "fog_start": 0.92,
-        "fog_end": 1.0,
-        "fog_color": "#0B080C",
-        "render_distance_type": "render"
-      },
-      "water": {
-        "fog_start": 0.0,
-        "fog_end": 15.0,
-        "fog_color": "#62529e",
-        "render_distance_type": "fixed",
-        "transition_fog": {
-          "init_fog": {
-            "fog_start": 0.0,
-            "fog_end": 0.01,
-            "fog_color": "#62529e",
-            "render_distance_type": "fixed"
-          },
-          "min_percent": 0.25,
-          "mid_seconds": 5,
-          "mid_percent": 0.6,
-          "max_seconds": 30
-        }
-      }
-    },
-    "volumetric": {
-      "density": {
-        "air": {
-          "max_density": 0.01,
-          "max_density_height": 32,
-          "zero_density_height": 128
-        }
-      },
-      "media_coefficients": {
-        "air": {
-          "scattering": "#FAFFF0",
-          "absorption": [
-            0.0,
-            0.0,
-            0.0
-          ]
+    "format_version": "1.26.20",
+    "minecraft:fog_settings": {
+        "description": {
+            "identifier": "minecraft_rtx:fog_the_end"
         },
-        "water": {
-          "scattering": "#A6B277",
-          "absorption": [
-            0.0,
-            0.0,
-            0.0
-          ]
+        "distance": {
+            "air": {
+                "fog_start": 0.92,
+                "fog_end": 1,
+                "fog_color": "#4A3254",
+                "render_distance_type": "render"
+            },
+            "water": {
+                "fog_start": 0,
+                "fog_end": 15,
+                "fog_color": "#62529e",
+                "render_distance_type": "fixed",
+                "transition_fog": {
+                    "init_fog": {
+                        "fog_start": 0,
+                        "fog_end": 0.01,
+                        "fog_color": "#62529e",
+                        "render_distance_type": "fixed"
+                    },
+                    "min_percent": 0.25,
+                    "mid_seconds": 5,
+                    "mid_percent": 0.6,
+                    "max_seconds": 30
+                }
+            }
+        },
+        "volumetric": {
+            "density": {
+                "air": {
+                    "max_density": 0.033,
+                    "max_density_height": 62,
+                    "zero_density_height": 192
+                }
+            },
+            "media_coefficients": {
+                "air": {
+                    "scattering": [
+                        0.074,
+                        0.050,
+                        0.084
+                    ],
+                    "absorption": [
+                        0.09,
+                        0.102,
+                        0.085
+                    ]
+                },
+                "water": {
+                    "scattering": "#A6B277",
+                    "absorption": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
         }
-      }
     }
-  }
 }

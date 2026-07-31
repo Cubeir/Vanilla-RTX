@@ -61,7 +61,7 @@
               "variable.ground_particle_color.r * 0.7",
               "variable.ground_particle_color.g * 0.7",
               "variable.ground_particle_color.b * 0.7",
-              "variable.ground_particle_color.a * 0.5"
+              "(variable.ground_particle_color.a <= 0.0 ? 1.0 : variable.ground_particle_color.a) * 0.5"
             ]
           },
           "interpolant": 0

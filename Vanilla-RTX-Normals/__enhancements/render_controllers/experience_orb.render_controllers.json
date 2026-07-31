@@ -1,0 +1,58 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+        "controller.render.experience_orb": {
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Texture.default"
+            ],
+            "overlay_color": {
+                "r": "(Math.sin(query.life_time * 500.0) + 1.0) * 0.5",
+                "g": "1.0",
+                "b": "(Math.sin(query.life_time * 500.0 + 240.0) + 1.0) * 0.1",
+                "a": "0.5"
+            },
+            "ignore_lighting": true,
+            "part_visibility": [
+                {
+                    "orb1": "variable.u == 0.0  && variable.v == 0.0"
+                },
+                {
+                    "orb2": "variable.u == 0.25 && variable.v == 0.0"
+                },
+                {
+                    "orb3": "variable.u == 0.5  && variable.v == 0.0"
+                },
+                {
+                    "orb5": "variable.u == 0.0  && variable.v == 0.25"
+                },
+                {
+                    "orb6": "variable.u == 0.25 && variable.v == 0.25"
+                },
+                {
+                    "orb7": "variable.u == 0.5  && variable.v == 0.25"
+                },
+                {
+                    "orb8": "variable.u == 0.75 && variable.v == 0.25"
+                },
+                {
+                    "orb9": "variable.u == 0.0  && variable.v == 0.5"
+                },
+                {
+                    "orb10": "variable.u == 0.25 && variable.v == 0.5"
+                },
+                {
+                    "orb11": "variable.u == 0.5  && variable.v == 0.5"
+                },
+                {
+                    "orb4": "(variable.u == 0.75 && variable.v == 0.0) || variable.v == 0.75 || (variable.u == 0.75 && variable.v == 0.5)"
+                }
+            ]
+        }
+    }
+}

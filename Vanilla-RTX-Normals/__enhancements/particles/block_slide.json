@@ -59,7 +59,7 @@
               "variable.color.r",
               "variable.color.g",
               "variable.color.b",
-              "variable.color.a * 0.525"
+              "(variable.color.a <= 0.0 ? 1.0 : variable.color.a) * 0.525"
             ]
           },
           "interpolant": 0
