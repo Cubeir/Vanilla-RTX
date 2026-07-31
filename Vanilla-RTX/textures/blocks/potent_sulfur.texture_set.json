@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "potent_sulfur",
+    "metalness_emissive_roughness_subsurface": "potent_sulfur_mers",
+    "heightmap": "potent_sulfur_heightmap"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "sulfur_spike_down_frustum",
+    "metalness_emissive_roughness_subsurface": "sulfur_spike_down_frustum_mers",
+    "heightmap": "sulfur_spike_down_frustum_heightmap"
+  }
+}
