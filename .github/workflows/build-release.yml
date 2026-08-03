@@ -1,0 +1,56 @@
+name: Build & Release Packs
+
+# Only queues a run when a push touches a manifest.json somewhere in the
+# repo. pack_builder.py then checks git history to see whether
+# header.version in any touched (non-excluded) manifest actually changed -
+# not just whether the file was touched, and not caring which direction it
+# changed. If it did, every pack gets rebuilt.
+#
+# The only thing you MUST change per-repo is the branch name below.
+on:
+  push:
+    branches: [master] # <-- CHANGE this to your repo's default branch
+    paths:
+      - "**/manifest.json"
+  workflow_dispatch: # manual "Run workflow" button - always force-builds everything
+
+env:
+  BUNDLE_NAME_PREFIX: All-Packs # <-- optional: name for the bundle .mcaddon (year.month.day.build# is always appended)
+  ENHANCEMENTS_DIR_NAME: __enhancements # <-- optional: change if this repo uses a different folder name (this is a folder/branch of resource pack is developed separately, but is merged down only for public builds)
+  EXCLUDE_PATHS: "Vanilla-RTX-BTU, __VAULT" # <-- optional: comma-separated repo-relative folders to fully ignore
+  RELEASE_NOTES_FOOTER: |
+    "Download and import each individual .mcpack, or get the top .mcaddon file which contains all `.mcpack` files in one package.
+    Use the Vanilla RTX App to launch Minecraft with RTX, activate one of the provided Vanilla RTX resource packs, and you're good to go! You can also use the app to automatically update the packs."
+
+permissions:
+  contents: write # needed to create the Release
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so the version-diff check has something to compare against
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check version bump & build packs
+        id: build
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.event.after }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: python3 .github/workflows/pack_builder.py
+
+      - name: Create Release
+        if: steps.build.outputs.should_build == 'true' && steps.build.outputs.pack_count != '0'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: release-${{ steps.build.outputs.iso_date }}-${{ github.run_number }}
+          name: "Automated Build (${{ steps.build.outputs.human_date }}) #${{ github.run_number }}"
+          body_path: RELEASE_NOTES.md
+          files: dist/*
