@@ -15,15 +15,17 @@ on:
   workflow_dispatch: # manual "Run workflow" button - always force-builds everything
 
 env:
-  BUNDLE_NAME_PREFIX: All-Packs # <-- optional: name for the bundle .mcaddon (year.month.day.build# is always appended)
+  RELEASE_TITLE: Automated Build # <-- optional: prefix for each release's title, e.g. "Automated Build (5 August 2026)"
+  BUNDLE_NAME_PREFIX: All-Packs-Bundled # <-- optional: name for the bundle .mcaddon (year.month.day is always appended)
   ENHANCEMENTS_DIR_NAME: __enhancements # <-- optional: change if this repo uses a different folder name (this is a folder/branch of resource pack is developed separately, but is merged down only for public builds)
   EXCLUDE_PATHS: "Vanilla-RTX-BTU, __VAULT" # <-- optional: comma-separated repo-relative folders to fully ignore
   RELEASE_NOTES_FOOTER: |
-    "Download and import each individual .mcpack, or get the top .mcaddon file which contains all `.mcpack` files in one package.
-    Use the Vanilla RTX App to launch Minecraft with RTX, activate one of the provided Vanilla RTX resource packs, and you're good to go! You can also use the app to automatically update the packs."
+    Download and import each individual `.mcpack`, or get the top `.mcaddon` file which bundles all `.mcpack` files in one package.
+
+    Use the Vanilla RTX App to launch Minecraft with RTX, import and activate one of the provided Vanilla RTX resource packs, and you're good to go! You can also use the app to automatically update the packs in the future instead of manually downloading them from here.
 
 permissions:
-  contents: write # needed to create the Release
+  contents: write # needed to create/delete the Release and its tag
 
 jobs:
   build:
@@ -43,14 +45,25 @@ jobs:
           BEFORE_SHA: ${{ github.event.before }}
           AFTER_SHA: ${{ github.event.after }}
           FORCE: ${{ github.event_name == 'workflow_dispatch' }}
-          RUN_NUMBER: ${{ github.run_number }}
         run: python3 .github/workflows/pack_builder.py
+
+      # Tags/releases are now just release-<date>, with no run-number
+      # tie-breaker. If this is the 2nd+ build today, the tag from the
+      # earlier run already exists - action-gh-release would just update
+      # it in place, but wouldn't clean up any stale per-pack files from
+      # the earlier build. Deleting it first guarantees every same-day
+      # rebuild is a clean slate instead of slowly accumulating old assets.
+      - name: Remove today's release if one already exists
+        if: steps.build.outputs.should_build == 'true' && steps.build.outputs.pack_count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release delete "release-${{ steps.build.outputs.iso_date }}" --yes --cleanup-tag || true
 
       - name: Create Release
         if: steps.build.outputs.should_build == 'true' && steps.build.outputs.pack_count != '0'
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: release-${{ steps.build.outputs.iso_date }}-${{ github.run_number }}
-          name: "Automated Build (${{ steps.build.outputs.human_date }}) #${{ github.run_number }}"
+          tag_name: release-${{ steps.build.outputs.iso_date }}
+          name: "${{ env.RELEASE_TITLE }} (${{ steps.build.outputs.human_date }})"
           body_path: RELEASE_NOTES.md
           files: dist/*

@@ -27,17 +27,22 @@ What it does, in order:
      tooling/notes and never shipped, except __enhancements' own contents,
      which are deliberately merged in.
   3. If more than one pack was built, all of them are also bundled into
-     <BUNDLE_NAME_PREFIX>-<year>.<month>.<day>.<run number>.mcaddon (just
-     a zip of the individual .mcpacks). Exactly one pack -> no bundle.
+     <BUNDLE_NAME_PREFIX>-<year>.<month>.<day>.mcaddon (just a zip of the
+     individual .mcpacks). Exactly one pack -> no bundle. If this runs more
+     than once on the same date, the workflow deletes the previous same-day
+     release before recreating it, so the filename is always just the date -
+     no counter needed to keep same-day rebuilds from colliding.
   4. Release notes are written listing every pack + version in this build,
-     what changed since the last build, and an optional static footer.
+     what changed since the last build, a Full Changelog compare link
+     (computed from git tags directly - no reliance on GitHub's built-in
+     release-notes generator, so it lands exactly where we put it instead
+     of always being appended at the very end), and an optional static
+     footer.
 
 Env vars (all optional, set by the workflow):
   BEFORE_SHA             commit SHA before the push (github.event.before)
   AFTER_SHA              commit SHA after the push (github.event.after)
   FORCE                  "true" to always build, skipping the version check
-  RUN_NUMBER             a build counter (github.run_number) - used in the
-                         bundle filename as a tie-breaker
   ENHANCEMENTS_DIR_NAME  default "__enhancements"
   BUNDLE_NAME_PREFIX     default "All-Packs" - the date/build number is
                          always appended regardless of what this is set to
@@ -51,6 +56,7 @@ Env vars (all optional, set by the workflow):
 """
 import json
 import os
+import re
 import shutil
 import subprocess
 import zipfile
@@ -59,10 +65,10 @@ from pathlib import Path, PurePosixPath
 
 ZERO_SHA = "0" * 40
 JUNK_FILES = {".DS_Store", "Thumbs.db", "desktop.ini"}
+DATE_TAG_RE = re.compile(r"^release-\d{4}-\d{2}-\d{2}$")
 
 ENHANCEMENTS_DIR_NAME = os.environ.get("ENHANCEMENTS_DIR_NAME", "__enhancements")
 BUNDLE_NAME_PREFIX = os.environ.get("BUNDLE_NAME_PREFIX", "All-Packs")
-RUN_NUMBER = os.environ.get("RUN_NUMBER", "0")
 RELEASE_NOTES_FOOTER = os.environ.get("RELEASE_NOTES_FOOTER", "").strip()
 
 EXCLUDE_PREFIXES = [
@@ -99,6 +105,44 @@ def is_dunder(name: str) -> bool:
 
 def is_excluded(rel_parts: tuple) -> bool:
     return any(rel_parts[: len(prefix)] == prefix for prefix in EXCLUDE_PREFIXES)
+
+
+def repo_slug(root: Path):
+    env_repo = os.environ.get("GITHUB_REPOSITORY")
+    if env_repo:
+        return env_repo
+    url = git("remote", "get-url", "origin", cwd=root)
+    if not url:
+        return None
+    url = url.strip()
+    if url.endswith(".git"):
+        url = url[: -len(".git")]
+    if url.startswith("git@"):
+        parts = url.split(":", 1)
+        return parts[1] if len(parts) == 2 else None
+    if "github.com/" in url:
+        return url.split("github.com/", 1)[1]
+    return None
+
+
+def build_full_changelog_line(root: Path, current_tag: str) -> str:
+    """Compares current_tag against the most recent *other* existing
+    release-* tag, so it works out to the right thing even when this is a
+    same-day rebuild replacing an earlier tag with the same date."""
+    repo = repo_slug(root)
+    if not repo:
+        return ""
+    server = os.environ.get("GITHUB_SERVER_URL", "https://github.com")
+
+    tags_out = git("tag", "--list", "release-*", "--sort=-refname", cwd=root) or ""
+    prev_tag = next(
+        (t.strip() for t in tags_out.splitlines() if DATE_TAG_RE.match(t.strip()) and t.strip() != current_tag),
+        None,
+    )
+
+    if prev_tag:
+        return f"**Full Changelog**: [{prev_tag}...{current_tag}]({server}/{repo}/compare/{prev_tag}...{current_tag})"
+    return f"**Full Changelog**: {server}/{repo}/commits/{current_tag}"
 
 
 def extract_version(text):
@@ -210,7 +254,7 @@ def build_pack(pack_id: str, pack_root: Path, version: str, dist_dir: Path, work
 
 
 def build_bundle(mcpack_paths, dist_dir: Path) -> Path:
-    date_part = f"{NOW.year}.{NOW.month}.{NOW.day}.{RUN_NUMBER}"
+    date_part = f"{NOW.year}.{NOW.month}.{NOW.day}"
     bundle_path = dist_dir / f"{BUNDLE_NAME_PREFIX}-{date_part}.mcaddon"
     with zipfile.ZipFile(bundle_path, "w", zipfile.ZIP_DEFLATED) as zf:
         for p in sorted(mcpack_paths):
@@ -218,7 +262,7 @@ def build_bundle(mcpack_paths, dist_dir: Path) -> Path:
     return bundle_path
 
 
-def write_release_notes(root: Path, built: dict, changes: list, note: str):
+def write_release_notes(root: Path, built: dict, changes: list, note: str, full_changelog_line: str):
     lines = [f"## Packs in this build ({len(built)})", ""]
     for pack_id in sorted(built):
         _, version = built[pack_id]
@@ -230,6 +274,9 @@ def write_release_notes(root: Path, built: dict, changes: list, note: str):
             lines.append(f"- **{label}**: `{old or '(new pack)'}` → `{new or '(removed)'}`")
     else:
         lines.append(f"_{note}_")
+
+    if full_changelog_line:
+        lines += ["", full_changelog_line]
 
     if RELEASE_NOTES_FOOTER:
         lines += ["", "---", "", RELEASE_NOTES_FOOTER]
@@ -263,7 +310,9 @@ def build_everything(root: Path, changes: list, note: str):
         bundle_path = build_bundle([p for p, _ in built.values()], dist_dir)
         print(f"\nBundled all {len(built)} packs into {bundle_path.name}")
 
-    write_release_notes(root, built, changes, note)
+    current_tag = f"release-{NOW.strftime('%Y-%m-%d')}"
+    full_changelog_line = build_full_changelog_line(root, current_tag)
+    write_release_notes(root, built, changes, note, full_changelog_line)
 
     shutil.rmtree(work_dir, ignore_errors=True)
     set_output("pack_count", str(len(built)))
