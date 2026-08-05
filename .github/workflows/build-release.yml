@@ -16,7 +16,7 @@ on:
 
 env:
   RELEASE_TITLE: Automated Build # <-- optional: prefix for each release's title, e.g. "Automated Build (5 August 2026)"
-  BUNDLE_NAME_PREFIX: All-Packs-Bundled # <-- optional: name for the bundle .mcaddon (year.month.day is always appended)
+  BUNDLE_NAME_PREFIX: All-Vanilla-RTX-RPs-Bundle # <-- optional: name for the bundle .mcaddon (year.month.day is always appended)
   ENHANCEMENTS_DIR_NAME: __enhancements # <-- optional: change if this repo uses a different folder name (this is a folder/branch of resource pack is developed separately, but is merged down only for public builds)
   EXCLUDE_PATHS: "Vanilla-RTX-BTU, __VAULT" # <-- optional: comma-separated repo-relative folders to fully ignore
   RELEASE_NOTES_FOOTER: |
