@@ -45,11 +45,11 @@
             },
             "media_coefficients": {
                 "air": {
-                    "scattering": "#CCF7F7",
+                    "scattering": "#C18F8F",
                     "absorption": [
-                        0,
-                        0,
-                        0
+                        0.063,
+                        0.118,
+                        0.118
                     ]
                 },
                 "water": {
