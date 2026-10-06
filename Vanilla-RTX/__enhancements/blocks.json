@@ -1,9 +1,5 @@
 {
-    "format_version": [
-        1,
-        21,
-        40
-    ],
+    "format_version": "1.21.40",
     "cauldron": {
         "textures": {
             "down": "cauldron_bottom",
@@ -93,6 +89,9 @@
         "blockshape": "cross_texture"
     },
     "pale_oak_sapling": {
+        "blockshape": "cross_texture"
+    },
+    "poplar_sapling": {
         "blockshape": "cross_texture"
     },
     "spruce_sapling": {
@@ -268,6 +267,9 @@
         "blockshape": "cross_texture"
     },
     "bush": {
+        "blockshape": "cross_texture"
+    },
+    "red_shrub": {
         "blockshape": "cross_texture"
     },
     "small_amethyst_bud": {
