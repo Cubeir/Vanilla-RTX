@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "red_shrub",
+    "metalness_emissive_roughness_subsurface": "red_shrub_mers",
+    "heightmap": "red_shrub_heightmap"
+  }
+}
