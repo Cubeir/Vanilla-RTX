@@ -27,50 +27,50 @@
         "volumetric": {
             "density": {
                 "air": {
-                    "max_density": 0.22,
+                    "max_density": 0.2,
                     "max_density_height": 62,
                     "zero_density_height": 256
                 },
                 "weather": {
-                    "max_density": 0.24,
+                    "max_density": 0.22,
                     "uniform": true
                 }
             },
             "media_coefficients": {
                 "air": {
                     "scattering": [
-                        0.00482,
-                        0.00393,
-                        0.00459
+                        0.004434,
+                        0.0049896,
+                        0.0066187
                     ],
                     "absorption": [
-                        0.1275,
-                        0.1467,
-                        0.1525
+                        0.1215841,
+                        0.1154114,
+                        0.1080592
                     ]
                 },
                 "water": {
                     "scattering": [
-                        0.001538,
-                        0.007305,
-                        0.007843
+                        0.004999918,
+                        0.016925975,
+                        0.023820313
                     ],
                     "absorption": [
-                        0.53451,
-                        0.250959,
-                        0.224494
+                        0.470475984,
+                        0.2834662,
+                        0.231914944
                     ]
                 },
                 "cloud": {
                     "scattering": [
-                        0.1,
-                        0.1,
-                        0.1
+                        0.062,
+                        0.062,
+                        0.062
                     ],
                     "absorption": [
-                        0.1,
-                        0.1,
-                        0.1
+                        0.062,
+                        0.062,
+                        0.062
                     ]
                 }
             }
