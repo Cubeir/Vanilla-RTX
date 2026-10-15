@@ -22,7 +22,7 @@ env:
   RELEASE_NOTES_FOOTER: |
     Download and import each individual `.mcpack`, or get the top `.mcaddon` file which bundles all `.mcpack` files in one package.
 
-    **It is strongly recommended to use the [Vanilla RTX App](https://github.com/cubeir/vanilla-rtx-app) to launch Minecraft with RTX to avoid issues**, import and activate one of the provided Vanilla RTX resource packs, and you're good to go!
+    **It is strongly recommended to use the [Vanilla RTX App](https://github.com/vanilla-rtx/Vanilla-RTX-App) to launch Minecraft with RTX to avoid issues**, import and activate one of the provided Vanilla RTX resource packs, and you're good to go!
     You may also use the app to automatically update the packs in the future, instead of manually downloading them from here!
 
 
