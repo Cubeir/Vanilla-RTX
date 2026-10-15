@@ -5,8 +5,8 @@ Vanilla RTX Resource Packs for Minecraft with Ray Tracing.
 ⚠️ Dedicated DXR-capable hardware required.  
 </br>
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=86400)](https://discord.gg/A4wv4wwYud) 
-![Repo Size](https://img.shields.io/github/repo-size/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=86400) 
-![Last Commit](https://img.shields.io/github/last-commit/Cubeir/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=86400) 
+![Repo Size](https://img.shields.io/github/repo-size/vanilla-rtx/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=86400) 
+![Last Commit](https://img.shields.io/github/last-commit/vanilla-rtx/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=86400) 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=online&up_color=F4E9D3&down_message=temporarily%20down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website%20Status&cacheSeconds=90&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
 [![Ko-Fi](https://img.shields.io/badge/-support%20my%20work-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555)](https://ko-fi.com/cubeir)
 
@@ -26,11 +26,11 @@ This project maintains full ray tracing support for Minecraft’s default resour
 - Compatibility errors of vanilla resources with ray tracing are resolved through [Enhancements](https://minecraftrtx.net/enhancements) as much as possible.
 - The packs are regularly updated for full coverage of the latest Minecraft updates.  
 - Related Projects & Extensions:
-  - **[Vanilla RTX App (Recommended):](https://github.com/Cubeir/Vanilla-RTX-App)** A companion app that lets you easily access everything you're ever going to need to use Minecraft RTX, adjust fog & lighting, materials in PBR resource packs, with automated package updates for Vanilla RTX and much more... 
+  - **[Vanilla RTX App (Recommended):](https://github.com/vanilla-rtx/Vanilla-RTX-App)** A companion app that lets you easily access everything you're ever going to need to use Minecraft RTX, adjust fog & lighting, materials in PBR resource packs, with automated package updates for Vanilla RTX and much more... 
   - **[Vanilla RTX Add-Ons:](https://mcpedl.com/vanilla-rtx-add-ons)** A series of smaller packs that can be modularly applied over Vanilla RTX to give certain blocks interesting non-vanilla properties.
   - **[Chemistry RTX:](https://mcpedl.com/chemistry-rtx/)** Additional world-only resource packs to extend ray tracing support to content available under the Minecraft: Education Edition toggle.
   - **[Creative RTX:](http://mcpedl.com/creative-rtx):** Replaces all Education Edition Element block textures with high definition and exotic materials for creative builds using ray tracing.
-  - **[Vanilla Vibrant Visuals:](https://github.com/Cubeir/Vanilla-PBR)** Branches of Vanilla RTX resource packs for Vibrant Visuals graphics mode usable on a wider range of hardware.  
+  - **[Vanilla Vibrant Visuals:](https://github.com/vanilla-rtx/Vanilla-PBR)** Branches of Vanilla RTX resource packs for Vibrant Visuals graphics mode usable on a wider range of hardware.  
   
 Initial goal of this project was to create a fresh Bedrock Edition equivalent of [Vanilla Normals Renewed](https://github.com/Poudingue/Vanilla-Normals-Renewed). This effort later evolved into Vanilla RTX Normals. Vanilla RTX now strives to provide an ideal default ray-traced Minecraft experience for all Bedrock Edition players.  
 
@@ -55,11 +55,11 @@ More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/
 
 ## Usage Tips
 - For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress any of the folders' contents into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import while the game is closed.  
-[Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) automates this process and shows you whether updates are available, allowing you to keep the resource packs up-to-date for the latest version of the game with ease.
+[Vanilla RTX App](https://github.com/vanilla-rtx/Vanilla-RTX-App) automates this process and shows you whether updates are available, allowing you to keep the resource packs up-to-date for the latest version of the game with ease.
 
 - Activation issues: There is a problem that will keep Vanilla RTX from loading. To prevent this, ray tracing must be enabled before joining a world. However since Minecraft 1.21.60, ray tracing can only be initially toggled while inside a world.  
 Workaround: While in the main menu, head to video settings, turn on `Allow In-Game Graphics Mode Switching` then join any world, enable ray tracing from the dropdown graphics mode menu in video settings (you may experience issues at first), now exit to the main menu and rejoin. Once ray tracing is enabled, do not turn it off to prevent this issue from occurring again.
-The [Vanilla RTX App](https://github.com/Cubeir/Vanilla-RTX-app) circumvents all of this by launching the game with ray tracing pre-enabled. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
+The [Vanilla RTX App](https://github.com/vanilla-rtx/Vanilla-RTX-App) circumvents all of this by launching the game with ray tracing pre-enabled. (Recommended while [MCPE-191513](https://bugs.mojang.com/browse/MCPE/issues/MCPE-191513) and [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persist).
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
@@ -73,10 +73,10 @@ However there are limits to resource packs, and most of the remaining issues you
 - If the game window appears black, exit full-screen (press F11), close the game, relaunch the game and continue to play without entering full-screen mode.
 
 Find a complete list of unresolved Minecraft RTX issues from the link below. Vote for issues that impact you to help get Mojang's attention.
-[github.com/Cubeir/Minecraft-RTX-Bug-Tracking/blob/master/README.md](https://github.com/Cubeir/Minecraft-RTX-Bug-Tracking/blob/master/README.md)
+[github.com/vanilla-rtx/Minecraft-RTX-Bug-Tracking/blob/master/README.md](https://github.com/vanilla-rtx/Minecraft-RTX-Bug-Tracking/blob/master/README.md)
 
 ## Copyright
-[View License](https://github.com/CubeIR/Vanilla-RTX/blob/master/LICENSE.txt) 
+[View License](https://github.com/vanilla-rtx/Vanilla-RTX/blob/master/LICENSE.txt) 
 
 Reminder:  
 Vanilla RTX and its derivative works are completely free to download and use, any project that uses them is also required to remain free.  
