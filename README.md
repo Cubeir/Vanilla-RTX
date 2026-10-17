@@ -7,7 +7,7 @@ Vanilla RTX Resource Packs for Minecraft with Ray Tracing.
 [![Discord](https://img.shields.io/discord/721377277480402985?style=flat-square&logo=discord&logoColor=F4E9D3&label=Discord&color=F4E9D3&cacheSeconds=86400)](https://discord.gg/A4wv4wwYud) 
 ![Repo Size](https://img.shields.io/github/repo-size/vanilla-rtx/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Repo%20Size&cacheSeconds=86400) 
 ![Last Commit](https://img.shields.io/github/last-commit/vanilla-rtx/Vanilla-RTX?style=flat-square&color=F4E9D3&label=Last%20Commit&cacheSeconds=86400) 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraftrtx.net%2Findex&up_message=online&up_color=F4E9D3&down_message=temporarily%20down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website%20Status&cacheSeconds=90&link=https%3A%2F%2Fminecraftrtx.net%2F)](https://minecraftrtx.net/index) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvanillartx.net&up_message=online&up_color=F4E9D3&down_message=temporarily%20down&down_color=ED9E00&style=flat-square&logoSize=auto&label=Website%20Status&cacheSeconds=90&link=https%3A%2F%2Fvanillartx.net%2F)](https://vanillartx.net/index) 
 [![Ko-Fi](https://img.shields.io/badge/-support%20my%20work-F4E9D3?style=flat-square&logo=ko-fi&logoColor=F4E9D3&labelColor=555555)](https://ko-fi.com/cubeir)
 
 ## Description
@@ -23,7 +23,7 @@ This project maintains full ray tracing support for Minecraft’s default resour
 - **[Vanilla RTX Opus:](http://mcpedl.com/vanilla-rtx-opus)** The composition of both Vanilla RTX & Vanilla RTX Normals.
 - Every possible vanilla block is supported (Creative, Education Edition, secret or unobtainable blocks, etc...)
 - All blocks feature highly detailed, unique material designs that remain consistent across different blocks made of similar materials.
-- Compatibility errors of vanilla resources with ray tracing are resolved through [Enhancements](https://minecraftrtx.net/enhancements) as much as possible.
+- Compatibility errors of vanilla resources with ray tracing are resolved through [Enhancements](https://vanillartx.net/enhancements) as much as possible.
 - The packs are regularly updated for full coverage of the latest Minecraft updates.  
 - Related Projects & Extensions:
   - **[Vanilla RTX App (Recommended):](https://github.com/vanilla-rtx/Vanilla-RTX-App)** A companion app that lets you easily access everything you're ever going to need to use Minecraft RTX, adjust fog & lighting, materials in PBR resource packs, with automated package updates for Vanilla RTX and much more... 
@@ -51,7 +51,7 @@ Initial goal of this project was to create a fresh Bedrock Edition equivalent of
 ![vanilla-rtx_opus-showcase-image_minecraft-rtx](https://github.com/user-attachments/assets/139297e7-eec1-48c4-bd1e-636ea7940685)
 ![vanilla-rtx-desert-atmosphere-example](https://github.com/user-attachments/assets/c108e23d-d8a1-4ae7-8478-d58751afad04)
 
-More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://minecraftrtx.net/gallery) galleries.  
+More at Vanilla RTX's [CurseForge](https://www.curseforge.com/minecraft-bedrock/texture-packs/vanilla-rtx/gallery) & [Website](https://vanillartx.net/gallery) galleries.  
 
 ## Usage Tips
 - For Installation: Each folder in this repository is a complete package. To import one, download and extract the whole repo, compress any of the folders' contents into a `.zip` file, rename the `.zip` extension to `.mcpack`, then open it with Minecraft to import while the game is closed.  
@@ -63,7 +63,7 @@ The [Vanilla RTX App](https://github.com/vanilla-rtx/Vanilla-RTX-App) circumvent
 
 - If you're experiencing performance issues, [disable Minecraft's VSync](https://youtu.be/CKK1VSbGGnk), you can keep VSync on in your graphics card's control panel. This also reduces input latency when compared to Minecraft's VSync. (VSync is automatically disabled by the Vanilla RTX App while [MCPE-121850](https://bugs.mojang.com/browse/MCPE/issues/MCPE-121850) persists)
 
-- If you've encountered visual glitches, be informed that they are most likely issues tied to the game, everything was already done in this pack to solve as many of them as possible, for an up-to-date list of the fixes [visit this page](https://minecraftrtx.net/enhancements).  
+- If you've encountered visual glitches, be informed that they are most likely issues tied to the game, everything was already done in this pack to solve as many of them as possible, for an up-to-date list of the fixes [visit this page](https://vanillartx.net/enhancements).  
 However there are limits to resource packs, and most of the remaining issues you may encounter can only be solved by Mojang. They're likely already reported at [bugs.mojang.com](https://bugs.mojang.com/), consider voting for them.
 
 - Always ensure that world, server or realm resource packs aren't overriding Vanilla RTX to avoid issues.
@@ -88,4 +88,4 @@ Not associated or affiliated with Mojang Studios or Nvidia.
 The license file linked above does not apply to any original Minecraft art resource.  
 Please note that this pack relies on some of Minecraft's original art resources (found at [this github repository](https://aka.ms/resourcepacktemplate)) to function.
 This is due to a game limitation where texture maps can only be called within the pack and once removed, the game stops defaulting to its own resources, contrary to the usual behavior of Minecraft texture packs. Consequently, Vanilla RTX unavoidably has to include a small part of base resources as referenced by ```texture_set.json``` files. Over time, this may result in outdated resources. Parity checks are performed on a regular basis with the pack adjusted accordingly.  
-It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues and limitations without altering their in-game appearance. For instance, the included [enhancements](https://minecraftrtx.net/enhancements) which addresses a wide range of compatibility issues of Minecraft’s vanilla resources with ray tracing graphics mode.
+It is also worth noting large parts of vanilla resources also had to be modified for compatibility with ray tracing or to work around other technical issues and limitations without altering their in-game appearance. For instance, the included [enhancements](https://vanillartx.net/enhancements) which addresses a wide range of compatibility issues of Minecraft’s vanilla resources with ray tracing graphics mode.
